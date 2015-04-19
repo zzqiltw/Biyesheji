@@ -1,0 +1,1969 @@
+谢谢  再见
+3451-谢谢  再见-thank you . bye .-1.0
+8211-谢谢  再见-thank you . bye .-1.0
+8212-谢谢  再见-thank you . bye .-1.0
+8765-谢谢  再见-it &apos;s okay . thank you . good-bye !-1.0
+8795-谢谢  再见-thank you . bye .-1.0
+9589-谢谢  再见-thank you . bye .-1.0
+9590-谢谢  再见-thank you . bye .-1.0
+10223-谢谢  再见-thank you . bye .-1.0
+10224-谢谢  再见-thank you bye .-1.0
+12714-谢谢  再见-thanks . goodbye .-1.0
+26589-谢谢  再见-thank you . good-bye .-1.0
+8501-谢谢 来电  再见-thank you for calling . mr. liang . have a nice day .-0.983
+24974-谢谢 , 再见-thank you . good-bye .-0.983
+17647-谢谢 你  那么 明天 九点 再见-thank you . tomorrow at 9 then .-0.967
+30114-谢谢 你 来 的 电话  再见 了-thank you for phoning . good-bye .-0.964
+20114-太 谢谢 了  怀特 先生 下 周一九点 再见-thank you very much , mr. white . i &apos;ll see you next monday at 9 .-0.962
+8424-济慈 先生  本 酒家 恭候 您 的 到来  谢谢 来电  再见-we look forward to having you with us , mr. keats . thank you for calling , good-bye .-0.959
+23719-谢谢  太太  可是  我 恐怕 不 能 收下 您 的 小费  不管 怎样  我 都 得 谢谢 您  再见-thank you mam . but i &apos;m afraid i can &apos;t thank you anyway . bye !-0.955
+30057-再见  谢谢 您 打 电话 来-good-bye and thank you for calling .-0.933
+14-谢谢-thank you .-0.5
+52-谢谢-thank you .-0.5
+62-谢谢-thank you .-0.5
+79-谢谢 你-thank you-0.5
+288-谢谢-thank you .-0.5
+324-谢谢-thank you .-0.5
+334-谢谢 你-thank you .-0.5
+435-谢谢-thanks .-0.5
+453-谢谢 你-thank you .-0.5
+593-谢谢-thank you !-0.5
+614-谢谢-thank you .-0.5
+633-谢谢-thank you .-0.5
+636-谢谢-thanks .-0.5
+669-谢谢-thank you .-0.5
+700-谢谢-thanks .-0.5
+704-谢谢-thank you .-0.5
+720-谢谢-thank you .-0.5
+736-谢谢-thank you .-0.5
+785-谢谢-thank you .-0.5
+844-谢谢-thanks .-0.5
+850-谢谢 你-thank you .-0.5
+857-谢谢 你-thank you .-0.5
+872-谢谢-thank you .-0.5
+879-谢谢-thank you .-0.5
+917-谢谢-thank you .-0.5
+921-谢谢-thank you .-0.5
+937-谢谢-thank you .-0.5
+960-谢谢-thank you .-0.5
+1008-谢谢 你-thank you .-0.5
+1048-谢谢-thank you .-0.5
+1108-谢谢-thank you .-0.5
+1158-谢谢 你-thank you .-0.5
+1315-谢谢-thank you .-0.5
+1332-谢谢 你-thank you .-0.5
+1393-谢谢 您-thank you .-0.5
+1427-谢谢-thank you .-0.5
+1431-谢谢-thanks .-0.5
+1451-谢谢-thank you .-0.5
+1501-谢谢 你-thank you .-0.5
+1559-谢谢 你-thank you .-0.5
+1598-谢谢 你-thank you .-0.5
+1676-谢谢-thank you very much .-0.5
+1705-谢谢-thank you .-0.5
+1706-再见-goodbye .-0.5
+1707-再见-goodbye .-0.5
+1716-谢谢-thank you .-0.5
+1728-谢谢-thank you .-0.5
+1741-谢谢-thanks .-0.5
+1775-谢谢-thank you .-0.5
+1802-谢谢-thanks .-0.5
+1803-谢谢 您-thank you .-0.5
+1809-谢谢 你-thank you .-0.5
+1843-谢谢-thank you .-0.5
+1883-谢谢 您-thank you .-0.5
+1891-谢谢 您-thank you .-0.5
+1892-谢谢 您-thank you .-0.5
+1901-谢谢 您-thank you .-0.5
+1930-谢谢-thank you .-0.5
+2010-谢谢-thank you very much .-0.5
+2013-谢谢 您-thank you .-0.5
+2030-谢谢-thank you very much .-0.5
+2084-谢谢  先生-thank you , sir .-0.5
+2107-谢谢-thanks .-0.5
+2108-再见-good-bye .-0.5
+2109-再见-good-bye .-0.5
+2130-谢谢-thank you .-0.5
+2143-谢谢-thanks .-0.5
+2168-谢谢 您-thank you .-0.5
+2169-再见-goodbye .-0.5
+2170-再见-bye .-0.5
+2270-谢谢-thank you .-0.5
+2290-再见-bye-bye !-0.5
+2291-再见-good-bye !-0.5
+2304-谢谢-thank you .-0.5
+2324-谢谢-thank you .-0.5
+2334-谢谢-thank you .-0.5
+2349-谢谢-thank you-0.5
+2357-谢谢 您-thank you .-0.5
+2364-谢谢-thank you .-0.5
+2367-谢谢-thank you .-0.5
+2370-谢谢-thank you .-0.5
+2396-谢谢-thank you .-0.5
+2438-再见-goodbye .-0.5
+2480-谢谢 你-thank you .-0.5
+2489-谢谢 你-thank you .-0.5
+2497-再见-good-bye .-0.5
+2524-再见-good-bye .-0.5
+2539-谢谢-thanks anyway .-0.5
+2543-谢谢-thanks .-0.5
+2549-谢谢-thanks .-0.5
+2559-谢谢 您-thank you .-0.5
+2567-谢谢-thank you .-0.5
+2601-谢谢-thanks .-0.5
+2610-谢谢-thank you very much .-0.5
+2635-谢谢-thanks .-0.5
+2642-谢谢-thank you very much .-0.5
+2659-谢谢-thank you .-0.5
+2664-谢谢-thank you .-0.5
+2691-谢谢-thank you .-0.5
+2698-谢谢-thank you .-0.5
+2756-谢谢 你-thank you .-0.5
+2794-谢谢-thank you .-0.5
+2804-谢谢 你-thank you .-0.5
+2844-谢谢  看-thank you . look !-0.5
+2884-谢谢-thanks .-0.5
+2902-谢谢-thanks .-0.5
+2919-谢谢-thank you very much .-0.5
+2961-谢谢-thank you .-0.5
+3010-谢谢 您-thank you .-0.5
+3041-谢谢-thank you .-0.5
+3092-多谢  再见-thank you very much . good-bye .-0.5
+3093-再见-bye .-0.5
+3135-谢谢 你-thank you .-0.5
+3217-谢谢-thank you .-0.5
+3364-谢谢-thank you .-0.5
+3368-谢谢-thank you very much .-0.5
+3389-谢谢-thank you .-0.5
+3410-谢谢-thanks .-0.5
+3426-再见-bye-bye .-0.5
+3452-再见-bye-0.5
+3456-谢谢-thanks .-0.5
+3475-谢谢 你-thank you .-0.5
+3479-再见-bye-bye .-0.5
+3492-谢谢-thank you .-0.5
+3508-再见-bye-bye .-0.5
+3509-再见-bye-bye .-0.5
+3528-谢谢-thank you .-0.5
+3541-谢谢 你-thank you .-0.5
+3562-谢谢-thank you .-0.5
+3564-谢谢-thank you !-0.5
+3569-谢谢 你-thank you .-0.5
+3633-谢谢 你-thank you .-0.5
+3663-谢谢-thank you .-0.5
+3695-谢谢-thank you .-0.5
+3763-谢谢-thank you .-0.5
+3832-谢谢-thank you .-0.5
+3868-谢谢 你-thank you .-0.5
+3880-谢谢 你-thank you .-0.5
+3884-谢谢-thank you .-0.5
+3891-谢谢 你-thank you .-0.5
+3902-谢谢-thank you .-0.5
+3941-谢谢-thank you .-0.5
+3965-谢谢-thank you .-0.5
+3974-谢谢-thank you .-0.5
+4003-谢谢-thank you .-0.5
+4028-谢谢-thanks a lot .-0.5
+4050-谢谢-thank you .-0.5
+4087-谢谢 你-thank you .-0.5
+4116-谢谢 您-thank you .-0.5
+4128-谢谢-thank you .-0.5
+4184-谢谢 你-thank you .-0.5
+4275-谢谢 你-thank you .-0.5
+4306-谢谢-thank you .-0.5
+4328-谢谢-thank you .-0.5
+4348-谢谢-thank you .-0.5
+4562-谢谢 你-thank you .-0.5
+4596-谢谢-thanks .-0.5
+4618-谢谢-thank you .-0.5
+4626-谢谢-thanks .-0.5
+4660-谢谢 你-thank you .-0.5
+4751-再见-goodbye !-0.5
+4825-谢谢 您-thank you .-0.5
+4826-再见-bye-bye .-0.5
+4844-谢谢-thank you .-0.5
+4846-再见-bye-bye .-0.5
+4899-再见-good-bye .-0.5
+4901-再见-good-bye .-0.5
+4919-谢谢 你-thank you .-0.5
+4928-谢谢 你-thank you .-0.5
+4942-谢谢-thank you .-0.5
+4949-谢谢 你-thank you .-0.5
+4951-谢谢-thank you .-0.5
+4986-谢谢-thank you .-0.5
+5059-谢谢-thank you .-0.5
+5078-谢谢-thank you .-0.5
+5099-谢谢-thank you . ?-0.5
+5136-谢谢-thank you .-0.5
+5171-谢谢-thank you .-0.5
+5317-谢谢-thank you .-0.5
+5329-谢谢-thank you .-0.5
+5352-谢谢-thank you .-0.5
+5387-谢谢 你-thank you .-0.5
+5432-谢谢-thank you .-0.5
+5471-再见-good-bye .-0.5
+5486-再见-good-bye .-0.5
+5487-再见-good-bye .-0.5
+5496-好  再见-right . good-bye .-0.5
+5497-再见-good-bye .-0.5
+5519-好  再见-right . good-bye .-0.5
+5520-再见-good-bye .-0.5
+5570-谢谢-thanks .-0.5
+5583-谢谢-thank you very much .-0.5
+5594-谢谢-thank you very much .-0.5
+5645-谢谢 你-thank you very much .-0.5
+5648-再见-y bye-bye .-0.5
+5665-谢谢 您-thank you very much .-0.5
+5670-谢谢-thank you .-0.5
+5685-谢谢 您-thanks a lot .-0.5
+5702-谢谢 您-thank you very much .-0.5
+5709-谢谢 您-thank you .-0.5
+5762-谢谢 您-thank you .-0.5
+5765-再见-goodbye .-0.5
+5795-谢谢-thanks .-0.5
+5798-谢谢-thank you .-0.5
+5803-谢谢-thank you .-0.5
+5812-谢谢-thank you .-0.5
+5816-谢谢-thank you .-0.5
+5820-谢谢-thanks a lot .-0.5
+5825-谢谢-thank you .-0.5
+5829-谢谢-thank you .-0.5
+5849-谢谢 您-thanks a lot .-0.5
+5857-谢谢-thank you .-0.5
+5862-谢谢 你-thank you .-0.5
+5880-谢谢 你-thank you .-0.5
+5885-谢谢 你-thank you .-0.5
+5901-谢谢-thank you-0.5
+5910-谢谢-thank you .-0.5
+5918-谢谢 你-thank you anyway .-0.5
+5927-谢谢-thank you .-0.5
+5942-谢谢-thank you .-0.5
+5991-谢谢-thank you very much .-0.5
+6017-谢谢-thank you .-0.5
+6030-谢谢 你-thank you .-0.5
+6058-谢谢-thank you .-0.5
+6073-谢谢-thank you .-0.5
+6161-谢谢-thank you .-0.5
+6291-再见-bye !-0.5
+6317-谢谢-thank you .-0.5
+6336-再见-bye-bye .-0.5
+6339-谢谢 你-thank you .-0.5
+6350-谢谢-thank you very much .-0.5
+6399-谢谢-thanks .-0.5
+6404-谢谢-thank you .-0.5
+6439-谢谢-thank you .-0.5
+6452-谢谢-thank you .-0.5
+6467-谢谢-thank you .-0.5
+6475-谢谢-thanks .-0.5
+6495-谢谢-thank you .-0.5
+6509-谢谢-thank you .-0.5
+6521-谢谢 你-thank you .-0.5
+6535-谢谢-thank you .-0.5
+6541-谢谢-thank you .-0.5
+6567-谢谢-thank you .-0.5
+6581-谢谢-thank you .-0.5
+6599-谢谢-thank you .-0.5
+6610-再见-good-bye .-0.5
+6611-再见-good-bye .-0.5
+6651-谢谢-thank you .-0.5
+6670-谢谢-thank you .-0.5
+6680-谢谢-thank you .-0.5
+6689-谢谢 你-thank you .-0.5
+6702-谢谢-thank you .-0.5
+6719-谢谢-thank you .-0.5
+6729-谢谢-thank you .-0.5
+6732-再见-good-bye !-0.5
+6733-再见-good-bye !-0.5
+6804-谢谢-thank you .-0.5
+6835-谢谢-thanks .-0.5
+6884-谢谢 你-thank you .-0.5
+6929-谢谢 您-thank you very much .-0.5
+7017-谢谢-i appreciate it .-0.5
+7078-谢谢-thanks .-0.5
+7130-谢谢-thank you .-0.5
+7189-谢谢-thank you .-0.5
+7218-谢谢-thank you .-0.5
+7285-谢谢-thank you .-0.5
+7286-谢谢-thank you .-0.5
+7372-谢谢-thank you .-0.5
+7410-谢谢-thank you .-0.5
+7479-谢谢-thanks .-0.5
+7562-谢谢-thank you .-0.5
+7604-谢谢-thank you .-0.5
+7645-谢谢-thank you .-0.5
+7663-谢谢-thank you .-0.5
+7690-谢谢 你-thank you .-0.5
+7720-谢谢 你-thank you .-0.5
+7763-谢谢 你-thank you .-0.5
+7797-谢谢  先生-than you , sir .-0.5
+7805-谢谢-thank you .-0.5
+7828-再见-bye-bye !-0.5
+7837-谢谢-thanks .-0.5
+7841-谢谢-thank you , sir .-0.5
+7872-再见-goodbye .-0.5
+7896-谢谢-thank you .-0.5
+7900-再见-goodbye .-0.5
+7919-谢谢-thanks .-0.5
+7975-谢谢-thank you .-0.5
+7988-谢谢-thank you .-0.5
+7995-谢谢-thank you .-0.5
+8015-谢谢-thank you .-0.5
+8087-谢谢  先生-thank you , sir .-0.5
+8098-谢谢 您-thank you , sir .-0.5
+8104-谢谢  先生-thank you , sir .-0.5
+8114-谢谢-thanks a lot .-0.5
+8132-谢谢-thank you .-0.5
+8135-再见-goodbye .-0.5
+8164-谢谢-thank you , ma &apos;am .-0.5
+8167-谢谢  女士-thank you , ma &apos;am .-0.5
+8187-谢谢  先生-thank you , sir .-0.5
+8261-谢谢-thank you .-0.5
+8266-谢谢-thank you .-0.5
+8272-谢谢-thank you .-0.5
+8275-再见-good-bye .-0.5
+8292-谢谢 您-thank you .-0.5
+8293-再见-goodbye .-0.5
+8312-再见-good-bye .-0.5
+8340-谢谢-thanks .-0.5
+8361-谢谢 来电-thanks for calling .-0.5
+8362-谢谢 你-thank you .-0.5
+8363-再见-good-bye .-0.5
+8364-再见-good-bye .-0.5
+8381-谢谢 你-thank you .-0.5
+8383-再见-good-bye .-0.5
+8384-再见-good-bye .-0.5
+8403-谢谢 来电-thank you for calling .-0.5
+8420-谢谢 您-thank you , mr. keats .-0.5
+8425-再见-good-bye .-0.5
+8477-谢谢-thank you .-0.5
+8485-再见-good-bye !-0.5
+8500-谢谢-thank you .-0.5
+8538-谢谢-thank you .-0.5
+8597-再见-goodbye .-0.5
+8598-再见-goodbye .-0.5
+8611-谢谢 你-thank you .-0.5
+8612-再见-good-bye .-0.5
+8613-再见-good-bye .-0.5
+8622-谢谢 您-thank you .-0.5
+8623-再见-bye .-0.5
+8624-再见-bye .-0.5
+8638-再见-goodbye .-0.5
+8662-再见-good-bye .-0.5
+8685-再见-good-bye .-0.5
+8760-谢谢-thank you .-0.5
+8778-谢谢 来电-thanks for calling .-0.5
+8811-再见-goodbye .-0.5
+8824-谢谢 来电-thank you for calling us .-0.5
+8843-再见-good-bye .-0.5
+8869-谢谢 你-thank you .-0.5
+8872-谢谢-thanks .-0.5
+8880-谢谢-thanks .-0.5
+8896-谢谢-thank you .-0.5
+8906-谢谢-thank you .-0.5
+8936-谢谢  先生-thank you , sir .-0.5
+8975-谢谢-thanks .-0.5
+8993-谢谢 你-thank you .-0.5
+9002-谢谢 你-thank you .-0.5
+9028-谢谢-thank you .-0.5
+9043-谢谢  小姐-thank you , miss .-0.5
+9049-谢谢-thank you .-0.5
+9056-谢谢-thank you .-0.5
+9062-谢谢-thank you .-0.5
+9073-谢谢-thank you .-0.5
+9079-谢谢-thank you .-0.5
+9087-谢谢-thank you .-0.5
+9124-谢谢-thank you .-0.5
+9142-谢谢-thank you .-0.5
+9194-谢谢-thank you .-0.5
+9219-谢谢-thanks .-0.5
+9253-谢谢-thanks .-0.5
+9265-谢谢-thanks .-0.5
+9269-谢谢-thank you .-0.5
+9279-谢谢-thanks .-0.5
+9285-谢谢-thanks .-0.5
+9290-谢谢-thank you .-0.5
+9293-谢谢-thanks .-0.5
+9301-谢谢-thanks .-0.5
+9305-谢谢-thank you .-0.5
+9334-谢谢-thank you .-0.5
+9382-谢谢 你-thank you .-0.5
+9403-谢谢 小姐-thank you , miss .-0.5
+9412-谢谢-thanks .-0.5
+9416-谢谢-thank you .-0.5
+9467-谢谢 你-thank you .-0.5
+9491-谢谢-thank you .-0.5
+9529-谢谢-thanks .-0.5
+9563-谢谢-thanks a lot .-0.5
+9641-谢谢-thanks .-0.5
+9673-再见-good-bye !-0.5
+9674-再见-good-bye !-0.5
+9684-谢谢-thanks .-0.5
+9757-谢谢-thank you .-0.5
+9974-再见-goodbye .-0.5
+10047-谢谢 先生-it &apos;s very kind of you to say so , sir .-0.5
+10111-谢谢  先生-thank you . sir .-0.5
+10113-再见-good-bye .-0.5
+10140-谢谢-thank you .-0.5
+10172-谢谢-thank you .-0.5
+10174-谢谢-thanks .-0.5
+10204-谢谢-thanks .-0.5
+10250-谢谢-thank you .-0.5
+10341-谢谢-thank you .-0.5
+10413-谢谢-thank you .-0.5
+10479-谢谢-thanks .-0.5
+10537-谢谢-thanks .-0.5
+10671-谢谢-thank you , sir .-0.5
+10709-谢谢  小姐-thank you , miss .-0.5
+10754-谢谢-thank you .-0.5
+10767-谢谢-thank you .-0.5
+10792-谢谢  先生-thank you , sir .-0.5
+10868-谢谢 你-thank you .-0.5
+10879-谢谢 你-thank you .-0.5
+10905-谢谢-thank you .-0.5
+11097-谢谢-thank you .-0.5
+11171-谢谢-thanks , i will .-0.5
+11174-谢谢-thank you .-0.5
+11193-谢谢-thank you , sir .-0.5
+11284-谢谢-thank you .-0.5
+11291-谢谢-thank you .-0.5
+11293-谢谢-thank you .-0.5
+11344-谢谢-thank you .-0.5
+11385-谢谢-thanks .-0.5
+11389-谢谢-thank you .-0.5
+11445-谢谢-thanks .-0.5
+11460-谢谢-thank you .-0.5
+11475-谢谢-thank you , sir .-0.5
+11623-谢谢-thank you .-0.5
+11639-谢谢-thanks .-0.5
+11746-谢谢-thanks .-0.5
+11775-谢谢-thank you .-0.5
+11866-谢谢-thank you .-0.5
+11874-谢谢-thank you .-0.5
+11916-谢谢-thank you .-0.5
+11958-谢谢-thank you .-0.5
+11985-谢谢  先生-thank you , sir .-0.5
+11989-谢谢-thank you .-0.5
+12033-谢谢-thank you .-0.5
+12045-谢谢-thanks .-0.5
+12158-谢谢-thank you .-0.5
+12168-谢谢-thank you .-0.5
+12179-谢谢-thank you .-0.5
+12189-谢谢 你-thank you .-0.5
+12235-谢谢-thank you .-0.5
+12253-再见-good bye .-0.5
+12292-谢谢-thank you .-0.5
+12350-谢谢-thanks .-0.5
+12383-谢谢-thank you .-0.5
+12387-谢谢-thank you .-0.5
+12450-谢谢  先生-thank you , sir .-0.5
+12468-谢谢 你-thank you .-0.5
+12469-再见-goodbye .-0.5
+12470-再见-goodbye .-0.5
+12489-谢谢-thanks .-0.5
+12490-再见-good-bye !-0.5
+12491-再见-good-bye .-0.5
+12510-再见-good-bye .-0.5
+12524-谢谢-thank you .-0.5
+12525-再见-good-bye .-0.5
+12526-再见-good-bye .-0.5
+12547-谢谢-thank you .-0.5
+12549-再见-bye .-0.5
+12550-再见-good-bye .-0.5
+12579-再见-goodbye .-0.5
+12622-再见-good-bye !-0.5
+12631-谢谢 你-thank you .-0.5
+12650-谢谢 你-thank you .-0.5
+12671-谢谢-thanks .-0.5
+12684-谢谢 你-thank you very much .-0.5
+12723-谢谢-thanks .-0.5
+12747-再见-bye-bye .-0.5
+12748-再见-bye-bye .-0.5
+12802-谢谢 你-thank you .-0.5
+12816-谢谢 你-thank you .-0.5
+12822-谢谢 你-thank you .-0.5
+12924-谢谢-thanks .-0.5
+13069-谢谢 你-thank you .-0.5
+13098-谢谢 你-thank you very much .-0.5
+13131-谢谢-thank you .-0.5
+13200-谢谢-thank you .-0.5
+13220-谢谢-thank you .-0.5
+13240-谢谢-thank you .-0.5
+13336-谢谢-thank you .-0.5
+13805-再见-bye .-0.5
+14169-谢谢-thank you .-0.5
+14484-谢谢 你-thank you .-0.5
+14504-谢谢-thank you .-0.5
+14537-谢谢-thank you .-0.5
+14750-谢谢-thanks .-0.5
+15014-谢谢 你-thank you .-0.5
+15019-谢谢-thanks .-0.5
+15041-谢谢 你-thank you .-0.5
+15095-谢谢-thanks !-0.5
+15540-谢谢 你-thank you .-0.5
+15562-谢谢  汤姆-thank you , tom .-0.5
+15754-谢谢 您-thanks .-0.5
+15755-再见-good-bye .-0.5
+15756-再见-bye-bye .-0.5
+15775-再见-good-bye .-0.5
+15776-再见-bye !-0.5
+15937-谢谢-thank you very much .-0.5
+15953-谢谢 你-thank you .-0.5
+15982-谢谢-thank you .-0.5
+16132-谢谢-thank you very much .-0.5
+16143-谢谢-thanks .-0.5
+16148-谢谢-thank you .-0.5
+16159-谢谢-thank you .-0.5
+16172-谢谢 你-thank you .-0.5
+16188-谢谢 你-thank you for your help .-0.5
+16208-谢谢-thank you .-0.5
+16225-谢谢-thank you .-0.5
+16266-谢谢-thank you .-0.5
+16408-再见-bye !-0.5
+16501-谢谢-thank you .-0.5
+16951-谢谢 你-thank you .-0.5
+17218-谢谢 你-thank you so much .-0.5
+17222-谢谢-thanks .-0.5
+17330-谢谢-thank you .-0.5
+17348-再见-goodbye .-0.5
+17349-再见-bye .-0.5
+17371-再见-so long .-0.5
+17372-再见-so long .-0.5
+17384-谢谢 你-thank you .-0.5
+17447-谢谢-thank you .-0.5
+17581-谢谢-thank you .-0.5
+17722-谢谢  太太-thank you , ma &apos;am .-0.5
+17734-谢谢 你-thank you .-0.5
+17864-谢谢-thank you .-0.5
+17905-谢谢-thank you very much .-0.5
+17928-谢谢-thank you .-0.5
+17998-谢谢-thank you .-0.5
+18045-谢谢-tank you .-0.5
+18112-谢谢-thank you .-0.5
+18138-谢谢-thanks .-0.5
+18158-谢谢-thank you .-0.5
+18160-谢谢-yes . thank you .-0.5
+18494-谢谢 您-thank you .-0.5
+18619-谢谢-thank you .-0.5
+18690-谢谢-thank you .-0.5
+18821-谢谢-thank you .-0.5
+19193-谢谢-thank you .-0.5
+19212-谢谢-thank you .-0.5
+19214-谢谢 您-thank you .-0.5
+19224-谢谢-thank you .-0.5
+19234-谢谢-thanks .-0.5
+19237-谢谢-thanks .-0.5
+19278-再见-good-bye .-0.5
+19316-谢谢-thank you .-0.5
+19351-谢谢 你-thank you .-0.5
+19445-谢谢 你-thank you .-0.5
+19475-谢谢-thank you .-0.5
+19557-谢谢-thanks .-0.5
+19580-谢谢-thank you .-0.5
+19680-谢谢-thank you .-0.5
+19689-谢谢-thank you .-0.5
+19700-谢谢-thank you very much .-0.5
+19706-谢谢-thank you .-0.5
+19721-谢谢-thank you .-0.5
+19880-谢谢-thanks .-0.5
+19899-谢谢-thank you .-0.5
+19917-谢谢-thank you .-0.5
+20066-谢谢-thanks .-0.5
+20105-谢谢-thank you .-0.5
+20123-再见-goodbye !-0.5
+20242-再见-goodbye !-0.5
+20243-再见-goodbye !-0.5
+20245-谢谢-thank you .-0.5
+20249-谢谢 您-thank you .-0.5
+20263-再见-goodbye !-0.5
+20264-再见-goodbye !-0.5
+20295-谢谢-thank you .-0.5
+20310-谢谢-thank you .-0.5
+20312-谢谢-thank you .-0.5
+20324-谢谢-thank you .-0.5
+20331-谢谢-thank you .-0.5
+20396-谢谢 你-thank you .-0.5
+20400-谢谢 你-thank you .-0.5
+20417-谢谢 你-thank you .-0.5
+20421-谢谢 你-thank you .-0.5
+20482-谢谢-thank you .-0.5
+20491-谢谢-thanks a lot !-0.5
+20515-谢谢 您-thank you .-0.5
+20566-再见-then , bye for now .-0.5
+20576-谢谢 你-thank you .-0.5
+20929-谢谢-thanks .-0.5
+20970-谢谢-thank you .-0.5
+20973-再见-good-bye .-0.5
+21024-谢谢-thank you-0.5
+21027-再见-good-bye .-0.5
+21059-谢谢 你-thank you .-0.5
+21184-谢谢-thank you .-0.5
+21231-谢谢-thank you .-0.5
+21317-谢谢-. thank you .-0.5
+21593-谢谢-thank you !-0.5
+21645-谢谢-thank you .-0.5
+21652-谢谢-thank you .-0.5
+21734-谢谢-thank you !-0.5
+21750-再见-goodbye !-0.5
+21799-谢谢-thank you .-0.5
+21824-谢谢  谢谢-thank you , thank you .-0.5
+21913-谢谢-thank you .-0.5
+21917-谢谢-thank you .-0.5
+21942-谢谢-thank you .-0.5
+21951-谢谢-thank you .-0.5
+21988-谢谢-thank you .-0.5
+22067-谢谢-thank you .-0.5
+22089-再见-goodbye .-0.5
+22148-谢谢-thank you .-0.5
+22236-谢谢 您-thank you .-0.5
+22349-再见-goodbye .-0.5
+22375-再见-goodbye .-0.5
+22521-谢谢-thank you .-0.5
+22638-谢谢 您-thank you very much .-0.5
+22723-谢谢-thanks .-0.5
+22737-谢谢-thank you .-0.5
+22752-谢谢-thank you .-0.5
+22815-再见-bye .-0.5
+22816-再见-bye .-0.5
+22870-再见-good-bye .-0.5
+22884-谢谢-thank you .-0.5
+22888-谢谢-thank you .-0.5
+22986-谢谢 大夫-thank you , doctor .-0.5
+23052-谢谢-thank you .-0.5
+23147-再见-goodbye !-0.5
+23172-谢谢 您-thank you very much .-0.5
+23194-到时 再见-see you then .-0.5
+23208-谢谢-thanks .-0.5
+23215-谢谢-thanks .-0.5
+23241-谢谢-thank you .-0.5
+23242-再见-good day .-0.5
+23243-再见-good day .-0.5
+23302-谢谢 光临-thank you for coming .-0.5
+23329-谢谢-thank you .-0.5
+23383-再见-see you again .-0.5
+23384-再见-good-bye !-0.5
+23440-再见-see you later .-0.5
+23441-再见-see you later .-0.5
+23469-谢谢 你-thank you very much .-0.5
+23495-谢谢 你-thank you .-0.5
+23522-谢谢-yes , thank you .-0.5
+23549-谢谢-thank you .-0.5
+23623-谢谢-thank you .-0.5
+23642-再见-good-bye !-0.5
+23658-谢谢-thank you .-0.5
+23670-谢谢-thank you .-0.5
+23720-再见-bye-bye !-0.5
+23751-再见-bye-bye .-0.5
+23757-谢谢-thank you .-0.5
+23758-谢谢 光临-thank you for coming .-0.5
+23867-谢谢-thank you .-0.5
+23873-再见-bye-bye !-0.5
+23915-谢谢-thank you .-0.5
+23943-谢谢 光临-thank you for your purchase .-0.5
+23944-再见-goodbye .-0.5
+23993-再见-goodbye .-0.5
+24143-谢谢-thank you .-0.5
+24151-谢谢-thank you .-0.5
+24156-谢谢-thank you !-0.5
+24161-谢谢  先生-thank you , sir .-0.5
+24164-谢谢-thank you .-0.5
+24170-谢谢-thank you .-0.5
+24280-再见-good-bye .-0.5
+24295-谢谢-thank you .-0.5
+24308-谢谢-thanks .-0.5
+24320-谢谢 你-thank you .-0.5
+24338-谢谢-thank you very much .-0.5
+24390-谢谢-thank you .-0.5
+24410-谢谢 你-thank you .-0.5
+24424-谢谢 你-thank you .-0.5
+24556-谢谢 你-thank you .-0.5
+24605-谢谢 您-thank you . i-0.5
+24671-谢谢-thank you .-0.5
+24728-谢谢-thank you .-0.5
+24760-谢谢-thank you .-0.5
+24805-谢谢-thank you .-0.5
+24821-谢谢-thank you .-0.5
+24975-谢谢 来电-thank you for calling .-0.5
+24976-再见-good-bye .-0.5
+25010-谢谢-thanks .-0.5
+25024-谢谢-thank you .-0.5
+25033-谢谢-thanks .-0.5
+25038-再见-good-bye .-0.5
+25039-再见-bye-bye .-0.5
+25046-谢谢-thank you .-0.5
+25057-再见-goodbye .-0.5
+25058-再见-bye-bye .-0.5
+25112-谢谢-thank you .-0.5
+25123-谢谢-thank you .-0.5
+25129-谢谢-thank you .-0.5
+25189-谢谢-thank you .-0.5
+25193-谢谢-thank you .-0.5
+25233-谢谢-thank you .-0.5
+25261-谢谢 你-that &apos;s very kind of you .-0.5
+25283-再见-goodbye .-0.5
+25284-谢谢-thank you .-0.5
+25301-谢谢-thank you .-0.5
+25358-谢谢-thank you .-0.5
+25383-谢谢-thank you .-0.5
+25403-谢谢-thank you .-0.5
+25404-再见-bye-bye !-0.5
+25405-再见-bye-bye !-0.5
+25408-谢谢-thanks .-0.5
+25416-谢谢-thank you .-0.5
+25533-谢谢-thank you .-0.5
+25538-谢谢-thanks .-0.5
+25615-再见-good-bye .-0.5
+25616-再见-bye .-0.5
+25626-再见-good-bye .-0.5
+25669-谢谢-thank you .-0.5
+25678-多谢  再见-thanks a lot . goodbye .-0.5
+25679-再见-bye-bye .-0.5
+25813-谢谢-thank you .-0.5
+25823-再见-see you later .-0.5
+25824-再见-good-bye .-0.5
+25828-谢谢-yes , thank you .-0.5
+25860-谢谢-thank you .-0.5
+25879-谢谢-thank you .-0.5
+25889-谢谢 您-it &apos;s very kind of you .-0.5
+25922-谢谢-thank you .-0.5
+25946-谢谢-thank you .-0.5
+25979-谢谢-thank you .-0.5
+25991-谢谢-thank you .-0.5
+25996-谢谢 你-thank you .-0.5
+25998-再见-good-bye .-0.5
+25999-再见-bye-bye .-0.5
+26011-谢谢-thank you .-0.5
+26023-谢谢-thank you .-0.5
+26050-谢谢-thank you .-0.5
+26080-谢谢-thanks .-0.5
+26152-再见-good-bye .-0.5
+26153-再见-good-bye .-0.5
+26169-谢谢-thank you .-0.5
+26183-再见-bye !-0.5
+26184-再见-bye !-0.5
+26187-谢谢 你-thank you .-0.5
+26324-谢谢-thank you .-0.5
+26360-谢谢-thank you .-0.5
+26362-谢谢-that &apos;s very kind of you .-0.5
+26368-谢谢-thank you very much .-0.5
+26463-谢谢 您-thank you .-0.5
+26483-再见-goodbye .-0.5
+26484-再见-goodbye .-0.5
+26508-谢谢-thank you .-0.5
+26543-谢谢-thank you .-0.5
+26590-再见-good-bye .-0.5
+26685-谢谢-thank you .-0.5
+26690-再见-good bye .-0.5
+26699-谢谢-thank you .-0.5
+26707-谢谢-thanks .-0.5
+26720-再见-goodbye !-0.5
+26748-谢谢-thank you .-0.5
+26778-再见-see you !-0.5
+26800-谢谢-thank you .-0.5
+26828-谢谢-thank you .-0.5
+26845-谢谢-thank you .-0.5
+26855-谢谢-thank you .-0.5
+26882-谢谢 您-thank you .-0.5
+26886-谢谢-thanks .-0.5
+26901-谢谢 你-thank you .-0.5
+26907-谢谢 你-thank you .-0.5
+26947-谢谢-thank you .-0.5
+26951-谢谢 您-thank you .-0.5
+26957-谢谢-thanks .-0.5
+26960-谢谢 您-thank you .-0.5
+26999-谢谢-thank you .-0.5
+27067-谢谢-thanks .-0.5
+27082-谢谢  先生-thank you , sir .-0.5
+27128-谢谢-thanks .-0.5
+27133-谢谢-thank you .-0.5
+27147-谢谢  夫人-thank you , madam .-0.5
+27151-谢谢 夫人-thank you , madam .-0.5
+27192-谢谢-thanks .-0.5
+27197-再见-bye now .-0.5
+27212-谢谢 您-thank you .-0.5
+27215-谢谢-thank you .-0.5
+27225-谢谢-thanks .-0.5
+27287-谢谢-thank you .-0.5
+27293-谢谢 您-thank you .-0.5
+27323-谢谢-thank you .-0.5
+27348-谢谢 您-thank you .-0.5
+27353-谢谢 您-thank you .-0.5
+27361-谢谢 您-thank you .-0.5
+27367-谢谢-thanks .-0.5
+27375-谢谢-thanks .-0.5
+27494-谢谢-thank you .-0.5
+27514-谢谢-thank you .-0.5
+27523-谢谢-thank you .-0.5
+27540-谢谢-thank you .-0.5
+27541-再见-goodbye .-0.5
+27558-谢谢-thanks .-0.5
+27565-谢谢-thank you .-0.5
+27568-谢谢-thank you .-0.5
+27629-谢谢  太太-thank you , ma &apos;am .-0.5
+27630-谢谢-thank you .-0.5
+27657-谢谢-thank you .-0.5
+27661-谢谢-thank you .-0.5
+27666-谢谢-thank you .-0.5
+27667-再见-goodbye .-0.5
+27702-谢谢-thank you .-0.5
+27715-谢谢-thank you .-0.5
+27730-谢谢-thank you .-0.5
+27740-谢谢-thanks .-0.5
+27746-谢谢 您-thank you .-0.5
+27760-谢谢-thanks .-0.5
+27765-谢谢-thanks .-0.5
+27839-谢谢-thank you .-0.5
+27847-谢谢-thank you .-0.5
+27881-谢谢 你-thank you .-0.5
+28004-谢谢-thanks .-0.5
+28046-再见-goodbye .-0.5
+28059-谢谢  先生-thank you , sir .-0.5
+28099-谢谢 您-thank you .-0.5
+28179-再见-bye !-0.5
+28200-谢谢-thank you .-0.5
+28226-谢谢-thanks .-0.5
+28237-谢谢-thank you .-0.5
+28242-谢谢-thank you .-0.5
+28252-再见-goodbye .-0.5
+28253-再见-goodbye .-0.5
+28258-谢谢 您-thank you .-0.5
+28355-谢谢-thank you .-0.5
+28416-谢谢-thank you .-0.5
+28426-谢谢-thanks .-0.5
+28512-谢谢-thank you .-0.5
+28526-谢谢-thank you .-0.5
+28564-谢谢-thank you .-0.5
+28597-谢谢 您-thank you .-0.5
+28601-谢谢-thank you .-0.5
+28611-谢谢-thank you .-0.5
+28616-再见-good-bye !-0.5
+28661-谢谢 您-thank you .-0.5
+28689-谢谢-thank you .-0.5
+28691-谢谢-thank you .-0.5
+28710-谢谢-thanks .-0.5
+28723-谢谢-thank you .-0.5
+28739-谢谢-thank you .-0.5
+28798-谢谢 您-thank you .-0.5
+28820-再见-goodbye !-0.5
+28843-谢谢 你-thank you .-0.5
+28861-再见-bye-bye .-0.5
+28862-再见-bye-bye .-0.5
+28915-谢谢 你-thank you .-0.5
+28943-谢谢 您-thank you .-0.5
+28967-谢谢 你-thank you .-0.5
+28973-谢谢-thank you .-0.5
+28996-谢谢 您-thank you .-0.5
+28997-再见-bye .-0.5
+29041-谢谢 您-thank you .-0.5
+29058-谢谢-thank you .-0.5
+29062-再见-bye-bye !-0.5
+29070-谢谢-thanks .-0.5
+29079-再见-good-bye !-0.5
+29084-谢谢 您-thank you .-0.5
+29101-谢谢-thank you .-0.5
+29111-谢谢-thank you .-0.5
+29112-再见-good-bye !-0.5
+29113-再见-bye-bye !-0.5
+29150-谢谢-thank you .-0.5
+29199-谢谢-thank you .-0.5
+29200-再见-goodbye .-0.5
+29201-再见-goodbye .-0.5
+29229-再见-goodbye .-0.5
+29230-再见-goodbye .-0.5
+29277-再见-good-bye .-0.5
+29278-再见-good-bye .-0.5
+29314-谢谢  太太-thank you , ma &apos;am .-0.5
+29430-谢谢-thank you .-0.5
+29435-谢谢 您-thank you .-0.5
+29471-谢谢-thank you .-0.5
+29485-谢谢-thank you .-0.5
+29517-再见-see you !-0.5
+29550-谢谢-thank you .-0.5
+29607-谢谢-oh , thank you .-0.5
+29611-谢谢-oh , thanks .-0.5
+29662-再见-good bye .-0.5
+29664-谢谢-thank you .-0.5
+29699-谢谢-thank you .-0.5
+29702-谢谢-thank you .-0.5
+29731-谢谢-thank you !-0.5
+29756-谢谢 你-thank you .-0.5
+29779-再见-good-bye .-0.5
+29787-谢谢 你-thank you .-0.5
+29795-再见-see you !-0.5
+29833-再见-goodbye .-0.5
+29834-再见-bye .-0.5
+29957-谢谢 你-thank you .-0.5
+29965-谢谢-thank you .-0.5
+30005-谢谢-thank you .-0.5
+30010-谢谢 你-thank you very much .-0.5
+30038-再见-goodbye !-0.5
+30039-再见-goodbye !-0.5
+30082-再见-good-bye .-0.5
+30111-谢谢 你-thank you .-0.5
+30160-再见-good-bye .-0.5
+30178-谢谢 你-thank you .-0.5
+30192-再见-good-bye .-0.5
+30229-再见-bye !-0.5
+30243-谢谢-thank you !-0.5
+30335-谢谢 你-thank you .-0.5
+30340-再见-bye-bye .-0.5
+30449-谢谢-thanks .-0.5
+30456-谢谢 你-thank you .-0.5
+30469-谢谢-thanks .-0.5
+30479-谢谢 你-thank you .-0.5
+30498-谢谢-thanks .-0.5
+30546-谢谢 你-thank you .-0.5
+30563-谢谢-thank you .-0.5
+30619-谢谢 你-thank you .-0.5
+30630-谢谢 你-thank you .-0.5
+30649-谢谢 你-thank you .-0.5
+30672-谢谢 你-thank you .-0.5
+30703-谢谢 你-thank you .-0.5
+30714-谢谢 你-thank you .-0.5
+30728-谢谢 你-thank you .-0.5
+30738-谢谢 你-thank you .-0.5
+30742-谢谢 你-thank you .-0.5
+30747-谢谢 你-thank you .-0.5
+30750-再见-good-bye .-0.5
+30779-谢谢 你-yes , thank you .-0.5
+30811-谢谢 你-thank you .-0.5
+30854-谢谢-thank you-0.5
+30863-谢谢-thank you .-0.5
+30938-谢谢-thank you .-0.5
+30940-谢谢-thank you .-0.5
+30974-谢谢 你-thank you .-0.5
+30988-谢谢 你-thank you .-0.5
+31036-谢谢-thank you .-0.5
+31046-谢谢-thank you .-0.5
+31055-谢谢-thank you .-0.5
+31063-谢谢 你-thank you .-0.5
+31066-谢谢-thank you .-0.5
+31076-谢谢 你-thank you .-0.5
+31103-谢谢-thank you .-0.5
+31116-谢谢-thank you .-0.5
+31195-谢谢-thanks .-0.5
+31200-谢谢-thank you .-0.5
+31213-谢谢-thank you .-0.5
+31215-谢谢-thank you .-0.5
+31265-再见-see you !-0.5
+31388-再见-good-bye .-0.5
+31389-谢谢-thank you .-0.5
+31390-再见-good-bye .-0.5
+31409-谢谢 你-thank you .-0.5
+31413-谢谢-thank you very much .-0.5
+31426-谢谢-thank you .-0.5
+31527-谢谢-thank you .-0.5
+31540-谢谢-thank you .-0.5
+31658-谢谢-thanks .-0.5
+31750-谢谢-thank you .-0.5
+31847-谢谢 您-thank you .-0.5
+31879-谢谢-thank you !-0.5
+32008-谢谢 您-thank you very much .-0.5
+32036-谢谢 你-thank you .-0.5
+32048-再见-see you later .-0.5
+32049-再见-see you later .-0.5
+32101-谢谢-thanks .-0.5
+32119-谢谢 你-thank you .-0.5
+32129-谢谢-thanks !-0.5
+32276-再见-good-bye .-0.5
+32278-再见-good-bye .-0.5
+32332-谢谢 你-thank you .-0.5
+32352-再见-good-bye .-0.5
+32384-再见-good-bye .-0.5
+32412-再见-good-bye .-0.5
+32437-再见-bye .-0.5
+32522-谢谢-thank you .-0.5
+32545-谢谢-thank you .-0.5
+32546-再见-bye .-0.5
+32652-谢谢-thank you .-0.5
+32732-一会儿 再见-i &apos;ll see you soon then .-0.5
+32780-谢谢-thank you .-0.5
+32832-谢谢-thanks .-0.5
+32860-谢谢-thanks .-0.5
+32865-谢谢-thank you .-0.5
+32869-谢谢-thank you .-0.5
+32951-谢谢-thanks .-0.5
+33033-再见-bye-bye .-0.5
+33038-谢谢-thanks .-0.5
+33055-再见-bye .-0.5
+33057-再见-bye .-0.5
+33062-谢谢-thanks .-0.5
+33082-谢谢-thank you .-0.5
+33083-再见-goodbye !-0.5
+33084-再见-goodbye !-0.5
+33109-谢谢 你-thank you .-0.5
+33126-谢谢 你-thank you .-0.5
+33138-谢谢 你-thank you .-0.5
+33139-再见-bye .-0.5
+33197-谢谢-thank you .-0.5
+33198-再见-goodbye !-0.5
+33199-再见-goodbye !-0.5
+33212-谢谢 你-thank you .-0.5
+33229-谢谢-thank you .-0.5
+33262-谢谢-thank you .-0.5
+33269-谢谢-thanks .-0.5
+33315-谢谢 先生-thank you , sir .-0.5
+33425-谢谢 您-thank you .-0.5
+33484-谢谢-thanks .-0.5
+33500-谢谢-thanks .-0.5
+33527-谢谢-thank you .-0.5
+33542-谢谢-thank you .-0.5
+33548-谢谢-thank you .-0.5
+33567-谢谢-thank you .-0.5
+33568-再见-goodbye !-0.5
+33569-再见-goodbye !-0.5
+33574-谢谢-thanks .-0.5
+33585-谢谢-thanks .-0.5
+33586-再见-goodbye !-0.5
+33612-谢谢-thank you .-0.5
+33698-谢谢 你-thank you .-0.5
+33723-谢谢-thank you .-0.5
+33741-谢谢-thanks .-0.5
+33751-谢谢-thank you .-0.5
+33768-谢谢-thanks a lot .-0.5
+33778-谢谢-thanks .-0.5
+33779-再见-good-bye .-0.5
+33780-再见-good-bye .-0.5
+33794-谢谢-thanks .-0.5
+33831-谢谢-thank you .-0.5
+33859-谢谢-thank you .-0.5
+33892-谢谢-yes , thank you .-0.5
+33906-谢谢-thank you .-0.5
+37983-谢谢 大家-thank you .-0.5
+43697-再见-good bye .-0.5
+47408-谢谢 夸奖-thank you for your compliment .-0.5
+47506-谢谢-it &apos;s very good of you to say so .-0.5
+47510-谢谢-it &apos;s very kind of you to say so .-0.5
+48890-谢谢-thank you .-0.5
+48915-再见-bye of now !-0.5
+48918-再见-see you around .-0.5
+48921-再见-until we meet again .-0.5
+50060-谢谢 夸奖-thanks for your compliment .-0.5
+50067-谢谢-how very nice of you to say so !-0.5
+50091-谢谢-it &apos;s very nice of you to say so .-0.5
+50829-谢谢-oh , thank you .-0.5
+50869-谢谢  乔治-thanks , george .-0.5
+50907-谢谢-thank you so much .-0.5
+50939-谢谢 您-thank you for your kindness .-0.5
+50983-谢谢-than you .-0.5
+51018-谢谢-cheers !-0.5
+51081-谢谢 你-thank you .-0.5
+51916-谢谢 光临-thank you for shopping in our store .-0.5
+52158-谢谢-thank you .-0.5
+52159-谢谢-thanks .-0.5
+52238-再见-see you later .-0.5
+52244-再见-goodbye .-0.5
+52247-再见-so long !-0.5
+52440-谢谢-thank you .-0.5
+180-非常 谢谢 你-thank you very much .-0.492
+420-谢谢 你 了-thank you very much .-0.492
+779-真 谢谢 你-thank you so much .-0.492
+808-非常 谢谢 你-thanks very much .-0.492
+810-再次 谢谢 你-thanks again .-0.492
+813-非常 谢谢 你-thanks very much for your kindness .-0.492
+941-谢谢 你  小姐-thank you , miss .-0.492
+947-再次 谢谢 你-thank you , again .-0.492
+950-哦  谢谢 你-oh , thank you .-0.492
+1001-不不  谢谢 你-no , thank you .-0.492
+1011-再次 谢谢 你-thank you very much , again .-0.492
+1632-太 谢谢 了-thank you indeed .-0.492
+1964-谢谢 您  先生-thank you , sir .-0.492
+2319-谢谢 您  先生-thank you , sir .-0.492
+3396-谢谢 你  先生-thank you , sir .-0.492
+4149-真 谢谢 你-thank you very much .-0.492
+4607-非常 谢谢 你-thank you so much .-0.492
+4959-谢谢 你  先生-thank you , sir .-0.492
+5714-谢谢 您  先生-thank you , sir .-0.492
+5869-非常 谢谢 你-thank you very much .-0.492
+5894-非常 谢谢 你-thank you so much .-0.492
+6041-再次 谢谢 你-thanks again .-0.492
+6084-噢  谢谢 你-oh . thank you .-0.492
+6880-谢谢 你 .-thank you .-0.492
+7293-谢谢 您  先生-thank you , sir .-0.492
+7363-谢谢 您 了-thank you just the same .-0.492
+7450-谢谢 您 了-thank you just the same .-0.492
+7715-非常 谢谢 你-thank you very much .-0.492
+7826-谢谢 您  先生-thank you , sir .-0.492
+7871-谢谢 您  先生-thank you , sir .-0.492
+7920-谢谢 您  先生-thank you , sir .-0.492
+7958-非常 谢谢 你-thank you very much .-0.492
+7963-非常 谢谢 您-thank you very much , sir .-0.492
+8157-谢谢 您  先生-thank you . sir .-0.492
+8596-对  谢谢 您-that &apos;s right.thank you .-0.492
+8810-对  谢谢 您-that &apos;s right . thank you .-0.492
+8836-谢谢  Collins 先生-thank you , mr. collins .-0.492
+8958-谢谢  Harison 先生-thank you , mr. harison .-0.492
+9324-谢谢 你  先生-thank you , sir .-0.492
+9900-谢谢 您  先生-thank you , sir .-0.492
+10494-谢谢 你  先生-thank you , sir .-0.492
+10571-谢谢 您  先生-thank you , sir .-0.492
+10787-谢谢  请 稍候-thank you , sir . just a moment , please .-0.492
+10813-谢谢 您  夫人-thank you , madam .-0.492
+11100-啊  谢谢 你-ah , thank you .-0.492
+11137-谢谢 您  先生-thank you , sir .-0.492
+11169-谢谢 您  先生-thank you , sir .-0.492
+11217-谢谢 您  先生-thank you , sir .-0.492
+11430-谢谢 您  女士-thank you , madam .-0.492
+11530-谢谢 您  先生-thank you , sir .-0.492
+11643-谢谢  很 好-thank you . it &apos;s fine .-0.492
+11812-谢谢  不 喝-no , thank you .-0.492
+11892-谢谢 您  先生-thank you , sir .-0.492
+12371-谢谢 您  先生-thank you , sir .-0.492
+12564-谢谢 您  先生-thank you , sir .-0.492
+12572-谢谢 您 先生-thank you , sir .-0.492
+12578-谢谢 您  先生-thank you , sir .-0.492
+12827-真 谢谢 您-thank you very much .-0.492
+14190-谢谢 你  光亚-thank you , guangya .-0.492
+14768-理查德  谢谢 你-thank you , richard .-0.492
+15998-谢谢 你 了-thank you very much .-0.492
+16141-谢谢  远 吗-thanks a lot . is it far ?-0.492
+17395-可以  谢谢 你-that will be fine . thank you .-0.492
+17726-谢谢 你  太太-thank you , ma &apos;am .-0.492
+20149-谢谢 你  朱迪-thanks , judie .-0.492
+20517-哦  谢谢 您-why , thank you .-0.492
+20942-谢谢  哈里斯 先生-thank you , mr. harris .-0.492
+22110-下 次 再见-see you next time .-0.492
+22123-谢谢 你 了-thank you .-0.492
+23005-谢谢 您  医生-thanks .-0.492
+23105-谢谢 您  医生-thank you doctor .-0.492
+24229-太 谢谢 了-thanks a lot .-0.492
+24404-非常 谢谢 你-thank you very much .-0.492
+24438-非常 谢谢 你-thank you very much .-0.492
+24439-谢谢 你  先生-thank you , sir .-0.492
+24624-谢谢 你  先生-thank you , sir .-0.492
+25051-还是 谢谢 您-thank you all the same .-0.492
+25886-谢谢 您 夸奖-thank you for your high praise .-0.492
+26125-谢谢 您  夫人-thank you , madam .-0.492
+26133-谢谢 您  夫人-thank you very much , madam .-0.492
+26719-谢谢  再 见-thank you . goodbye !-0.492
+27060-谢谢  余 先生-thank you , mr. yu .-0.492
+28032-谢谢 您  先生-thank you , sir .-0.492
+28071-谢谢 您  先生-thank you , sir .-0.492
+28074-谢谢 您  先生-thank you , sir .-0.492
+28176-谢谢 您  先生-thank you , sir .-0.492
+28248-谢谢  特纳 先生-thank you , mr. turner .-0.492
+28432-谢谢 您  先生-thank you , sir .-0.492
+28476-还好  谢谢 你-fine , thank you .-0.492
+28642-谢谢  马丁 先生-thank you , mr. martin .-0.492
+28956-谢谢 你  先生-thank you , sir .-0.492
+29348-真 谢谢 你-thanks a lot .-0.492
+29385-谢谢 您  先生-thank you , sir .-0.492
+29717-谢谢 你 帮忙-thank you for your help .-0.492
+30387-没错  谢谢 您-that &apos;s right . thank you .-0.492
+30578-噢  谢谢 你-oh , thank you .-0.492
+30719-谢谢 你  接线员-thank you , operator .-0.492
+30721-谢谢 你  先生-thank you , sir .-0.492
+30786-一样 谢谢 你-thank you , just the same .-0.492
+30899-谢谢 您  先生-thank you , sir .-0.492
+30916-谢谢 您  先生-thank you , sir .-0.492
+30959-谢谢  请 稍候-thank you . hold the line , please .-0.492
+31017-没错  谢谢 您-that &apos;s right . thank you .-0.492
+32154-不错  谢谢 你-fine , thank you .-0.492
+32962-谢谢  不 抽-no , thank you .-0.492
+33226-谢谢 你  先生-thank you , sir .-0.492
+33343-不  谢谢 你-no , thank you .-0.492
+33415-不用  谢谢 你-no , thank you .-0.492
+33823-太 谢谢 了-thank you very much .-0.492
+34038-是  谢谢 你-yes , thank you .-0.492
+39505-先生  谢谢 你-thank you , sir .-0.492
+40289-谢谢 您 了-thank you anyway .-0.492
+41773-不  谢谢  真的-no , thanks , really .-0.492
+47113-可以  谢谢 你-fine , thank you .-0.492
+49644-谢谢 你 来访-thank you for your visit .-0.492
+49974-谢谢 你 提醒-thank you for telling me .-0.492
+51925-谢谢 您  夫人-thank you , madam .-0.492
+28-谢谢 你 告诉 我-thank you for your information .-0.488
+85-谢谢 您 的 帮助-thank you for your help .-0.488
+146-谢谢 你 告诉 我-thank you for telling me that .-0.488
+216-谢谢 你 告诉 我-thank you for your information .-0.488
+313-谢谢 你 告诉 我-thank yon for your information .-0.488
+377-谢谢 你 告诉 我-thank you for your advice .-0.488
+644-谢谢 你 的 建议-thank you for your advice .-0.488
+740-谢谢 您 的 好意-thank you just the same .-0.488
+771-谢谢 你 的 建议-thank you for your advice .-0.488
+882-噢  太 谢谢 了-oh , thank you very much .-0.488
+1174-是 的  谢谢 你-yes , thank you .-0.488
+1385-谢谢 您 来接 我们-thank you for coming to meet us .-0.488
+1460-啊  太 谢谢 了-oh , thank you .-0.488
+1489-谢谢 您  莫 先生-thank you , mr. mo .-0.488
+2205-谢谢  不 用 了-no , thanks .-0.488
+2388-谢谢 你 的 夸奖-thank you for saying so .-0.488
+2458-太 谢谢 您 了-thank you very much .-0.488
+3001-好 的  谢谢 你-ok . thank you .-0.488
+3185-谢谢 您  赵 先生-thank you , mr. zhao .-0.488
+3403-哦  非常 谢谢 你-oh , thank you very much .-0.488
+3842-谢谢 你 的 推荐-thank you for you recommendation .-0.488
+4323-谢谢 你  多少 钱-thank you . how much is it ?-0.488
+4524-谢谢 你 的 理解-thank you for your understanding .-0.488
+5122-谢谢 您 的 合作-thank you for you cooperation .-0.488
+5232-会 的  谢谢 你-we will . thank you .-0.488
+5475-很 好  谢谢 您-very well , thank you .-0.488
+5502-很 好  谢谢 你-fine , thank you .-0.488
+5680-太 谢谢 您 了-thank you ever so much .-0.488
+5844-太 谢谢 你 了-thank you ever so much .-0.488
+5946-太 谢谢 您 了-thank you very much .-0.488
+6021-谢谢 您 帮忙 了-thank you very much for your help .-0.488
+6132-不管 怎样  谢谢 您-thanks anyway .-0.488
+6185-不管 怎样  谢谢 您-thanks anyway .-0.488
+6188-不管 怎样  谢谢 您-thank you anyway .-0.488
+6273-谢谢 您 提醒 我-thank you for reminding me .-0.488
+6832-对 的  谢谢 你-yes , they are . thank you .-0.488
+7827-祝 您 愉快  再见-have a nice day , good-bye !-0.488
+7917-谢谢 您 的 好意-thank you all the same .-0.488
+7986-谢谢  我 马上 回来-thank you . i &apos;ll be right back .-0.488
+8018-谢谢  不 用 了-no , thank you .-0.488
+8210-谢谢  祝 晚上 愉快-thank you . have a nice evening .-0.488
+8309-谢谢 你  李 先生-thank you , mr. li .-0.488
+8481-谢谢 您  托兰 先生-thank you , mr. toland .-0.488
+8610-谢谢 你  史密斯 先生-thank you , mr. smith .-0.488
+8637-谢谢 您  韦尔斯 先生-thank you , mr. welles .-0.488
+8652-谢谢 你  戴维斯 先生-thank you , mr. davis .-0.488
+8713-谢谢 您  乔丹 先生-thank you , mr.jordan.-0.488
+9167-好 的  谢谢 你-yes , thank you .-0.488
+9184-谢谢 您  安德生 先生-mr.anderson.thank you .-0.488
+9214-谢谢  不 用 了-no , thanks .-0.488
+9433-太 谢谢 您 了-it &apos;s very kind of you .-0.488
+9632-太 谢谢 你 了-that &apos;s very kind of you . thank you very much .-0.488
+9639-谢谢 您 的 赞美-thank you for praising .-0.488
+9658-谢谢 您 的 夸奖-thank you !-0.488
+9766-太 谢谢 你们 了-thank you very much .-0.488
+10055-谢谢  欢迎 再次 光临-thank you . you &apos;re always welcome .-0.488
+10574-非常 好  谢谢 你-it &apos;s quite fine , thank you .-0.488
+11717-谢谢  不 用 了-no , thank you .-0.488
+12123-谢谢 你  李 先生-thank you , mr. li .-0.488
+12198-谢谢 你 的 盛情款待-thank you very much for you hospitality .-0.488
+12281-谢谢 你 告诉 我们-thank you for telling us .-0.488
+12414-不 了  谢谢 你-no , thank you .-0.488
+12504-谢谢 您  福雷斯特 先生-thank you , mr. forester .-0.488
+12617-谢谢 您  斯通 先生-thank you , mr. stone .-0.488
+12859-谢谢 你  够 了-thank you . that &apos;s enough .-0.488
+12912-谢谢  不 用 了-no , thank you .-0.488
+12921-谢谢 你 提醒 我-thank you for reminding me .-0.488
+12956-谢谢  我 不 喝-no , thank you .-0.488
+13486-谢谢 你 的 帮助-thank you for your help .-0.488
+14397-谢谢 你  海 放-thank you , haifang .-0.488
+14694-谢谢 你 这样 说-thank you .-0.488
+15153-谢谢 你 的 解释-thank you for your explanation .-0.488
+16154-谢谢 你 这么 说-it &apos;s very kind of you to say so .-0.488
+16625-谢谢 你 的 鼓励-thank you for your encouragement .-0.488
+16943-谢谢 你 的 鼓励-thank you for your encouragement .-0.488
+17184-清楚 了  谢谢 你-i see . thank you .-0.488
+17414-谢谢 你 的 帮忙-thanks for your help .-0.488
+17440-谢谢  就 这么 办-thank you , i &apos;ll do that .-0.488
+17671-很 好  谢谢 你-i &apos;m fine , thank you .-0.488
+17750-谢谢 你  亨德森 小姐-thank you , miss henderson .-0.488
+18460-是 的  谢谢 你-i did , thank you .-0.488
+19434-是 的 谢谢 你-yes , thank you .-0.488
+19650-谢谢 你  伯恩 先生-thank you , mr. bowen .-0.488
+19717-明晨 9 点 再见-see you tomorrow morning at 9 .-0.488
+19808-谢谢 你  杨 先生-thank you , mr. yang .-0.488
+20168-很 好  谢谢 你-fine . thank you .-0.488
+20241-谢谢 您 的 帮助-thank you for your help .-0.488
+20548-谢谢 您 这样 说-thank you for saying so .-0.488
+20551-谢谢 他们 的 邀请-i appreciate their invitation .-0.488
+20889-谢谢 你 的 鼓励-thank you for encouraging me .-0.488
+21009-谢谢 你  克勒 先生-thank you , mr. keller .-0.488
+21023-谢谢 你 的 光临-thank you for your coming .-0.488
+21026-谢谢 你  华盛顿 先生-thank you , mr. washing .-0.488
+22794-好多 了  谢谢 你-i &apos;m much better , thank you .-0.488
+23079-谢谢  检查 好 了-thank you , that &apos;ll do .-0.488
+23146-谢谢 您  再 见-thank you.goodbye !-0.488
+23487-谢谢 你 的 介绍-thank you for your recommendation .-0.488
+23519-谢谢 你 的 帮助-thank you for your help .-0.488
+23671-谢谢 你 的 光临-thanks &apos; for coming .-0.488
+24279-谢谢 你  再 见-thank you . good-bye !-0.488
+24358-谢谢 你 的 惠顾-thank you for your patronage .-0.488
+24538-谢谢 您 的 建议-thank you for your suggestion .-0.488
+24639-好 的  谢谢 你-all right . thank you .-0.488
+24732-谢谢  这些 是 什么-thank you . what are these ?-0.488
+24759-谢谢  给 你 收据-thank you , here is you receipt .-0.488
+24930-谢谢 您 这么 说-thank you .-0.488
+25502-谢谢 您 的 夸奖-thank you .-0.488
+26150-不过 同样 谢谢 你-but thank you all the same .-0.488
+26180-谢谢 你 的 帮助-thank you for you help .-0.488
+26734-谢谢 你 的 帮助-thank you very much for your help .-0.488
+26978-谢谢 你  布朗 先生-thanks , mr. brown .-0.488
+27221-谢谢 您 告诉 我-thank you for telling me .-0.488
+27576-谢谢  我 会 的-thank you . i shall .-0.488
+27634-是 的  谢谢 您-yes , thank you very much .-0.488
+27693-谢谢 您 的 帮助-i really appreciate your help .-0.488
+28289-谢谢 你 安慰 我-thank you for saying so .-0.488
+28534-好 的  谢谢 您-all right.thanks.-0.488
+28547-无论 如何 谢谢 您-thank you anyway .-0.488
+28791-谢谢 您 告诉 我-thank you for telling me .-0.488
+28846-不 了  谢谢 你-no , thank you .-0.488
+29023-不 用 谢  再见-you are welcome . goodbye .-0.488
+29130-谢谢 你  方 先生-thank you , mr. fang .-0.488
+29346-谢谢 你 的 好意-that &apos;s very kind of you .-0.488
+29477-谢谢  我 会 的-thank you . i will .-0.488
+29778-谢谢 你  再 见-thank you very much . good-bye .-0.488
+29858-不  真的  谢谢 你-no , really , thank you .-0.488
+29870-谢谢 你  陈 先生-thank you , mr chen .-0.488
+29970-太 谢谢 你 了-that &apos;s very kind of you .-0.488
+30094-谢谢 你 的 电话-thank you for calling .-0.488
+30127-谢谢 你 的 好意-that would be very kind of you .-0.488
+30339-谢谢 你  再 见-thank you . bye-bye .-0.488
+30424-很 好  谢谢 你-fine , thank you .-0.488
+30527-谢谢 你  再 见-thank you . good-bye .-0.488
+30603-好 的  谢谢 你-all right . thank you .-0.488
+30849-是 的  谢谢 你-yes , thank you .-0.488
+30850-不 用 谢  再见-right you are . good-bye .-0.488
+31178-谢谢 你  史密斯 夫人-that &apos;s very kind of you , mrs. smith .-0.488
+31364-太 谢谢 您 了-thank you so much .-0.488
+31387-谢谢 你 的 电话-thank you for calling .-0.488
+31655-谢谢 你 的 提醒-thank you for telling me of that .-0.488
+32034-谢谢 您 的 夸奖-thank you for you appreciation .-0.488
+32038-谢谢 你 这么 说-it is very kind of you to say so .-0.488
+32156-很 好  谢谢 你-fine , thanks .-0.488
+32224-谢谢 你 邀请 我-thank you for the invitation .-0.488
+32264-好  谢谢  欧文 先生-find , thanks , mr. irvin .-0.488
+32277-谢谢 你 的 电话-thanks for calling .-0.488
+32351-谢谢 你 的 电话-thank you for calling .-0.488
+32413-谢谢 你 的 电话-thanks for calling .-0.488
+32895-谢谢 你 的 夸奖-thank you .-0.488
+33032-不 用 谢  再见-not at all . see you later .-0.488
+33309-谢谢  不 洗 了-no , thank you .-0.488
+33736-谢谢 您 的 提醒-thank you for reminding me .-0.488
+39503-谢谢 你 服务 周到-thanks for your good service ?-0.488
+40032-谢谢 您 来 电话-thank you for calling .-0.488
+40913-欢迎 再见  再 见-please call again , good-bye .-0.488
+41721-谢谢 你 的 邀请-it &apos;s very kind of you for inviting us .-0.488
+47602-谢谢 你 的 赞扬-thank you for your kindly words .-0.488
+47755-谢谢 你 前来 告别-thanks for stopping by .-0.488
+47981-谢谢 你 的 鼓励-thank you for your encouragement .-0.488
+48284-谢谢 你 的 忠告-thank you for your advice .-0.488
+48603-谢谢  你 真 好-thank you . it &apos;s nice of you .-0.488
+48735-谢谢 你 的 提醒-thanks for reminding me .-0.488
+48843-谢谢 你 告诉 我-thank you for telling me .-0.488
+48900-谢谢 你 提醒 我-thank you for reminding me .-0.488
+48908-谢谢 您 的 款待-thank you very much for dinner , mike .-0.488
+48909-谢谢 您 的 赏光-thank you for coming .-0.488
+49017-谢谢 你 告诉 我-thank you very much for telling me .-0.488
+49152-谢谢  我 不 吸烟-no , thanks .-0.488
+49162-谢谢 你 的 建议-thanks for your advice .-0.488
+50045-谢谢 你 的 夸奖-it &apos;s very nice of you to say so .-0.488
+50074-谢谢 你  王 先生-thank you , mr. wang .-0.488
+50191-谢谢  听 你 的-thank you . i &apos;ll take your advice .-0.488
+50575-谢谢 你 邀请 我-thanks for asking me .-0.488
+50929-谢谢 你 的 款待-thank you for your nice party .-0.488
+51024-太 谢谢 你 了-thank you so much .-0.488
+51551-谢谢  你 真 好-thank you for your cooperation .-0.488
+51733-谢谢 各位 的 光临-thank you for coming .-0.488
+51759-谢谢 各位 的 参加-thank you for your participation .-0.488
+51858-谢谢 你 邀请 我-thank you very much for inviting me .-0.488
+51908-谢谢 你 的 建议-thank you for your advice .-0.488
+52012-太 谢谢 你 了-good.that &apos;s just what i &apos;d like !-0.488
+52093-谢谢 你 的 夸奖-thank you for your appreciation .-0.488
+52160-谢谢 您 的 好意-it &apos;s very kind of you .-0.488
+52163-谢谢 你  再 见-thank you and have a nice day .-0.488
+52182-太 谢谢 您 了-it &apos;s very kind of you .-0.488
+75-不论 如何 还是 谢谢 你-thank you anyway .-0.485
+191-谢谢 您 告诉 我 这些-thank you for your information .-0.485
+383-谢谢 你 告诉 我 这些-thank you for your information .-0.485
+532-谢谢 您 告诉 我 这些-thank you for your information .-0.485
+787-不 用 了  谢谢 你-no , thank you .-0.485
+1293-好  那 太 谢谢 了-ok . thanks a lot .-0.485
+2427-谢谢  让 您 久等 了-thank you for waiting .-0.485
+2430-不 用 了  谢谢 您-no , thank you .-0.485
+2518-不 用 了  谢谢 你-no , thank you .-0.485
+2731-谢谢  到 市区 要 多久-thank you . and how long will it take to get downtown ?-0.485
+3251-谢谢 您 提醒 我  晚安-thank you for reminding me . good-night .-0.485
+3302-不 用 了  谢谢 你-no , thanks .-0.485
+3377-谢谢  找 您 9 美元-thanks . here &apos;s $ 9 change .-0.485
+5067-谢谢 您  一定 会 的-thank you . i &apos;m sure i will .-0.485
+5348-谢谢  请 等一会 好 吗-thank you . would you please wait a minute ?-0.485
+5411-谢谢  现在 用 不 着-not now , thanks .-0.485
+5732-尽管 如此  还是 谢谢 您-well , thank you anyway .-0.485
+5969-尽管 如此  还是 谢谢 你-well , thank you anyway .-0.485
+6899-谢谢 你 告诉 我 这些-thank you for your information .-0.485
+7800-谢谢 你 出色 的 服务-that &apos;s my pleasure .-0.485
+8071-谢谢  一共 是 四百八十 元-thank you , sir.your bill comes to 4,80 $ .-0.485
+8764-希望 你们 喜欢  谢谢 来电-i hope you &apos;ll enjoy it . thanks for calling .-0.485
+8842-谢谢 您 打 电话 来-thank you for calling us .-0.485
+9396-谢谢  很 高兴 您 喜欢-thank you , mr. green . i am pleased you like it .-0.485
+9588-谢谢  愿 你们 晚上 愉快-thank you . have a nice evening .-0.485
+10222-谢谢  愿 你们 晚上 愉快-thank you . have a nice evening .-0.485
+10732-谢谢   都 齐 了 吗-thank you , is everything all right , sir ?-0.485
+11250-太 好 了  谢谢 你-that &apos;s good , thank you .-0.485
+11386-谢谢 您  先生  请 稍候-thank you , sir . just a moment , please .-0.485
+11490-先生  谢谢  请 慢 用-thank you , sir . please enjoy your meal .-0.485
+12164-谢谢  我 已经 吃饱 了-thank you , i &apos;m quite full .-0.485
+12488-谢谢 您 打 电话 来-thank you for calling .-0.485
+12894-不 用 了  谢谢 了-no , thank you .-0.485
+17203-谢谢  要 交 多少 押金-thanks , how much is the deposit ?-0.485
+17347-好吧  谢谢 你 的 电话-well , thank you very much for calling .-0.485
+17699-非常 谢谢 你 的 帮忙-thanks very much for your help .-0.485
+18044-谢谢  这 是 我 的-thank you . here is mine .-0.485
+19723-谢谢 您 邀请 我 赴宴-you are very kind to invite me to a dinner party .-0.485
+20096-谢谢  那 太 好 了-thank you very much .-0.485
+20161-哇  太 谢谢 你 了-wow , thank you so much !-0.485
+20343-我 知道 了  谢谢 你-i see.thank you .-0.485
+20460-我 也 是  谢谢 您-so do i. i appreciate our time .-0.485
+20474-谢谢 你  你 真 客气-thank you . that &apos;s very kind of you .-0.485
+21028-噢  谢谢 你 的 合作-well , thank you for your cooperation .-0.485
+21767-真 太 谢谢 您 了-thank you very much .-0.485
+22495-谢谢  见到 您 很 高兴-thank you . nice to meet you .-0.485
+23401-谢谢 您 提供 的 信息-thank you for your information .-0.485
+23470-谢谢  请 您 再 来-thank you mam , drop in anytime please .-0.485
+24158-也 祝 你 愉快  再见-you , too.bye.-0.485
+24356-不 用 了  谢谢 你-no , thank you .-0.485
+25665-那 很 好  谢谢 你-that would be fine . thank you .-0.485
+27165-在 这儿 签名  谢谢 你-. and sign here . thank you .-0.485
+27265-谢谢  我 等 他 来-thank you . i &apos;ll be waiting .-0.485
+27480-谢谢 你 的 夸奖  女士-thank you for you compliment , madam .-0.485
+27798-谢谢 您 告诉 我们 这些-thank you for the information .-0.485
+28540-的确 太 谢谢 您 了-thank you very much indeed .-0.485
+28859-谢谢 你 出色 的 服务-thank you for your wonderful service .-0.485
+29022-先生  谢谢 您 的 回电-thank you for calling , sir .-0.485
+29635-真 是 太 谢谢 了-thank you so much .-0.485
+29735-我 很 好  谢谢 你-i &apos;m fine , thank you .-0.485
+29769-很 好  谢谢  你 呢-just fine . thank you . and how are you ?-0.485
+29799-实在 太 谢谢 您 了-thank you very much indeed .-0.485
+30358-不 用 了  谢谢 你-no , thank you .-0.485
+30826-我 明白 了  谢谢 你-i see . thank you .-0.485
+31090-谢谢  我 会 小心 的-thank you , i &apos;ll look after myself .-0.485
+31112-答对 了  谢谢 你 了-you &apos;re right . thank you for calling .-0.485
+31283-谢谢  我 马上 就 去-thanks . i will go there right away .-0.485
+32057-汤姆  谢谢 您 的 指点-thanks for all your advice , tom .-0.485
+32120-你 太 周到 了  再见-that &apos; s very good of you. goodbye .-0.485
+32687-那 就 一会儿 再见 了-i &apos;ll see you soon then .-0.485
+33223-谢谢 你  一共 多少 钱-thank you . and how much altogether ?-0.485
+33335-不 要 了  谢谢 你-no , thank you .-0.485
+34083-谢谢 你 来 迎接 我-it &apos;s very kind of you to meet me .-0.485
+37606-谢谢  餐车 几点钟 开始 营业-my stomach is growling . is the dining car open ?-0.485
+39231-谢谢 您 的 好意  先生-that &apos;s very kind of you .-0.485
+39519-谢谢 你们 周到 的 服务-thanks for your nice service .-0.485
+40008-谢谢 您 订 电话 来-thank you for calling .-0.485
+41767-不 吃 了  谢谢 你-no , thank you .-0.485
+41775-现在 不 要  谢谢 你-not at the moment , thank you .-0.485
+47160-谢谢  我 差点儿 忘 了-thanks . i almost forgot about it .-0.485
+47985-谢谢  这 次 不 行-i &apos;d like to , but not this time .-0.485
+48577-噢  谢谢 你 告诉 我-oh , than you for telling me .-0.485
+49292-谢谢 您 来 接 我-thank you for coming to meet me .-0.485
+49762-谢谢  这 是 我 的-thank you . this is mine .-0.485
+50847-好啊  太 谢谢 你 了-oh , yes . thanks .-0.485
+50978-我 会 的  谢谢 你-i will . thank you !-0.485
+52162-谢谢 您 打 电话 来-thank you for your call .-0.485
+11-谢谢 你 告诉 我 这个 情况-thank you for the information .-0.483
+283-谢谢  但 现在 还 不 需要-thank you , but not now .-0.483
+1408-谢谢 你们 的 盛情 之 邀-and many thanks for your king invitation .-0.483
+2410-谢谢  你 想 买 单程票 吗-thank you and are you going to purchase a one-way ticket ?-0.483
+2433-谢谢 您 光顾 法国 航空 公司-thank you for calling air france .-0.483
+2493-谢谢 你 对 我 的 帮助-thank you for all the help .-0.483
+3218-谢谢 您  祝 您 旅途 愉快-thank you and have a nice trip .-0.483
+3478-你 真 太 好 了  再见-that &apos;s very kind of you . bye-bye .-0.483
+7754-不  谢谢  饭前 酒免 了 吧-no , thanks . we &apos;ll skip aperitif .-0.483
+8090-谢谢  希望 您 用餐 还 愉快-thank you , sir.we hope you enjoyed your meal .-0.483
+8844-祝 您 过 得 愉快  再见-bye , and have a nice day .-0.483
+9660-谢谢  实际上 我 刚 开始 学-thanks . in fact i just begin to learn .-0.483
+10053-我们 不 收 小费  谢谢 您-we don &apos;t accept tips . thank you just the same .-0.483
+10627-谢谢  这个 干酪 蛋奶酥 是 什么-thank you . what &apos;s this cheese soufflé like ?-0.483
+10640-谢谢 您 推荐 这么 多 菜-thank you for your recommendation .-0.483
+11323-谢谢  我 不 想 吃 甜点-i don &apos;t believe i care for dessert , thank you .-0.483
+12040-谢谢  我 想 喝 点 茶-thank you , i &apos;d like to drink some tea .-0.483
+12252-那 就 后天 见 了  再见-so , see you then . good bye .-0.483
+12834-谢谢 您  也 祝 您 好运-thank you and the same to you .-0.483
+17307-谢谢 你 的 信息 和 建议-thank you very much for the information and advice .-0.483
+17413-好 的  谢谢 你 来 店-okay , thanks for calling .-0.483
+17768-是 的  谢谢 你  再 见-yes , thank you . good-bye .-0.483
+18123-真 是 太 谢谢 你 了-thanks very much .-0.483
+18175-好 的  谢谢 你  再 见-alright . thank you . good-bye .-0.483
+18240-谢谢  占用 您 的 时间 了-we thank you for your time .-0.483
+18852-太 谢谢 你 了  伯恩 先生-thank you so much , mr. bowen .-0.483
+19840-太 谢谢 你 的  李 先生-thank you so much , mr. li .-0.483
+23839-谢谢  路 过时 请 再 来-thank you . please look in again whenever you may be passing .-0.483
+24944-谢谢 你  我 明天 再 来-thank you . i &apos;ll come back tomorrow .-0.483
+27317-谢谢  有 我 的 邮件 吗-thank you . is there any mail for me ?-0.483
+28461-噢  谢谢 您  我 明白 了-oh , thank you , i see .-0.483
+28844-好 的  谢谢 你 来 这儿-ok.thank you very much for staying .-0.483
+28857-谢谢 你  这 是 550 元-thanks . here &apos;s 550 yuan .-0.483
+29739-他们 一切 都 好  谢谢 你-everything is fine , thank you .-0.483
+29790-您 这么 有 耐心  谢谢 了-thank you for your patience .-0.483
+29885-谢谢 您 的 电话  再 见-i appreciate your calling . good-bye .-0.483
+30019-那 就 太 谢谢 你 啦-thank you very much .-0.483
+30228-不  谢谢  我 呼 她 吧-no , thanks anyway . i &apos;ll page her .-0.483
+30663-谢谢 你  你 挂 什么 号码-thank you . what number are you calling ?-0.483
+31074-谢谢  我 会 多 注意 的-thank you . i &apos;ll be careful .-0.483
+31522-谢谢 你 邀请 我 一起 去-thanks for inviting me .-0.483
+36726-谢谢 你  太 感谢 你 了-thank you , it &apos;s very kind of you .-0.483
+39344-是 的  非常 好  谢谢 你-yes , it was very nice , thank you .-0.483
+40225-谢谢 你  我们 就 坐 这儿-thank you , we &apos;ll take it .-0.483
+41282-谢谢  不 要 甜食  只要 咖啡-how about the sweet ? no sweet , thanks . just coffee .-0.483
+41407-不  谢谢  什么 都 不 要-no , thanks . i like it plain .-0.483
+42155-谢谢  一 块 可能 就够 了-thank you . one may be enough .-0.483
+43898-谢谢 你  太 麻烦 你 了-thank you , sorry to trouble you .-0.483
+47760-谢谢 你 老远 前来 看 我-thank you for coming all the way to see me .-0.483
+49916-不  谢谢  我 更 喜欢 茶-no , thank you . i prefer tea to fruit juice .-0.483
+50051-谢谢 你 给 我 的 建议-thank you for your advice .-0.483
+50833-是 的  谢谢 你 的 帮助-yes , thank you very much .-0.483
+50957-谢谢  也 祝 你 圣诞 快乐-thank you . the same to you .-0.483
+1454-是 的  谢谢 你 来 接 我-yes , it &apos;s very kind of you to come to meet me .-0.482
+2473-不 谢谢  这里 用 的 是 英语-no , thanks . it &apos;s in english .-0.482
+2622-谢谢 你  请 开门 让 我 下车-thanks ! can you open the door please .-0.482
+2931-谢谢 你  请 开门 让 我 下车-thanks ! can you open the door , please ?-0.482
+5405-谢谢  不过 我 现在 不 能 停留-thanks , but i can &apos;t stop now .-0.482
+5470-但愿 是 这样  谢谢 你  再 见-i hope so . thank you . good-bye .-0.482
+5748-谢谢  谢谢 你 给 我 指路 了-thanks . i really appreciate your help .-0.482
+7802-谢谢  不 啦  我们 要 结账 了-no , thanks , we &apos;ll take our bill now .-0.482
+7838-谢谢  祝 您 晚上 过 得 愉快-thank you , sir . have a nice evening .-0.482
+8290-谢谢 您 来 电话 订餐  罗斯科 女士-thank you for calling , ms. roscoe .-0.482
+8442-谢谢 你 的 推荐  我们 订 了-thank you for your recommendation . we &apos;ll take it .-0.482
+9666-很 好  谢谢 你 的 优质 服务-it was fine . thank you for your excellent service .-0.482
+10026-谢谢  希望 我们 能 很 快 学会-thank you . we hope to master it soon .-0.482
+10584-我 不 想 吃 甜点  谢谢 你-i don &apos;t believe i care for dessert , thank you .-0.482
+11047-不 啦  谢谢  我们 不 要 啤酒-oh , no , thank you , we don &apos;t want any beer .-0.482
+12249-我 肯定 我们 会 的  谢谢 低-i &apos;m sure we will . thank you .-0.482
+12509-谢谢 您 打 电话 来  再 见-thank you for calling . good-bye .-0.482
+16201-那 太 好 了  谢谢 你  医生-that sounds good . thanks a lot , doctor .-0.482
+16227-谢谢  你 能 推荐 些 特色菜 吗-thank you very much . could you recommend some special dishes here ?-0.482
+17023-谢谢  我 对 自己 相当 有 信心-thanks . i &apos;m quite self-confident .-0.482
+20058-谢谢  谈判 完 后 再 说 吧-thanks , maybe later .-0.482
+20797-我 得 走 了  谢谢 你  明天见-i must be off now. thank you and see you tomorrow .-0.482
+21874-谢谢 你 的 介绍  楼下 夜总 会见-thank you for your information and i &apos;ll see you down at the club .-0.482
+22087-谢谢 您 了  我们 不 收 小费-thank you just the same .-0.482
+22514-一点 不 假  谢谢 您 的 建议-that &apos;s true . thank you for your suggestions .-0.482
+26493-谢谢  先生  但 请 暂时 拿 着-thank you , sir . but please hold it for a moment .-0.482
+26689-我 会 的  谢谢 你  再 见-i will . thank you . good-bye .-0.482
+28736-谢谢  女士  这 是 我 的 信用卡-thank you , ma &apos;am . here is my credit card .-0.482
+28819-谢谢 您  很 高兴 为 您 服务-thank you . it &apos;s my pleasure .-0.482
+29633-谢谢  埃里克  你 能 赏光 真 好-thank you , eric . it &apos;s good of you to come .-0.482
+31069-谢谢 你 到 医院 来 看 我-thank you for coming to visit me at the hospital .-0.482
+32121-谢谢 你 打 电话 来  再 见-it was good of you to phone me . goodbye .-0.482
+33031-会 来 的  谢谢 你 的 茶点-i &apos;ll do that . thanks for the tea .-0.482
+34393-谢谢 你 帮 我 买 了 机票-thank you so much for buying the tickets for me .-0.482
+34490-谢谢 您 乘 我们 公司 的 飞机-thank you for flying with us .-0.482
+40929-不  谢谢  我 从来 不 喝 烈性酒-no , thanks . i never touch alcoholic drink .-0.482
+42113-谢谢 你  跟 你 在一起 真 愉快-thank you for your pleasant company .-0.482
+42130-谢谢 你 请 我 来 喝 茶-thank you for inviting me to tea .-0.482
+47711-好 的  谢谢  请 拿 清 咖啡-yes , thanks , black , please .-0.482
+47726-不 用 了  谢谢 你 的 好意-no , thanks for asking .-0.482
+48649-不 用 了  谢谢 您 的 好意-no , thanks for asking .-0.482
+49711-谢谢 你 来 参加 我们 的 面试-thank you for coming to our interview .-0.482
+50758-嗯  谢谢 您 采用 本 公司 服务-well , thank you for using our services .-0.482
+50903-随便 喝 点 香槟 吧  一会儿 再见-help yourself to some champagne . i &apos;ll see you later .-0.482
+51684-谢谢 各位 今晚 给 我 的 时间-thank you for your time tonight .-0.482
+568-我 懂 了  谢谢 你 告诉 我 这些 情况-i see . thank you for your information .-0.481
+647-谢谢  这 是 我 第一 次 到 中国 来-thanks , it is the first time i come to china .-0.481
+688-谢谢  但是 我 想 要 一 床 棉被-thank you , but i should like to have a quilt .-0.481
+875-谢谢  能 带 我 到 座位 上去 吗-thank you , stewardess . could you direct me to my seat ?-0.481
+1506-很 高兴 见到 你  谢谢 你 来接 我们-glad to meet you . thank you for coming to meet us .-0.481
+2280-行  谢谢  找 您 钱  4 英镑 现金-yes . thank you . here is the change . 4 pounds in cash .-0.481
+2423-谢谢 您 打 电话 来 法国 航空 公司-thank you for calling air france .-0.481
+2461-谢谢 您 为 我们 所 做 的 一切-thank you for everything .-0.481
+2830-谢谢 你  在 哪儿 乘坐 这 路 车-thank you . where can i take it ?-0.481
+3917-非常 谢谢 您 的 帮忙  真 是 感激不尽-thanks very much for your help ; i really appreciate it .-0.481
+5540-不  不 必 了  谢谢 你 的 好意-no , that isn &apos;t necessary but thanks for offering .-0.481
+6035-谢谢  从 这里 搭 公车 到 台北 要 多久-thank you. how long does it take to go from here to taipei by bus ?-0.481
+6916-打扰 您 的 时间  真 是 谢谢  警察 先生-thanks very much for your time , officer .-0.481
+7565-谢谢 您 的 关照  不过 我们 不 收 小费-thanks a lot for your kindness . but we don &apos;t receive tipping .-0.481
+7756-谢谢  这 几 样 菜 一会儿 就 做好-thank you . everything will be ready in just a few minutes .-0.481
+7799-谢谢  先生  我 愿 您 今晚 吃 得 满意-thank you for your excellent service .-0.481
+8012-谢谢  请 您 把 自己 的 房间号 也 写上-thank you . could you please put down your room number , as well ?-0.481
+8515-谢谢  本 店 期待 着 您 的 光临-thank you . we look forward to your coming .-0.481
+8858-谢谢 您  汤姆 先生  明早 本 店 恭候 光临-thank you , mr. tom . we &apos;ll expect you tomorrow morning .-0.481
+9410-不  谢谢  最好 还是 我 自己 来 清理-no , thank you , i &apos;d better clean it up myself .-0.481
+9506-谢谢  我们 现在 想 点 一些 意大利 通心粉-thank you . now we &apos;d like to have some good italian spaghetti .-0.481
+10084-不  谢谢  不过 我 想 要 一 杯 咖啡-no , thanks , but i &apos;ll have a cup of coffee .-0.481
+10096-不 要 了  谢谢 您  这些 足够 了-no , thank you . that &apos;ll be enough .-0.481
+10521-不用  谢谢  我 想 我 还 需要 一点 冰水-no , thanks . i think i &apos;m going to need some iced water too .-0.481
+10551-现在 不 要 了  请 尽快 上菜  谢谢 你-nothing now. please serve us as quickly as possible . thank you .-0.481
+11243-谢谢  让 我 看看 菜单 上 有 什么 菜-thank you. let me see what you have .-0.481
+12185-不 用 了  谢谢  我们 的 时间 不 多-no , thanks , we don &apos;t have much time .-0.481
+12686-我 真 高兴  真 是 谢谢 你  林 小姐-how glad i am ! thank you very much indeed , miss lin .-0.481
+12932-谢谢  今天 上午 我 收到 爸爸 妈妈 的 来信-thanks . i had a letter from my pa and ma this morning .-0.481
+14980-格林 先生  谢谢 你 告诉 我 这么 多 东西-thank you for telling me so much , mr. green .-0.481
+14984-谢谢  我 还 可以 做 得 更 好些 的-thank you . i could be better .-0.481
+15006-谢谢  我 还 可以 做 得 更 好些 的-thank you , i could be better .-0.481
+15044-谢谢 你  我 必须 承认 我 饿 了-thank you . i must admit that i &apos;m hungry .-0.481
+15303-这 是 一 场 有趣 的 比赛  谢谢 你-it was fun . thanks .-0.481
+18373-谢谢  能 到 这儿 来 我 感到 高兴-thank you . i &apos;m glad i was able to come .-0.481
+18477-谢谢  恐怕 我 耽误 您 好 多 时间 了-thank you . i &apos;m afraid i &apos;ve taken a lot of your time .-0.481
+19206-谢谢  我 会 再 跟 你 联络 的-thanks . i &apos;ll contact you .-0.481
+20065-谢谢  到时候 我 让 翻译 为 你们 去 预定-thank you . when the time comes , i &apos;ll ask the interpreter to make the necessary reservations for you .-0.481
+20386-David  谢谢 你 大老远 地 跑来 看 我-thanks for coming all this way to visit , david .-0.481
+20667-谢谢  我 会 再 跟 你 联络 的-thanks , i &apos;ll contact you .-0.481
+21025-黄 先生  谢谢 你 对本 公司 感 兴趣-thank you for your interest in this company , mr. huang .-0.481
+22515-祝 您 维也纳 音乐 之 旅 愉快  再见-wish you happy music tour in vienna . goodbye .-0.481
+23770-谢谢  我 只 不过 是 先 看 一 看-no , thank you . i am just looking first .-0.481
+23792-谢谢  请 拿 一 台 日本产 的 录像机-yes , thank you . please show me a video made in japan .-0.481
+26586-谢谢  您 要 多 大 面额 的 钞票 呢-thank you . how would you like it ?-0.481
+26646-啊  谢谢  如果 人民币 没 用完 怎么 处理-oh , thanks . by the way , what shall i do with the rmb left with me ?-0.481
+26678-谢谢  可以 看 一下 您 的 护照 吗-thank you . may i have a look at your passport ?-0.481
+26716-谢谢  您 想要 多 大 面额 的 钞票 呢-thank you . how would you like them ?-0.481
+26919-谢谢  可以 看 一下 您 的 证件 吗-thank you . may i see some identifications ?-0.481
+27012-谢谢  服务员 会 领 你们 到 房间 去-thank you . the porter will show you to your room-0.481
+27959-是 的  它 现在 可以 运作 了  谢谢 你-yes , it &apos;s working now . thank you .-0.481
+28594-谢谢 您 向 我 提供 了 这么 多 指导-thank you for giving me so much information .-0.481
+28847-但 我 很 喜欢 呆 在 这儿  谢谢 你-but i &apos;ve enjoyed my stay very much . thank you .-0.481
+29228-谢谢 你  我 会 发份 传真 确认 的-thank you . i &apos;ll send a fax to confirm the booking .-0.481
+29643-谢谢  我 以后 再 给 你 挂 电话 吧-thank you . i will telephone you later .-0.481
+29777-一定  谢谢 你 了  祝 你 一路 顺风-i &apos;ll do that . thank you . have a safe trip home .-0.481
+29785-谢谢  抱歉 给 你 造成 这么 多 麻烦-thank you . sorry to be causing you so much trouble .-0.481
+29823-谢谢 你 送 我 那 只 可爱 的 手表-thank you so much for the lovely watch you sent me .-0.481
+31086-哦  对 了  谢谢 你 送来 的 慰问礼-oh , yes , thank you very much for the get-well gift .-0.481
+31525-谢谢  但是 我 明天 得 去 看 我 父母-thank you , but i have to see my parents tomorrow .-0.481
+32012-谢谢 你  我 乘坐 的 航班 什么 时候 起飞-thank you. what is the departure time of my flight ?-0.481
+32042-谢谢 你 连日来 为 我 做 的 一切-thank you for everything .-0.481
+32802-谢谢 您 为 我们 所 做 的 一切-thank you very much for everything you &apos;ve done for us .-0.481
+37810-谢谢  我 真的 想 睡 一 小 会儿-thank you . i really want to take a nap .-0.481
+39766-谢谢 您 在 本 餐馆 用餐  请 再度 光临-thank you for dining with us . please come again .-0.481
+40086-谢谢 您 在 本 餐厅 用餐  请 再度 光临-thank you for dining with us . please come again .-0.481
+41766-不 吃 了  谢谢 你  我 正在 减肥 呢-no , thank you . i &apos;m supposed to be slimming .-0.481
+41940-不 了  谢谢  我 的 肚皮 快 撑破 了-no , thanks.my stomach is bursting !-0.481
+48637-谢谢  这样 我 可以 免受 挤车 之 苦 了-thank you . then i don &apos;t have to suffer in the crowded buses .-0.481
+49296-谢谢 你们 花 这么 多 时间 陪 我-thank you for your time .-0.481
+49468-谢谢  我 以后 再 给 你 打 电话-thank you . i &apos;ll call you back later .-0.481
+50864-太 谢谢 了  你 真 不 应该 破费-thank you so much , but you really shouldn &apos;t have done that .-0.481
+839-谢谢  嗯  照相机 在 上面 的 行李柜里 没 问题 吧-thanks . uh , would my camera be all right in the overhead compartment ?-0.48
+1372-谢谢 你 的 好意  不过 我 想 我 拿得 了-i think i can manage . thanks though .-0.48
+2137-谢谢 您  您 的 班机 号码 和 起飞 日期 是-thank you .-0.48
+3318-谢谢 你 给 我 讲 了 许多 这 方面 的 情况-thank you very much for the information .-0.48
+3395-谢谢 你  这 是 车费  这 是 给 你 的 小费-thank you.here &apos;s the fare , and this is for you .-0.48
+4450-谢谢  你 会 说 英语 实在 是 太 好 了-thank you . i am so glad you can speak english .-0.48
+9495-谢谢  不过 一会儿 还 要 再 来 一 个 人-thank you . but we &apos;ll have one more people .-0.48
+9670-谢谢 您 的 赞扬  您 的 意见 有助于 我们 改进 服务-thank you for your compliments . and your suggestion will help us to improve our service .-0.48
+9844-谢谢 您 的 建议  我们 一定 会 改进 服务 的-thank you for your good advice . we &apos;ll certainly improve our service .-0.48
+10416-早上 好  谢谢 您 为 我 准备 好 了 桌子-good morning , thanks for being ready for me .-0.48
+10483-谢谢 你  我 要 1 个 水果 色拉  你 呢  迈克-thank you . i &apos;ll have a green salad . what about you , mike ?-0.48
+11118-谢谢  “ 中国式 烤鸡 肉 串 ” 是 什么样 的 菜-thank you.what is the &quot; chinese chicken kebab &quot; like ?-0.48
+12204-今天 的 饭菜 真的 很 好 吃  谢谢 您 的 盛情款待-today &apos;s food is very delicious , thank you for treating me .-0.48
+12250-那 我们 就 后天 谈判 时 再见 了  对 吧-i &apos;ll see you again for the negotiation the day after tomorrow , right ?-0.48
+15360-这 是 一 场 很 有趣 的 比赛  谢谢 你-that was fun . thanks .-0.48
+15981-我 建议 你 先 参加 颁奖 仪式  谢谢 你 的 合作-but i suggest you attend the victory ceremony first . and thank you for your co-operation .-0.48
+19394-谢谢 您  威尔森 先生  这 可 是 个 好 建议 呀-thank you , mr. wilson . it &apos;s a good advice .-0.48
+19830-谢谢 你们 的 周到 安排  我 现在 感觉 好 多 了-thanks to your thoughtful arrangement , i feel much better now .-0.48
+20033-谢谢  那么 我们 的 活动 在 晚上 也 排 满 了-thanks.so our evenings will be quite full then ?-0.48
+20217-谢谢 你 , 你 知道 我 何时 开始 上班 吗-thank you , do you know when i &apos;ll be starting ?-0.48
+22088-谢谢 光临  欢迎 再 到 我们 餐厅 来  再 见-thank you for coming . welcome to call again . goodbye .-0.48
+22131-谢谢 您 的 好意  先生  但是 在 中国 不收 小费-that &apos;s very kind of you , sir . but there is no tipping in china .-0.48
+23689-谢谢 您 的 介绍  我 希望 他 能 早日 恢复 起来-thank you for your introduction . i hope he could feel better and better soon .-0.48
+24314-谢谢  让 我 帮 你 把 它 装 在 袋子 里-thanks . let me put it in a bag for you .-0.48
+25013-谢谢 你 为 我 做 了 这 一切  再 见-thanks for everything you &apos;ve done for me . goodbye .-0.48
+26687-谢谢  我 离开 中国  人民币 没有 用完 该 怎么 办-thank you and what can i do with the chinese currency left with me when i leave china ?-0.48
+27113-谢谢 你  这 是 你 的 护照  请 填写 酒店 登记表-thank you . here is your passport and please fill in this hotel registration form .-0.48
+27981-我们 明早 会 在 六点半 叫 您  谢谢 您  陈 小姐-we &apos;ll ring you up at half past six tomorrow , ms chen . thank you .-0.48
+28818-谢谢 你 的 帮助  你 是 个 出色 的 行李员-thank you very much for you assistance . you &apos;re a wonderful bellman .-0.48
+29816-格雷 厄姆  谢谢 你 几 天 前 帮 我 搬运 书柜-graham , thank you for helping me move my bookcase the other day .-0.48
+32967-我 看 我 又 得 说 : “ 谢谢  不 喝-i &apos;m afraid i have to say &quot; no , thank you &quot; again .-0.48
+33407-不 用 了  谢谢  这 不 适合 我 这样 的 年龄-no , thanks , not for a woman of my age .-0.48
+34557-谢谢 你 在 我 逗留 期间 所 给予 的 帮助-thank you for the help you &apos;ve rendered me during my stay here .-0.48
+49669-谢谢 你们 让 我 度过 了 愉快 的 一 天-thank you for a wonderful day .-0.48
+50035-谢谢  这 是 我们 在 这儿 的 第一 个 项目-thank you for saying so . it was our first project here .-0.48
+51062-听说 你 在 替 我 的 班  谢谢 你 啦-i heard you filled in for me . thank you .-0.48
+51646-我 必须 谢谢 家人 给 我 的 支待 和 鼓励-i must thank my wonderful family for their support and encouragement .-0.48
+1622-谢谢  赵 先生  我们 在 这儿 一定 会 过 得 很 愉快-thank you , mr. zhao . i &apos;m sure all of us will have a wonderful time in hefei .-0.479
+7222-谢谢 你 在 这 半 年 时间 里 给 我 的 帮助-thank you for your help during the last six months .-0.479
+7748-谢谢 您  我 通常 喜欢 吃 浇汁 排骨  这 道 菜 时间 长 吗-thank you . i usually like a good juicy steak . will it be long ?-0.479
+8235-谢谢  我们 会 在 七点半 准时 将 早餐 送到 您 的 房间-thank you . and it &apos;ll be sent to your room at exactly half past seven .-0.479
+9616-啊  真 是 太 好 了  你们 真 是 乐于助人  太 谢谢 了-oh , it &apos;s wonderful , you &apos;re really helpful . thank you very much .-0.479
+12212-我 可 不 希望 发生 这 种 事  谢谢 你 告诉 我-well , i don &apos;t think i want that to happen ! thanks for telling me .-0.479
+14934-嗯  我 本 不 知道 这么 多 关于 篮球 的 知识 的  谢谢 你-well , i didn &apos;t know so much about basketball , thank you .-0.479
+17758-谢谢  我们 会 尽快 派 业务 代表 去 看看  把 这个 问题 查 清楚-thank you . i &apos;ll have a representative of abc trading company visit you as soon as possible to investigate the problem .-0.479
+19276-哦  谢谢 您 的 来访  希望 能 很 快 再 见到 你-well , thanks for calling . hope to see you again soon .-0.479
+19441-是 吗  谢谢 你  我 相信 这 是 对 我们 的 特殊 照顾 了-why , thank you . you &apos;re going out of your way for us , i believe .-0.479
+19470-谢谢  如果 一切 顺利 的话  我们 将 能够 在 后天 结束 谈判-thank you . if all goes well we &apos;ll be able to wind up our talks the day after tomorrow .-0.479
+20160-下 个 星期 开始 给 你 增加 30 元  谢谢 你 的 提醒-i &apos;ll give you a thirty-dollar raise starting next week , thank you for reminding me .-0.479
+20425-好 了  谢谢 你  下 次 我 来 会 带 纪念品 给 你 的-well , thank you . i &apos;ll bring you a souvenir the next time i visit .-0.479
+21938-谢谢  这 是 找 给 您 的 钱 和 你们 的 票  先生-thank you . and here is your change and your tickets , sir .-0.479
+23956-谢谢  我 看 一下 能 装下 这 两 个 包 中 的 东西-thank you . let me see if it can hole all the stuff in the two gags .-0.479
+25108-谢谢 你 抽出 宝贵 的 时间  祝 你 有 愉快 的 一 天-thank you for time ! have a great day !-0.479
+25551-谢谢 你 这么 说  这 大 既 就 是 我 要 的-thank you . that seems to be what i &apos;m looking for .-0.479
+25602-谢谢 您  这 是 您 的 护照  兑换 证书 和 美元  请 点 一下-thank you . here is your passport , memo and american money . please double-check them .-0.479
+26507-谢谢  这 是 您 要 的 人民币  按 现行 汇率 是 1234 元-thank you . here is the renminbi you wanted . that &apos;s 1243 at the current exchange rate .-0.479
+27651-谢谢 了  不 需要  就 要 清 咖啡  要 非常 浓 的-no , thank you.just plain coffee . and please make it very strong .-0.479
+27867-谢谢 你 的 关心  我 可以 从 酒店 拿到 观光 地图 吗-thank you for your concern . can i get a tourist map in the hotel ?-0.479
+27870-谢谢 你  泰勒 先生  我 希望 你 在 这儿 过 得 愉快-thank you , mr. taylor . i hope you will enjoy staying here .-0.479
+29104-谢谢  我 将 为 下 周 预订 一 个 套间 共 需要 多少 钱-thanks , i will book a suite for next week.what &apos;s the damages ?-0.479
+30070-谢谢 你  不过  我 还是 让 他 稍后 给 我 电话 吧-thank you , but i &apos;d rather have him call later .-0.479
+30105-谢谢 你 打 电话 来 询问  不过 抱歉  我们 并不 直销 给 顾客-thank you for your enquiry , but i &apos;m sorry to say that we don &apos;t sell our products directly to customers .-0.479
+31048-谢谢  不过 小孩 的 哭声 吵 得 我 每 晚 不 得 安宁-thank you . but the baby &apos;s crying is keeping me up every night .-0.479
+32029-我 会 的  一直 给 你 添 麻烦  太 谢谢 你 了-i will . thank you very much for all the trouble you have taken .-0.479
+33051-史密斯 先生  谢谢 您 在 我 逗留 期间 给 我 的 一切 帮助-thank you , mr. smith , for everything you have done for me during my stay here .-0.479
+39770-谢谢 您 的 好意  但 很 抱歉  我们 值班 时 不 能 喝酒-that &apos;s very kind of you , sir but i &apos;m afraid we cannot drink on duty .-0.479
+41818-先生  谢谢 您 的 好意  但 很 抱歉 我们 上班 时 不 能 喝酒-that &apos;s very kind of you , sir , but i &apos;m afraid we cannot drink on duty .-0.479
+41819-先生  谢谢 您 的 好意  但 服务费 已经 加费 到 帐单 里头 了-that &apos;s very kind of you , sir , but a service charge has already been added to your bill .-0.479
+41927-谢谢 你  车 后部 有 一 大 堆 东西 得 拿 下来-thanks a lot.there &apos;s a lot of stuff in the back of the car to take out .-0.479
+41937-不 了  谢谢  我 有点 饿 了  给 我 一 个 三明治 好 吗-no , thanks , but i &apos;m a little hungry.could you give me a sandwich ?-0.479
+41949-我 今天 玩 得 很 尽兴  谢谢 你 安排 的 这 次 野餐-i &apos;ve had a lot of fun today.thank you very much for the picnic .-0.479
+43727-你 能 来 看 我们 篮球队  那 太 好 啦  太 谢谢 你 啦-it &apos;s very kind of you to come and see our basketball team , thank you very much .-0.479
+48397-谢谢 您 的 提醒  不过 我 的 衣服 是 石棉 做 的-thank you for your warning , but my clothes are make of asbestos .-0.479
+48916-谢谢 你 告诉 我 这么 多 有关 那 家 公司 的 事-thank you very much for telling me all these things about the company .-0.479
+50484-谢谢  我 很 乐意 参加  请 重复 一下 时间 和 地点  可以 吗-thanks . i &apos;ll be delighted to come , but will you repeat the time and the place , please ?-0.479
+50720-谢谢 您  如果 可能 的话  请 今天 下午 派 人 来 看看-thank you , if possible please send someone out to look at it this afternoon .-0.479
+50754-我们 了解 您 的 立场  而且 谢谢 您 能够 考虑 选择 本 公司-we understand your position and would like to thank you for considering us .-0.479
+50917-不 用 了  谢谢  我 一 滴 也 不 能 喝 了-no , thanks . i can &apos;t take another drop .-0.479
+51064-谢谢 你 告诉 我 那 家 公司 信誉 不 好 的 情况-thank you for informing me of the bad credit of the company .-0.479
+1579-我 妻子 要 我 代 她 谢谢 你 上 回送 的 礼物  她 很 喜欢 那 个 珠宝盒-my wife wanted me to say thank you for your gift last time . she liked the jewelry box very much .-0.478
+2296-谢谢  你 预定 七月 十四日 搭乘 美国 航空 123 号 班机 前往 纽约  对 不 对-thank you . you are to fly us123 for new york on july fourteenth , aren &apos;t you ?-0.478
+3053-请 提前 一 个 小时 到达 机场  谢谢 您 打 电话 来 落实 航班 班次  再 见-please be at the airport at least one hour before departure . thank you for calling to reconfirm . bye-bye .-0.478
+3113-谢谢 你  请 至少 在 起飞 前 三十 分钟 到 迈阿密 机场 我们 的 服务台 那里-thank you , sir . please come to our counter at the miami airport at least 30 minutes before departure time .-0.478
+10458-谢谢 您 的 推荐  但是 我 吃饭 的 时间 不 多  因此  我 不 点 它 了-thank you for your recommendation.but i haven &apos;t much time to eat.so , i won &apos;t take it .-0.478
+11141-谢谢  对 了  我 刚 去 看 过 医生  所以 我 要 不 须 咀嚼 的 食物-thank you.by the way , i &apos;ve just been to the dentist &apos;s and so i &apos;d like something which doesn &apos;t require chewing .-0.478
+12740-谢谢  再 稍 来 一点  够 了  这 很 好吃  可是 我 已经 吃饱 了-thanks . i &apos;ll take a little . that &apos;s enough . it &apos;s very good but i &apos;m almost full .-0.478
+16024-我 本 不 知道 这么 多  谢谢 你  也许 我 该 改改 我 的 饮食 习惯 了-i didn &apos;t know so much , thank you. maybe i shall change my dietary habits .-0.478
+16204-谢谢  我 很 高兴  特别是 因为 我 并 未 期望 获得 如此 好 的 成绩-thank you very much . i &apos;m very happy , especially because i didn &apos;t expect to achieve such a good result .-0.478
+16497-谢谢  我 很 高兴  特别是 因为 我 并 未 期望 获得 如此 好 的 成绩-thank you very much . i &apos;m very happy , especially because i didn &apos;t expect to achieve such a good result .-0.478
+17473-谢谢 您 事先 打 电话 来  我们 预定 下 周二 早上 九点半  在 我 的 办公室 会面  没错 吧-thanks for phoning ahead . my schedule says our meeting is next tuesday , 9 : 30 a.m. at my office , right ?-0.478
+18104-真是 太 愉快 了  谢谢 机身 标明 贵国 国旗 的 飞机 —— 中华 航空 公司-it was perfectly delightful , thanks to your country &apos;s flag carrier , the china airlines .-0.478
+23050-不 用 了  谢谢  可能 是 旅途 太 疲劳 了  我 想 休息 一 晚  就 会 好 了-no , thanks . maybe i am too tired after the journey . i think i will be all right after a night &apos;s rest .-0.478
+24227-谢谢  顺便 问 一 句  我 想 买 些 新疆 地毯 作 纪念  你 知道 哪儿 有 卖 的 吗-thank you . by the way , i &apos;m trying to find xinjian uygur autonomous region carpet for souvenirs .-0.478
+25621-对  对  你 把 钱 还 给 我  真 是 太 好 了  谢谢 你-yes , yes . it &apos;s really kind of you to return it . thank you very much .-0.478
+26680-谢谢  500 美元  按 今天 的 兑换率 总共 是 4260 元  您 熟悉 中国 货币 吗-thank you . five hundred dollars , so it will come to 4260 yuan at today &apos;s rate . are you familiar with chinese currency ?-0.478
+27280-也许 我 可以 到 对街 的 林荫 大道 上 去 找找 看  谢谢 你 了-i see . well , maybe i &apos;ll just try to find something at the mall across the street . thanks anyway .-0.478
+27431-先生  谢谢 您 的 等候  名单 上 没有 他 的 名字  他 应该 什么 时候 到-thank you for waiting , sir . i &apos;m afraid his name does not appear on the list . when is he due to arrive ?-0.478
+29884-啊  没关系  陈 先生  如果 您 以后 有 需要  请 随时 打 电话 给 我  谢谢 你 的 时间-oh , all right . mr chen , you may find out you need it in the future , please don &apos;t hesitate to call me . thank you for your time .-0.478
+32191-太 谢谢 您 啦  不过  我 恐怕 来 不 了  我 还 有别 的 安排-that &apos;s very nice of you , but i &apos;m afraid i can &apos;t . i have other plans .-0.478
+49113-谢谢 你 如此 热心  但 我 更 愿 一 个 人 在 家 里 静静 地 过-thanks for your kindness , but i prefer to celebrate my birthday quietly at home .-0.478
+50751-我 打 电话 是 要 谢谢 您们 这么 快 就 留意 处理 停车 的 问题-i am calling to thank you for seeing to that parking problem so promptly .-0.478
+50764-无论 如何 谢谢 您  我 会 在 名单 上 取消 您 的 名字  并 退还 您 的 会费-thank you anyway , i &apos;ll take your name off the list and return your conference fee .-0.478
+50871-噢  我 想 我 得 打 电话 谢谢 你 让 我 度过 了 昨晚 那 一 段 美好 的 时光-oh , i just have to call and thank you for the wonderful time i had last night .-0.478
+51137-谢谢 您  太太  如果 您 明天 有空  我们 会 派 一 名 业务员 带 个 展示品 过去-thank you , ma &apos;am , if you have some free time tomorrow , we &apos;ll send one of our salesmen over with a demonstration model .-0.478
+51612-谢谢 各位 的 热烈 欢迎  今天 能 站 在 这里 面对 大家 说话 真 好-thank you for your warm welcome . it is good to be able to be here today and speak before you group .-0.478
+8311-我 不 能 确定  但 我 会 尽力 安排  我们 盼 着 你 今晚 光临  李 先生  谢谢 你 打 电话 来-i &apos;m not sure , but i &apos;ll try my best . we look forward to having you with us tonight , mr. li . thank you for calling .-0.477
+15003-格林 先生  谢谢 您 告诉 了 我 这么 多 东西  顺便 问 一下  您 左右手 都 会 运球 和 投篮 吗-thank you for telling me so much , mr. green , by the way , could you play ambidextrously ?-0.477
+18617-谢谢 你  不过 我 想 最 好 的 证明 是 : 在 过去 的 三 年 里  我们 从 国外 客户 那儿 得到 的 订单 翻 了 一 番-thank you , but i think the best evidence is this : the orders we have received from overseas customers have doubled in the last three years .-0.477
+29774-我 是 威廉·凯勒  今天 我 就 要 回 台北 了  我 是 打 电话 来 谢谢 你 的 帮忙  尤其是 你 花 了 那么 多 时间 陪 我-this is william keller . i &apos;m returning to taipei today , and i call to thank you for all your help and , in particular , for all the time that you &apos;ve spent on me during my stay here .-0.477
+51423-真 谢谢 您  我 要 把 这 资料 交给 小野 田 先生  如果 他 还 要 其他 资料  我 会 再 和 您 联络-thank you very much , i &apos;ll pass this information on to mr. onoda and contact you again if there is anything else he would like .-0.477
+51700-谢谢 各位 今晚 给 我 这 段 时间  对于 你们 将 要 给予 的 帮助  也 在 此 先 表 谢意-thank you for your time tonight and thank you for the help , i know that will be forthcoming .-0.477
+32710-谢谢  这里 是 花 港 观 鱼  在 那边 你 能 看到 大片 的 荷花 随着 微风 起舞 特别 在 日落 时  余辉 给 云彩 勾出 金边 就 更 美 了  我们 因此 称 它 为 曲院 风荷-thank you . here is fish wonder at huagang crook and over there you can see miles of lotus flowers dance in the breeze as sunset glow fringes the clouds . so we call it lotus in the breeze near quyuan garden .-0.476
+51625-谢谢 各位 给 我 这个 机会 面对 大家 说话  我 希望 各位 会 决定 支持 我 的 竞选  我 现在 需要 各位 的 帮助  在 我 当选 以后  你们 可以 信任 我 对 农民 的 支持-thank you for allowing me this opportunity to speak before you today . i hope you will decide to support my candidacy for office . i need your help now , and when i &apos;m elected , you can count on my support for the farmer .-0.476
+51653-今天 的 会议 对 我 来说 将 是 最 值得 怀念 的 场合  因为 该 由 我 感谢 大家 的 时刻 来临 了  谢谢 各位 在 过去 一 年 我 担任 本 团体 会长 时 所 给予 的 支持 和 鼓励-today &apos;s meeting will be a most memorable occasion for me , because it is my time to thank everyone for their support and encouragement in the past year during my tenure as president of this group .-0.476
+152-不  谢谢-no , thank you all the same .-0.475
+254-我 懂 了  谢谢-i see . thank you .-0.475
+418-好 的  谢谢-yes  thank you .-0.475
+466-哦  谢谢-oh ! thanks .-0.475
+485-好 主意  谢谢-good idea ! thank you .-0.475
+519-我 想 我 会 去 那里 的  谢谢-i should say i would go there . thank you .-0.475
+713-不 要 了  谢谢-nothing more thank you .-0.475
+800-不 了  谢谢-no , thanks .-0.475
+831-好 的  谢谢-right , thanks .-0.475
+863-可以  谢谢-yes , thank you .-0.475
+1199-噢  毛毯 和 枕头  谢谢-oh , a blanket and pillow ! thanks .-0.475
+1447-不 用 了  我 自己 完全 能行  谢谢-no , thanks . i can manage it all right .-0.475
+1576-很 好  谢谢-she &apos;s doing fine , thank you .-0.475
+1578-很 好  谢谢-fine , thanks .-0.475
+1658-好吧  谢谢-ok , thank you .-0.475
+1735-把 它们 放到 秤 上  谢谢-put them on the scale . thank you .-0.475
+2282-不  谢谢-no , thank you .-0.475
+2289-同志  谢谢-thank you , comrade .-0.475
+2419-不 要 了  谢谢-no , thank you .-0.475
+2462-再见 了  一路 顺风-good-bye and happy landing .-0.475
+2496-再见  祝 你 旅途 愉快-good-bye . i wish you a pleasant journey .-0.475
+2511-不 用 了  谢谢-no , thanks .-0.475
+2523-再见 了  张 先生  我 会 再 跟 你 联络 的-good-bye , mr. chang , i &apos;ll contact you again .-0.475
+2797-非常 谢谢-thank you very much .-0.475
+3123-不 要 了  谢谢-no , thank you .-0.475
+3196-好吧  我 明天 上午 来 取票  谢谢-good . i &apos;ll collect the ticket tomorrow morning . thank you .-0.475
+3276-好 的  谢谢-yes , of course . thank you .-0.475
+3573-不 用 了  谢谢-no , thanks .-0.475
+3617-不用  谢谢-no , thank you .-0.475
+3910-真是 谢谢-thanks a lot .-0.475
+4091-好 的  这 是 3 块 钱  谢谢-all right . here &apos;s three . thanks .-0.475
+4332-不 用 了  谢谢-no , thanks .-0.475
+4811-不用  谢谢-no , thanks .-0.475
+5391-不  谢谢-no , thanks .-0.475
+5398-不  谢谢-no , thanks .-0.475
+5477-好  谢谢-fine , thanks .-0.475
+5786-我 懂 了  谢谢-i see . thank you .-0.475
+6229-好 的  谢谢-ok , thanks .-0.475
+6232-好 的  再次 谢谢-fine . thanks again .-0.475
+6247-好吧  谢谢-all right . thank you .-0.475
+6586-是 的  谢谢-yes it is . thank you .-0.475
+6671-往 纽约 的 特等 来回 票面 一 张  谢谢-one first-class round-trip ticket to new york , please .-0.475
+7266-很 好  谢谢-fine .-0.475
+7269-早安  我 想 换 300 镑 的 旅行 支票  10 镑 一 张 的 换 200 镑  5 镑 一 张 的 换 100 镑  谢谢-good morning . i want 300 pounds worth of traveler &apos;s cheques , two hundred in ten-pound and one hundred five-pound cheques , please .-0.475
+7300-先生  谢谢-thank you , sir .-0.475
+7617-先生  谢谢-thank you , sir .-0.475
+7630-我 会 的  谢谢-i will , thanks .-0.475
+7855-不 用 了  谢谢-no , thank you .-0.475
+7874-不 了  谢谢-no , thank you .-0.475
+7892-很 好  谢谢-that &apos;s fine . thank you .-0.475
+7924-不 要 了  谢谢-no , thanks .-0.475
+7977-不 需要 了  谢谢-no , thank you .-0.475
+8031-哦  谢谢-oh , thank you .-0.475
+8119-不 用 了  谢谢-no , thanks .-0.475
+8255-很 好  谢谢-good . thank you .-0.475
+8269-没有 了  谢谢-no , thanks .-0.475
+8336-好 的  谢谢-good , thank you .-0.475
+8663-再见  今天 愉快-good-bye , and have a nice day !-0.475
+8920-不 要 了  谢谢-no , thanks .-0.475
+8978-好 的  谢谢-yes , thank you .-0.475
+9110-没 关系  谢谢-never mind . thank you .-0.475
+9318-不  只要 盐  谢谢-no , just the salt . thanks !-0.475
+9387-好 的  谢谢-yes , please , thanks .-0.475
+9662-不  谢谢-no , thank you .-0.475
+9672-当然  谢谢-certainly we will . thank you .-0.475
+9972-太 好 了  谢谢-sounds great , thank you .-0.475
+10021-现在 不 要 了  谢谢-nothing at the moment , thank you .-0.475
+10043-不 要 了  谢谢-no , thank you .-0.475
+10156-不用  谢谢-no , thanks .-0.475
+10477-足够 了  谢谢-thank you. that &apos;s enough .-0.475
+10645-好 的  谢谢-yes , thank you .-0.475
+10733-齐 了  谢谢-yes , thank , you .-0.475
+10939-好 的  谢谢-that &apos;s great . thank you .-0.475
+10942-是 这 位 女士 和 那位 先生  谢谢-they &apos;re this lady and that gentleman , thank you .-0.475
+11156-先生  谢谢-thank you , sir .-0.475
+11216-不 要  谢谢-no , thanks .-0.475
+11311-我 不 要 了  谢谢-no , thanks .-0.475
+11329-不 要 了  谢谢-no , thank you .-0.475
+11686-请 把 菜单 给 我  谢谢-please give me the menus . thank you .-0.475
+11803-好 的  我 要 了  谢谢-all right . i &apos;ll have it . thank you .-0.475
+11852-不 用 了  谢谢-no , thanks .-0.475
+12036-好吧  谢谢-yes , thank you .-0.475
+12203-不 待 了  谢谢-no , thanks .-0.475
+12231-不 行 了  谢谢-no , thanks .-0.475
+12263-很 好  谢谢-that &apos;s fine . thank you .-0.475
+12319-我 的 不 要  谢谢-no , thanks .-0.475
+12332-什么 都 不 放  谢谢-neither , thank you .-0.475
+12370-不  就 这些 了  谢谢-no , that &apos;s all , thanks .-0.475
+12460-我 很 好  谢谢-fine , thank you .-0.475
+12641-不 了  谢谢-no , thanks .-0.475
+12726-要 一点  谢谢-yes , thanks .-0.475
+12788-不 了  谢谢-no , thanks .-0.475
+12793-不  谢谢-no , thank you .-0.475
+12850-不 吃 了  谢谢-no , thank you .-0.475
+12853-不 要 了  谢谢-no , thank you .-0.475
+12952-很 好  谢谢-yes , thanks .-0.475
+13028-不 了  谢谢-no , that &apos;s all , thanks .-0.475
+13029-先生  谢谢-thank you , sir .-0.475
+13804-再见  苏珊-good-bye . susan .-0.475
+14882-这些 菜 的 味道 美 极 了  还 有 这 咖啡  都 挺 合 我 的 味口  谢谢-the dishes are delicious . and the coffee , too . i really enjoy them . thank you so much .-0.475
+17433-好 的  谢谢-right , thanks .-0.475
+18542-很 好  谢谢-i &apos;m fine , thank you .-0.475
+19007-清楚 了  谢谢-yes , thank you .-0.475
+19353-好 的  谢谢-fine , thank you .-0.475
+20082-可以  谢谢-yes . thank you .-0.475
+20466-好 的  谢谢-that &apos;s all right . thank you .-0.475
+20499-可以  谢谢-yes , thank you .-0.475
+20919-有  谢谢-yes , i am .-0.475
+21639-我们 已经 不 是 十几 岁 的 青年 了  后面 的 位子 就 行  谢谢-we aren &apos;t not teenagers . those toward the back will be fine , thank you .-0.475
+22756-好  谢谢-oh , thanks .-0.475
+22919-请 把 衣服 钮扣 解开  现在 深 呼吸  吸气  呼气  吸气  呼气  好 了  谢谢-just unbutton your clothes , please . now , take deep breaths . inhale . exhale . inhale . exhale that will do , thank you .-0.475
+23410-不 买 了  谢谢-no . thank you .-0.475
+23641-不  谢谢-no , thank you .-0.475
+23773-我 会 的  谢谢-i will . thanks .-0.475
+24088-知道 了  谢谢-i see.thank you .-0.475
+24139-不 要 了  谢谢-no , thanks .-0.475
+24246-只是 看看  谢谢-i &apos;m just looking around . thanks .-0.475
+24340-不 用 了  谢谢-no , thank you .-0.475
+24422-非常 谢谢-thanks a lot .-0.475
+24429-那 最 好 不过 了  谢谢-that would be nice . thanks .-0.475
+24508-好  谢谢-thank you-0.475
+24864-不  谢谢-no , thank you .-0.475
+24997-好 的  谢谢-yes , thank you .-0.475
+25042-不 用 了  谢谢-no , thanks .-0.475
+25246-你 太 好 了  谢谢-that &apos;s very kind of you . thank you .-0.475
+25697-好 的  谢谢-ok . thank you .-0.475
+25704-好 的  谢谢-yes , thanks .-0.475
+25782-不 用 了  谢谢-no , thanks .-0.475
+26027-不 了  谢谢-no , thanks .-0.475
+26052-就 买 这些  谢谢-nothing more , thanks .-0.475
+26540-非常 谢谢-thanks a lot .-0.475
+26642-好  一点 不错  谢谢-yes , correct . thank you .-0.475
+26880-请 送 一 个 变压器 到 321 房 来  谢谢-will you please send a transformer to room 321 ? thank you .-0.475
+27006-是 的  谢谢-yes , thank you .-0.475
+27030-噢  我 明白 了  谢谢-oh , i see . thanks .-0.475
+27135-我 自己 拿 上去 就 行 了  谢谢-i &apos;ll carry them myself , thank you .-0.475
+27153-好  谢谢-thank you .-0.475
+27407-不  谢谢-no , thank you .-0.475
+27445-对 的  谢谢-that &apos;s right . thank you .-0.475
+27502-不 要 了  谢谢-no , thank you .-0.475
+27609-不 必 了  谢谢-no , thank you .-0.475
+27724-不用  谢谢-no , thank you .-0.475
+27790-不 要 了  谢谢-no , thanks .-0.475
+27947-是 的  谢谢-yes , please , thank you , sir .-0.475
+27995-这样 就 行 了  谢谢-no , that &apos;s all , thanks .-0.475
+28025-不 用 了  这样 就 行 了  谢谢-no , that &apos;s all , thanks .-0.475
+28052-不 用 了  这样 就 行 了  谢谢-no , that &apos;s all , thanks .-0.475
+28090-知道 了  谢谢-i see , thanks .-0.475
+28128-没有 了  谢谢-no . thanks .-0.475
+28167-只 要 一 个  谢谢-just one , thanks .-0.475
+28180-再见  先生-goodbye , sir .-0.475
+28245-没有 了  谢谢-no , thanks .-0.475
+28832-噢  是 这样  谢谢-oh , i see . thanks .-0.475
+29261-没有 了  谢谢-no , thanks .-0.475
+29302-先生  谢谢-thank you , sir .-0.475
+29555-好极 了  谢谢-wonderful , thank you .-0.475
+29557-还好  谢谢-quite well , thank you .-0.475
+29655-很 好  谢谢-very well , thanks .-0.475
+29670-我 很 好  谢谢-i &apos;m just fine , thanks .-0.475
+29672-很 好  谢谢-fine , thanks .-0.475
+29737-很 好  谢谢-fine , thanks .-0.475
+29740-再见  格林 小姐-good-bye , miss green .-0.475
+29741-再见  史密斯 先生-good-bye , mr. smith .-0.475
+29819-噢  谢谢-oh , thanks .-0.475
+29836-不  谢谢-no , thanks .-0.475
+29840-说实在 的 这 会儿 不 想 抽  谢谢-i honestly don &apos;t feel like one at the moment , thanks .-0.475
+29842-不  谢谢-no , thanks .-0.475
+29849-不  谢谢-no , thanks .-0.475
+29855-不  谢谢-no , thanks .-0.475
+29886-再见  祝 您 快乐-good-bye , have a nice day .-0.475
+30027-不  谢谢-no , thank you .-0.475
+30065-好  谢谢-yes , thanks .-0.475
+30136-再见  祝 你 好运-good-bye and good luck .-0.475
+30366-请 告诉 他 一 有空 就 打 电话 给 我 谢谢-please tell him to call me as soon as he is free . thank you .-0.475
+30554-不 了  谢谢-no , thank you .-0.475
+30656-让 你 久 等 了  谢谢-thank you for waiting .-0.475
+30777-对  谢谢-yes . thank you .-0.475
+30877-202-6560 , 谢谢-202-6560 . thank you .-0.475
+30930-我 知道 了  谢谢-i see . thanks .-0.475
+31084-好  谢谢-fine , thanks .-0.475
+32059-再见  祝 你 好运-good-bye and good luck !-0.475
+32189-行  谢谢-ok . thanks .-0.475
+32298-可以  谢谢-fine.thank you .-0.475
+32638-对 了  谢谢-yes . thank you .-0.475
+32955-好 的  谢谢-yes , thank you .-0.475
+33023-不 啦  谢谢-no , thank you .-0.475
+33042-再见  万事如意-bye-bye . all the best .-0.475
+33205-不用  谢谢-no , thank you .-0.475
+33231-不 用 了  谢谢-no , thank you .-0.475
+33237-不 用 了  谢谢-no , thank you .-0.475
+33394-是 的  谢谢-yes , thanks .-0.475
+33587-再见  先生-goodbye , sir !-0.475
+33664-没有 了  谢谢-no , thanks .-0.475
+33989-你 真 是 太 好 了  谢谢-it &apos;s very kind of you.thanks a lot .-0.475
+34582-再见  祝 你 一切 顺利-goodbye and good luck !-0.475
+37897-不 必  谢谢-no , thank you .-0.475
+38016-不  谢谢-no , thank you .-0.475
+38054-我 够 了  谢谢-i &apos;ve had enough . thank you .-0.475
+38994-清楚 了  谢谢-oh , i &apos;ve got it . thank you !-0.475
+39434-一切 都 挺 好 的  谢谢-everything was excellent , thank you .-0.475
+39525-很 好  谢谢-yes , it was very good , thank you .-0.475
+39547-很 好吃  谢谢-we enjoyed the dinner , thank you .-0.475
+40310-好 的  谢谢-fine , thank you .-0.475
+41402-好 的  谢谢-yes , please .-0.475
+41762-够 了  谢谢-no more , thanks .-0.475
+42236-不 要 了  谢谢-no more , thanks .-0.475
+42238-真的 不 要 了  谢谢-no , thank , really .-0.475
+42330-我 无所谓 吃 什么  谢谢-i wouldn &apos;t care for anything , thanks .-0.475
+47023-明白 了  谢谢-i see . thank you .-0.475
+47221-很 好  谢谢-very well , thank you .-0.475
+47227-很 好  谢谢-pretty good . thank you .-0.475
+47230-过 得 不错  谢谢-quite well , thank you .-0.475
+47402-好  谢谢-yes , thank you .-0.475
+47720-哦  谢谢-oh , thank you .-0.475
+48823-不用  简要 去 送 我  谢谢-no , jane will see me off , thank you just the same .-0.475
+48896-请 把 这个 文件 交给 凯特  谢谢-please give this paper to kate . thank you .-0.475
+49647-不 喝 了  谢谢-no , thanks .-0.475
+49699-噢  不 要 了  谢谢-oh , no we don &apos;t thanks .-0.475
+49778-好 的  谢谢-thanks .-0.475
+49837-好  谢谢-yes , please .-0.475
+49848-顺利  谢谢-yes , thank you .-0.475
+50006-太 好 了  谢谢-sure , thank you .-0.475
+50272-那么 我 就 缩短 一点  谢谢-then i &apos;ll try to shorten it . thank you .-0.475
+50624-好 的  谢谢-all right . thank you .-0.475
+50812-需要  谢谢-yeah , thanks .-0.475
+50816-不 必 了  谢谢-no , thanks anyway .-0.475
+50840-不 用 了  谢谢-no , thanks anyway .-0.475
+50951-很 荣幸  谢谢-i &apos;m honored .-0.475
+50986-我 会 的  谢谢-i will . thank you .-0.475
+51528-到时候 见  谢谢-see you then. thank you .-0.475
+51651-谨 代表 我 的 同事 和 家人 向 这 次 的 获奖 致谢 ； 这个 奖 象征 着 各位 对 我们 社会 上 较 不幸 的 人 和 事 的 关切  谢谢-on behalf of all my co-workers and my family i &apos;ll just say thank you for this award , which symbolizes your own concern for the less fortunate and disadvantaged in our society.thank you .-0.475
+51662-各位 能 给 我 这个 机会 担任 会长  服务 我们 的 城市  并 和 大家 共事  我 诚恳 地 表示 感激  对 我 来说 这 是 最 难忘 的 一 年  希望 我们 的 团体 在 未来 能 继续 成长 和 昌盛  谢谢-for giving me the opportunity to serve as president , to serve our city , and to work with everyone here , i give my sincere thanks to you.this has been a most memorable year or me and i hope our group continues to grow and prospers in the future.thank you .-0.475
+51710-您 的 参与 将 会 确保 比赛 成功  谢谢-your participation will guarantee a successful race.thank you .-0.475
+51800-当然  谢谢-sure , thank you .-0.475
+52151-挺 好 的  谢谢-pretty good , thank you .-0.475
+52236-很 荣幸  谢谢-i &apos;m very much honored.thank you .-0.475
+52237-我 会 的  谢谢-i will.thanks a lot .-0.475
+52248-再见  旅途 愉快-good-bye . have a nice trip .-0.475
+52288-我 知道 了  谢谢-i see . thank you .-0.475
+52318-不 用 了  谢谢-no , thank you .-0.475

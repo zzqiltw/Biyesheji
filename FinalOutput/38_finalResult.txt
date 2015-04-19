@@ -1,0 +1,229 @@
+餐厅 从 早上 六点 到 十点 供应 早餐
+40828-我们 从 七时 三十分 到 九时 在 咖啡厅 内 供应 早餐-we serve breakfast from seven thirty to nine in the coffee shop .-0.493
+10424-是 的  我们 这里 从 上午 六点半 到 九点半 都 供应 早餐-yes , we serve breakfast from 6 : 30 to 9 : 30 in the morning .-0.492
+29090-从 早上 六点三十分 到 晚上 十二点-from 6 : 30 a.m. till 12 : 00 p.m.-0.375
+31883-每 天 从 早上 9 点 到 下午 4 点-every day from 9 : 00 a.m. to 4 : 00 p.m.-0.371
+39793-我们 从 早上 7 点钟 到 晚上 10 点钟 营业-we are open from 7 : 00 a.m. until 10 : 00 p.m.-0.371
+8861-我 星期一 到 星期五  每 天 早上 上班 以前 都 来 这里 吃 早餐-i come here for breakfast every day , monday through friday , before i go to work .-0.357
+29381-这个 时间 咖啡厅 及 餐厅 都 有 早餐 供应-the coffee shop and the restaurant serve breakfast at this time .-0.356
+29368-是 这样 的  我 昨晚 向 你们 点 叫 早上 八点钟 的 早餐  但 到 现在 还 没 送来-yes . i ordered breakfast from you last night for 8 a.m.but it still hasn &apos;t arrived !-0.355
+17251-然后 再 把 它们 牵 回来  喂好  然后 才 吃 早餐  之后 从 马厩 中 出来  以后 再 周而复始  直 到 一 天 结束-you take them back ; they get fed ; then you have your breakfast , and then you come out and do it all over again till you &apos;re finished .-0.354
+27761-门后 有 一 个 洗澡间  热水 供应 时间 是 从 上午 七点 到 夜里 十二点-there is a bathroom behind the door.the not water supply is from 7 a.m.to 12 p.m.-0.353
+34458-搭 六点 的 飞机 到 西雅图  然后 搭 最后 一 班 从 西雅图 到 芝加哥 的 飞机-take the six o &apos;clock flight to seattle , then catch the last flight for chicago from seattle .-0.353
+489-从 广州 到 西安 有 直达车-there is a through train from guangzhou to xi &apos;an .-0.25
+4468-从 这里 到 那儿 要 多久-how long does it take to go to it from here ?-0.25
+6088-从 这里 怎么 到 警察 总局-where &apos;s police headquarters from here ?-0.25
+27807-明天 早上 六点-at 6 : 00 am tomorrow .-0.25
+31991-大约 明天 早上 六点-about 6 : 00 a.m.tomorrow.-0.25
+34969-从 北京 到 西安 有 直达车-there is a straight train from beijing to xi &apos;an .-0.25
+35055-从 厦门 到 福州 有 快客-there is a fast through passenger train from xiamen to fuzhou .-0.25
+37066-我们 从 星期二 到 星期四 有 特价-we have midweek special .-0.25
+38458-明天 早上 十点-ten o &apos;clock tomorrow morning .-0.25
+40067-我们 从 到 营业-we &apos; re open from . until .-0.25
+40827-什么 时候 开始 供应 早餐-what time do you start serving breakfast ?-0.25
+41839-三明治 早上 十一点 才 开始 供应-they are available from 11.00 a.m.-0.25
+6035-谢谢  从 这里 搭 公车 到 台北 要 多久-thank you. how long does it take to go from here to taipei by bus ?-0.249
+38599-我 从 火车站 如何 到 你们 的 店 里-how do i get to your store from the railroad station ?-0.249
+39114-可是 从 这儿 乘 地铁 到 曼哈顿 很 方便-but it &apos;s easy to get to manhattan from here by the subway .-0.249
+3194-请 问 从 机场 该 怎样 到 市中心 去 呢-could you tell me how to get from the airport to the center , please ?-0.248
+2073-机票 是 本着 先 到 先 供应 的 原则 出售 的-seats are available on a &quot; first-come , first-served &quot; basis .-0.247
+21837-请 问 从 我 的 房间 到 你们 夜总会 怎么 走-now how can i get to the club from my room ?-0.247
+27065-您 从 今天 订 到 星期五  是 单人房  房间 号码 是 505-your booking is from today through friday . single room . your room number is 505 .-0.246
+21839-您 就 从 您 所在 楼层 乘 电梯 下 到 第一 层 大厅-you just take the lift from your floor down to the first floor .-0.245
+42619-体重 分级 从 次轻量级 52 公斤 以下 一直 到 超重量级 110 公斤 以上-bodyweight divisions range from the flyweight category under 52 kilos to the super-heavyweight category over 110 kilos .-0.245
+46985-您 能 告诉 我们 怎样 从 最近 的 出口 到 您 的 办公室-could you give us directions on how to get to your office from the nearest highway exit ?-0.245
+51134-本 公司 的 家用 微波炉 售价 从 一千 元 到 两千 元 不等-our microwave ovens for home use run from one thousand to two thousand dollars .-0.245
+306-很 抱歉  从 这里 到 A 没有 直达车-i am sorry to tell you there is no through train from here to a.-0.244
+471-这 是 从 广州 到 上海 的 直达车-it is a through train from guangzhou to shanghai .-0.244
+483-从 杭州 到 上海 的 车次 很多-there are many trains from hangzhou to shanghai .-0.244
+566-从 屯溪 坐 汽车 到 黄山 非常 方便-from tunxi it is very convenient to go to mount huangshan by bus .-0.244
+678-从 福州 有 直达车 到 南京 和 北京-there are through trains from fuzhou to nanjing and beijing .-0.244
+2744-从 这儿 到 机场 有 多少 站-how many stops are there from here to the airport ?-0.244
+4261-从 星期五 下午 到 星期天 下午 两 天-two days from friday afternoon to sunday afternoon .-0.244
+6736-从 北京 到 香港 没有 直通 列车-there is no through train from beijing to hong kong .-0.244
+23799-立体 图像 还 可以 从 30 — CAM 立体 摄像机 直接 传输 到 电视 屏幕 上-images can also be replayed directly from the 30-cam to the television .-0.244
+29001-我 想 订 个 套房  从 6 月 25 日 到 7 月 2 日-i want to book a suite from june 25 to july 2 .-0.244
+32501-中途不停  直接 从 北京 到 上海-the express will go straight form beijing to shanghai without a stop .-0.244
+34819-从 这里 到 旅店 有 多少 站-how many stops are there from here to hotel ?-0.244
+34854-从 纽约 到 佛罗里达 有 多 远-how far is it from new york to florida ?-0.244
+34913-从 长沙 您 可以 到 张家界-from changsha , you may go to zhangjiajie .-0.244
+34928-从 这里 到 西安 有 直达 列车-there is a through train from here to xi &apos;an .-0.244
+34942-有 从 广州 到 上海 的 特别 快车-there is an express train from guangzhou to shanghai .-0.244
+34979-从 西安 有 直达车 到 兰州 和 乌鲁木齐-from xi &apos;an there are through trains for lanzhou and wulumuqi .-0.244
+35031-从 上海 到 南京 有 多 远-how far is it from shanghai to nanjing ?-0.244
+35058-从 南京 可以 乘车 到 中国 许多 地方-from nanjing there are trains to many parts of china .-0.244
+35060-您 可以 从 那里 直接 到 北京-you may go straight to beijing from there .-0.244
+36708-从 这儿 到 国际 机场 有 多远-how far is it from here to the international airport ?-0.244
+37907-从 机场 到 市区 要 多少 时间-how long does it take from the airport to the city ?-0.244
+39131-从 这儿 乘 地铁 到 曼哈顿 很 方便-it &apos;s easy to get to manhattan from here by the subway .-0.244
+39697-对 不 起  先生  今晚 此 餐厅 有 宴会 任务  请 到 其它 餐厅 用餐-i &apos;m sorry , sir , but there &apos;s a banquet in this dining hall . would you please go to the other restaurants ?-0.244
+42048-台北 很多 餐厅 供应 鹅肉-many restaurants in taipei serve goose .-0.244
+43658-从 星期一 到 星期三 你 没 锻炼-you did not play from monday to wednesday .-0.244
+43988-我 每 天 早上 六点 开始 练 篮球-i play basketball at six every morning .-0.244
+305-是 的  我 是 说 是否 有 必要 从 某 次 车换 到 另外 一 次 车 上去-yes , i mean whether it is necessary for me to change from one train to another .-0.243
+1258-从 你们 国家 到 美国 要 减少 一 天-you lose one day when you go from your country to the states .-0.243
+6842-有 从 亚特兰大 到 底特律 的 直达 列车 吗-could you tell me if there is a direct train from atlanta to detroit ?-0.243
+7003-不过 从 这儿 去 曼哈顿 很 方便  你 乘 北线 方向 的 R 路车 到 第 42 街 下车-but it &apos;s easy to get to manhattan from here by the subway . you take the uptown r train and get off at 42nd street .-0.243
+20088-这 是 一 个 长期 的 职位  你 能 每 天 从 上午 九点 工作 到 下午 五点 吗-this is a permanent position . can you work every day from nine to five ?-0.243
+23055-从 昨天 早上 起  我 就 一直 发 高烧-i &apos;ve had a pretty high fever since yesterday morning .-0.243
+26238-我 把 它 挂起 来 晾干  第二 天 早上 发现 它 已 缩小 到 原来 的 一半 了-i hang it to get it dry , and the following morning , it was about half the original size .-0.243
+29169-从 4 月 14 到 4 月 17 日-from april 14 th to april 17th .-0.243
+34473-我 想 预约 从 伦敦 到 台北 的 座位-i &apos;d like to reserve a seat from london to taipei .-0.243
+34639-从 这 进而 到 机场 有 多少 站 路-how many stops are there from here to the airport ?-0.243
+34845-有 从 巴黎 到 波恩 的 直达 火车 吗-is there any direct-train from pairs to bonn ?-0.243
+36037-不  早上 六点 那 班 太 早 了 点-no , the 6 : 00 am flight is a little too early .-0.243
+36612-乘出租车 从 这儿 到 火车站 只 需 20 分钟-it &apos;s only twenty minutes &apos; taxi ride from here to the railway station .-0.243
+43245-按照 老 的 排球 记分 规则  比赛 时间 从 一 个 小时 到 四 个 小时 不 等-under the old scoring system in volleyball , the length of a match could vary from 1 hour to 4 hours .-0.243
+52471-法国 有 近 300 种 不同 的 乳酪  从 味淡 的 乳酪 到 有 纹理 的 乳酪-there are nearly 300 different cheeses from the soft ones to the veined .-0.243
+459-嗯  从 广州 到 北京 每 天 有 几 趟 客车-well , how many passenger trains are there from guangzhou to beijing every day ?-0.242
+1161-打扰 了  从 这儿 到 纽约 的 实际 飞行 时间 是 多少-excuse , what &apos;s the actual flying time from here to new york ?-0.242
+2018-7 月 21 日 从 波士顿 到 纽约 的 203 航班-flight 203 of 21 july from boston to new york .-0.242
+2144-同时  我 想 顺便 更改 从 纽约 到 香港 的 回程 班机-and i &apos;d also like to change my return flight , please , form new york to hong kong .-0.242
+2146-是 六月 十日  从 纽约 到 香港 769 号 班机-that &apos;s on june 10th , flight aa769 from new york to hong kong ?-0.242
+2404-这天 我们 有 三 个 班次 : 早上 十点半  下午 四点 和 下午 六点  你 要 搭 哪 一 个 班次-on this day , we have three flights ; 10 : 30 a.m. , 4 : 00 p.m. and 6 : 00 p.m. which flight ?-0.242
+3147-还有 从 迈阿密 回来 的  有 早上 7 点  下午 12 点 30 分 及 5 点 30 分 的 班机-and returning from miami , there are flights at 7 : 00 a.m. , 12 : 30 p.m. , and 5 : 30 p.m.-0.242
+3173-我 想 订 张 从 洛杉矶 到 东京 的 往返 票-i &apos;d like to book a return flight from los angeles to tokyo .-0.242
+6343-从 这里 搭出 租车 到 饭店 大约 要 多少 钱-about how much does it cost to go there by taxi ?-0.242
+6845-每 天 从 亚特兰大 到 底特律 有 两 趟 列车-there are two trains from atlanta to detroit daily .-0.242
+16067-从 7 月 19 日 到 8 月 4 日-from july 19 to august 4 .-0.242
+17454-我 在 哪儿 能 参观 到 贵 公司 的 机器 呢  如此 我 对 你们 供应 的 货品 才 能 有 较 清楚 的 概念-where can i see some of your machines so that i can get a better idea of what you supply .-0.242
+18132-午餐 时间 从 十二点一 到 一点 ； 晚上 六点钟 以前 回到 旅馆-lunch is from 12 : 00 to 1 : 00 , and you &apos;ll be back at your hotel by 6 : 00 .-0.242
+19894-那么  你们 不 能 从 库存 中 提货 供应 我们-you can &apos;t supply from stock , then .-0.242
+21289-我 只 是 在 一 两 个 小时 之前 到达 伦敦 的  而且 是 从 机场 直接 到 这里 来 的-i arrived in london only an hour or two ago , and came here straight from the airport .-0.242
+27536-啊  知道 了  从 10 月 12 日 到 18 日-ah , yes , i &apos;ve got it , from october 12 to 18 .-0.242
+28399-蝗  我 昨晚 预订 了 早上 七点半 钟 的 早餐-yes . i ordered breakfast last night for 7 : 30 a.m.-0.242
+34470-九月 一日  从 伦敦 到 台北 的 SQ 788 班机-sq 788 on sept . 1 st from london to taipei .-0.242
+34895-有 几 趟 从 这里 到 北京 的 直达 列车-there are through trains from here to beijing .-0.242
+34911-株洲 是 中南 的 一 个 铁路 中心  从 那里 您 可以 向东 到 上海  向 西 到 贵阳  再 到 昆明 或 成都-zhuzhou is a rail center in central-south china , from there you may go eastward to shanghai , or westward to guiyang and then to kunming or chengdu .-0.242
+35001-从 济南 您 可以 乘车 到 美妙 的 海滨 避暑胜地 — 青岛-from jinan you may take a train to qingdao , a wonderful summer seaside resort .-0.242
+35053-不 经过  从 上海 到 厦门 的 列车 不 经过 福州-no , the train from shanghai to xiamen doesn &apos;t pass by fuzhou .-0.242
+35057-我 建议 您 从 福州 乘 特快 车 到 南京-i suggest you take the express train from fuzhou to nanjing .-0.242
+35095-从 上海 到 乌鲁木齐 意味 着 从东 到 西横 穿 中国-to go from shanghai to wulumuqi means to go across china from the east to the west .-0.242
+35974-不  从 广州 到 深圳 坐 特快 只有 2 小时 的 路程-no , it &apos;s only two hours &apos; journey from guanzhou to shenzhen by express train .-0.242
+36343-从 下午 5 点 到 7 点  街 上 都 很 拥挤-from five to seven p.m. , the streets are really crowded .-0.242
+37943-我 乘 过 一 次 从 北京 到 上海 的 飞机-i once flew from beijing to shanghai .-0.242
+42538-餐馆 的 价格 也 从 便宜 到 昂贵  相差 悬殊 很 大-the restaurants can range widely in cost from inexpensive to very expensive .-0.242
+42858-有 10 个 计分 环  排列 顺序 是 从 最 外面 1 分 计分 环 到 金色 靶心 10 分-there are ten scoring rings , ranging from one point for the outer white to ten points for the gold center .-0.242
+43928-本 周 从 星期二 到 星期六 有 四 场 比赛-there are four games from tuesday to saturday .-0.242
+44455-我国 有 少年 培养 计划  年龄 从 7 岁 到 11 岁-in our country we have a junior development program for players aged from seven to eleven .-0.242
+51073-由 星期一 到 星期五  从 九点 到 五点 需要 他们-we will need them from nine to five , monday through friday .-0.242
+52443-世界 各 地 的 人 开始 狂欢 作乐  例如 从 传统 的 滚蛋 游戏 到 最近期 的 举行 派对 作乐-people the world over started to indulge in all forms of revelry , which ranged from traditional games of egg-rolling to the partying of recent times .-0.242
+681-从 南京 和 北京 您 可以 乘 火车 到 中国 几乎 所有 的 地方-from nanjing and beijing you can go to almost all parts of china by train .-0.241
+1355-经理 助理 盖依·杜威 先生 则 从 香港 飞来  再 过 三 分钟 就 到-but the assistant manager , mr. guy dewey , coming from hong kong , is arriving in just three minutes .-0.241
+2623-请 从 这里 下  下车 后 穿 过 马路  笔直 走  过 一 条 横 马路 就 到 汽油 加油站  在 里 附近 你 会 找到 19 路 车-get off here , walk across the street and go straight down for about a block until you come to a gas station . you should be a able to find the no. 19 bus stop nearby .-0.241
+3256-我 想 预订 五月 二十日  八点半 从 哥伦比亚 到 圣詹姆斯 的 超级 特快 车-i &apos;d like to make a reservation on the super express for saint james , leaving columbia at 8 : 30 on may 20th .-0.241
+13082-时间 太 短  来 不 及 到 饭馆 去  也 来 不 及 从 学校  办公室 到 家 里 跑 个 来回  因为 城市 太 大 了-this time is too short for them to eat in a restaurant or to run back and forth from home to school or office , because the cities are too big .-0.241
+14040-从 他们 的 对话 中 我们 了解 到  他们 已经 看 了 好 一会儿 的 球赛-they have been watching the game for a long time . now we can learn from their conversation .-0.241
+27862-从 是 上上 6 点 30 分 到 晚上 12 点钟  几乎 全天 服务-from 6 : 30 a.m. till 12 : 00 p.m. nearly serving all day long .-0.241
+29031-从 3 月 4 日 到 3 月 9 日 共 5 天-for five nights from march 4th until march 9th .-0.241
+29183-我 代表 牛津 大学 的 史密斯 先生 来 电话  预订 四 个 带 浴缸 的 单人 房间  从 6 月 10 日 到 15 日 晚上-i &apos;m calling on behalf of mr. smith of oxford university . i &apos;d like to reserve four single rooms with bath for the nights of june 10 to 15 .-0.241
+31977-从 那里 步行 到 百老汇  您 可以 见到 第一流 的 电影院 和 剧院-from there you walk over to broadway and a major movie or play .-0.241
+34139-您 能 告诉 我 明天 早上 香港 来 的 飞机 几 点钟 到 吗-can you tell me when will the plane from hong kong arrive tomorrow morning ?-0.241
+34402-我 来 电话 是 想 订 张 从 纽约 到 曼谷 的 往返 票-i &apos;m phoning to make a reservation for a return ticket from new york to bangkok .-0.241
+34635-从 前门 上车 的 时候  投 一 元 钱 到 金属 的 票箱 里-when you get on from the front door , drop one yuan into a metal box .-0.241
+35082-您 可以 乘 从 上海 到 西安 的 特快 客车 和 直接 客车-you may take an express passenger train and a fast through passenger train from shanghai to xi &apos;an .-0.241
+39001-我 注册 进 了 维多利亚 英语 学院  从 九月 一日 念 到 三月 二十日-i am enrolled at the victorian english school from sept . 1 st to march 20 th .-0.241
+40515-从 这儿 我们 看 不 到 那 乐队  我们 可以 换 个 桌子 吗-we can &apos;t see the band from here . could we change tables ?-0.241
+42070-这 家 餐厅 供应 很多 种 乳酪  包括 带 蓝 纹 的 乳酪-the restaurant offers many types of cheese , including blue cheese .-0.241
+45404-加拿大人 威廉·约翰·谢林 在 马拉松 训练 中 体重 从 135 磅 下降 到 112 磅-canadian william john sherring dropped from 135 pounds to 112 pounds in the process of training for the marathon .-0.241
+46761-奥委会 对 开幕式 有 很 详细 的 规定 : 从 奥委会 主席 欢迎 主办国 的 国家 元首  以及 组委会 进入 体育场  到 最后 一 个 国家 运动员 入场院 这 一 整个 过程-the form of the opening ceremony is laid down by the ioc in great detail , from the moment when the chief of state of the host country is received by the president of the ioc and the organizing committee at the entrance to the stadium , to the end of the proceedings when the last team files out .-0.241
+51075-从 现在 起 到 年底 请 您们 给 我们 提供 一 位 总机 接线员-we would like you to provide us with a switchboard operator from now until the end of the year .-0.241
+630-从 北京 您 可以 乘 北京 — 昆明 的 特快 客车 到 怀化  然后 再 换车 到 大庸-from beijing , you can take the beijing-kunming express passenger train to huaihua , and from huaihua take other train to dayong .-0.24
+1542-我 想 各位 经过 从 美国 到 中国 的 这 一 段长 时间 旅行 之后  都 希望 好好 休息 一下-i expect after such a long trip from the united states to china , you &apos;d like to have a good rest .-0.24
+3137-我 是 道格拉斯  本来 我 订 了 明天 两 点 从 洛杉矶 到 那瑞塔 的 606 班机  但是 我 现在 想 改成 后天-yes . my name &apos;s douglas , and i have a reservation on flight 606 for narita , leaving los angeles at 2 o &apos;clock tomorrow . i &apos;d like to change my booking to the day after tomorrow .-0.24
+13622-对于 重 剑 而 言  全身 都 是 有效 部位  但 花剑 只有 触及 从 颈骨 到 髋骨 的 部位 才 能 得分-the entire body is a valid target for the epee , but in foil a touch can be scored only on the body between the collar and hipbones .-0.24
+15425-这些 问题 给 一 个 失败 的  从 甲 级 直落 到 丁级 的 球会 留下 的 是 长期 合同 和 高薪 ； 而 用 付 钱 的 方式 去 解决 这些 问题  它们 又 无能为力-and they left behind long-term contracts , high wages , for a club that had failed and removed themselves from the first division right the way down to the fourth division ; and no way could they pay their way .-0.24
+16733-从 一 个 单纯 向前 跳水 的 1.2 到 高难度 向前 翻腾 四 周 半 的 3.5 不 等-it ranges from 1.2 for a simple forward dive to 3.5 for a highly difficult forward four and a half somersault dive .-0.24
+17637-对于 陶瓷器 来说  我 想 轻 工业品 公司 应 从 我们 信用证 中 领会 到 我们 要 保 的 是 “ 一切险 ”  包括 破碎 险 在内  所以 双方 都 有 错误  我 认为 损失 应 由 双方 承担 —— 我们 就 对半 负担 吧-for an item like ceramics , i think the light industrial products corporation should have understood from our letter of credit that we wanted to cover all the risks , including the risk of breakage . i must say the error was on both sides and i think the loss ought to be shared by both parties , let us say half and half .-0.24
+18129-我 想 花 几 分钟 告诉 各位 此 次 在 台北 的 行程表  从 今天 到 星期五  你们 都 得 待 在 工厂-i &apos;d like to take a few moments to tell you about your schedule here . today through friday you &apos;ll be pretty tied up at the factory .-0.24
+20874-我 将 请 我们 的 银行 开出 保兑  不 可 撤销 的 信用证 来 支付 定单 和 从 青岛 到 温哥华 的 运输 费用 .-i &apos;ll make arrangements with our band to open a confirmed , irrevocable l / c to cover our orders and shipment from qingdao to vancouver .-0.24
+32552-从 法兰克福 回到 普雷期斯特威克 的 班机  有 早上 8 点 5 分 及 下午 5 点 45 分 两 班-coming back to prestwick from frankfurt , there are flights at 8 : 05 a.m. and 5 : 05 p.m.-0.24
+32607-好 的  那么 请 给 我 1 张 去 旧金山 的 机票 和 1 张 从 旧金山 到 纽约 的 机票-good . then , please book me 1 ticket to san francisco and 1 from san francisco to new york .-0.24
+34526-那 就 买 两 张 巴航 104 航班 去 开罗 的 机票 和 两 张 法航 53 航班 从 开罗 到 日内瓦 的 机票-then book me two seats on flight pia 104 to cairo , and two seats on flight af 53 from cairo to geneva , please .-0.24
+34923-从 武汉 您 可以 乘船 沿 长江 上行 到 重庆  欣赏 闻名 世界 的 三峡 独特 风光-from wuhan you can take a ship up the yangtze river to chongqing enjoying the unique scenery of the world-famous three gorges .-0.24
+34990-但是 请 您 注意 从 北京 到 上海 的 直达 特别 快车 在 徐州  南京  苏州 不 停车-but mind you that the express train from beijing to shanghai does not stop at xuzhou , nanjing and suzhou cities .-0.24
+42441-在 采摘 下来 的 幼苗 中  幼芽 和 头 一 片 叶子 中 的 酚类 物质 含量 最高  从 第一 片 到 第三 片 叶子  酚类 物质 依次 减少  茶梗 中 的 含量 最 少-the concentration of phenolic substances is greatest in the bud and the first leaf of the harvested tea shoot , is progressively less in leaves 1 to 3 and is least in the stem .-0.24
+42475-营业 时间 在 全 国 各 地 不 相同  星期一 到 星期六 大致 是 从 上午 11:00 到 下午 2:30  再 从 下午 6:00 到 晚上 10:30 或 11:00  星期天 大致 从 中午 12:00 到 下午 2:00  再 从 晚上 7:00 到 10:30-times vary in different parts of the country , but are approximately from 11a.m. to 2.30 p.m. and from 6 p.m to 10.30 p.m or 11 p.m on weekdays , and from 12 noon to 2 p.m and from 7.00 to 10.30 p.m on sundays .-0.24
+42545-在 大多数 的 自助 餐厅  人们 都 要 排队  通常 一边 走 一边 从 柜台处 挑选 食品-in most cafeterias , you stand in line . as you walk along , you select items available at a counter .-0.24
+42899-个人赛 开始 时  每 位 射手 从 70 米 外 的 地方 射出 其 不意 72 支箭  以 此 决定 准 是 种子 选手  然后  以 两 人 组 比赛 形式 继续 进行 比赛  直 到 剩下 8 位 选手 为止-the individual competition begins with each archer shooting 72 arrows from 70 meters to determine seeding and continues on in a match-play format until just eight competitors remain .-0.24
+45521-不 知 什么 原因  从 1964 年 奥地利 的 因斯布鲁克 到 1968 年 法国 的 格诺布勒  再 到 1972 年 日本 的 札幌  冬奥会 均 得到 顺利 举行  几乎 没有 遇到 任何 政治 或者 社会 动乱-whatever the reason , from 1964 in innsbruck , austria , through 1968 in grenoble , france , through 1972 in sapporo , japan , the winter games skated along with hardly any political or social unrest .-0.24
+45526-正 如 加拿大队 从 1920 到 1952 年 一直 雄居 冰球 霸主 地位 那样  前 苏联 从那 以后 也 基本上 一直 是 霸主-just as canada dominated olympic ice hockey from 1920 through 1952 , so the former soviet union has been in control most of the time since then .-0.24
+46120-一 方 运动员 将 从 自己 桌面 上 弹起 的 球击 过 球网  并且 使 球击 中 对方 桌面  对方 同样 将 球 击 回  这样 往复  直 到 一 方 回球 失误 而 失分-the player hits ball after it has touched the table once on his own side of the net so it goes straight back over the net to touch the table on his opponent &apos;s side until one player can not return the ball this way and loses the point .-0.24
+46615-没有 任何 一 次 交 接棒 是 完美 的  并且 刘易斯 在 冲刺 时 还 冒险 把 接力棒 从 一 只 手 换 到 了 另 一 只 手  但是 交接棒 已 足够 这些 飞人 位 横扫 一切 了-none of the handoffs were perfect , and lewis made the risky move of switching the baton from one hand to the other during his run . but the exchanges do their work .-0.24
+12278-有  自助 餐厅 食品 丰富  既 有 中式 食品  也 有 西式 食品  还 有 各 式 色拉  点心  水果 ； 快 餐厅 有 快餐 食品 供应-yes , there &apos;s a buffet and a snack bar in our hotel . our buffet serves rich chinese and western foods and also various kinds of salads , cakes , and fruit . and fast food is available in our snack bar .-0.239
+35430-从 北京 您 可以 乘 直达车 到 东部 的 上海  南京 ； 南部 的 广州  南宁 ； 西南 的 昆明  成都 ； 西部 的 西安  兰州 ； 西北 的 乌鲁木齐 和 东北 的 沈阳  哈尔滨 和 大连-from beijing you can take a train straight to shanghai and nanjing in the east , guangzhou and nanning in the south , kunming and chengdu in the southwest , xi &apos;an and lanzhou in the west , wulumuqi in the northwest , and shenyang , harbin and dalian in the northeast .-0.239
+46775-1914 利用 顾拜旦 构思 设计 的 会旗 是 它 的 原型  旗 为 白底  中央 有 五 个 套 连 着 的 环  从 左 到 右 颜色 分别 是 蓝  黄  黑  绿 和 红色-the olympic flag presented by baron coubertin in 1914 is the prototype : it has a white background and in the center there are five interlaced rings blue , yellow , black , green and red . the blue ring is on the left next to the pole .-0.239
+51629-这个 计划 将 使得 “ 台北 铁路局 ” 各 部门 的 主管 及 其 属下 都 能 在 同 一 栋 大楼 内 工作  所 占 地方 是 从 第三 楼 到 第六 楼  七 楼 专供 各 项 新 的 电脑 设备 之用  一 楼 和 二 楼 则 为 火车 和 地铁 的 车站  而 位于 地下 的 三 层 楼 则 为 月 台区 和 维修区-this project brings under one roof all the heads of the departments in the taipei railway administration and their staff.they will occupy the third to the sixth floors.the seventh floor will house the new computer facilities.the first and second floors will be the train and subway station , while the three subterranean floors will be the platforms and maintenance areas .-0.239
+610-您 到 北京 观光 之后  可以 乘 直达 列车 从 北京 到 西安-and after you &apos;ve visited beijing . you may take through trains from beijing to xi &apos;an .-0.238
+666-你是 说  我 能 很 容易 地 从 九江 到 庐山-you mean it is very easy for me to go from jiujiang to mount lushan ?-0.238
+674-从 厦门 到 福州 有 直 快 客车-there is a fast passenger train from xiamen to fuzhou .-0.238
+1170-从 这里 到 美国 要 减少 一 天-we lose one day when we go from here to the states .-0.238
+4757-从 这儿 到 车站 要 多 长 时间-how long is the ride from here ?-0.238
+5906-从 这儿 到 那 饭店 有 多 远-and how far is the hotel from here ?-0.238
+6480-火车 将 于 明天 早上 8 点 到 广州-it will arrive in guangzhou at 8 o &apos;clock tomorrow morning .-0.238
+8222-我们 的 送餐 服务 从 七点 到 九点-breakfast is served in your room from seven to nine .-0.238
+8327-欢迎 您 到 我们 餐厅 用餐-welcome to our restaurant .-0.238
+8559-早上 好  四川 餐厅-good morning , sichuan restaurant .-0.238
+8569-成都 餐厅 供应 地道 的 川菜-chengdu restaurant serves good sichuan style food .-0.238
+14483-从 车站 差不多 走 10 分钟 就 会 到 球场-it &apos;s about ten minutes &apos; walk form the train station to the stadium .-0.238
+21581-所以 要 建 这么 长  越 高 山  跨 平原  从 陆地 到 海洋-that &apos;s why they had to make it so long , over mountains and across plains , from the land to the sea .-0.238
+21668-从 晚上 十点 开始  大约 在 凌晨 二点 时 结束-it starts at 10 : 00 at night and is over about two o &apos;clock in the morning .-0.238
+21846-从 星期一 到 星期五 是 凌晨 2 点 关门  周末 两 天 是 凌晨 4 点 关门-we close at two o &apos;clock in the morning from monday to friday and we close four o &apos;clock in the morning at the weekend .-0.238
+27205-女士  请 稍等 一下  洛克 女士  找到 了  带 淋浴 和 浴缸 的 双 人 房间  时间 是 从 今天 到 12 日-just a moment , ma &apos;am . here we are , ms. lock . a double room with bath and shower from today to the twentieth .-0.238
+27283-早餐 几点 开始 供应-what time can i have breakfast ?-0.238
+28755-明天 早上 我 要 去 伦敦  请 把 我 的 账结 到 明天 早晨-tomorrow morning i will leave for london , so please add up my charges through tomorrow morning .-0.238
+31609-去年 夏天 我 搭 灰 狗 巴士 从 纽约 旅行 到 旧金山-last summer i traveled from new york to san francisco by greyhound .-0.238
+32346-我 六点 十分 到 你 写字楼 接 你-i &apos;ll pick you up at your office at six-ten .-0.238
+34153-日 航 888 航班 明天 早上 十一点 到 北京-jal flight 888 will arrive in beijing at 11 a.m. tomorrow .-0.238
+34441-从 纽约 到 伦敦 的 机票价 是 多少-what &apos;s the air fare from new york to london ?-0.238
+34527-从 伦敦 到 纽约  明天 有 哪些 班机-what flights are there from london to new york tomorrow ?-0.238
+34650-从 这里 到 中央 广场 有 多少 站-how many stops from here to central square ?-0.238
+34817-从 这儿 到 芝加哥 坐 公共 汽车 要 花 多 长 时间-how long does it take to go from here to chicago by bus ?-0.238
+34851-从 伦敦 到 利物浦 可以 坐 哪 几 趟 车-how many trains are available for trips from london to liverpool ?-0.238
+34855-从 芝加哥 到 底特律 坐 哪 一 班 车 最 快-which train offers the fastest service from chicago to detroit ?-0.238
+34968-您 可以 直接 从 北京 到 西安-you may go straight from beijing to xi &apos;an .-0.238
+34981-从 西安 到 成都 有 几 次 直达车-there are several through trains from xi &apos;an to chengdu .-0.238
+34983-从 北京 到 上海 有 几 趟 客车  特快 客车 和 直 快 客车-there are several passenger trains from beijing to shanghai , express passenger trains and fast through passenger trains .-0.238
+35005-从 南京 您 可以 在 您 方便 的 时候 到 上海 去-from nanjing you may take a train to shanghai at your convenience .-0.238
+35026-从 上海 到 南京 有 好几 次 车-there are a number of trains from shanghai to nanjing .-0.238
+35032-从 上海 到 南京 大约 有 300 公里-it is about three hundred kilometers from shanghai to nanjing .-0.238
+35040-从 上海 到 南京 的 特快 车  沿途 不 停车-the express train from shanghai to nanjing doesn &apos;t stop on the way .-0.238
+35041-从 上海 到 南京 的 特快 车 沿途 不 停车  直达 南京-the express train from shanghai to nanjing goes straight there without stopping on the way .-0.238
+35069-从 上海 到 昆明 大约 有 3000 公里-it is about three thousand kilometers from shanghai to kunming .-0.238
+35087-从 上海 到 西安 有 多 远 路程-how far is it from shanghai to xi &apos;an ?-0.238
+35247-从 这里 到 I 的 距离 是 多少-what is the distance from here to i ?-0.238
+35248-从 这里 到 J 的 距离 是 K 公里-the distance from here to j is k kilometers .-0.238
+35256-从 这里 到 Q 每 天 有 多少 次 车-how many trains are there from here to q every day ?-0.238
+35258-从 这里 到 S 只 有 一 次 直快 客车-there is only one fast through passenger train from here to s.-0.238
+35710-早上 七点 有 一 班  上午 十一点 到-there &apos;s a train at 7 a.m. it &apos;ll get you there at 11 a.m.-0.238
+35968-从 沈阳 到 长沙 有 直达 火车 吗-is there a direct train from shenyang to changsha ?-0.238
+37755-从 悉尼 到 北京 飞行 时间 很 长-it is a long flight from sydney to beijing .-0.238
+38515-从 这儿 到 机场 还 有 11 站-there are 11 stops from here to the airport .-0.238
+38980-从 这里 到 第二 条 街 的 转弯处-it &apos;s two blocks from here on the corner .-0.238
+39676-抱歉  豆浆 只 供应 到 上午 10 点-i &apos;m afraid soybean milk is only available until ten o &apos; clock a.m ..-0.238
+40883-欢迎 到 我们 餐厅 来-welcome to our restaurant .-0.238
+41630-今天 早餐 你们 供应 什么-what do you have today for breakfast ?-0.238
+41840-豆浆 恐怕 只 供应 到 上午 十一点-i &apos;m afraid soybean milk is only available until 11 a.m.-0.238
+43922-在 我 去 体育馆 的 路 上  我 在 公共 汽车 里 从 半导体 收听 到 的-on my way to the stadium , i heard it in the bus on my small transistor radio .-0.238
+47902-是 啊  我 从 报纸 上 了解 到 的-yeah . i got it from the newspaper .-0.238
+50654-你 能 确认 一下  开会 的 时间 是 早上 十点 吗-can you confirm that the meeting is at 10 : 00 a. m ?-0.238
+51642-对于 贵 组织 的 某些 慈善 义举 和 进步 的 观念  我 早 有 耳闻  因此 能够 获选 来 接受 此 奖  我 感到 十分 荣幸  同时 我 也 觉得 非常 幸运  因为 我 真的 很 喜欢 我 的 工作  虽然 有时候 这 工作 不 容易  有时 我 也 考虑 要 将 之 放弃  换 个 轻松 一点 的 工作 做 ； 有时 你 认为 已经 看尽 人间 惨状  而 你 仍 得 面对 一 个 情况 比 你 所 可能 想到 的 还 要 糟 的 家庭  然而  从 一 个 老 人 疲倦 眼神 中  我 看到 了 火花 闪耀  我 也 感觉 到 人们 的 心 在 转变  变得 再度 开放  我 知道  这 就 是 我 必须 待 的 地方  这 也 是 我 必须 做 的 工作-i &apos;ve know for some time of this organization &apos;s charitable deeds and progressive ideas and i feel it is an honor to be selected to receive this award . i feel very lucky because i really enjoy my work , even though sometimes it is hard , and sometimes i think of giving it up for something easier.at times you think that you &apos;ve seen it all by now , only to be confronted with a family &apos;s situation that is worse than you ever imagined possible.but then i see a sparkle in an old man &apos;s tired eyes , i feel people &apos;s hearts changing , opening up again and i know this is where i must be , and this is the work i must be doing .-0.238
+39688-抱歉  我们 午餐 只 供应 到 2 点半 钟-i &apos;m afraid we only serve lunch until half past two .-0.237
+18303-好  我 明天 上午 十点 到 这里  你 看 行吗-good . i &apos;ll be here tomorrow morning at 10. how is that ?-0.236
+22088-谢谢 光临  欢迎 再 到 我们 餐厅 来  再 见-thank you for coming . welcome to call again . goodbye .-0.236
+32344-好  那 好 啊  不过 我 要 到 六点 才 有空-yes , that would be nice , but i won &apos;t be free until six .-0.236
+9180-如果 您 赶 时间 的话  我们 在 大厅 的 咖啡厅 也 有 早餐 供应-if you are in a hurry , we also serve breakfast at the coffee shop on the lobby floor .-0.235
+32329-请 到 我们 这 间 戏院 订票  早上 十一点半 至 晚上 六点半 在 预售处 预售-please come and get tickets for reserved seats at this theater . tickets are sold at the advance sales window between 11 : 30 in the morning and 6 : 30 in the evening .-0.235
+39682-抱歉  先生  三明治 还 无法 供应  要 到 12 点钟 才 有-i &apos;m afraid we cannot serve sandwiches yet , sit . they are available from twelve o &apos;clock .-0.235
+6476-一 个 导游 正 带 着 一 个 旅游团 到 火车站  他们 要 乘 火车 从 北京 一 广州-a tour guide is leading a tour group to a railway station . they want to take a train from beijing to guangzhou .-0.234
+8243-情况 是 这样 : 我 要 在 房间 等 一 个 来自 加拿大 的 国际 长途 电话  不 到 餐厅 去 了-the situation is this : i &apos;m waiting for an international call from canada and not going to the restaurant .-0.234
+9207-一 个 导游 和 他 的 旅游团 到 一 家 餐厅  服务员 接待 了 他们 导游 为 客人 安排 坐位-a tour guide and his tour group go to a restaurant . a waiter attends them . the tour guide seats his guests .-0.234
+18552-考虑 到 还 有别 的 进口商  估计 我们 公司 今年 最 多 能 从 中国 订购 大约 五千万 日元 的 丝绸-considering the total number of the importers , we estimate that the maximum quantity of silk goods we ca buy from china this year is about 50 million japanese yen .-0.234
+3144-我 来 查查 看 这些 日子 有 没 有 空位  我们 有 早上 10 点 15 分  中午 和 下午 3 点 从 芝加哥 起飞 的 班机-let me check if there are seats available on those days . we have flights leaving chicago at 10 : 15 a.m. , noon , and 3 : 00 p.m.-0.233
+38853-就 沿 这 条 路 直 到 一 座 火车桥  从 桥 下 过  车站 在 左 手 边  你 会 看到 的-just go straight along this road until you come to a railroad bridge . go under the bridge . it &apos;s on the left hand side . you can &apos;t miss it .-0.233
+8683-明天 下午 六点 整 在 小 餐厅  可以 吗-at six exactly tomorrow afternoon in the small dinning-hall . is that ok ?-0.231
+12887-我们 到 一 家 餐厅 去 了-we went to a restaurant .-0.231
+28883-这样  你 就 可以 呆 到 六点 前-so , you can keep your room before that .-0.231
+34155-国航 611 航班 明天 早上 7:40 从 北京 起飞-ca flight 611 will depart from beijing at 7 : 40 am tomorrow .-0.231
+35676-到 苏黎世 的 火车 从 哪 个 月 台 出发-which platform does the train for zurich leave from ?-0.231
+41446-我们 的 午餐 只 供应 到 下午 三点钟-i am afraid we only serve lunch until 3 p.m.-0.231

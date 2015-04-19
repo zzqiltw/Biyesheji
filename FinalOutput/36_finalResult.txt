@@ -1,0 +1,456 @@
+餐厅 晚上 十点 打烊
+8534-不过 本 餐厅 营业 至 晚上 10 点-but the restaurant is open until 10 : 00 p.m.-0.488
+8536-本 餐厅 接受 最后 点菜 时间 是 晚上 9 点半-our last order for dinner is at 9 : 30 p.m.-0.485
+21668-从 晚上 十点 开始  大约 在 凌晨 二点 时 结束-it starts at 10 : 00 at night and is over about two o &apos;clock in the morning .-0.485
+34114-坐 哪 一 班 飞机 我 可以 在 晚上 十点 之前 赶到 汉堡-which flight can take me to hamburg by 10 p.m. ?-0.483
+8845-晚上 好  帝 宛 餐厅  您 有 什么 事 需要 帮忙 吗-good evening . emperor &apos;s court . may i help you ?-0.467
+8474-让 我 重复 一下 刚才 您 所 说 的 : 下 周二 晚上 7:30 在 喜 盈门 举行 婚礼 宴会 ； 35 位 客人 ； 餐厅 需 特别 装饰 ； 三 台 宴席  每 台 1,500 元 ； 需要 饮料  水果 和 停车场-i &apos;ll repeat what you &apos;ve told me : a wedding party at xi yin men at 7 : 30 next tuesday evening ; thirty-five guests ; special decoration of the room ; banquet of three tables at one thousand and five hundred a table ; drinks ; fruit ; parking space .-0.464
+8686-晚上 好  花园 餐厅-good evening . the garden restaurant .-0.462
+9209-晚上 好  要 一 间 有 2 张 桌子  每 张 桌子 可 坐 下 8 个 人 的 餐厅-good evening . we want a dinning room with two tables , each table for eight .-0.462
+9388-晚上 好  女士们  先生们  欢迎 来 本 餐厅 就餐-good evening , ladies and gentlemen . welcome to our restaurant .-0.462
+444-晚上 好-good evening .-0.25
+445-晚上 好-good evening .-0.25
+6011-晚上 好-good evening , sir .-0.25
+6575-存到 晚上 十点钟-till ten o &apos;clock in the evening .-0.25
+6742-晚上 十点半-at 22 : 30 .-0.25
+7343-晚上 好  先生-good evening , sir .-0.25
+7425-晚上 好  先生-good evening , sir .-0.25
+7521-晚上 好-good evening .-0.25
+7545-晚上 好  先生-good evening , sir .-0.25
+7547-晚上 好-good evening .-0.25
+7574-晚上 好-good evening .-0.25
+8169-先生  晚上 好-good evening , sir .-0.25
+8298-晚上 6 点-at 6 p.m.-0.25
+8326-晚上 好  先生-good evening , sir .-0.25
+8583-晚上 好-good evening .-0.25
+8625-晚上 好-good evening .-0.25
+8796-晚上 好-good evening .-0.25
+8801-星期四 晚上 大约 7:30-thursday evening , say , around 7 : 30 .-0.25
+8817-星期天 晚上 9:30-at 9 : 30 on sunday evening .-0.25
+8827-餐厅-restaurant .-0.25
+8846-晚上 好-good evening .-0.25
+8882-晚上 好  先生-good evening  sir .-0.25
+8900-晚上 好  先生-good evening , sir .-0.25
+9013-餐厅 已 满-5 . the restaurant is full-0.25
+9153-晚上 好  先生-good evening , sir .-0.25
+9211-餐厅 都 满 了-the rooms are not available now .-0.25
+9251-先生  晚上 好-good evening , sir .-0.25
+9267-先生  晚上 好-good evening , sir .-0.25
+9326-晚上 好-good evening .-0.25
+9354-先生  晚上 好-good evening , sir .-0.25
+9355-晚上 好-good evening .-0.25
+9474-晚上 好  先生们-good evening , gentlemen .-0.25
+9493-晚上 好  先生-good evening , gentlemen .-0.25
+9976-晚上 好  先生们-good evening , sirs .-0.25
+10374-晚上 好  先生-good evening sir .-0.25
+10643-晚上 好  先生-good evening , sir .-0.25
+10739-晚上 好  先生-good evening , sir .-0.25
+10752-晚上 好  先生-good evening , sir .-0.25
+11241-晚上 好  先生-good evening , sir .-0.25
+11288-晚上 好-good evening !-0.25
+11387-先生  晚上 好-good evening , sir .-0.25
+11402-晚上 好  先生-good evening , sir .-0.25
+11432-先生  晚上 好-good evening , sir .-0.25
+11491-晚上 好  先生-good evening , sir .-0.25
+11663-晚上 好-good evening .-0.25
+11688-晚上 好-good evening .-0.25
+11768-晚上 好  先生-good evening , sir .-0.25
+11770-晚上 好-good evening .-0.25
+11847-晚上 好  先生-good evening , sir .-0.25
+11848-晚上 好-good evening .-0.25
+11894-晚上 好  先生-good evening , sir .-0.25
+11896-晚上 好  小姐-good evening , miss .-0.25
+11938-晚上 好  先生-good evening , sir .-0.25
+11940-晚上 好-good evening .-0.25
+11987-先生  晚上 好-good evening , sir .-0.25
+12004-晚上 好  先生-good evening , sir .-0.25
+12005-晚上 好-good evening .-0.25
+12503-晚上 七点钟-at 7 : 00 in the evening .-0.25
+12537-星期六 晚上 如何-how about this saturday evening ?-0.25
+12866-明天 晚上 行吗-can you come tomorrow evening ?-0.25
+13784-晚上 好  苏珊-good evening , susan .-0.25
+21052-星期天 晚上 七点 怎么样-how about sunday evening , at seven o &apos;clock .-0.25
+21631-晚上 6:30.-at 6 : 30 p.m.-0.25
+21876-晚上 好  小姐-good evening , miss .-0.25
+21925-晚上 好  先生们-good evening , gentlemen .-0.25
+23972-女士  晚上 好-good evening , ma &apos;am .-0.25
+24825-晚上 好  先生-good evening , sir .-0.25
+25509-晚上 好  先生-good evening , sir .-0.25
+25511-晚上 好-good evening .-0.25
+25552-晚上 好  夫人-good evening , madam .-0.25
+25553-晚上 好-good evening .-0.25
+26942-晚上 好  先生-good evening .-0.25
+27154-晚上 好-good evening .-0.25
+27282-餐厅 就 在 那边-the restaurant is right there .-0.25
+27505-餐厅 在 哪儿-where is it ?-0.25
+28182-晚上 好-good evening .-0.25
+28202-晚上 好-good evening .-0.25
+29426-晚上 好-good evening !-0.25
+29999-晚上 见-see you .-0.25
+32249-周六 晚上-saturday night .-0.25
+33885-先生  晚上 好-good evening , sir .-0.25
+33942-餐厅 在 哪里-where is the dining saloon ?-0.25
+38458-明天 早上 十点-ten o &apos;clock tomorrow morning .-0.25
+39805-我们 晚上 10 点半门-we close at 10 : 30 p.m.-0.25
+39911-我们 晚上 九点半 关门-we close at 9 : 30 p.m.-0.25
+41708-这个 晚上 真 好玩-this has been a fun evening .-0.25
+48817-昨天 晚上-last night .-0.25
+50880-星期六 晚上  在 舞厅-saturday night at the dance hall .-0.25
+51843-明天 晚上 怎么样-how about tomorrow evening ?-0.25
+52118-晚上 好-good evening .-0.25
+8691-现在 餐厅 有 空位 吗-is there any table free right now ?-0.248
+10617-推荐 餐厅 的 风味 菜-16 . recommending the specials in the restaurant-0.248
+29653-喔  晚上 好  方 先生-oh , good evening , mr. fang .-0.248
+32231-今天 晚上 什么 时候 开始-what time does it start tonight ?-0.248
+32299-你 今天 晚上 有空 吗-are you doing anything this evening ?-0.248
+39982-郁金香 餐厅 为 您 服务-the tulip restaurant at your service .-0.248
+40025-下 星期三 晚上 8 点半-at 8 : 30 on next wednesday evening .-0.248
+40042-你们 晚上 有 火锅 吗-do you have pot service at evening ?-0.248
+3918-电影 散场 时 已经 十点 了-it &apos;s already ten o &apos;clock when the show is over .-0.246
+8418-我们 准备 晚上 7 点钟 到-we plan to arrive at 7 in the evening .-0.246
+8520-本 餐厅 7 点 开始 营业-the restaurant opens at 7 : 00 a.m.-0.246
+8527-贵 餐厅 开设 下午 茶 吗-do you have afternoon tea in your restaurant ?-0.246
+8569-成都 餐厅 供应 地道 的 川菜-chengdu restaurant serves good sichuan style food .-0.246
+8602-7:30 开门  晚上 12:00 点 关门-at 7 : 30 . and we close at midnight .-0.246
+11548-贵 餐厅 的 招牌粥 是 什么-what &apos;s your specialty ?-0.246
+18380-昨 晚上 休息 得 很 好-i had a very restful night .-0.246
+34370-我 喜欢 乘坐 晚上 的 飞机-i prefer a night plane .-0.246
+39309-明天 晚上 我 想 吃 野鸭-i &apos;d like to have the wild duck tomorrow night .-0.246
+39741-点菜 最 晚到 晚上 10 点-our last order is at ten o &apos;clock p.m.-0.246
+41294-你们 的 餐厅 有 什么 菜系-what kind of cuisine do you have in your dining-room ?-0.246
+47448-约翰 昨天 晚上 心脏病 发作 了-john had a heart attack last night .-0.246
+7838-谢谢  祝 您 晚上 过 得 愉快-thank you , sir . have a nice evening .-0.245
+8519-请 问 贵 餐厅 几点 开始 营业-when does the restaurant open , please ?-0.245
+8523-贵 餐厅 的 早 茶 几点 开始-when is the restaurant open for the morning tea ?-0.245
+8645-不 一定  可能 在 晚上 9:00 左右-i &apos;m not sure , perhaps around 9 p.m.-0.245
+8859-这 餐厅 真 不错  你 觉得 呢-this is pretty good , isn &apos;t it ?-0.245
+9434-很 好 的 餐厅  不 是 吗-this is a nice restaurant , isn &apos;t it ?-0.245
+9439-世界 著名 的 餐厅 我 都 知道-i know all the great restaurants in the would .-0.245
+9473-午餐 时间  餐厅 里 挤满 了 人-it &apos;s dinner time . the restaurant is full of people .-0.245
+11337-这 家 餐厅 的 东西 很 好吃-they serve good food in this restaurant .-0.245
+12279-你们 的 自助 餐厅 什么 时候 营业-what are the business hours for your buffet ?-0.245
+12429-三星 餐厅  能 为 您 效劳 吗-three stars restaurant . can i help you ?-0.245
+12474-我 想 预订 今天 晚上 的 餐位-yes , i &apos;d like to reserve a table for tonight , please .-0.245
+12544-星期五 晚上 六 人 台 一 张-a table for six friday evening .-0.245
+14818-你 昨天 晚上 看 NBA 篮球赛 没有-did you watch the nba action last night ?-0.245
+14885-你 昨天 晚上 看 电视 了 吗-did you watch tv last night ?-0.245
+15535-也许 你 昨天 晚上 见 过 他-perhaps you have seen him last night .-0.245
+15650-你 昨天 晚上 听 新闻 了 吗-did you hear the evening news last night ?-0.245
+16168-也许 你 昨天 晚上 见 过 他-perhaps you have seen him last night .-0.245
+21844-我们 每 天 晚上 8 点钟 开门-we open at eight o &apos;clock in the evening .-0.245
+28389-今天 晚上  我 不得不 睡 马路 了-i &apos;ll have to sleep somewhere on the road this evening .-0.245
+29998-行  就 今天 晚上 吧  晚上 见-all right , this evening is fine . see you then .-0.245
+32645-这 次 列车 是 晚上 出发 吗-does this train leave in the evening ?-0.245
+32905-不 对  星期六 晚上 我 不 学习-no , not on saturday evenings .-0.245
+32907-所有 其他 的 晚上 都 学习 吗-and all the other evenings are for work ?-0.245
+39986-我 想 预订 明天 晚上 的 餐位-i &apos;d like to reserve a table for tomorrow evening , please .-0.245
+40278-对 不 起  餐厅 现在 客满 了-i &apos;m sorry , the house is full now .-0.245
+40609-这 当然 算是 餐厅 的 小小 敬意-with our compliments , of course .-0.245
+41961-三星 餐厅  能 为 您 效劳 吗-three star restaurant . can i help you ?-0.245
+42059-这 家 餐厅 有 营业 执照 吗-does this restaurant have a license ?-0.245
+50881-这个 星期六 晚上 你 有 时间 吗-are you busy this saturday evening ?-0.245
+1679-今天 晚上 有 晚 一点 的 班机 吗-is there a later flight this evening ?-0.244
+6786-我 想 乘 晚上 的 那 一 航班-i &apos;d like to take the evening one .-0.244
+8494-服务员 和 食物 都 同 晚上 的 一样-the same service and food as in the evening .-0.244
+12758-我 想 知道 星期天 晚上 您 是否 有空-i wonder if you are free sunday night .-0.244
+20556-定 在 星期四 晚上 7:00 到 9:00 怎么样-how about making it 7 : 00 to 9 : 00 thursday evening ?-0.244
+22005-今天 晚上 我 特 想 干 点 什么-i feel like doing something tonight .-0.244
+22899-她 从 昨天 晚上 开始 就 一直 呕吐-she has been throwing up since yesterday evening .-0.244
+26988-我 预订 了 三 个 晚上 的 房间-i have a reservation for three nights .-0.244
+29224-50 美元 一 晚上  含 住宿 和 早餐-for each night that &apos;s $ 50 , bed and breakfast .-0.244
+30405-不 用 了  我 晚上 再 挂 过来-no need . i &apos;ll call back this evening .-0.244
+32040-好吧  飞机 晚上 8 点 30 分 起飞-all right . the departure time is half past eight .-0.244
+37828-今天 晚上 飞机 上 会 放映 电影 吗-will you be showing a movie in flight this evening ?-0.244
+40066-对 不 起  我们 餐厅 星期一 不 营业-i &apos;m sorry , we &apos; re not open on mondays .-0.244
+40071-对 不 起  我们 餐厅 预订 已 满-i &apos; m sorry , the restaurant &apos; s full .-0.244
+40158-因为 餐厅 客满  您介 不 介意 等 一下-would you mind waiting as the restaurant is full ?-0.244
+41573-这 是 我们 餐厅 最 好 的 菜-it &apos;s the best of our kitchen .-0.244
+42540-自助 餐厅 在 美国 学生 中 尤其 流行-and cafeterias are especially popular with american students .-0.244
+49461-不 用 了  我 晚上 再 挂 过来-no need . i &apos;ll call back this evening .-0.244
+2222-可是 我 不 是 要 今天 晚上 的 机票-but i didn &apos;t want it for this evening .-0.243
+2264-早安  我 来 取 昨天 晚上 订 的 票-good-morning . i &apos;ve come for the ticket i booked last night .-0.243
+8429-我们 打算 选用 花园 餐厅 的 满园 春 包房-we &apos;d like man yuan chun in the garden restaurant .-0.243
+8770-我 想 确认 一下 您 明天 晚上 的 订座-i &apos;d like to confirm your reservation for tomorrow evening .-0.243
+9371-女士们  晚上 好  您 预订 桌 位 了 吗-good evening , ladies.have you made a reservation ?-0.243
+12516-我 想 确认 一下 您 明天 晚上 的 订位-i &apos;d like to confirm your reservation for tomorrow evening .-0.243
+12951-昨天 晚上 你 想必 休息 得 很 好 吧-i hope you had a good night &apos;s rest .-0.243
+15301-周日 晚上  她们 刚 打完 一 场 羽毛球 单打赛-now , it is sunday night and they have just finished a match of badminton in singles .-0.243
+29142-请 问 你们 今天 晚上 还 有空 房间 吗-do you have any vacancies tonight ?-0.243
+29381-这个 时间 咖啡厅 及 餐厅 都 有 早餐 供应-the coffee shop and the restaurant serve breakfast at this time .-0.243
+40034-我 不 能 肯定  大约 晚上 9 点钟 左右-i &apos;m not sure , perhaps around 9 p.m.-0.243
+40040-我 想 确认 一下 您 明天 晚上 的 预订-i &apos;d like to confirm your reservation for tomorrow evening .-0.243
+40086-谢谢 您 在 本 餐厅 用餐  请 再度 光临-thank you for dining with us . please come again .-0.243
+40517-一 个 晚上 你 一直 不 来 照料 我们-you &apos;ve been ignoring us all evening .-0.243
+40657-餐厅 外面 大门 左边 有 一 部 自动 售卖机-there is a vending machine outside the restaurant entrance to the left .-0.243
+41161-本 餐厅 主理 粤菜  包括 潮汕 菜 和 客家菜-our restaurant mainly serves guangdong cuisine , including chaozhou , shantou and hakka dishes .-0.243
+42050-这 家 餐厅 是 很 棒 的 娱乐 场所-that restaurant is a great place to entertain .-0.243
+43325-今天 晚上 Mets 队 跟 哪 一 队 比赛-who are the mets playing tonight ?-0.243
+3834-嗯  我 昨天 晚上 才 到 的  不过 感觉 很 好-well , i just arrived last night , but it seems nice .-0.242
+6684-40 号 列车 晚上 8 点半 从 10 号 月台 开出-train # 40 is leaving from platform 10 at 8 : 30 this evening .-0.242
+8295-是 的  我 想 明天 晚上 订 一 个 桌 位-yes , i want to reserve a table for tomorrow evening .-0.242
+8448-我们 还 想 餐厅 用 灯笼 和 彩带 装饰 一 番-and we also want the room to be decorated with lanterns and colored ribbons .-0.242
+8524-本 餐厅 的 早 茶 营业 时间 是 上午 7:00-9:00 点-the restaurant is open for the morning tea from 7 : 00 a.m. to 9 : 00 a.m.-0.242
+8595-好  李 先生  星期三 晚上 9:25四 个 人  对 吗-ok , mr. lee . that &apos;s a party of four for wednesday evening at 9 : 25 . is that correct ?-0.242
+8649-好 的  订 一 张 晚上 9:00 的 5 人 桌  先生-well , i &apos;ll reserve a table for five at 9 p.m. sir .-0.242
+8809-了  霍希尔 先生  星期四 晚上 7:30  6 个 人  对 吗-ok . mr. hosier . that &apos;s a party of six for thursday evening at 7 : 30 . is that correct ?-0.242
+8822-杰克逊 先生  星期天 晚上 的 两 人 桌  中餐  9:30 到-so it &apos;s mr. jackson , a table for two for the evening of sunday . it is chinese food and you are coming at 9 : 30 .-0.242
+8847-我 想 知道 贵 餐厅 的 早 茶 什么 时候 开始-i &apos;d like to know when the morning tea begins in your restaurant ?-0.242
+8981-没有  我 不 认为 晚上 的 这个 时候 有 这 必要-no , i didn &apos;t think it would be necessary at this time of the night .-0.242
+9466-在 餐厅 的 另 一 边  我 带 你 去-it &apos;s on to other side of the restaurant , i &apos;ll show you .-0.242
+9487-我们 餐厅 信誉 一直 很 好  同 顾客 的 关系 十分 融洽-our restaurant always remains a good reputation-we have a good clientele here .-0.242
+10143-在 自助 餐厅  桌子 上 摆 着 各 种 肉 和 菜-at a cafeteria . on the table are many kinds of meat and vegetables-0.242
+10626-许多 食客 都 喜欢 吃 我们 餐厅 的 这 道 菜-so many customers like it in our restaurant .-0.242
+11538-餐厅 有 乌龙茶  红 茶  绿 茶  茉莉 花茶 和 菊花茶-we serve wu long tea , black tea , green tea , jasmine tea and chrysanthemum tea .-0.242
+11891-我 还 得 说 你们 餐厅 的 服务 是 一流 的-i &apos;ll have to say service in your hotel is excellent .-0.242
+12243-好  今天 晚上 非常 愉快  十分 感谢 你  李 先生-well , thank you so much for this wonderful evening , mr li .-0.242
+12277-顺便 问 一下  你们 宾馆 有 自助 餐厅 或 快餐厅 吗-by the way , is there a buffet or a snack bar in your hotel ?-0.242
+12538-本 餐厅 通常 推出 星期六 特菜  非常 诱 人 哦-we usually provide very attractive saturday specials .-0.242
+12561-因为 本 餐厅 常常 客满  我们 建议 您 事先 订席-we would advise you to make a reservation as the restaurant is often full .-0.242
+12767-鲍勃  今天 晚上 我们 有 个 同学 聚会  您 能 来 吗-bob ! we &apos;ll have a classmates &apos; party tonight , would you like to come ?-0.242
+12867-噢  抱歉  明天 晚上 我 有 一 个 生日 联欢会 要 参加-oh , sorry . i &apos;ll take part in a birthday party .-0.242
+12892-你们 今天 晚上 又 要 吃 烤 牛肉 和 马铃薯 了-well , you &apos;re going to have roast beef and potatoes again tonight .-0.242
+14138-昨天 晚上  杰夫 的 “ 曲球 ” 打法 有 水平-last night , jeff &apos;s curves were of high level .-0.242
+14364-我 打 电话 是 想 告诉 你  今天 晚上 是 曲棍球 决赛-i called to tell you that there will be the hockey final this evening .-0.242
+16772-你 白天 看 奥运  晚上 就 坐 在 电脑 旁-you watch the olympics by day and sit by the computer by night .-0.242
+18132-午餐 时间 从 十二点一 到 一点 ； 晚上 六点钟 以前 回到 旅馆-lunch is from 12 : 00 to 1 : 00 , and you &apos;ll be back at your hotel by 6 : 00 .-0.242
+18303-好  我 明天 上午 十点 到 这里  你 看 行吗-good . i &apos;ll be here tomorrow morning at 10. how is that ?-0.242
+20033-谢谢  那么 我们 的 活动 在 晚上 也 排 满 了-thanks.so our evenings will be quite full then ?-0.242
+20967-你 可以 在 晚上 7:00 至 10:00 拨打 这个 号码-you can call me at this number between seven and ten in the evening .-0.242
+21672-今天 晚上 《 心火 》 的 票 还 有 座位 吗-have you got any seats for firelight this evening ?-0.242
+22088-谢谢 光临  欢迎 再 到 我们 餐厅 来  再 见-thank you for coming . welcome to call again . goodbye .-0.242
+22234-所以 您 最 好 能 挤出 个 晚上 去 看 场 京剧-so you &apos;d better squeeze an evening in to see a beijing opera .-0.242
+26928-是 的  有 预订  一 间 双人房  两 个 晚上  对 吗-yes , we have a reservation.a double room for two nights . is that right ?-0.242
+27077-我 预订 的 是 单人房  住 三 个 晚上  对 不 对-the reservation was a single for three nights , wasn &apos;t it ?-0.242
+27155-我 叫 约翰逊  我 预订 两 个 晚上 的 房间-my name &apos;s johnson . i &apos;ve got a reservation for 2 nights .-0.242
+27511-不管 怎么 说  餐厅 就 是 在 这 层 楼-anyway , the dining-hall is on this floor .-0.242
+27513-餐厅 的 门对 着 纪念品 商店 ； 你 一定 会 找到 的-the door faces the souvenir store ; you won &apos;t miss it .-0.242
+28722-是 的  昨天 晚上 往 罗马 打 了 一 个 长话-yes . last night to rome .-0.242
+29375-很 抱歉  预约卡 必须 在 晚上 十二点钟 以前 挂 在 房门口-i &apos;m afraid that reservation cards must be hung on the door by 12 midnight .-0.242
+31867-例如 迪斯尼 旅馆 的 自助 餐店 和 餐厅 都 可以 用餐-cafeteria , for example , and the good restaurant of disneyland hotel are available .-0.242
+32203-那 我们 这个 星期六 晚上 六时 在 假日 酒店 门口 碰面-good . let &apos;s meet at 6 at the gate of the holiday inn this saturday evening .-0.242
+34367-对 不 起  我 不 能 乘坐 晚上 的 航班-sorry i can &apos;t go by the night flight .-0.242
+36130-这 家 餐厅 有 代客 停车场  我们 可以 开车 去-this restaurant has valet parking so we can take the car .-0.242
+39793-我们 从 早上 7 点钟 到 晚上 10 点钟 营业-we are open from 7 : 00 a.m. until 10 : 00 p.m.-0.242
+40151-恐怕 这 一 桌 有 人 订 了  晚上 八点 要 来-i &apos;m afraid this table is reserved for 8 p.m.-0.242
+41144-很 抱歉  预订 卡 必须 在 晚上 十二点 以前 挂 在 房门口-i &apos;m afraid that reservation cards must be hung on the door by 12 : 00 midnight .-0.242
+41160-请 问 贵 餐厅 主理 哪 几 种 不同 的 菜式-could you tell me the different kinds of cuisine you have in this restaurant ?-0.242
+41820-在 像 那样 的 餐厅 里  合理 的 小费 该 给 多少-what &apos;s a reasonable tipping rate in a restaurant like that ?-0.242
+41962-我 要 订 明天 晚上 一 张 四 人 桌-i &apos;d like to reserve a table for four people for tomorrow evening .-0.242
+42066-艾伦 喝 了 一 晚上 的 鸡尾酒  无法 开车 了-alan had been drinking cocktails all evening and wasn &apos;t fit to drive .-0.242
+42107-度 过 这样 一 个 极为 愉快 的 晚上  真 感谢 你-thank you for a most enjoyable evening .-0.242
+42549-学生们 在 学生 自助 餐厅 就餐 还 需要 遵守 一些 规则-dining at students &apos; cafeteria , students are required to follow some rules .-0.242
+43371-我 希望 晚上 的 篮球赛 不 会 因 下雨 而 取消-i hope the basketball match this evening won &apos;t be rained out .-0.242
+47901-杀死 3 个 警察 的 那 个 罪犯 昨天 晚上 逃跑 了-the criminal who had killed three cops escaped last night ?-0.242
+50654-你 能 确认 一下  开会 的 时间 是 早上 十点 吗-can you confirm that the meeting is at 10 : 00 a. m ?-0.242
+3071-飞机 早晨 十点 在 旧金山 降落  十一点五十分 有 一 中转 航班 去 洛杉矶-the airplane will land at san francisco at 10 o &apos;clock in the morning and there is a connecting flight to la at 11 : 50 .-0.241
+8438-这 是 一 间 新 装修 的 餐厅  配有 红地毯 和 金色 窗帘-this is a newly decorated dining room , with a red carpet and a golden curtain .-0.241
+8513-自助 火锅 的 营业 时间 是 : 中午 11:30 至 2:00 晚上 5:30 至 8:00-the restaurant hours are from 11 : 30 to 2 : 00 p.m.at noon , and from 5 : 30 to 8 : 00 p.m. in the evening .-0.241
+8563-对 不 起  小姐  本 餐厅 所有 的 台 都 已 预订 了-i &apos;m sorry , miss . all the tables have already been booked in our restaurant .-0.241
+9597-我 想 我 带 着 手提包 来 餐厅 用 午餐  离开 时 不 记得 带走 了-i think i took it to lunch at the restaurant and forgot to carry it with me when i left .-0.241
+12430-我 要 订 明天 晚上 一 张 四 人 桌  在 厢房 里 的-i &apos;d like to reserve a table for four people for tomorrow evening . and i need a private room .-0.241
+12447-本 店 开到 十点  但是 九点半 以后 就 不 再 接受 客人 点菜-we are open until 10 out our last order for dinner is at 9 : 30 p.m.-0.241
+13040-对  在 自助 餐厅 中 食物 较 便宜  因为 你 要 为 自己 服务-yes , food is less expensive in a cafeteria , because you serve yourself .-0.241
+13109-是 的  人们 喜欢 在 自助 餐厅 吃饭  它 比 其他 餐厅 更 快 更 便宜-yes . people like to eat at a cafeteria . it &apos;s cheaper and quicker than other restaurants .-0.241
+15417-星期二 的 晚上 这里 有 将近 一万一千 名 观众  这个 数字 是 很 可观 的-we had nearly eleven thousand here tuesday night , which is fabulous .-0.241
+17955-行  今天 晚上 嘛  我们 将 在 四川 饭店 为 你们 举办 一 桌 晚宴-okay , as for this evening , we &apos;ll hold a dinner in your honor at sichuan restaurant .-0.241
+20009-噢  告诉 你  星期一 晚上 在 领事馆 这儿 有 一 个 鸡尾 酒会-oh tell you what . there will be a cocktail party here at the consulate on monday evening .-0.241
+20034-不  不  如果 你们 同意 的话  我们 想 留 几 个 晚上 请 你们 自便-oh , no , we &apos;ll leave some evenings free , that is , if it &apos;s all right with you .-0.241
+27599-我 明天 上午 十点 就 要 走 了  那时 衣服 庆 该 洗 好 了 吧-i &apos;m planning to check out tomorrow morning at 10 . will they be ready by then ?-0.241
+27860-请 问  你 能 告诉 我 餐厅 每 天 的 服务 时间 吗-would you please tell me daily service hours of the dining room ?-0.241
+27862-从 是 上上 6 点 30 分 到 晚上 12 点钟  几乎 全天 服务-from 6 : 30 a.m. till 12 : 00 p.m. nearly serving all day long .-0.241
+28408-很 抱歉  预订 卡 必须 在 晚上 十二点钟 以前 挂 在 门 上-i &apos;m afraid that reservation cards must be hung on the door by 12 midnight .-0.241
+28677-您 是 3 号 入住 的  5 个 晚上  每 晚 1000 元  共 5000 元-five nights at 1 000 yuan each . you checked in on the third . that totals 5 000 yuan .-0.241
+29279-凯勒 博士  很 抱歉 我 星期六 晚上 不 能 去 您 家 了-dr.keller , i &apos;m sorry i won &apos;t be able to go to your home saturday evening ?-0.241
+29282-是 啊  哦  我 的 一 个 室友 星期六 晚上 要 过 生日-yes.well , one of my roommates is celebrating his birthday saturday evening .-0.241
+32329-请 到 我们 这 间 戏院 订票  早上 十一点半 至 晚上 六点半 在 预售处 预售-please come and get tickets for reserved seats at this theater . tickets are sold at the advance sales window between 11 : 30 in the morning and 6 : 30 in the evening .-0.241
+32662-住 在 假期 饭店  是 三星级 的  有 两 个 餐厅 和 一 个 游泳池-you &apos;ll be staying at holiday inn . it &apos;s a three-star hotel with two restaurants and swimming pool .-0.241
+38956-径直 走  穿过 自助 餐厅 和 餐馆  您 会 看到 它 是 正对着 您 的-go straight through the cafeteria and restaurant and you &apos;ll find it just in front of you .-0.241
+39398-里头 恐怕 包括 了 晚上 八点 以后 乐队 演奏 的 服务费 十 元-i &apos;m afraid there is a cover charge of 10 $ after 8 p.m. when there is a band .-0.241
+39697-对 不 起  先生  今晚 此 餐厅 有 宴会 任务  请 到 其它 餐厅 用餐-i &apos;m sorry , sir , but there &apos;s a banquet in this dining hall . would you please go to the other restaurants ?-0.241
+40009-先生  我 想 预订 一 张 3 人 的 桌 位  晚上 10 点钟 用餐-i &apos;ll reserve a table for three at 10 p.m. sir .-0.241
+40029-先生  我 想 预定 一 张 5 人 的 桌 位  晚上 9 点钟 用餐-i &apos;ll reserve a table for five at 9 p.m.sir.-0.241
+40108-它们 恐怕 不 在 本 餐厅  请 打到 2157 分机 失物 招领 部 好 吗-i &apos;m afraid that they were not found in the restaurant . could you call the lost and found department on extension 2157 , please ?-0.241
+41449-对 不 起  现在 餐厅 已 满  您 等 几 分钟 可以 吗-i &apos;m sorry . the house is full now . would you mind waiting a few minutes ?-0.241
+42070-这 家 餐厅 供应 很多 种 乳酪  包括 带 蓝 纹 的 乳酪-the restaurant offers many types of cheese , including blue cheese .-0.241
+52402-这 是 说  征求 第四 位 女子 合住 汉普斯特德 独 套 公寓  晚上 电话 联系-this means that a fourth girl is required to share a self-contained flat in hampstead , and that enquires should be made by telephone in the evenings .-0.241
+2151-晚上 9 点 50 分 从 LaGuardia 机场 起飞  14 日 晚上 当地 时间 7 点 50 分 到达 香港-leaving laguardia at 9 : 50 p.m. arriving in hong kong at 7 : 50 p.m. local time on the 14th .-0.24
+2221-女士  对 不 起  今天 晚上 飞往 欧洲 各 地 的 航班 坐位 全 都 预订 完 了-sorry , madam , the european flights are booked up for tonight .-0.24
+3226-先生  对 不 起  今天 晚上 去 欧洲 各 地 的 航班 座位 全 都 订 完 了-sorry , sir , all the seats on european flights are booked up for tonight .-0.24
+8440-最近 许多 客人 在 那里 举行 婚礼 宴会  不过 这 间 餐厅 比 其它 较 小 的 餐厅 收费 略 高 一些-recently , many guests held wedding parties , but it is a bit more expensive than the smaller ones .-0.24
+9207-一 个 导游 和 他 的 旅游团 到 一 家 餐厅  服务员 接待 了 他们 导游 为 客人 安排 坐位-a tour guide and his tour group go to a restaurant . a waiter attends them . the tour guide seats his guests .-0.24
+9218-是 的  有 中国 国际 旅行社 的 预订  是 玫瑰 餐厅  我 让 服务员 带 你们 去-yes , a reservation through china international travel service . that &apos;s rose dinning room . i &apos;ll ask a waitress to show you the way .-0.24
+9478-对 不 起  先生  请 您 把伞 和 提箱 放到 餐厅 外面 或者 交给 我 替 您 保管 好 吗-excuse me , sir . do you mind putting these outside the restaurant or giving them to me and i &apos;ll certainly take good care of them ?-0.24
+11551-我 有 一 回 在 另 一 家 餐厅 吃 过 一 种粥  名字 忘记 了  总之 里面 有 鲍鱼-i once had a congee what &apos;s-its-name in another restaurant . anyway , it contained abalone .-0.24
+11801-哦  对 了  酸 菜 鱼 是 本 餐厅 的 招牌 菜 之一  不过 有 占 点 辣-by the way , the fish with chinese sauerkraut is one of the specialties of the house . but it &apos;s a bit hot .-0.24
+17071-但 昨天 晚上 申全浩 先生 和 李瓦斯 先生 之间 进行 的 古典式 摔跤 决赛 确实 很 精彩-but yesterday evening the greco-roman final between mr.sim kwon-ho and mr.rivas was very wonderful , indeed .-0.24
+18137-这儿 有 一 张 市区 地图  餐厅 和 俱乐部 名单  和 一 张 中文 常用语 的 说法-here are a map of the city , a list of restaurants and clubs , and a list of common expressions in mandarin chinese .-0.24
+18342-我 今天 晚上 给 国内 公司 打 长途 电话  向 他们 报告 这 件 事  我们 下 一 次 在 什么 时候 碰头-i &apos;ll call my home office tonight and let them know about it . when do we meet again ?-0.24
+20026-那么 我们 在 十四日 晚上 去 吃 一 顿 饭 吧  就 是 华生 先生 到达 的 那 天 晚上-then we &apos;ll have dinner together on the evening of the 14th , that is the evening of mr. watson &apos;s arrival .-0.24
+20145-噢  但 今天 是 星期五  我 原 计划 晚上 带 我 儿子 出去 看 一 个 展览 的-well but it is friday today . i was planning on taking my son to an exhibition this evening .-0.24
+22766-一 天 两 次  早饭 前 一 次  晚上 睡觉 前 一 次  每 次 一 瓶-twice a day taken in the morning before breakfast and a bed-time . one bottle each time .-0.24
+27089-您 预订 的 时间 是 晚上 五时 到达  但 现在 已 接近 午夜 12 点 了  所以 我们 已 把 您 的 预约 取消-you had planned to arrive about five tonight , but it is near midnight now , so we canceled your reservations .-0.24
+27356-其中 包括 单 人间  双 人间 以及 套间  而且 还 有 西式 餐厅  大  小型 宴会厅 等等-there are western-style restaurant , large and small banquet halls and so on .-0.24
+28951-这 是 你 的 帐单  3 个 晚上 的 费用 加上 餐费  总共 是 1100 元  对 吗-here is your bill . the rate for 3 nights and the meals are 1100 yuan altogether . is that right ?-0.24
+31862-下午 和 晚上 游迪斯尼 需 十八 元  夜间 需 十四 元  而 在 迪斯尼 上 整天 则 需 十八 元-18 dollars for disneyland-afternoon and evening , 14 dollars for disneyland by-night and 18 dollars for all-day disneyland .-0.24
+32983-如果 你 下 星期五 晚上 到 这个 膳宿 所 来 参加 舞会  你 会见 到 他 的-if you come to a dance in this house on friday night after next , you &apos;ll meet him .-0.24
+35587-我 想 订 一 张 今天 晚上 7 点 去 纽约 的 头 等 车厢 的 票-i &apos;d like to reserve a first-class seat to new york on 7 p.m. this evening .-0.24
+42482-这 种 饭馆 一直 开到 晚上 11 点 左右  对于 长途 的 汽车 旅行者 来说 是 理想 的-remaining open until about 11 p.m. they are ideal for the motorist on a long journey .-0.24
+42527-午餐 的 时间 通常 是 1 点钟  晚餐 大约 在 晚上 7:30  如果 在 罗马  晚餐 可能 会 更 晚 一点-lunch is around usually at one o &apos;clock , and dinner around 7 : 30 p.m. it may be later in rome .-0.24
+42545-在 大多数 的 自助 餐厅  人们 都 要 排队  通常 一边 走 一边 从 柜台处 挑选 食品-in most cafeterias , you stand in line . as you walk along , you select items available at a counter .-0.24
+42546-在 正常 吃饭 时间  自助 餐厅 里 总是 熙熙攘攘  但 如果 你 能 提前 或 推迟 一点 去 的话  就 能 很 容易 找到 座位-at normal mealtimes , cafeterias are crowded with people . you can usually get a seat without waiting too long if you eat a little early or a little late .-0.24
+46571-那 天 晚上 他 备战 跳远 决赛 的 时候  一 整 天 的 南征北战 开始 让 他 感到 力不从心 了-as he prepared for the long-jump finals that evening , he was starting to feel the effects of all the activity that day .-0.24
+46584-但是 当 他 往 身 上 套 长裤 的 时候  他 决定 今天 晚上 就 到 此 为止 了-but when he pulled on his sweat pants , he decided that he was probably through for the night .-0.24
+49438-好 的  我 是 简  请 告诉 他 我 有 两 张 今晚 音乐会 的 票  晚上 6 点 我 在 剧院 门前 等 他-yes . this is jane . please tell him that i &apos;ve got two tickets for the concert tonight . and i &apos;ll meet him at 6 o &apos;clock at the theater .-0.24
+5530-我 想 我 会 喜欢 的  我 正 想 告诉 你  这个 星期六 晚上  我 打算 开 个 迁居 庆祝会  邀请 你 来  你 忙 不 忙-i think i &apos;m going to like it and i wanted to tell you that this saturday night i &apos;m going to have a party , like a house- warming , and i &apos;d like to invite you to come.are you busy ?-0.239
+12278-有  自助 餐厅 食品 丰富  既 有 中式 食品  也 有 西式 食品  还 有 各 式 色拉  点心  水果 ； 快 餐厅 有 快餐 食品 供应-yes , there &apos;s a buffet and a snack bar in our hotel . our buffet serves rich chinese and western foods and also various kinds of salads , cakes , and fruit . and fast food is available in our snack bar .-0.239
+14771-中国 女子 篮球队 昨天 晚上 表演 了 自己 有史以来 的 最高 水平 的 比赛  以 大约 40 分 的 优势 淘汰 了 古巴队  从而 闯入 第 25 届 奥运会 女篮 决赛圈-the chinese women &apos;s basketball team put on its bestever performance last night , routing cuba by nearly 40 points to reach the final of 25th olympic games .-0.239
+19720-纳桑 先生  为了 欢迎 您 再次 来访  今天 晚上  我 想 请 您 去 东来 顺吃 涮羊肉  您 知道  那 是 鲜 羊肉 在 开 水里涮 就 吃-mr. masen , in honour of your second visit , i &apos;d like to invite you to have &quot; shuan yangrou &quot; at dong-lai-shun restaurant this evening , you know it is instant-boiled mutton .-0.239
+28908-三 个 晚上 的 房费 为 270 美元  120 元 是 您 在 小酒吧 用 早餐 及 饮料 费用  89 元 是 您 打住 纽约 的 国际 直拨 电话费-$ 270 is for your room check for three big hits ; $ 120 is for the breakfast and soft drinks from the minibus and $ 89 is for idd call you made to new york .-0.239
+42475-营业 时间 在 全 国 各 地 不 相同  星期一 到 星期六 大致 是 从 上午 11:00 到 下午 2:30  再 从 下午 6:00 到 晚上 10:30 或 11:00  星期天 大致 从 中午 12:00 到 下午 2:00  再 从 晚上 7:00 到 10:30-times vary in different parts of the country , but are approximately from 11a.m. to 2.30 p.m. and from 6 p.m to 10.30 p.m or 11 p.m on weekdays , and from 12 noon to 2 p.m and from 7.00 to 10.30 p.m on sundays .-0.239
+42544-由于 在 自助 餐厅 人们 自己 为 自己 服务  并且  吃完 饭后 还 要 自己 清理 掉 桌子 上 的 饭菜 和 餐具  自己 把 垃圾 倒 进 垃圾箱 里  所以  自助 餐厅 里 一般 不 收 小费-tips are generally not required at cafeterias where you serve yourself and you are expected to clear your own table of dishes and utensils , and discard your trash in the garbage cans .-0.239
+42547-学生们 进 校园 内 的 自助 餐厅 时 必须 出示 他们 的 有效 饭卡 ； 而且  如 若 餐厅 人员  学生 经理 或 收银员 提出 要 查看 你 的 学生证 或 其它 证件 时  你 也 同样 必须 合作-students entering the cafeterias on the campus are required to present their own valid meal cards . student i.d.cards and any other identification must be presented if requested by dining hall staff , student manages , or checkers .-0.239
+42551-学生 自助 餐厅 与 校外 同 类 餐厅 不同 的 还 有 它 的 收费 方式  其 收费 方法 与 学费 和 其它们 学校 费用 一样-another thing that makes a students &apos; cafeteria different from one out of the campus is the way of payment . dining charges are payable in the same manner as tuition and other fees .-0.239
+44059-奇才队 可能 对 好 时 坏  一 个 晚上 好 得 不错  第二 个 晚上 就 会 很 糟糕  因此 会 惹 他们 的 带头人 乔丹 生气  抑或 使 他 勃然大怒  甚至 怒发冲冠-the wizards will probably play well one night , horribly the next , frequently earning their leader , michael jordan &apos;s anger , then his wrath , then maybe his rage .-0.239
+44243-皮特·桑普拉斯 以 6 比 7  7 比 6  7 比 6 和 7 比 5 在 星期三 晚上 美国 公开赛 惊心动魄 的 四分之一 决赛 中 击败 宿敌 阿加西  这 表明 他 的 水平 在 迅速 回升-taking another huge step in his remarkable resurgence . pete sampras edged longtime rival agassi 6-7 , 7-6 , 7-6 , 7-6 in a quarterfinal thriller wednesday night in the u.s. open .-0.239
+51597-我 家 离 贵 公司 只有 十五 分钟 的 自行车 路程  我 只有 晚上 才 在 宇宙 公司 上班  所以  我 能 在 您 上班 时间 与 您 见面-my home is just fifteen minutes &apos; bicycle ride from your office . i can see you any time during your regular office hours , since i work evenings with space company .-0.239
+51686-今天 晚上 我 想 要 谈 一 个 非常 重要 却 又 令 人 很 不 舒服 的 题目  这个 世界 上 目前 正 存在 着 一 个 情况  它 是 那么 的 可怕  那么 的 不人道  我 想 各位 会 同意 我们 对 之 必须 有所 反应-tonight i &apos;d like to speak on a very important , yet uncomfortable subject.a situation exists in the world right now that is so terrible , so inhumane , that i think you will agree that we must respond .-0.239
+1688-晚上 10 点 10 分 去 北京 的 NA 317 航班  很 好-flight na 317 to beijing at 10 : 10 p.m. that &apos;s perfect .-0.238
+2150-晚上 的 班机 几 点 起飞 呢-what &apos;s the departure time of the evening flight ?-0.238
+3227-我 要 的 是 明天 的 机票  不 是 今天 晚上-but i didn &apos;t mean for this evening ; i want it for tomorrow .-0.238
+6064-我 在 找 一 家 叫 “ 托斯尼尼 ” 的 意大利 餐厅-i &apos;ll looking for an italian restaurant named toscanini .-0.238
+6070-你 会 在 右边 看到 那 家 餐厅-you &apos;ll see the restaurant on your right .-0.238
+7314-晚上 好  女士们  先生们-good evening . ladies and gentlemen .-0.238
+7375-晚上 好  女士们  先生们-good evening , ladies and gentlemen .-0.238
+7386-这 是 我们 在 中国 的 最后 一 个 晚上-it &apos;s our last night in china .-0.238
+7489-晚上 好  女士们  先生们-good evening , ladies and gentlemen .-0.238
+8200-祝 您 晚上 愉快-have a nice evening .-0.238
+8210-谢谢  祝 晚上 愉快-thank you . have a nice evening .-0.238
+8243-情况 是 这样 : 我 要 在 房间 等 一 个 来自 加拿大 的 国际 长途 电话  不 到 餐厅 去 了-the situation is this : i &apos;m waiting for an international call from canada and not going to the restaurant .-0.238
+8313-这 是 四 季 餐厅-this is the four seasons restaurant .-0.238
+8327-欢迎 您 到 我们 餐厅 用餐-welcome to our restaurant .-0.238
+8328-晚上 好  我 想 定 一 个 四 人 桌-good evening . i &apos;d like a table for four , please .-0.238
+8428-你们 喜欢 哪 个 餐厅 呢-which restaurant would you like ?-0.238
+8434-不过  我 可以 为 您 安排 另 一 个 餐厅-anyway , i can arrange another restaurant for you .-0.238
+8516-顾客 ； 喂  绿荫 阁 餐厅 吗-hello . is that greenery restaurant-0.238
+8522-晚上 10 点 停止 营业-it closes at 10 : 00 p.m.-0.238
+8531-晚餐 营业 时间 最 长  从 下午 5:00 至 晚上 10:00-the dinner hours last longest . it &apos;s from 5 : 00 p.m. to 10 : 00 p.m.-0.238
+8541-这 是 长青 餐厅-this is green pine restaurant .-0.238
+8557-感谢 您 光临 本 餐厅-thanks for your coming to our restaurant .-0.238
+8559-早上 好  四川 餐厅-good morning , sichuan restaurant .-0.238
+8564-如果 您 愿意  我 可以 推荐 您 去 本 酒店 另外 一 间 餐厅-if you like , i would suggest you making a reservation at another restaurant in the hotel .-0.238
+8565-那么 你 推荐 哪 间 餐厅 呢-well , where do you suggest ?-0.238
+8567-是 的  这 就 是 为什么 我们 选择 贵 餐厅 的 原因-yes , that is why we choose to eat at your restaurant .-0.238
+8599-这里 是 白海 餐厅-this is the baihai restaurant .-0.238
+8640-风华 餐厅-fenghua restaurant .-0.238
+8683-明天 下午 六点 整 在 小 餐厅  可以 吗-at six exactly tomorrow afternoon in the small dinning-hall . is that ok ?-0.238
+8763-宴席 设 在 一 楼 的 南山 餐厅-the banquet will be in the nan shan dining room on the first floor .-0.238
+8812-公主 餐厅-princess restaurant .-0.238
+8871-欢迎 光临 瑞华 餐厅-welcome to the chalet swiss restaurant .-0.238
+8901-晚上 好  请 安排 一 张 两 个 人 的 桌子-good evening . a table for two , please .-0.238
+8968-晚上 好  你们 晚餐 预订 坐位 了 吗-good evening . do yo have reservation for dinner ?-0.238
+9014-晚上 好  先生  您 预订 了 座位 吗-good evening , sir . have you made a reservation ?-0.238
+9015-晚上 好  我们 没有 事先 订座-good evening . we haven &apos;t had the seat reserved .-0.238
+9017-对 不 起  今晚 餐厅 已 满-i &apos;m sorry , the house is full now .-0.238
+9058-劳驾  小姐  请 问 新 星 餐厅 在 哪里-excuse me , miss . where is the new star dining room ?-0.238
+9059-新 星 餐厅 在 二楼-the new star dining room is on the second floor .-0.238
+9084-噢  贵 公司 的 聚餐 设 在 3 楼 的 百花 餐厅-oh , it is in the hundred flowers dining hall on the third floor .-0.238
+9172-欢迎 光临 罗曼蒂 法国 餐厅-welcome to the le romantique french restaurant .-0.238
+9193-太太  晚安  欢迎 光临 信林 餐厅-good evening , ma &apos;am , welcome to the gourmet restaurant .-0.238
+9208-晚上 好  欢迎 光临-good evening . welcome to our restaurant .-0.238
+9220-就 是 这个 餐厅 吗-is this the dinning room ?-0.238
+9224-所有 客人 都 进 了 餐厅-all the guests are in the room now .-0.238
+9225-女士们  先生们  这 就 是 餐 玫瑰 餐厅-ladies and gentlemen , here we are in the rose dinning room .-0.238
+9252-欢迎 光临 黑天鹅 餐厅-welcome to the black swan .-0.238
+9268-欢迎 光临 绿 园 餐厅-welcome to the green garden restaurant .-0.238
+9281-女士们  先生们  晚上 好-good evening , ladies and gentlemen .-0.238
+9292-欢迎 光临 红 玫瑰 餐厅-welcome to the red rose restaurant .-0.238
+9518-晚上 好  先生  您 有 何 贵干-good evening , sir . what can i do for you ?-0.238
+9588-谢谢  愿 你们 晚上 愉快-thank you . have a nice evening .-0.238
+9966-晚上 好  这里 是 “ 洪都 ” 饭店  能 为 您 做 什么 吗-good evening , this is the hongdu restaurant . can i help you ?-0.238
+10222-谢谢  愿 你们 晚上 愉快-thank you . have a nice evening .-0.238
+10495-晚上 好  女士 先生-good evening , madam and sir .-0.238
+10602-晚上 好  夫人  您 现在 可以 点菜 了 吗-good evening , madam . may i take your order now ?-0.238
+10930-女士们  先生们  晚上 好-good evening , ladies and gentlemen .-0.238
+10962-你 知道 附近 有 什么 好 的 餐厅 吗-do you know any good restaurants around here ?-0.238
+11289-晚上 好  我 是 史密斯  我们 有 预订-good evening ! i &apos;m john smith . we have a reservation .-0.238
+11533-欢迎 光临 本 餐厅-welcome to our restaurant .-0.238
+11769-欢迎 光临 成都 餐厅-welcome to chengdu restaurant .-0.238
+11877-晚上 好  现在 您 可以 点菜 吗-good evening . would you like to order now ?-0.238
+12017-一 杯 威士忌 加 苏打  不加冰 快  祝 您 晚上 愉快-one whisky soda , no ice . have a pleasant evening .-0.238
+12458-早安  我 是 希尔顿 饭店 意大利 餐厅 的 史迪夫-good morning.this is steve of the hilton hotel , la pizzeria restaurant speaking .-0.238
+12472-万年青 餐厅-this is the evergreen restaurant .-0.238
+12527-喂  是 西山 餐厅 吗-hello , is that the west hills restaurant ?-0.238
+12541-那 星期五 晚上 如何-then how about friday evening ?-0.238
+12551-喂  请 问 是 顺利 园 铁板烧 餐厅 吗-hello . is that the sunny garden barbecue ?-0.238
+12563-我 要 四 个 人 的 席位  今天 晚上 的-i &apos;d like a table for four , please , for this evening .-0.238
+12887-我们 到 一 家 餐厅 去 了-we went to a restaurant .-0.238
+13012-这 是 自助 餐厅-this is a cafeteria .-0.238
+13030-这 是 我 第一 次 在 自助 餐厅 吃饭-this is the first time . i &apos;ve ever eaten in a cafeteria .-0.238
+13088-上学 的 小孩子 往往 带 三 明治  水果 和 小 糕点  或 在 学校 自助 餐厅 吃-kids in school take sandwiches , fruit and cookies along with them or eat in school cafeterias .-0.238
+13159-转角 那儿 有 一 家 免 下车 餐厅-there &apos;s a drive-in restaurant around the corner .-0.238
+18085-那 是 休闲 中心 和 餐厅-that &apos;s the recreation center and restaurant .-0.238
+20020-那 就 星期一 晚上 六点见-then see you at six o &apos;clock monday evening .-0.238
+20281-我 曾 做 过 餐厅 服务员-i used to work as a waitress .-0.238
+21072-晚上 大约 7 点钟  公园 的 剧场 将 会 上演 一 个 戏剧-in the evening at about 7 o &apos;clock a drama will be put on at the theatre in the park .-0.238
+21904-晚上 好  先生  欢迎 光临-good evening , you &apos;re welcome here .-0.238
+22455-晚上 八点 第三 频道 演 什么-what &apos;s on channel three at eight o &apos;clock ?-0.238
+27288-请 问 我 可以 多 住 一 晚上 吗-excuse me.could i extend my bed for one more night , please ?-0.238
+27322-枫林街 的 “ 红 玫瑰 ” 餐厅 很 有名-the red rose restaurant in maple road is very famous .-0.238
+27340-晚上 好  先生  让 我 帮忙 吗-good evening , sir.may i help you ?-0.238
+27453-请 给 我 一 个 单人 房间  住 一 晚上-a single room for one right , please .-0.238
+27504-我 宁愿 在 餐厅 用 早点-i &apos;d rather have my breakfast in the dining-hall .-0.238
+27512-你 要 是 走到 这个 大厅 的 那 一 头  然后 向 右 拐  你 就 会 找到 餐厅 的-if you go to the other end of this lounge and turn to the right , you &apos;ll find it .-0.238
+27582-三 楼 有 一 个 餐厅-we have a dining room on the third floor .-0.238
+27726-晚上 好  我 是 这里 的 接待员-good evening . i &apos;m the bellman .-0.238
+27805-晚上 好  小姐  我 准备 离 店-good evening , miss . i &apos;ll check out .-0.238
+28039-嗯  如果 要 那么 久  或许 我 可以 在 餐厅 里 吃-well , if it &apos;s going to take that long , maybe i &apos;ll eat in a restaurant .-0.238
+28184-晚上 好  基德 先生-good evening , mr. kyd .-0.238
+28232-好 的  先生  祝 您 晚上 愉快-certainly , sir . have a good evening .-0.238
+28412-晚上 好  我 是 客房 送餐 服务部 的-good evening . this is room service .-0.238
+28652-您 是 在 这里 住 了 四 个 晚上 吗-have you stayed here for four nights ?-0.238
+28806-晚上 好  夫人  能 为 你 做 些 什么-good evening , madam . may i help you ?-0.238
+29010-多少 美元 一 个 晚上-how much is it per night in us dollars ?-0.238
+29012-那 总统 套房 是 多少 美元 一 个 晚上 呢-and how much is a presidential suite for a night ?-0.238
+29080-晚上 好  我 能 更改 今日 上午 的 预定 吗-good evening.may i change the reservation i make this morning ?-0.238
+29090-从 早上 六点三十分 到 晚上 十二点-from 6 : 30 a.m. till 12 : 00 p.m.-0.238
+29106-晚上 好  我 能 帮 您 吗-good evening.can i help you ?-0.238
+29183-我 代表 牛津 大学 的 史密斯 先生 来 电话  预订 四 个 带 浴缸 的 单人 房间  从 6 月 10 日 到 15 日 晚上-i &apos;m calling on behalf of mr. smith of oxford university . i &apos;d like to reserve four single rooms with bath for the nights of june 10 to 15 .-0.238
+29214-6 月 9 日 和 10 日 晚上 的-for the nights of june 9 and 10 .-0.238
+29239-是 的  就 今天 一 个 晚上-yes , just for tonight .-0.238
+29273-那么 是 五 个 晚上-that will be five nights , sir .-0.238
+29425-晚上 好  史密斯 先生-good evening , mr. smith .-0.238
+29652-晚上 好  布朗 先生-good evening , mr. brown .-0.238
+30281-晚上 六点 我 在 戏剧 院门 前 等 他-and i &apos;ll meet him at 6 o &apos;clock at the theater .-0.238
+32777-晚上 好  威尔逊 先生-good evening , mr. wilson .-0.238
+32778-晚上 好  唐 先生-good evening , mr. tang .-0.238
+34014-船上 有 餐厅 吗-is there a restaurant on board ?-0.238
+34015-在 船 上 有 一 个 标准 的 餐厅-there &apos;s a standard restaurant on the ship .-0.238
+36290-晚上 10 点 以后 有 附加 费用-after 10 p.m. there &apos;s an additional charge .-0.238
+36547-我 想 去 花费 不 大 的 餐厅-i would like to go to an inexpensive restaurant .-0.238
+36548-你 想 去 什么样 的 餐厅-what kind of restaurants do you like ?-0.238
+36549-你 能 告诉 我 几 家 不错 的 餐厅 吗-could you tell me the name of some good restaurants ?-0.238
+36613-晚上 的 价比 白天 的 价高 10%-the night rate is 10 % higher than the daily rate .-0.238
+37429-晚上 八点 餐车 有 茶座-there will be a tea party at eight p.m. in the dining car .-0.238
+38951-请 你 告诉 我们 去 餐厅 怎么 走-could you direct us to the restaurant ?-0.238
+39696-对 不 起  先生  现在 我们 这里 的 营业 时间 已 过  请到 玉兰 餐厅 用餐-i &apos;m sorry , sir , but the service hours is over . please have your dinner at the orchid restaurant .-0.238
+39905-本 店 不 卖 寿司  但是 三 楼 有 一 家 卖 寿司 的 餐厅-we don &apos;t serve &quot; sushi &quot; here but there is a &quot; sushi &quot; restaurant on the third floor .-0.238
+39971-我 叫 詹姆斯  我 想 今晚 在 你 的 餐厅 里 用餐-my name is james , i want to have dinner in your restaurant tonight .-0.238
+40162-白 猫 餐厅 怎么样-what about the white cat restaurant ?-0.238
+40164-噢  这个 餐厅 真 不错-oh , very nice restaurant !-0.238
+40258-欢迎 光临 本 餐厅-welcome to our restaurant .-0.238
+40327-对 不 起  现在 餐厅 已 坐满-i &apos; m sorry , the restaurant is full now .-0.238
+40561-是 本 餐厅 奉送 的-it &apos;s on the house .-0.238
+40883-欢迎 到 我们 餐厅 来-welcome to our restaurant .-0.238
+41484-很 对 不 起  如果 您 不 介意 我 为 您 换 点别 的  这 是 本 餐厅 赠送 的-i &apos;m very sorry . i &apos;ll give you something else if you don &apos;t mind . that will be on the house .-0.238
+42048-台北 很多 餐厅 供应 鹅肉-many restaurants in taipei serve goose .-0.238
+42053-这 间 素食 餐厅 口碑 不错-this vegetarian restaurant is highly recommended .-0.238
+42360-人们 喜欢 在 自助 餐厅 用餐-people like to eat in a cafeteria .-0.238
+42385-这 是 城里 最 好 的 自助 餐厅-this is the best cafeteria in town .-0.238
+42537-由于 美国 是 多 种 民族 的 国家  所以  在 那里 的 大 城市  你 几乎 可以 找到 各 种 品味 的 餐厅-as america is home to so many different nationalities , one can find almost any kind of restaurant in all the large cities .-0.238
+42548-任何 拒绝 出示 学生证 的 人 都 将 被 看作 是 非 学生 闯入者 而 被 拒之门 外  或 被 要求 离开 餐厅-an individual who refuses to show a student i.d. card will be considered a non-student and a trespasser and will be denied entrance and be told to leave the premises .-0.238
+42550-比如  一旦 就 餐者 离开 了 餐厅  那么 在 此 顿 饭 期间  就 不 可 再次 进入 ； 食物  玻璃杯 和 其它 餐厅 用品 不 得 拿 离 餐厅 ； 学生们 在 用餐 期间 要 对 其他 用 餐者 和 餐厅 人员 彬彬 有礼 ； 禁止 插队  禁止 一切 危及 其他 就 餐者 安全 的 行为  光脚 等 衣冠不整 者 也 禁止 入内 ； 此外  酒精 饮料 和 毒品 不 得 带入  服用 过 酒精 和 毒品 的 人 将 被 请出 餐厅-for example , once diners leave the dining hall , they will not be allowed to re-enter during that meal . no food , glass or other dining services &apos; property may be removed from the dining hall . it is expected that students will be courteous to fellow students and dining hall personnel while in it . you are not allowed to break the line . any action that jeopardizes the safety of other students is prohibited . no student if barefooted will be permitted to enter the dining hall . moreover , alcoholic beverages and drugs are not permitted there.people under the influence of alcohol or drug will be required to leave .-0.238
+44061-在 星期四 晚上 的 全 国 女子 联赛 决赛 的 第一 场 比赛 中  被 普遍 看好 的 洛杉矶 “ 火花 ” 队 在 向 第一 个 全 国 女子 联赛 冠军 途中 迈出 了 一 大 步  队员 丽沙·莱斯莉 独得 了 24 分 和 8 个 篮板球  结果 她 和 队员 以 75 比 66 大胜 夏洛特 “ 毒刺 ” 队-the heavily favored los angeles sparks got a jump on their bid for their first wnba title , getting 24 points and eight rebounds from lisa leslie in a 75-66 victory over the charlotte sting in game 1 of league finals thursday night .-0.238
+51116-现在 是 午餐 时间  让 我 带 您 去 我们 的 自助 餐厅 吧-since this is lunchtime , allow me to take you to our cafeteria .-0.238
+51456-十点 好 吗-would ten be alright ?-0.238
+51705-艾德 布朗 目前 正 向 本地 工商 企业 请求 捐赠 摸彩 奖品  我 知道 其中 还 会 包括 免费 的 的 兽医 服务  以及 某些 上 好 餐厅 招待 的 免费 晚餐  还 要 加上 许多 其他 的 惊喜 在内 ； 比赛 进行 中 我们 也 会 对 与 赛者 提供 饮用水 和 水果-ed brown is soliciting donations from local businesses for door prizes and i understand these will include some free veterinarian services , as well as free dinners at some fine restaurants , plus lots of other surprises.at the race , we will also have water and fruit for the runners .-0.238
+52401-如果 你 想 合租 一 套 公寓  请 在 晚报 “ 公寓 出租 ” 专栏 上 找 这样 的 广告  如 : 第四 位 女子  合住 汉普斯特德 独 套 公寓  电话 : 01 — 1342343 晚上-if you want to share a flat , look in the ‘ flats to let &apos; column of an evening paper for advertisements like : 4th girl shr.s / c h &apos;stead flt.01-134 2343 evenings .-0.238

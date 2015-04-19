@@ -1,0 +1,384 @@
+14.5 美元
+1767-50 美元-that &apos;s us $ 50 .-0.5
+2045-票价  美元-the exact air fare is $ .-0.5
+2331-两千 美元-$ 2,000 .-0.5
+2526-2 美元-two dollars .-0.5
+2707-1 美元-one dollar .-0.5
+2791-38 美元-it &apos;s 38 dollars .-0.5
+2936-一 美元-one dollar .-0.5
+2978-1 美元-one dollar .-0.5
+3150-426 美元-$ 426 .-0.5
+3366-12 美元-it &apos;s 12 dollars .-0.5
+4284-40 美元-us $ 40 .-0.5
+5021-800 美元-800 dollars in all .-0.5
+5048-五千 美元-$ 5,000 .-0.5
+7013-2 美元-it &apos;s two dollars .-0.5
+17204-100 美元-＄ 100 please .-0.5
+21675-7 美元-seven dollars .-0.5
+23541-300 美元-it costs 300 dollars .-0.5
+23911-138 美元-us $ 138 .-0.5
+23970-300 美元-300 dollars .-0.5
+24001-40 美元-40 dollars .-0.5
+24136-1600 美元-$ 1600 !-0.5
+24148-450 美元-$ 450 .-0.5
+24153-120 美元-$ 120 .-0.5
+24176-美元-dollars , please .-0.5
+24184-二十 美元-$ 20 .-0.5
+24590-十五万 美元-150000 dollars .-0.5
+24883-278 美元-278 dollars ?-0.5
+24981-98 美元-ninety-eight dollars .-0.5
+25028-246 美元-246 dollars .-0.5
+25044-128 美元-128 dollars .-0.5
+25214-一百八十 美元-one hundred and eighty dollars .-0.5
+25354-八千 美元-eight thousand dollars .-0.5
+25480-16.30 美元-$ 16.30 .-0.5
+25521-238 美元-$ 238 .-0.5
+25568-128 美元-$ 128 .-0.5
+25594-72 美元-72 dollars .-0.5
+26037-30 美元-30 dollars .-0.5
+26146-二十 美元-twenty dollars .-0.5
+26619-200 美元-two hundred dollars .-0.5
+26636-美元-u.s. dollars .-0.5
+27818-五十 美元-$ 50 .-0.5
+28110-6 美元-six dollars .-0.5
+29011-480 美元-480 .-0.5
+29013-1500 美元-1500 us dollars .-0.5
+33136-4 美元-$ 4 .-0.5
+33401-5 美元-five dollars .-0.5
+52000-1000 美元-$ 1 000 .-0.5
+3375-噢  31 美元-well , it &apos;s $ 31 .-0.492
+3577-哦  三十一 美元-well , it &apos;s thirty-one dollars .-0.492
+6438-25 美元  先生-that &apos;s twenty-five dollars , sir .-0.492
+18593-真的 13.50 美元-that &apos;s right , us $ 13.50 .-0.492
+19636-至少 三十万 美元-at least $ 300,000 .-0.492
+19639-好吧  三十万 美元-all right , $ 300,000 .-0.492
+22731-总共 一百 美元-that comes up to one hundred .-0.492
+24128-38 美元  先生-that &apos;s $ 38 , sir .-0.492
+25440-哎呀  248 美元-wow ! it &apos;s $ 284 !-0.492
+26561-只有 500 美元-only 500 dollars .-0.492
+33648-总共 10 美元-that comes to $ 10 .-0.492
+33804-一共 11.60 美元-that &apos;ll be $ 11.60 .-0.492
+3151-是 426 美元 吗-$ 426 ? !-0.488
+3163-总票价 是 426 美元-the total cost is $ 426 .-0.488
+3376-给 你 40 美元-here &apos;s $ 40 .-0.488
+3467-给 你 25 美元-here is 25 u.s. dollars .-0.488
+3578-给 你 三十二 美元-here &apos;s thirty-two dollars .-0.488
+3939-六 美元 一 毛-six dollars and ten cents .-0.488
+3940-这 是 七 美元-here is seven dollars .-0.488
+4030-每 天 70 美元-70 dollars per day .-0.488
+4298-那 就 200 美元-that &apos;s only $ 200 .-0.488
+4926-这 是 10 美元-here &apos;s a ten-dollar bill .-0.488
+7021-1 美元 15 美分-one dollar and fifteen cents .-0.488
+7050-1 美元 15 分-one dollar and fifteen cents .-0.488
+7278-每 张 20 美元-us $ 20 per ticket .-0.488
+9322-14 美元 20 美分-fourteen dollars , twenty cents .-0.488
+9323-这 是 15 美元-here &apos;s fifteen dollars .-0.488
+10110-这 是 6 美元-here &apos;s six dollars .-0.488
+12140-三十六 美元 二 毛-thirty-six dollars and twenty cents .-0.488
+13128-一共 是 五 美元-it &apos;s $ 5 altogether .-0.488
+13145-二 美元 二十五 美分-$ 2.25 .-0.488
+21170-唔  一共 三 美元-oh , it comes to $ 3 altogether .-0.488
+21171-给 您 5 美元-here are $ 5 .-0.488
+23717-每 盒 35 美元-$ 35 a pack .-0.488
+24155-这 是 150 美元-here is $ 150 .-0.488
+24160-这 是 200 美元-here &apos;s $ 200 .-0.488
+25579-每 对 55 美元-it is fifty and five dollars per set .-0.488
+25590-90 美元 20 美分-ninety dollars and twenty cents .-0.488
+26147-这 是 二十一 美元-here are twenty-one dollars .-0.488
+26148-给 我 一 美元-one dollar for me ?-0.488
+26550-我 需要 一些 美元-i want us dollars .-0.488
+26677-这 是 500 美元-here is the money .-0.488
+26819-每 天 70 美元-$ 70 per night .-0.488
+27094-600 美元 一 晚-$ 600 a night .-0.488
+28772-总共 是 三百一十 美元-that will be $ 310 .-0.488
+28779-总共 是 二百四十一 美元-the total comes to $ 241 .-0.488
+29049-每 天 两百 美元-it come to $ 200 a day .-0.488
+29126-那样 是 60 美元-that &apos;ll be $ 60 .-0.488
+31156-每 月 300 美元-$ 300 a month .-0.488
+31212-这 是 500 美元-here is $ 500 .-0.488
+31293-每 月 200 美元-$ 200 a month .-0.488
+33720-一共 要 四 美元-that &apos;ll be $ 4 .-0.488
+33721-给 你 五 美元-here are $ 5-0.488
+33738-给 你 一 美元-here &apos;s one dollar .-0.488
+33799-这 是 5 美元-here is five dollars .-0.488
+33813-每 公斤 3 美元-it is $ 3 per kilo .-0.488
+34824-票价 是 88 美元-the price is 88 u.s. dollars .-0.488
+38583-一共 是 15 美元-that comes to ＄ 15 .-0.488
+39520-这 是 70 美元-here is 70 dollars .-0.488
+2308-单程 票价 为 500 美元-$ 500 one-way .-0.485
+3377-谢谢  找 您 9 美元-thanks . here &apos;s $ 9 change .-0.485
+3465-能 给 你 美元 吗-can give you u.s. dollars ?-0.485
+4889-中型 每 天 24 美元-twenty-four dollars for a mid-size a day .-0.485
+6344-差不多 要 25 美元 吧-it &apos;s probably at least twenty-five dollars .-0.485
+18592-每 件 13.50 美元  真的-us $ 13.50 each blouse ? really ?-0.485
+19015-最少 也 得 几百万 美元-at least millions of dollars .-0.485
+24971-便宜 的 很  29 美元-it &apos;s twenty-nine dollars , very cheap .-0.485
+26121-夫人  面料 要 250 美元-well , the cost of the material will come to 250 dollars .-0.485
+26555-1 美元 相当于 8.45 港元-one us dollars equals 8.45 hong kong dollars .-0.485
+26582-我 想 兑换 1000 美元-i &apos;d like to change $ 1000 .-0.485
+26613-您 要 提 1000 美元-you want to withdraw one thousand u.s. dollars .-0.485
+26621-100 美元 兑换 73.28 英镑-it &apos;s 73.28 pounds for us $ 100 .-0.485
+26640-1000 美元 合 多少 人民币-how much will one thousand u.s. dollars be in rmb ?-0.485
+26657-我 想 提取 500 美元-i &apos;d like to withdraw $ 500 .-0.485
+26698-你 的 钱  75 美元-here you are , seven-five dollars .-0.485
+26713-我 想 兑换 100 美元-i &apos;d like to change 1000 u.s. dollars .-0.485
+29010-多少 美元 一 个 晚上-how much is it per night in us dollars ?-0.485
+31995-去 机场 大约 八十 美元-to the airport it should be about $ 80 .-0.485
+32541-那 总共 是 30 美元-that &apos;ll come to $ 30 .-0.485
+32633-对 不 起  299 美元-sorry , $ 299 .-0.485
+33102-不过 这 要 一 美元-but it &apos;ll cost a dollar .-0.485
+34595-你 要 付 1 美元-you should pay 1 u.s. dollar .-0.485
+35720-加上 手续费 一共 51 美元-it comes to 51 dollars including service fee .-0.485
+38985-至少 要 花 20 美元-at least twenty dollars .-0.485
+2792-好 的  这 是 40 美元-all right . here &apos;s 40 dollars .-0.483
+3179-经济舱 770 美元  头等舱 1200 美元-the price is $ 770 economy class , $ 1 , 200 first class .-0.483
+4292-保费 是 每 天 9 美元-that &apos;ll be 9 dollars per day .-0.483
+4779-看吧  计程表 上算 的 5.75 美元-okay . the meter says $ 5.75 .-0.483
+4924-你 得 先交 10 美元 押金-you &apos;ve to pay a deposit of $ 10 first .-0.483
+5196-有  有 5000 元  是 美元-yes . five thousand dollars — us dollars .-0.483
+8065-这 20 美元 是 什么 费用-what &apos;s this 20 dollars for ?-0.483
+12558-一 人 份 五 美元 起-form $ 5 per person .-0.483
+18629-这样 的话 就 是 15.40 美元-then it would be $ 15.40 .-0.483
+19609-我 把 它 变成 14.90 美元-let me make it $ 14.90 .-0.483
+19634-让 我 想想  二十万 美元 怎么样-let me see . what about $ 200,000 ?-0.483
+19766-包括 贷款 在内  大约 五百万 美元-about five million us dollars including loans .-0.483
+20308-年薪 13000 美元 到 19000 美元-the salary range is $ 13000 to $ 19000 .-0.483
+21661-大约 一百 法朗 或是 二十五 美元-about 100 francs or 25 american dollars .-0.483
+22681-这 一 套 是 26 美元-this set is twenty-six dollars .-0.483
+22740-一 套 6 美元 99 美分-six dollars and ninety-nine cents a package .-0.483
+24175-你 想要 美元 还是 欧 货币-do you want to get american dollars or european currency ?-0.483
+24781-只有 29.9 美元  税 另 算-it &apos;s just $ 29.9 , plus tax .-0.483
+25119-三十 毫升 瓶装 是 一百二十 美元-a thirty-millilitre bottle is one hundred and twenty dollars .-0.483
+26048-108 美元  总共 是 138 美元-108 dollars . so the total is 138 dollars .-0.483
+26620-今天 美元 的 兑换率 是 多少-what &apos;s the exchange rate for american currency today ?-0.483
+26639-1 美元 换 8.5 元 人民币-today &apos;s rate is one dollar to 8.5 rmb .-0.483
+28688-去掉 零头  就算 550 美元 吧-to round it off , let &apos;s call it 550 .-0.483
+33729-哦  有点 超重  总共 四点五 美元-it &apos;s a bit overweight . that &apos;ll be $ 4.50 in all .-0.483
+34162-单程 机票 价格 是 500 美元-the single way is 500 u.s. dollars .-0.483
+35709-单程 30 美元  往返 55 美元-it &apos;s 30 dollars one way or 55 dollars round trip .-0.483
+39536-这 20 美元 是 什么 费用-what &apos;s the 20 dollars for ?-0.483
+4273-全 保 每 天 多收 2 美元-it &apos;s only $ 2 a day extra for full insurance coverage .-0.482
+4772-我 想 大概 五  六 美元 吧-i think it &apos;ll be around five or six dollars .-0.482
+4893-你 每 天 要 多付 3 美元-you will pay three dollars more per day .-0.482
+6643-那 您 要 多 付 20 美元-first class is 20 dollars more .-0.482
+8923-17.95 美元  我们 得 留下 些 小费-it &apos;s $ 17.95 and we ought to leave a tip .-0.482
+20156-比 现在 的 周薪 多 30 美元-thirty dollars a week more .-0.482
+22744-好  总共 是 35 美元 71 美分-okay . your total comes to thirty-five seventy-one .-0.482
+25229-总共 400 美元  包括 邮寄费 和 包装费-four hundred dollars altogether , including the postage and the charge for the packing .-0.482
+25573-我们 成对 出售  每 对 90 美元-we sell them by set . it &apos;s ninety dollars per set .-0.482
+26123-100 美元  所以 一共 是 350 美元-100 dollars . so the total is 350 dollars .-0.482
+26158-我 想 用 美元 兑换 一些 外汇券-i &apos;d like to change some u.s. dollars into fec .-0.482
+26575-我 想 用 法郎 兑换 一些 美元-i &apos;d like to exchange some francs for american dollars .-0.482
+26638-1000 美元  今天 兑换 牌价 是 多少-one thousand dollars and what &apos;s the exchange rate today ?-0.482
+26671-早上 好  我 想 兑换 一些 美元-good morning , i want to exchange some u.s dollars .-0.482
+26911-您 的 套房 每 天 50 美元-your suite is 50 dollars per day .-0.482
+28509-能 把 300 美元 换成 港元 吗-could you change 300 us dollars into hong kong dollars ?-0.482
+28530-是 的  我 想 换 一些 美元-yes , i &apos;d like to change some dollars .-0.482
+28918-您 的 帐单 一共 是 3800 美元-your bill totals us $ 3800 .-0.482
+28959-收  零头 用 美元 找 给 你-yes , we do , and you can have the change in dollars .-0.482
+29244-300 美元  包括 早餐费 和 房间 服务费-they are $ 300 including breakfast and room service .-0.482
+32622-价钱 相当 公道  两 人 320 美元-and the price is pretty fair , $ 320 for two .-0.482
+33582-兑换率 是 1 美元 兑换 7.68 港元-it is 1 u.s. dollar to 7.68 hong kong dollars .-0.482
+33798-好 的  一共 3 美元 45 美分-ok , it comes to $ 3.45 .-0.482
+34280-行李 超重费 是 每 公斤 8 美元-the rate for excess luggage is 8 u.s. dollars per kilo .-0.482
+34281-你 应该 交 32 美元 的 超重费-you &apos;ll have to pay 32 u.s. dollars for your overweight luggage .-0.482
+38205-你 必须 付 33 美元 的 关税-you must pay 33 u.s. dollars customs duties .-0.482
+38584-他 每 年 能 挣 两万 美元-his earnings come to ＄ 20,000 a year .-0.482
+39083-我 得到 了 12000 美元 的 奖学金-i &apos;ve got a scholarship of 12 , 000 dollars .-0.482
+3367-给 你 15 美元  不 要 找 零头 了-here &apos;s 15 dollars.keep the change .-0.481
+4103-好 的  保费 是 每 天 9 美元-all right . that &apos;ll be 9 dollars per day .-0.481
+4259-不 限制 公里数 的 行车费 是 23 美元-it &apos;s $ 23 with unlimited mileage .-0.481
+4913-不 限制 公里数 的 行车费 是 20 美元-it &apos;s $ 20 with unlimited mileage .-0.481
+8216-给 你 40 美元  不 用 找 零 了-here is 40 dollars . keep the change , please .-0.481
+10104-给 您 账单  一共 10 美元 50 美分-here you are . that &apos;ll be ten dollars and fifty cents .-0.481
+12141-好  这 是 四十 美元  不 用 找 了-good . here is forty dollars . keep the change .-0.481
+18324-你是 说 让 我们 再 减价 50 美元 吗-do you mean to suggest that we have to make a further reduction of 50 dollars in our price ?-0.481
+18328-这样 还 剩下 20 美元 的 差额 呀-that still leaves a gap of 20 dollars to be covered .-0.481
+18590-他 的 报价 是 每 件 衣衫 13.50 美元-his offer was us $ 13.50 each blouse .-0.481
+19614-14.90 美元  我 不 能 再 提 了-$ 14.90 , i can &apos;t go any further .-0.481
+20875-这 很 好  但 必须 用 美元 来 结算-that &apos;s fine . and it must be settled in us dollars .-0.481
+22789-这个 星期 可 打 折扣  一 支 2.5 美元-it is discounted this week , $ 2.50 .-0.481
+23906-您 有 一百 美元 左右 的 鞋子 吗-do you have any shoes for around a hundred dollars ?-0.481
+24608-今天 兑换率 是 1 美元 兑换 8.300 元 人民币-according to today &apos;s exchange rate , one u.s. dollar is equal to rmb 8.300 yuan .-0.481
+24619-但是 不 贵  只要 20 美元  可以 吗-but that &apos;s not much . only 20 yuan . is it ok ?-0.481
+25618-噢  恐怕 你 多 找 了 十 美元-oh , i &apos;m afraid you &apos;ve given me ten more yuan .-0.481
+26137-我们 有 奶油 生日 蛋糕  十 美元 一 个-we have cream birthday cakes , ten dollars each .-0.481
+26163-我 想 兑 500 美元  给 你 钱-i want to change 500 dollars and here is the money .-0.481
+26542-我们 100 美元 现金 的 买入价 为 827 港元-our buying rate for notes is 827 hong kong dollars for 100 us dollars .-0.481
+26547-今天 的 兑换率 是 100 美元 兑换 845 港元-today &apos;s exchange rate is 845 hk dollars for 100 dollars .-0.481
+26616-我 想 把 美元 兑换 成 英国 货币-yes . i &apos;d like to change some american dollars into british sterling .-0.481
+26666-今天 的 汇率 是 1 美元 换 7.7 港币-the exchange rate for hong kong dollars today is 7.7 hk dollars to one us dollar .-0.481
+26675-500 美元  今天 美元 的 汇率 是 多少-five hundred dollars , please . what is today &apos;s rate for american currency ?-0.481
+26676-根据 现在 的 汇率  100 美元 换 852 人民币-according to the present rate . it is 852 rmb for 100 u.s dollars .-0.481
+26742-我 想 开立 一 个 美元 定期 存款 账户-b. i &apos;d like to open a fixed deposit account in u.s. dollars .-0.481
+28506-我 想 把 这些 美元 兑换 成 港元-yes , i &apos;d like to change these us dollars into hong kong dollars .-0.481
+28654-每 晚 70 美元  总计 应该 是 280 美元-$ 70 per night . it should be $ 280 .-0.481
+28687-按 现行 汇率  4500 元 人民币 相当于 553.12 美元-at the current rate , 4 500 yuan is worth 553.12 dollars .-0.481
+28903-三 天 来 总计 是 479 美元  包括 服务费-the total including service charge for the three days is us $ 479 .-0.481
+29105-包括 一切 在内 每 天 共 三百二十 美元-everything included , it comes to $ 320 dollars every day .-0.481
+29224-50 美元 一 晚上  含 住宿 和 早餐-for each night that &apos;s $ 50 , bed and breakfast .-0.481
+31692-1986 年 花 了 7000 万 美元 进行 维修-in 1986 it was renovated at the cost of 70 million dollars .-0.481
+33576-我 想 把 两千 美元 汇到 香港 去-i want to send two thousand u.s. dollars to hong kong .-0.481
+34160-一 张 来回 机票 的 价格 是 800 美元-a return trip costs 800 u.s. dollars .-0.481
+35436-超重 行李 的 运费 为 每 公斤 2 美元-the overweight luggage will be charged $ 2 per kilo .-0.481
+35447-请 列出 行李 内容物 和 价值 多少 美元-please make a list of the contents of your baggage and their monetary value in dollars .-0.481
+36621-计程表 显示 的 是 10 千 米  5 美元-the meter reads 10 kilometers and 5 dollars .-0.481
+38188-我 只 带 了 300 美元 的 现金-i only have 300 u.s. dollars bill with me .-0.481
+39452-这 是 二十 美元  不 用 找 了-here &apos;s twenty dollars , keep the change .-0.481
+45036-我 认为 二百万 美元 的 投资 是 天方夜谭-i think two million dollar investment is out of the ballpark .-0.481
+51276-我们 订购 了 200 个 暖水瓶  单价 20 美元-we ordered 200 vacuum flasks at the unit price of us $ 20 .-0.481
+51308-他 开出 一 张 100 美元 的 支票-he made out a cheque for us $ 100 .-0.481
+4054-保险费 每 人 每 天 只 另 收 2 美元-the insurance for one person is only an extra $ 2.00 a day .-0.48
+5056-你 允许 带 100 美元 物品 进关  这 是 免税 的-you &apos;re allowed to have $ us 100 article free .-0.48
+6345-我 建议 你 搭乘 区间 往返 巴士 去  只要 7 美元-i recommend you take shuttle bus to the hotel . it &apos;s only seven dollars .-0.48
+6879-这 是 一 包 代币 12.50 美元  这 是 地铁 路线图-here &apos;s a pack of ten tokens , twelve-fifty , and this is your subway map .-0.48
+14811-另外 他 还 有 至少 2 千万 美元 的 广告 合同-he also has endorsement deal worth at least $ 20 million .-0.48
+18605-13.50 美元  我们 付给 那 家 菲律宾 公司 的 价-$ 13.50 , the price we paid the filipino firm .-0.48
+19018-假如 勘探 没 发现 石油  损失 也 会 有 几百万 美元-if the venture fails to find oil , the loss could also be in the millions .-0.48
+19420-那么  我们 可以 从 一百八十 美元 的 基准 开始 进行-well , we can proceed on the basis of ＄ 180 .-0.48
+20654-这 是 50 美元 的 电锯 及 10 美元 的 电钻-this is the fifty-dollar saw , and the ten-dollar drill .-0.48
+23572-钻石 戒指值 400 美元  盒子 50 美元  共计 450 美元-the diamond ring costs 400 dollars , and the case , 50 dollars . they come to 450 dollars together .-0.48
+25754-16.30 美元  请 您 在 右 手 收款处 交钱 好 吗-$ 16.30. would you pay at the cashier &apos;s desk on the right , please ?-0.48
+26161-根据 今天 的 兑换率  一 美元 可 兑 5.79 元 外汇卷-according to today &apos;s exchange rate , every u.s. dollar is equivalent to 5.79 yuan fec .-0.48
+26659-我 是否 可以 要 港币 而 不 要 美元 呢-can i have hong kong dollars instead of american dollars ?-0.48
+26724-我 想 从 我 的 定期 存款 中 支取 200 美元-i &apos;d like to withdraw 200 dollars from my deposit account .-0.48
+27248-嗯  我 的 纸币 最 小 面值 是 十 美元 的-well , the smallest notes i have are ten-dollar ones .-0.48
+27249-我 有 一些 一 美元 的 纸币  你 想 换 吗-well , i have some one-dollar notes . do you want to change ?-0.48
+29012-那 总统 套房 是 多少 美元 一 个 晚上 呢-and how much is a presidential suite for a night ?-0.48
+29197-请 尽快 确认 并 交纳 40 美元 的 保证金  好 吗-would you let us have confirmation of the reservation and a deposit of $ 40 as soon as possible ?-0.48
+31120-租金 每 个 月 一定 不 能 超过 200 美元-it can &apos;t be more than $ 200 a month .-0.48
+36734-一 天 25 美元  每 一 英里 再 加 20 美分-twenty-five dollars a day , plus twenty cents per mile .-0.48
+38183-有 1999 年 美元 现金 和 200000 日元 旅行 支票-here is 1999 u.s. dollars in cash and 200000 traveller &apos;s cheque in japanese yen .-0.48
+38375-400 美元 的 现金 和 2000 美元 的 旅行 支票-four hundred dollars in cash and two thousand dollars in traveler &apos;s checks .-0.48
+51231-如果 你 借给 我 一百 美元 我 会 非常 感激 的-i &apos;d appreciate it if you could loan me a hundred dollars .-0.48
+1998-上午 那 一 班 是 520 美元  下午 那 一 班 是 480 美元-the one in the morning is $ 520 while the one in the afternoon is $ 480 .-0.479
+2970-要是 我 兜里 只有 一 张 1 美元 的 纸币  该 怎么 办-what shall i do if i happen to have just , say , a dollar bill in my pocket ?-0.479
+4038-每 天 50 美元  超过 100 英里 每 英 里 另 加 11 美分-it is $ 50 a day plus 11 cents a mile after the first 100 miles .-0.479
+5219-你 随身 携带 的 货币  支票 或 旅行 支票 超过 5000 美元 了 吗-do you have more than $ 5 000 in currency , checks or traveler &apos;s checks ?-0.479
+6864-头 等 票 多付 24 美元  二 等 票 多 付 15 美元-first class is 24 dollars more , and second class is 15 dollars more .-0.479
+7795-我 按 今天 的 兑换率 给 您 算 一下  一共 是 26.7 美元-i &apos;ll calculate it for you . it comes to 26.7 u.s. dollars at today &apos;s exchange rate .-0.479
+18638-我们 卖给 你 二十万 件 棉 府绸 女衫  每 件 新港 离岸价 15.40 美元-we &apos;ll sell you 120,000 cotton poplin blouses at us $ 15.40 per piece fob xingang .-0.479
+19348-我 想  一 部 标准型 报价 给 客户  可望 在 八百 美元 左右-i should say a typical set could be invoiced to the buyer for around 800 dollars .-0.479
+19855-然后  我们 也 相应 地 把 报价 减少 了 90 美元  变成 15.90 美元-then we responded by cutting our offer also by 90 cents and made it $ 15.90 .-0.479
+20610-它们 由 三千 美元 至 质量 最 佳 的 约 一万 美元 不等-they can run anywhere from about three thousand to ten thousand dollars for a really good one .-0.479
+20758-单宫绸 目前 的 价格 是 135 美元 一捆  双 宫绸 是 165 美元-for single-palace silks , our current price is $ 135 per bale and $ 165 for double-palace .-0.479
+20904-装船 前 30 天 开出 信用证  定单 及 其他 的 费用 用 美元 结算-open a l / c 30 days before shipment ; cover your orders and other expenses in us dollars .-0.479
+22094-请 问 你们 收 哪 一 种 货币  是 美元 还是 人民币-by the way , which kind of money do you accept , us dollars or renminbi ?-0.479
+23718-好  这 是 40 美元  剩下 的 给 你 作 服务 小费 吧-ok , $ 40. keep the change please .-0.479
+24604-您 得 先 把 钱 换成 美元  我 在 此 为 您 服务-and you &apos;ll have to change your money into dollars first . so that &apos;s what i &apos;m here for .-0.479
+24882-278 美元  是 皮质 的  所以 这个 价钱 还 是 合情 合理 的-278 dollars and it &apos;s made of leather . so it &apos;s very reasonable .-0.479
+24942-您 可以 分 12 个 月 付清  首 期 付 1400 美元-you can pay in 12 monthly installments .-0.479
+24943-余下 部分 须 在 12 个 月 内 付清  每 月 付 200 美元-for the first time , 1400 dollars , and you must pay the remaining part in 12months , 200 dollars for each month .-0.479
+25120-我们 也 有 容量 较 大 的 四十五 毫升  每 瓶 是 一百六十 美元-we also have a larger size , forty-five-millilitre , which runs at one hundred and sixty dollars a bottle .-0.479
+25196-那 是 四 美元 九角五 美分 再 乘 以 目前 的 汇率-that &apos;s four dollars and ninety-five cents times the present exchange rate .-0.479
+25597-旅行 支票 的 兑换率 是 每 100 美元 换 人民币 835 元-the rate for traveler &apos;s checks is rmb 835 yuan against $ 100 .-0.479
+25602-谢谢 您  这 是 您 的 护照  兑换 证书 和 美元  请 点 一下-thank you . here is your passport , memo and american money . please double-check them .-0.479
+26056-哦  100 美元 的 票子  100 美元 减去 79 美元 剩余 21 美元-well , a one-hundred-dollar note . 79 dollars form 100 dollars leaves 21 dollars .-0.479
+26132-我 先交 100 美元 定金  等 枕头 做好 我 再 把 余款 付清-here &apos;s a deposit of 100 dollars . i &apos;ll pay you the remainder when the pillow is ready .-0.479
+26541-打搅 一下  请 把 今天 美元 的 兑换率 告诉 我 好 吗-excuse me.would you please tell me the exchange rate for us dollar ?-0.479
+26577-您 能 给 我 一些 10 美元 和 5 美元 的 钞票 吗-would you give me some in tens and fives ?-0.479
+26628-要 一 本 新 的 支票簿 并请 把 这些 美元 兑换 成 英镑-a new cheque book and these dollars into sterling , please .-0.479
+26647-您 可以 去 中国 银行 或到 机场 货币 兑换处 把 钱 再 换成 美元-you may go to the bank of china or the airport exchange office to change it back into dollars .-0.479
+26737-对  劳驾  我 可 不 可以 开立 一 个 美元 定期 存款 账户-yes , please . can i open a fixed deposit account in u.s. dollars ?-0.479
+28349-我 的 信用卡  200 美元 和 一 张 去 伦敦 的 机票-my credit card , $ 200 and a plane ticket to london .-0.479
+28961-好 的  这 是 400 美元 的 支票  零头 不 用 找 了-okay , here &apos;s a check for four hundred dollars and you can keep the change .-0.479
+29194-单人 房间 每 晚 80 美元  会议室 两 个 下午 100 美元-the single rooms will be $ 80 per night.the charge for the conference room will be $ 100 for two afternoons .-0.479
+29269-向阳 的 双 人间 每 晚 140 美元  背阴 的 每 晚 115 美元-a double room with a front view is 140 dollars per night , one with a rear view is 115 dollars per night .-0.479
+31141-我 要 每 月 300 美元  当然 什么 都 包括 在内 了-i ask $ 300 a month , which includes everything .-0.479
+31176-我 想 请 你 预付 200 美元 租金 外加 50 美元 的 损毁 抵押金-i need two hundred dollars rent in advance plus a fifty dollar breakage deposit .-0.479
+31630-十日 游 每 人 只 需 一千零八十八 美元  这 包括 来回 机票-the price of a 10-day tour for one person is only $ 1 , 088 , which includes round-trip air-tickets .-0.479
+32539-成人 10 美元  12 岁 以下 的 半价  3 岁 以下 的 免费-for adults , $ 10.00 . children under 12 go for half-price and children under three are free .-0.479
+32824-每 张 机票 是 630 美元  3 张 票 一共 是 1890 美元-they are 630 dollars each , so it &apos;s 1890 dollars for all three .-0.479
+38178-我 只 带 了 几 件 礼物  总共 价值 不 超过 50 美元-i have only a few small gifts , the total value is under 50 dollars .-0.479
+48756-你 上 个 月 向 杰克 借 了 200 美元  他 正急 需 钱-you borrowed $ 200 from jack last month , and the needs it badly .-0.479
+49695-正常 来说 是 12 美元  不过 现在 我 可以 给 您 九五 折-well , the normal price is $ 12 , but now i can give you a 5 % discount .-0.479
+3152-如果 你 能 在 星期日 回来 的话  可以 买 我们 周末 优惠票  票价 是 333 美元-but if you return on sunday , you can take advantage of our weekend discount fare of $ 333 .-0.478
+4958-我们 允许 你 携带 100 美元 的 免税品  所以 你 不 必 为 你 的 表 和 衣服 上税 了-you &apos;re allowed $ 100 duty-free , so you don &apos;t have to pay any duty .-0.478
+5298-你 可以 带 价值 100 美元 的 免税 商品  所以 你 的 手表 和 西装 都 不 用 交税-you are allowed $ 100 duty-free , so you don &apos;t have to pay any duty on your watch and suit .-0.478
+6956-给 站 在 那儿 的 那 个 人 1 美元  他 会 给 你 一 个 辅币-just give the man standing there one dollar and he &apos;ll give you a token .-0.478
+7793-可是 不幸 的 是  我 今天 没 带 那么 多 的 外汇 卷  付 美元 可以 吗-but i am awfully sorry , i don &apos;t bring enough fec with me today . do you think it &apos;s ok to pay it in u.s. dollars .-0.478
+18009-拿 这 台 机器 来说  我 买 的 时候 花 了 17500 美元  而 最新 价格 是 19000 美元-take this one for example . i bought it at $ 17,500 and the latest price is $ 19,000 .-0.478
+18327-我们 最 多 只 能 再 减 30 美元  这 可 真 是 最 低价 了-the best we can do will be a reduction of another 30 dollars . that &apos;ll definitely be rock-bottom .-0.478
+18578-我们 愿意 卖给 你 十二万 件 棉 府绸 女衫  每 件 新港 离岸价 16.80 美元-we are pleased to offer you 120,000 cotton poplin blouses at us $ 16.80 each , fob xingang .-0.478
+18625-因此  假如 我们 因为 这 一 美元 的 差价 而 完 不 成 新 合同  那 就 太 遗憾 了-so . it would be a crime if we let this one dollar difference stand in our way to the new contract .-0.478
+18849-根据 这 项 合同  要 为 机器 总共 支付 254300 美元  同 李 先生 最初 的 出价 非常 接近-according to the contract , the total payment for the machines is $ 254,300 , very close to mr. li &apos;s original bid .-0.478
+19221-每 部 都 是 一千两百 美元  若 贵 公司 购买 一百 部 的话  我们 可以 给 您 百分之十 的 折扣-it costs 1,200 dollars per set . but if you buy one hundred sets , we &apos;ll give you a 10 percent discount .-0.478
+19294-您 在 此 地 看到 的 是 工厂 交货价  价幅 从 八百五十 美元 至 一千两百 美元-what you see here ranges from us ＄ 850 to us ＄ 1,200 ex-factory .-0.478
+19611-伯恩 先生  你 不 必 这么 悲观  即使 是 15.90 美元  你 还 能 获得 合理 的 利润-mr. bowen , you needn &apos;t be so pessimistic . even at $ 15.90 , you can still make reasonable profit .-0.478
+19850-我们 的 报价 是 每 件 16.80 美元  你 的 回盘 是 14.40 美元  我们-our offer was $ 16.80 each blouse , and you counter-offered $ 14.40 . we .-0.478
+19851-对 不 起  我们 的 第一 次 回盘 是 13.50 美元  我们 付给 菲律宾 女衫 的 价格-i &apos;m sorry , but our first counteroffer was $ 13.50 , the price we paid for the filipino blouses .-0.478
+19852-好吧  假如 那 是 你 的 首 次 回盘  那 你 后来 把 它 增加 到 了 14.40 美元-well , if that was your first counteroffer , then you increased it to $ 14.40-0.478
+20612-一 部 中等 质量 而 又 达到 小型 企业 要求 的 大约 由 五千六千 美元 不等-a machine of medium quality that meets the needs of most small businesses would run at around five thousand or six thousand dollars .-0.478
+21636-我 建议 您 坐 得 靠 后 些  后面 的 位子 也 便宜 得 多  每 张 只有 3.5 美元-i suggest you sit toward the back . those seats are much cheaper , 3.50 dollars each .-0.478
+22096-账单 上 开 的 是 人民币  如果 你们 付 美元  我们 会 按 今天 兑换率 将 人民币 换算 成 美元-the bill is made out in renminbi . if you pay in us dollars , we &apos;ll convert renminbi into us dollars against today &apos;s exchange rate .-0.478
+22129-你 不 必 为 此 担心  30 美元 付账 后 不 会 有 多少 余 钱 了-you needn &apos;t worry about that . there won &apos;t be much change out of $ 30 .-0.478
+23299-“ 游春 图 ” 的 复制品 是 每 幅 30 美元  “ 奔马图 ” 的 复制品 是 200 美元-30 dollars for the reproduction of &quot; spring outing &quot; and 200 dollars for the reproduction of &quot; galloping horse &quot; .-0.478
+24610-给 我 一些 100 美元 和 50 美元 的  我 还 要 一些 零 钱-please give me some 100-dollar and 50-dollar notes . i need some change , to .-0.478
+24938-3800 美元 一 台  考虑 到 它 的 高 质量  这个 价钱 还 是 值得 的-it &apos;s 3800 dollars . but considering the high quality , it &apos;s worth it .-0.478
+25595-哦  我 没 想到 这么 贵  我 身边 的 美元 不 够 了  可以 用 旅行 支票 付款 吗-oh , i didn &apos;t expect it be so expensive . i haven &apos;t got enough american currency . could i pay by traveler &apos;s checks ?-0.478
+25640-很 简单  你 先付 五千 美元 的 定金  然后  一 年 之内  每 个 月 再 付 一千 美元-quite simple . you pay a down payment of five thousand dollars , and then , within a year , one thousand for each and every month .-0.478
+25765-这 是 优质 的 金 项链  平时 价格 是 56 美元  现在 你 八 折 就 可以 买到 了-here is a nice gold necklace . its regular price is * 56 , and now you can have it with a twenty percent discount .-0.478
+26054-让 我 看看 : 口红 25 美元  粉 36 美元  香水 18 美元  所以 总共 是 79 美元-let &apos;s see what that &apos;ll all cost . 25 dollars for this lipstick . 36 dollars for the face powder , 18 dollars for the perfume . so add up to 79 dollars .-0.478
+26178-您 应到 中国 银行 或 分支 机构 的 兑换处  把 剩余 的 外汇 兑换 成 美元 就 可以 啦-you &apos;ll have to go to the bank of china or exchange office to change it back .-0.478
+26548-行  我 想 从 这个 1000 美元 的 旅行 支票 中 兑换 出 500 美元-ok . i want to change 500 dollars out of this 1000-dollar traveler &apos;s check .-0.478
+26565-在 机场 兑换 外币 十分 困难  所以 我 想 在 这儿 把 没 用完 的 人民币 兑换 成 美元-it &apos;s very difficult to exchange foreign currencies at the airport , so now i &apos;d like to convert the unused rmb back into us dollars .-0.478
+26680-谢谢  500 美元  按 今天 的 兑换率 总共 是 4260 元  您 熟悉 中国 货币 吗-thank you . five hundred dollars , so it will come to 4260 yuan at today &apos;s rate . are you familiar with chinese currency ?-0.478
+27674-通常 的 洗衣 量 您 得 付 1.5 美元  每 台 洗衣机 都 要 用 25 美分 的 硬币-the regular loads cost a dollar-fifty and each machine takes quarters .-0.478
+27677-我们 有 换 币机  就 在 那儿  可以 把 1 美元  5 美元 甚至 10 美元 的 钞票 换开-we have a change machine right over there . you can get change for a one , five , or even-ten-dollar bills .-0.478
+28732-你们 承诺 过 要 打 八五折 的  所以 不 应该 是 每 晚 425 美元-you promised a 15 percent discount , so it shouldn &apos;t be 425 dollar for that .-0.478
+28910-我 每 次 打 电话 只 说 了 几 分钟  怎么 搞 的 总数 竟 高 达 89 美元-i only spent a few minutes on the phone each time . how come the total amounts to $ 89 ?-0.478
+37067-一 天 是 12 美元  每 一 英里 加 12 美分  不 包括 汽油 在内-it &apos;s $ 12.00 a day , 12 cents a mile , plus gas .-0.478
+38070-您 可以 携带 100 美元 的 免税品  所以 您 的 表 和 衣服 就 不 必 纳税 了-you &apos;re allowed $ 100 duty-free , so you don &apos;t have to pay any duty on your watch and suit .-0.478
+38075-您 所 带 的 外汇  支票 或 旅游 信用证  金额 超过 5000 美元 了 吗-do you have with you now more than % 5000 in any form of currency , checks or traveler &apos;s l / c ?-0.478
+45093-现在 门票 不 难 买  也 让 以前 便宜 多 了  才 15 至 20 美元-the tickets are much easier to come by and a great deal cheaper , around $ 15-20 .-0.478
+45412-一 年 后  据 披露 他 通过 打 棒球 而 每 周 获得 25 美元 报酬-a year after his accomplishments , it was revealed that thorpe had received ＄ 25 a week playing baseball .-0.478
+45589-中国 政府 已经 保证 要 花费 200 亿 美元  建造 综合 体育馆  更新 北京 的 基础 设施-the chinese government has pledged to spend 20 billion u.s. dollars building sports complexes and refurbishing the beijing infrastructure .-0.478
+50672-本 公司 已 代 Johnson 公司 向 中国 人民 保险 公司 按 5% 的 保险费率  为 货物 投保 60000 美元-we have effected , for the account of messrs , johnson &amp; co . , the insurance on the goods for $ 60000 at the rate of 5 % with the picc .-0.478
+51145-今天 本 公司 将 第 98 号 订单 金额 3000 美元 付清  记入 贵方 在 中国 银行 的 账户-today , we paid us $ 3000 for our orders no.98 into your account at the bank of china .-0.478
+52417-如果 您 还 有 剩余 的 人民币 可以 在 机场 银行 换成 港币 或 美元-if you have any rmb yuan left you can convert it back into either hong kong dollars or u.s. dollars at the bank at the airport .-0.478
+4100-使用 一 天 的 租费 是 35.95 美元  但是 超出 100 里 以后  每 一 里 另 加 9 分 钱-it &apos;s $ 35.95 a day plus 9 cents a mile after the first 100 miles .-0.477
+4957-是 的  我 买 了 一 块 表  价钱 是 50 美元  还 有 一 件 衣服  也 是 50 美元-yes , i bought a watch , which costs $ 50 and a new suit , $ 50 .-0.477
+5295-有  我 在 香港 买 了 一 只 手表  价值 50 美元  还 有 一 套 新 西装  价值 50 美元-yes , i bought a watch in hong kong , which costs $ 50 and a new suit , $ 50 .-0.477
+8215-一 只 烤鸭 15 美元  一 盘 猪肉 10 美元  一 碗 牛肉 6 美元  两 瓶 啤酒 3 美元  共计 34 美元-a roasted duck is 15 dollars . a plate of pork is 10 dollars . a bowl of beef is 6 dollars . two bottles of beer are 3 dollars . that &apos;ll be a total of 34 dollars .-0.477
+14810-你 说 得 很 对  今年 是 他 签 的 一 个 为期 7 年 价值 4 千万 美元 的 合同 的 第二 个 赛季-you &apos;re quite right on this point . he is in the second season of a seven-year , $ 40 million contract .-0.477
+15212-他们 在 奖金 为 12.5 万 美元 的 全 英 羽毛球 公开赛 上 占据 了 前 四 名 的 全部 席位-they have clinched all four semi-final berths for men at the famous $ 125000 all england open .-0.477
+15221-他们 在 奖金 为 12.5 万 美元 的 全 英 羽毛球 公开赛 上 占据 了 前 四 名 的 全部 席位-they have clinched all four semi-final berths for men at the famous ＄ 125000 all england open .-0.477
+17823-对 了  上 一 批 围巾  在 我们 接货 之后  听说 有 位 同业 购自 同 一 厂商 类似 的 围巾  进价 每 打 才 三十 美元 呢-well , the last lot of scarves , after we took the delivery , we heard of a competitor getting similar scarves from the same maker only at thirty dollars per dozen .-0.477
+17840-信用状 上 的 最高 限额 为 每 月 三万 美元  因此 每 个 月 出货 约 六十 箱 到 七十 箱 不 等-that sets the limit of $ 30,000 per month . it works out at about 60 to 70 crates a month .-0.477
+18011-同样 的 机器 在 中国 恐怕 用 17000 美元 就 可 买到  而且 是 全 新 的  也 不 要 运输 费用-i &apos;m afraid i can get the same machine in china even at $ 17,000. it will be brand new and need no shipping expenses .-0.477
+18323-你方 提出 的 单价 比 我们 可以 接受 的 价格 高出 100 美元  我 说 的 各 让 一半  是 名符其实 的 一半-your unit price is 100 dollars higher than we can accept . when i suggested we meet each other half way , i meant it literally .-0.477
+18401-然而 已 有 相当 长 的 一 段 时间 里 曾脂 市场 坚挺  澳大利亚 市场 散装 曾脂 一 吨 的 时价 在 303 美元 左右-however , the tallow market has been quite strong for sometime and the prevailing price in the australian market is around us $ 303 / mt for bulk tallow .-0.477
+18415-世界 各 地 通货膨胀率 每 年 为 3-9%  而 曾脂 价格 和 去年 成交价 相比  只 上涨 了 5%  我们 的 报盘 表面 上涨 了 15%  乃 是 美元 急剧 下跌 造成 的-the rate of inflation around the world is from 3-9 % while the rise in price for tallow is only 5 % compared with our last transaction . the seeming 15 % rise in our offer is caused by the precipitous slide of the dollar .-0.477
+18449-是 的  我 现在 将 我们 的 报盘 重复 一下 : 报 钢材 5000 公吨  规格 按照 我们 的 目录  价格 每 公吨 192 美元  FOB 汉堡  1992 年 9  10 月 装船-yes , may i now repeat our offer as 5 000 m / t steel , specifications as shown in our catalogue at us $ 192.00 per m / t fob hamburg , shipment sep . / oct . 1992 .-0.477
+18520-比如  你们 进口 四 台 采 煤机  每 台 600 万 美元  全部 都 用 这些 机器 采 的 煤 来 偿付-for instance , you &apos;ll buy from us four coal cutters at the unit price of 6 million us dollars . all of them will the paid for with the coal produced by the machines .-0.477
+19419-我 可以 告诉 你  我们 公司 可 同意 到 每 吨 一百八十 美元  但是 付款 条件 得 与 价格 连带 考虑-i can tell you that we are willing to go up to ＄ 180 per ton ; but terms of payment must be considered together with the price .-0.477
+19613-我 不 开 玩笑  15.90 美元  这 是 我 的 底价  我 不 能 把 我们 的 女衫 卖 得 低于 它们 的 真正 价值-i &apos;m serious , $ 15.90 . that &apos;s my rock bottom price . i can &apos;t sell our blouses under their real value .-0.477
+24168-你 所 付 的 460 美元 包括 税金  你 可以 凭 这 张 表格 在 通过 海关 时 取回 所 付 税款-the 460 dollars you paid includes tax and you can get it back when you go through customs .-0.477
+25598-这 是 两 张 500 元 的 支票  我 想 足够 买 这 块 地毯 的  多余 的 请 给 我 换成 美元-here are two 500-yuan checks . i think it &apos;s enough to pay for the rug and i &apos;d like to change the rest into american dollars .-0.477
+26217-对 了  上 一 批 围巾  在 我们 接货 之后  听说 有 位 同业 购自 同 一 厂商 类似 的 围巾  进价 每 打 才 三十 美元 呢-well , the last lot of scarves , after we took the delivery , we heard of a competitor getting similar scarves from the same maker only at thirty dollars per dozen .-0.477
+27247-那 个 信箱 带 一 个 换 钱 机  你 用 一 美元 的 纸币 就 可以 跟 它 换 硬币-it has a change machine and you can change coins there with one-dollar bills .-0.477
+27659-好 的  这 是 三明治  这 是 咖啡  三明治 3 美元  咖啡 2 美元  共 5 美元  服务费 10%  总共 加 起来 是 5.5 美元-yes , sir here ate your sandwiches and your coffee . the sandwiches are 3 dollars and the coffee is 2 dollars . that comes to 5 dollars .-0.477
+28908-三 个 晚上 的 房费 为 270 美元  120 元 是 您 在 小酒吧 用 早餐 及 饮料 费用  89 元 是 您 打住 纽约 的 国际 直拨 电话费-$ 270 is for your room check for three big hits ; $ 120 is for the breakfast and soft drinks from the minibus and $ 89 is for idd call you made to new york .-0.477
+45075-在 纽约 的 普莱西德湖 —— 1980 年 冬季 奥运会 的 举办地 —— 奥运会 历史 上 人工 降雪 首 次 得到 使用  它 的 总 造价 为 5 百万 美元-at lake placid , new york , where the 1980 winter olympic games were held , artificial snow was used for the first time in olympic history , at a cost of ＄ 5 million .-0.477
+45456-东京 为 迎接 奥运会 而 进行 的 重建 估计 耗资 30 亿 美元  而 奥运会 身 的 预算 则 是 史无前例 的 六千万 美元-an estimated ＄ 3 billion was spent in tokyo renewal in preparation for the games and a record ＄ 60 million was budgeted for the games themselves .-0.477
+45565-罗吉 还 特地 感谢 保安 力量  为了 确保 冬 奥运 的 安全  他们 花费 了 近 三亿一千万 美元  该 数字 是 因为 9/11 恐怖 袭击 而 猛 增 的-rogge also thanked the security forces that kept the games safe at the cost of about $ 310 million , a bill that increased following the sept . 11 terrorist attacks .-0.477
+46228-在 60 年代  有 一 名 来自 英格兰 德比队 的 球员  因为 一 场 比赛 中 嘲笑 裁判 而 被 罚款 2 美元-during the 1960s , a player for a team from derby , england , was fined two dollars for smiling at a referee during a match .-0.477
+50664-你们 能否 按 1% 的 保险费率 对 由 核准 船只 运往 巴黎  金额 为 10000 美元 的 杂货  开具 预约 保单-can you issue an open policy for $ 10000 at a rate of about 1 % on general shipments by approval vessels to pairs ?-0.477
+50667-请 代 我方 对 价值 9000 美元 的 水查 投保 单独 海损 险 及 偷窃 提货 不 着 险  保险费 记 在 销货 清单 上-kindly effect the insurance w. a. and t. p. n. d. for $ 9000 on fruit , on behalf of us , charging the premium in the account sales .-0.477
+50681-以 您 方为 受益人 金额 为 6000 美元 的 这 笔 订货 的 信用证 业已 开出  有效期 为 5 月 15 日-an irrevocable l / c covering this order for us $ 6000 in your favour was opened available until may 15 .-0.477
+50699-我方 已 开给 您 方 一 张 以 公司 为 付款人  金额 为 9000 美元  受益人 为 南京 贸易 公司 的 即期 汇票-we have drawn on you for account of messrs. handerson &amp; co . ltd . for $ 9000 a / s in favor of nanjing trading co .-0.477
+50704-今天 上午 接到 我方 交易 银行 的 通知  得知 经 贵方 承兑 12 月 6 日 到期 的 3000 美元 的 汇票 遭 退票  我们 对 此 深感 惊讶-we are surprised to receive information from our bankers this morning that your acceptance for $ 3000 , due on december 6 , has been dishonoured .-0.477
+51148-很 乐于 寄上 9000 美元 的 支票  以 支付 贵方 4 月 20 日 对本 公司 3 月 T 恤衫 订单 提出 的 结算 清单-we are pleased of enclose our cheque for us $ 90000 in settlement of your statement of account dated april 20 , covering our orders for t-shirts in march .-0.477
+51156-兹附寄 到 5 月 30 日 为止 的 结算 清单  可以 看出 我方 应 得 3000 美元 的 差额  希望 不久 能 收到 付款 的 支票-we enclose the statement of account up to may 30 showing a balance in our favor of $ 3000 and hope to receive a cheque in settlement in due course .-0.477
+51248-我们 有 几 次 卖给 该 公司 高 达 八百万 美元 的 货物 , 但 它 从 未 施欠 过 货款 .-several times we have sold goods amounting to eight million dollars , but have never experienced a delay in payment .-0.477
+18430-昨天 下午 会谈 之后  我们 对 你 的 报价 又 作 了 进一步 的 研究  并且 查找 了 近 几 天 的 国际 钢铁 市场 的 行情  仍然 觉得 你们 在 原来 报价 的 每 公吨 200 美元 的 基础 上 仅仅 削价 2% 是 远远 不 够 的-we had a further look at your quotation after the talk yesterday afternoon . after going through the world steel market situation in the last few days , we still feel that it is not enough for you to reduce your original price of $ 200 per m / t by only 2 % .-0.476
+44049-近年 来  一 个 新 的 规定 要求 一 个 队 必须 设法 在 短 时间 内 投篮 : 大学队 为 35 秒  国际 比赛 为 30 秒  美元 职业 比赛 为 24 秒-in recent times , a new rule requires a team to try to score within a brief time : 35 seconds in the collegiate game , 30 seconds in international play , and 24 seconds in american professional play .-0.476
+45470-当 伊丽莎白 女王 二 世 宣布 21 届 奥运会 开幕 时  蒙特利尔 已经 花费 了 惊人 的 12 亿 美元  这个 沉重 的 债务 在 赛后 很 长 的 一 段 时间 内 都 没有 还 清-when queen elizabeth ii declared open the games of the xxith olympiad , montreal had already spent a staggering ＄ 1.2 billion , a debt that would linger on well after their conclusion .-0.476
+45590-计划 包括 建造 一 个 新 的 展览 中心  该 中心 的 两 幢 姊妹 摩天 大楼 的 高度 可能 会 跃居 世界 首 位  有 37 亿 美元 将 被 用 于 缓解 交通  将 城市 的 高速 公路 长度 增加 二 倍  将 其 地铁 的 运载 能力 增加 三 倍-there are plans for a new exhibition center with twin skyscrapers that could be taller than any in the world about 3.7 billion u.s. dollars will go to ease traffic , tripling the length of the city &apos;s highways and quadrupling the capacity of its subway system .-0.476
+51159-贵方 对于 本 公司 前 两 次 申请 付清 3000 美元 帐款  未 予 注意  使 我方 大为 惊讶  以 从 发票 日 起 30 天 付款 的 条件  该 笔 款项 现 已 过期 已 久-we are surprised that you have taken no notice of our two previous applications for a settlement of our account of $ 3000 , which is now much overdue , our terms being 30 days from the date of invoice .-0.476
+18395-美元 贬值 迫 在 眉捷  英镑 也 承受 巨大 的 压力  我们 不 能 冒险 行事-u.s. dollar devaluation was imminent , and sterling was also under heavy pressure . we couldn &apos;t afford to take any chances .-0.475
+22095-美元  人民币 都行-either will do .-0.475
+26739-美元 定期 存款 的 年利率 是 多少-what &apos;s the interest rate for the fixed deposit account in u. s. dollars ?-0.475
+26740-美元 定期 存款 的 年利率 为  %-the annual interest rate for fixed deposit account in u.s. dollars is . % .-0.475
+28685-美元 行吗-can i pay in us dollars ?-0.475
+28771-美元 现金-us dollars .-0.475

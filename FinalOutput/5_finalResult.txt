@@ -1,0 +1,2162 @@
+当然 可以  很 不错  谢谢
+21490-当然 可以  我 很 高兴 陪 您 去-certainly , i &apos;ll be glad to .-0.589
+50484-谢谢  我 很 乐意 参加  请 重复 一下 时间 和 地点  可以 吗-thanks . i &apos;ll be delighted to come , but will you repeat the time and the place , please ?-0.554
+155-当然 可以-of course not .-0.4
+195-当然 可以-certainly .-0.4
+291-当然 可以-certainly .-0.4
+523-当然 可以-certainly .-0.4
+560-当然 可以-certainly .-0.4
+607-当然 可以-certainly .-0.4
+629-当然 可以-certainly .-0.4
+663-当然 可以-certainly .-0.4
+863-可以  谢谢-yes , thank you .-0.4
+1164-当然 可以-sure .-0.4
+1190-当然 可以-of course .-0.4
+1270-当然 可以-sure .-0.4
+1274-当然 可以  先生-certainly , sir .-0.4
+1576-很 好  谢谢-she &apos;s doing fine , thank you .-0.4
+1578-很 好  谢谢-fine , thanks .-0.4
+2127-当然 可以  先生-certainly , sir .-0.4
+2179-当然 可以  太太-certainly , madam .-0.4
+2313-当然 可以  先生-certainly , sir .-0.4
+2360-当然 可以-of course .-0.4
+3466-当然 可以-sure .-0.4
+3473-当然 可以-of course .-0.4
+3609-很 不错-it &apos;s nice .-0.4
+3792-当然 可以  为什么 不 呢-sure . why not ?-0.4
+3824-当然 可以-sure .-0.4
+4138-当然 可以-sure .-0.4
+4219-当然 可以-sure .-0.4
+4311-当然 可以-of course .-0.4
+4419-当然 可以-sure .-0.4
+4555-当然 可以-sure .-0.4
+4600-当然 可以-sure .-0.4
+4638-当然 可以-sure .-0.4
+4904-当然 可以-sure .-0.4
+4946-当然 可以-sure .-0.4
+5155-当然 可以-sure .-0.4
+5205-当然 可以-of course .-0.4
+5456-当然 可以-ok .-0.4
+5658-当然 可以-yes , certainly .-0.4
+5668-当然 可以-certainly .-0.4
+5853-当然 可以-sure .-0.4
+6033-当然 可以-sure , i can .-0.4
+6082-当然 可以-sure .-0.4
+6437-当然 可以-of course .-0.4
+6679-当然 可以  拿去-certainly . here you are .-0.4
+6878-当然 可以-sure .-0.4
+6895-当然 可以-certainly .-0.4
+6998-当然 可以-sure .-0.4
+7076-当然 可以-of course .-0.4
+7266-很 好  谢谢-fine .-0.4
+7310-当然 可以-yes , of course .-0.4
+7341-当然 可以-sure .-0.4
+7518-当然 可以-sure .-0.4
+7589-这 好象 很 不错-that sounds very good .-0.4
+7602-当然 可以  给 你-sure . here you are .-0.4
+7892-很 好  谢谢-that &apos;s fine . thank you .-0.4
+8181-当然 可以  先生-sure , sir .-0.4
+8221-当然 可以  先生-certainly , sir .-0.4
+8245-当然 可以  先生-sure , sir .-0.4
+8255-很 好  谢谢-good . thank you .-0.4
+8301-当然 可以  先生-certainly , sir .-0.4
+8368-当然 可以-of course , sir .-0.4
+8410-当然 可以-yes , of course .-0.4
+8628-当然 可以  先生-certainly , sir .-0.4
+8722-当然 可以-yes , miss joan .-0.4
+8815-当然 可以  先生-certainly , sir .-0.4
+9081-当然 可以-certainly , sir .-0.4
+9430-当然 可以-certainly .-0.4
+9459-当然 可以-yes , certainly .-0.4
+9672-当然  谢谢-certainly we will . thank you .-0.4
+9781-当然 可以  先生-certainly , sir .-0.4
+9989-当然 可以  给 你-of course . here you are .-0.4
+10089-当然 可以  先生-of course , sir .-0.4
+10153-当然 可以 啦-of course .-0.4
+10586-当然 可以-sure .-0.4
+10590-当然 可以  先生-certainly , sir .-0.4
+10892-当然 可以-of course .-0.4
+10951-当然 可以-sure .-0.4
+11230-当然 可以  先生-certainly , sir .-0.4
+11325-当然 可以-sure .-0.4
+11406-当然 可以-certainly .-0.4
+11503-当然 可以-sure .-0.4
+11907-当然 可以-certainly , sir .-0.4
+11932-当然 可以  先生-certainly , sir .-0.4
+12054-当然 可以-certainly .-0.4
+12263-很 好  谢谢-that &apos;s fine . thank you .-0.4
+12455-当然 可以  先生-certainly , sir .-0.4
+12460-我 很 好  谢谢-fine , thank you .-0.4
+12484-当然 可以-sure .-0.4
+12587-当然 可以  斯通 先生-certainly , mr. stone .-0.4
+12693-当然 可以  林 小姐-sure , miss lin .-0.4
+12766-当然 可以-certainly .-0.4
+12785-当然 可以-of course .-0.4
+12952-很 好  谢谢-yes , thanks .-0.4
+13130-当然 可以-yes , of course .-0.4
+13155-当然 可以-sure .-0.4
+15038-当然 可以-sure .-0.4
+16041-当然 可以-of course .-0.4
+16110-当然 可以-of course .-0.4
+17501-当然 可以-of course , we do .-0.4
+17537-当然 可以-of course , we do .-0.4
+17588-当然 可以-sure .-0.4
+17708-当然 可以-yes , certainly .-0.4
+17926-当然 可以-sure .-0.4
+17993-当然 可以-of course it can .-0.4
+18475-当然 可以-why not ?-0.4
+18507-当然 可以-why not ?-0.4
+18542-很 好  谢谢-i &apos;m fine , thank you .-0.4
+18722-当然 可以 罗-why not ?-0.4
+19106-当然 可以-not at all .-0.4
+19168-当然 可以-sure thing .-0.4
+19198-很 不错-very splendid .-0.4
+19233-当然 可以  请 稍候 一下-certainly . please wait a moment .-0.4
+19355-当然 可以-certainly .-0.4
+19450-当然 可以-by all means .-0.4
+19788-当然 可以-not at all .-0.4
+20082-可以  谢谢-yes . thank you .-0.4
+20297-当然 可以-of course not .-0.4
+20499-可以  谢谢-yes , thank you .-0.4
+20659-很 不错-very splendid .-0.4
+20922-当然 可以-sure .-0.4
+21190-当然 可以-certainly .-0.4
+21230-当然 可以-certainly .-0.4
+21273-当然 可以-yes , of course .-0.4
+21512-当然 可以-sure .-0.4
+21656-当然 可以-sure .-0.4
+21694-Tom  看起来 很 不错 嘛-looking good , tom !-0.4
+21855-当然 可以-certainly .-0.4
+21961-当然 可以-of course you can .-0.4
+22171-当然 可以-sure .-0.4
+22655-听 起来 很 不错-it sounds good .-0.4
+23202-当然 可以-certainly .-0.4
+23271-当然 可以  先生-certainly , sir .-0.4
+23386-当然 可以-certainly .-0.4
+23475-当然 可以-ok. mam .-0.4
+23537-当然 可以-sure .-0.4
+23726-当然 可以-certainly ?-0.4
+23760-当然 可以-sure .-0.4
+23785-当然 可以-sure .-0.4
+23854-当然 可以-of course .-0.4
+23876-当然 可以-yes , certainly .-0.4
+24057-当然 可以-certainly .-0.4
+24094-当然 可以-sure .-0.4
+24205-当然 可以-yes , of course .-0.4
+24222-当然 可以-sure .-0.4
+24261-当然 可以-certainly .-0.4
+24303-当然 可以  给 你-certainly . here you are .-0.4
+24316-当然 可以-yes , of course .-0.4
+24406-当然 可以-certainly .-0.4
+24431-当然 可以  先生-of course , sir .-0.4
+24472-当然 可以-sure .-0.4
+24572-当然 可以  小姐-certainly , miss .-0.4
+24838-当然 可以  给 您-certainly . here it is .-0.4
+25063-当然 可以-certainly .-0.4
+25177-当然 可以-certainly .-0.4
+25306-当然 可以-certainly .-0.4
+25744-当然 可以-yes , of course .-0.4
+25764-当然 可以-sure .-0.4
+25834-当然 可以  请 您 稍等-certainly , hold everything here please !-0.4
+25837-当然 可以  您 自便 吧-certainly , feel free please .-0.4
+25933-当然 可以-certainly .-0.4
+26142-当然 可以-certainly .-0.4
+26174-当然 可以-of course , sir .-0.4
+26244-当然 可以-yes , of course .-0.4
+26286-当然 可以-sure .-0.4
+26343-当然 可以-of course .-0.4
+26400-当然 可以 了-sure , of course .-0.4
+26402-当然 可以 了-yes , of course .-0.4
+26424-当然 可以  请 吧-sure , go ahead .-0.4
+26546-当然 可以  先生-certainly , sir .-0.4
+26584-当然 可以-certainly .-0.4
+26611-当然 可以-sure .-0.4
+26642-好  一点 不错  谢谢-yes , correct . thank you .-0.4
+26660-当然 可以-of course .-0.4
+26738-当然 可以  太太-certainly , madam .-0.4
+26827-当然 可以-yes , of course .-0.4
+26916-当然 可以  史密斯 先生-certainly , mr. smith .-0.4
+26967-当然 可以-certainly .-0.4
+27069-当然 可以  先生-certainly , sir .-0.4
+27168-当然 可以-certainly .-0.4
+27315-当然 可以-certainly .-0.4
+27320-当然 可以-yes , of course .-0.4
+27437-当然 可以-certainly .-0.4
+27520-当然 可以-of course .-0.4
+27569-看 起来 很 不错-it looks lovely .-0.4
+27597-当然 可以-yes , of course .-0.4
+27663-当然 可以-certainly , sir .-0.4
+27717-当然 可以-sure .-0.4
+27783-当然 可以-certainly .-0.4
+27800-当然 可以  先生-certainly , sir .-0.4
+27804-当然 可以  晚安-certainly , good night .-0.4
+27823-当然 可以-of course .-0.4
+27827-当然 可以-certainly .-0.4
+27861-当然 可以-certainly .-0.4
+27966-当然 可以-certainly .-0.4
+28062-当然 可以-sure .-0.4
+28068-当然 可以  先生-certainly , sir .-0.4
+28077-它 看起来 很 不错-it looks good .-0.4
+28112-当然 可以  先生-certainly , sir .-0.4
+28143-当然 可以  给 您-of course . here you are .-0.4
+28188-当然 可以-of course .-0.4
+28454-当然 可以-of course .-0.4
+28514-当然 可以-certainly .-0.4
+28622-当然 可以-certainly .-0.4
+28681-当然 可以-certainly .-0.4
+28874-当然 可以-of course .-0.4
+28907-当然 可以-certainly .-0.4
+28914-当然 可以-certainly .-0.4
+28921-当然 可以-certainly .-0.4
+28953-当然 可以-yes , of course .-0.4
+29089-当然 可以-certainly .-0.4
+29119-当然 可以-yes , of course .-0.4
+29288-当然 可以-certainly .-0.4
+29655-很 好  谢谢-very well , thanks .-0.4
+29670-我 很 好  谢谢-i &apos;m just fine , thanks .-0.4
+29672-很 好  谢谢-fine , thanks .-0.4
+29737-很 好  谢谢-fine , thanks .-0.4
+29967-当然 可以-of course .-0.4
+29969-当然 可以  给 你-sure , here you are .-0.4
+29993-当然 可以 啦-my pleasure .-0.4
+30013-当然 可以 啦-why not ?-0.4
+30015-当然 可以-certainly .-0.4
+30219-当然 可以-certainly .-0.4
+30307-当然 可以-yes , of course .-0.4
+30316-当然 可以-certainly .-0.4
+30525-当然 可以  布莱克 先生-yes , of course , mr. black .-0.4
+30834-当然 可以-certainly .-0.4
+31027-当然 可以-of course .-0.4
+31161-当然 可以-yeah , of course .-0.4
+31230-当然 可以-sure .-0.4
+31246-当然 可以-certainly .-0.4
+31263-当然 可以-yes , certainly .-0.4
+31298-当然 可以 了-certainly .-0.4
+31301-当然 可以 了  请进-sure , come in , please .-0.4
+31305-当然 可以  快 请进-sure , come right in .-0.4
+31343-当然 可以-certainly .-0.4
+31593-当然 可以-of course we can .-0.4
+31638-当然 可以-sure .-0.4
+31874-当然 可以-sure .-0.4
+31989-当然 可以-certainly .-0.4
+32133-当然 可以-sure .-0.4
+32298-可以  谢谢-fine.thank you .-0.4
+32340-当然 可以-certainly , sir .-0.4
+32440-当然 可以-by all means .-0.4
+32722-当然 可以-sure .-0.4
+32751-当然 可以-yes , of course .-0.4
+32828-当然 可以-sure .-0.4
+39525-很 好  谢谢-yes , it was very good , thank you .-0.4
+39547-很 好吃  谢谢-we enjoyed the dinner , thank you .-0.4
+40994-咖喱 鸡饭 很 不错-the chicken curried with rice is very good .-0.4
+47221-很 好  谢谢-very well , thank you .-0.4
+47227-很 好  谢谢-pretty good . thank you .-0.4
+47230-过 得 不错  谢谢-quite well , thank you .-0.4
+48971-当然  我 很 乐意-yes , of course . i &apos;d be pleased to .-0.4
+50951-很 荣幸  谢谢-i &apos;m honored .-0.4
+51186-当然 可以  盘子 在 哪儿-sure thing . where are the dishes ?-0.4
+51800-当然  谢谢-sure , thank you .-0.4
+52011-当然 可以  先生-with pleasure . sir .-0.4
+52039-当然 可以-that &apos;s for sure .-0.4
+52065-当然 可以-of course , you can .-0.4
+52126-当然 可以-sure . / certainly .-0.4
+52236-很 荣幸  谢谢-i &apos;m very much honored.thank you .-0.4
+52242-当然 可以-certainly not .-0.4
+817-当然 可以  还 有 什么 吗-certainly . is there anything else that you need ?-0.397
+7847-当然 可以  请 在 这里 签字-yes , sure please sign here .-0.397
+21695-你 可以 举 很 重 哦-you can lift a lot of weight !-0.397
+25471-当然 可以  试试 这 一 双-yes , of course.try these .-0.397
+2754-当然 可以  不过 只 能 在 后面-sure , but only in the rear .-0.394
+21567-今天 天气 很 不错  是 不 是-it is a lovely day , isn &apos;t it ?-0.394
+24755-当然 可以  不过 你 要 付邮 资费-certainly , but you will have to pay for the postage .-0.394
+26910-当然 可以  请 问 房价 是 多少-certainly.how much is the room , please ?-0.394
+29198-当然 可以  我 今天 下午 就 寄来-of course . i &apos;ll send them this afternoon .-0.394
+40660-我们 的 薄煎饼 可以 很 快 供应-we can serve pancakes very quickly .-0.394
+50955-当然 可以  我 希望 你 会 喜欢-by all means . i hope you &apos;ll like it .-0.394
+17217-当然 可以  我 带 你 去 存衣处 吧-certainly . let me show you where it is .-0.393
+25487-当然 可以  您 觉得 这 几 条 怎么样-certainly . how do you like these .-0.393
+26772-当然 可以  请 您 把 护照 给 我-of course , give me your passport please .-0.393
+29325-当然 可以  请 问 您 想 喝 什么-certainly , sir.what would you like ?-0.393
+31166-当然  抽水马桶 冲水 很 好用  淋浴 又 冷热水-and of course , the toilet flushes and the shower has hot and cold water .-0.393
+36642-当然 可以  我 会 告诉 你 如何 操作-certainly . i &apos;ll show you how to operate it .-0.393
+43795-当然 可以  但 这个 球 不 太 好-surely , but it is not a very good one .-0.393
+47290-你 不 认为 李 先生 很 不错 吗-wouldn &apos;t you say that mr. lee is nice ?-0.393
+367-当然 可以  广州 有 几 趟 车 开往 北京-certainly , there are a number of trains from guangzhou to beijing .-0.391
+11315-是 的  当然 可以  这 是 你 的 收据-yes , of course . here &apos;s your receipt .-0.391
+13080-当然 可以  但 饭馆 的 服务 不 那么 快-well you can , but the service isn &apos;t as fast .-0.391
+27959-是 的  它 现在 可以 运作 了  谢谢 你-yes , it &apos;s working now . thank you .-0.391
+28561-当然 可以  先生  首先 请 把 洗衣 单 填上-certainly , sir . can you fill out the laundry form first , please ?-0.391
+28847-但 我 很 喜欢 呆 在 这儿  谢谢 你-but i &apos;ve enjoyed my stay very much . thank you .-0.391
+31628-当然 可以  我们 好几 套 资料 供 你 参考-of course.we have several package tours you may choose from .-0.391
+44266-当然 可以  你 要 参加 哪 一 个 时段-sure . what time of the day would you like to attend ?-0.391
+48974-当然 可以  只要 别 告诉 我 妻子 就 行-certainly , as long as you don &apos;t tell my wife .-0.391
+889-当然 可以  太太  您 要 不 要 枕头 和 毯子-of course , madam . would you like to have a pillow and a blanket ?-0.39
+5475-很 好  谢谢 您-very well , thank you .-0.39
+5502-很 好  谢谢 你-fine , thank you .-0.39
+9236-可以  很 好  很 舒服-yes , it &apos; so good and comfortable .-0.39
+10464-当然  今天 的 Geschnetzelteskalbsfilletineinerwaldpilzsauzomitkartoffelrosti 不错-certainly . i would recommend &quot; geschnetzeltes kalbsfillet in einer waldpilzauce mit kartoffel roesti &quot; .-0.39
+12858-当然 可以  让 我 来 倒  够 了 就 说-sure . let me pour it . say when .-0.39
+15360-这 是 一 场 很 有趣 的 比赛  谢谢 你-that was fun . thanks .-0.39
+17395-可以  谢谢 你-that will be fine . thank you .-0.39
+17671-很 好  谢谢 你-i &apos;m fine , thank you .-0.39
+20168-很 好  谢谢 你-fine . thank you .-0.39
+21510-当然 要 去 罗  我 很 高兴 都 去 看看-sure , i &apos;ll be delighted to do so .-0.39
+23810-当然 可以 啦  先生  你 能 在 这 签字 吗-certainly , sir . can you sign here ?-0.39
+23903-可以  当然 可以-yes , certainly .-0.39
+25067-夫人  当然 可以  也许 这些 更 合于 您 的 格调-certainly , madam . perhaps these are more to your taste !-0.39
+25665-那 很 好  谢谢 你-that would be fine . thank you .-0.39
+25874-当然 可以  我 去 给 您 拿 一 个 来-certainly not , i &apos;ll bring one for you .-0.39
+27180-好  当然 可以-yes , of course .-0.39
+27719-这 种 很 不错  我 就 要 这 种 了-this one is very attractive . i think i &apos;ll choose this type .-0.39
+29380-哦  我 在 哪里 可以 很 快 地 吃到 早餐-well , where can i get breakfast in a hurry ?-0.39
+29735-我 很 好  谢谢 你-i &apos;m fine , thank you .-0.39
+30424-很 好  谢谢 你-fine , thank you .-0.39
+30439-可以  当然 可以-yes , of course .-0.39
+32154-不错  谢谢 你-fine , thank you .-0.39
+32156-很 好  谢谢 你-fine , thanks .-0.39
+33233-喔  当然 可以-oh , sure .-0.39
+37020-从 这儿 搭出 租车 可以 很 快 回到 旅馆 吗-can i get back to my hotel quickly from here by taxi ?-0.39
+47113-可以  谢谢 你-fine , thank you .-0.39
+50038-会议 开 得 很 不错-that was quite a meeting !-0.39
+11586-当然 可以  北京 烤鸭 是 地道 的 北京菜  味美  皮 脆-certainly . the roast beijing duck is a beijing specialty . it &apos;s very delicious and its skin is really crispy .-0.389
+12204-今天 的 饭菜 真的 很 好 吃  谢谢 您 的 盛情款待-today &apos;s food is very delicious , thank you for treating me .-0.389
+27945-当然 可以  先生  您 能 在 这 签 下 名 吗-certainly , sir . would you please sign here ?-0.389
+41885-当然  我 相信 他们 一定 会 很 高兴 认识 你 的-i &apos;m sure they &apos;ll be happy to meet you .-0.389
+506-当然 可以  首先 长城 是 旅游者 的 “ 必 去 之 地 ”-certainly . first , the great wall is a “ must ” for tourists .-0.388
+4107-当然 可以  那么  这 部 车 你 要 租 几 天 呢-sure it is . now , how many days do you want the car for ?-0.388
+10015-听 起来 很 不错 的  一定 会 使 我们 胃口 大 开-it sounds nice . it should give us a good appetite .-0.388
+16343-我 想 你 是 个 很 不错 的 帆船 手  经常 得 高分-i think you were a very good sailor , and used to score high .-0.388
+22555-那 个 四重唱 也 很 不错-the quartet was not half bad , either .-0.388
+22612-那 个 四重唱 也 很 不错-the quartet was not half bad , either .-0.388
+22653-唔  这个 “ 爱柔多 ” 可以 使 你 很 快 消除 眼睛疲劳-well , this &quot; eyerohto &quot; brings you quick relief to your tired eyes .-0.388
+30133-当然 你 要求 内线 34 到 公共 关系部  就 可以 找到 哈里 了-then if you ask for extension number 34 you will get public relations division . you can reach harry there .-0.388
+30935-当然 可以  麻烦 您 告诉 我 贵 姓 和 房间 号码  好 吗-of course . may i have your name and room number ?-0.388
+41949-我 今天 玩 得 很 尽兴  谢谢 你 安排 的 这 次 野餐-i &apos;ve had a lot of fun today.thank you very much for the picnic .-0.388
+50043-可 你 讲 得 很 不错-but you made it !-0.388
+50203-如果 你 愿意 的话 当然 可以  但 我 觉得 你 不 应该-ok if you like . but i &apos;d rather you didn &apos;t .-0.388
+50346-是 的  电传 打字机 可以 日夜 使用  价钱 便宜  而且 很 容易 使-that &apos;s right . it &apos;s available day and night . it &apos;s inexpensive and easy to use .-0.388
+51215-当然 可以  请 自己 来 拿 吧  我 办公桌 上 有 很多-certainly , just help yourself . there &apos;s plenty here on my desk .-0.388
+679-从 南京 和 北京 我 可以 很 方便 地 别 的 名胜 地方  对 吗-and from nanjing and beijing i can easily go to other places of interest  am i right ?-0.387
+18315-当然 可以  我 可以 代 你方 约 一下 中国 土 畜产 公司 的 李 先生-certainly . i &apos;ll make an appointment for you with mr. li of the china national native produce and animal by-products import and export corporation .-0.387
+20081-当然 可以  金属 的 供货 来源 相当 紧   我 这样 说 得 够 慢 吗-of course . as the supply of the metal is quite tight . am i speaking slowly enough ?-0.387
+21638-当然  如果 你们 要 上台 献花 的话  你们 可以 要 好 点 的 位子-of course , if you want to go to the stage to present flowers , you can have better seats .-0.387
+25668-当然 有  您 可以 在 杂志架 上 找到  一直 走 到底 就 会 看到-why certainly , you &apos;ll see it in the racks for magazines . just keep on going straight until you meet the dead end . you can &apos;t miss it .-0.387
+27280-也许 我 可以 到 对街 的 林荫 大道 上 去 找找 看  谢谢 你 了-i see . well , maybe i &apos;ll just try to find something at the mall across the street . thanks anyway .-0.387
+27894-当然 可以  史密斯 夫人  几 分钟 后 地 有 一 个 洗衣 人员 上来-certainly , mrs.smith. a valet will be up in a few minutes .-0.387
+28089-如果 您 打 2 号 分机 给 客房 服务部 就 可以 很 快 送来-if you could give any additional orders to room service on extension # 2 , they can be delivered quickly .-0.387
+28897-当然 可以  先生  请 您 告诉 我 您 的 姓名 和 房间 号码 好 吗-of course , sir . may i know your name and room number , please ?-0.387
+36640-当然 可以  您 可以 把 车 留 在 美国 的 任何 地方  阿拉斯加 除外-sure . you can leave it anywhere in the united states , except alaska .-0.387
+50065-我 是 认真 的  真的 很 不错-i &apos;m serious . it &apos;s really superb .-0.387
+1506-很 高兴 见到 你  谢谢 你 来接 我们-glad to meet you . thank you for coming to meet us .-0.386
+8092-当然 可以  先生  只是 恐怕 还 不 够  您 介意 剩下 的 用 现金 支付 吗-certainly , sir , but i &apos;m afraid it will not cover the cost of the meal.would you mind paying the extra in cash , please ?-0.386
+22775-当然 要  不过 你 可以 买 多 中 有效 而 不 需要 医生 处方 的 药-of course , but you can buy many effective non-prescription drugs .-0.386
+29640-当然 不 会  和 你 谈话 很 高兴-certainly not . it &apos;s been a pleasure talking to you .-0.386
+32531-也许 您 不如 自己 去 那里 玩  您 可以 很 逍遥 地 在 那儿 玩上 一 整 天-you might enjoy going there on your own . you could easily spend a whole day there relaxing .-0.386
+9790-啊  我们 可以 在 蓝厅 给 你们 安排 一 张 很 舒适 的 桌子  尽管 恐怕 不 是 靠 窗 的-ah , we could give you a pleasant table in the blue room , though . i &apos;m afraid it isn &apos;t a window table .-0.385
+11595-当然 可以  先生  首先  您 左 手 拿住 薄饼  用 大葱 段蘸 少量 面酱 涂 在 薄饼 上  像 这样-certainly , sir . first , hold a pancake in our left hand and using a section of raw scallion as a brush , paint a few splashes of bean sauce on the pancake . like this .-0.385
+17874-噢  你们 新 设计 的 跑车 看 上去 很 不错-well , your newly-designed racing bikes are very smart .-0.385
+18762-那样 当然 也 可以  不过 这样 的 补偿 贸易 十分 罕见  而且 在 我们 这 种 情况 下 根本 行 不 通-that &apos;s certainly another possibility , but it is rather rare in compensation trade and simply won &apos;t work in our case .-0.385
+20062-当然 罗  如果 你们 能 这样 安排  我们 很 愿意-of course . i &apos;d appreciate it , if you &apos;ll arrange it .-0.385
+34251-你 可以 带 五 瓶  因为 这 瓶子 很 小-you can take five , because the bottles are small .-0.385
+37468-当然 可以  但是  您 必须 搞 清楚 您 要 坐 的 车 是 在 哪 个 站台  哪 股 道上 发车-certainly , but you must be clear about which platform and track your train will depart .-0.385
+41358-晚饭 很 不错  请 向 厨师 转达 我 的 赞誉-this is a delicious dinner , my compliments to the chef .-0.385
+9961-那天 我 的 一 位 中国 朋友 告诉 我  附近 有 一 家 很 不错 的 餐馆  我们 何 不 去 那里 吃饭 呢-one of my chinese friends told me other day that there &apos;s an excellent restaurant near here . why don &apos;t &apos; we have our dinner there ?-0.384
+11884-我 向 您 推荐 我们 这里 的 烤 羊腿  口味 很 不错-i recommend you roast lamb in our restaurant . it &apos;s really tasty .-0.384
+20751-我 对 你们 的 丝绸 印象 很 好  色彩 迷人  手感 不错-i &apos;m very much impressed with your silks . the colours are charming and the feel is good .-0.384
+20820-当然  我们 愿意 装直 达 船  但是 如果 你们 弄 不 到 直达 船  我 可以 同意 将 这 批 货物 大连  上海 甚至 香港 转船-i prefer direct shipment , of course , but if you can &apos;t get hold of a direct vessel , i may agree to have the goods transshipped at any port like dalian , shanghai or even hong kong .-0.384
+23461-当然  它 保持 水份 的 系统 可以 使 肌肤 保持 水份 平衡  使 您 的 肌肤 更 富有 光泽 和 弹性  令 您 显得 更加 年轻-certainly , mam . because its special moisture binding system works like the fluids in your skin to lock moisture into your skin , it meet your skin needs to restore and maintain its natural moisture balance , leave your skin feeling softer , smoother , and make you noticeably youthful as well .-0.384
+23681-当然 可以  “ 华佗 再 造丸 ” 是 我国 科学 研究 计划 的 积极 成果  其 秘方 是 由 一 位 中国 药物 学会 会员 提供 的-sure , &quot; hatuo zaizao pills &quot; is the positive result of a national scientific research project assigned by the state scientific and technological commission. its prescription is a secret recipe offered by a member of the pharmacopoeia committee of china .-0.384
+31088-我 也 没 想到 这么 快 就 可以 恢复 上班 了  实在 很 高兴-i didn &apos;t expect to back at work so early , but i &apos;m certainly happy that i am .-0.384
+31854-您 在 街 上  公园 里  体育馆 都 可以 看到  真的 很 精彩-you can enjoy both in the streets , parks , or stadiums . you &apos;ll find them very wonderful .-0.384
+52441-对 许多 人 来说  复活节 是 个 欢腾 的 节日  可以 玩 传统 的 游戏  跳舞  当然  还 可以 吃 各种各样 和 复活节 有关 的 食品-for many people , easter is a time of high festivity , a time for playing traditional games , dancing , and of course , feasting upon all the food associated with this particular time of year .-0.384
+3317-当然 也 可以 在 街 上 叫 出租  因为 在 大多数 城市 里 叫 出租 并 非 十分 便当  所以 可 翻 一 下 电话 号码簿 里 的 黄页 打 电话 到 出租 汽车 公司  让 他们 派车 到 你处-of course , he can also stop a cab on the street , but that &apos;s not easy in many cities , it &apos;s actually easier to call a taxi company listed in the yellow pages of a telephone directory and ask them to send a cab to your door .-0.383
+14069-你 看到 了 没有  他 的 球路 弧旋  而且 球 旋转 得 很 厉害  你 可以 很 轻易 地 看到 球 在 空中 弧旋 前进  又 恰好 擦到 桌子 的 边缘-did you see that . he hooked the ball putting so much english on it that you could easily see it curve through the air and just clipped the edge of the table .-0.383
+47480-听 了 叫人 担心  他 可以 做 点 事  许多 老 人 生活 得 很 充实-i &apos;m most upset to hear that . he can do something . many old people are living a rich and full life .-0.383
+48764-我 觉得 你 很 不错  因此 我 想 你 不 介意 的  你 嘴里 的 味 有时 很 浓  说 这 事 不 太 好  可 我 觉得 不 说 不 够 朋友-i think you &apos;re just terrific . so i &apos;m taking a chance you won &apos;t be offended if i tell you your breath can be really strong sometimes . i hate to tell you this , but i wouldn &apos;t feel like a friend if i didn &apos;t .-0.383
+49148-简  与 你 一起 工作 就 像 与 我 的 老 室友 在一起 生活 —— 她 是 个 很 不错 的 女孩  但 从 不 倒 烟灰缸  也 不 洗 咖啡杯-jane . working with you is like living with my old roommate - she was a very nice girl but never emptied her ashtray or washed her coffee cups .-0.383
+51681-这些 当然 都 是 特别 的 人士  但是 他们 绝 非 特例  社会 上 还 有 许多 和 他们 一样 的 残疾 人士  只要 给 他们 机会  一样 可以 证明 他们 也 是 特别 人士-these are certainly special people , but they aren &apos;t unique.there are many others like them who , given the chance , will prove that they too are special .-0.383
+15107-我 想 你 一定 看 太 多 卡通 了  只有 在 卡通 里面  你 可以 把 球拍 高 举 过头 用力 回击 回去  而且 将 球 旋转 得 很 厉害  以至于 对手 必须 跑到 体育场 两 公里 外 的 地方 把 球 打 回来-i think you &apos;ve been watching too many cartoons . that &apos;s the only place where you can hit an overhead-shot , and put so much spin on the ball , that the opponent has to run for two kilometers outside the stadium to return it .-0.382
+18282-根据 中国 仲裁 规则  可以 指定 一 名 或 三 名 仲裁员  我们 双方 通过 协商 可以 共同 指定 一 名 独任 仲裁员  如果 要 指定 三 名 仲裁员  当然 每 方 可以 从 中国 国际 经济 贸易 仲裁 委员会 的 仲裁员 名单 里 指定 一 名 仲裁员-according to the chinese rules for arbitration , one or three arbitrators can be appointed . we may hold consultation to appoint a sole arbitrator . in case three arbitrators are to be appointed , each party may nominate one arbitrator from the cietac panel of arbitration .-0.382
+18340-原则 上 讲  我们 欢迎 外国 公司 在 北京 设立 代表处  当然 还 需要 考虑 到 一些 细节 问题  我们 是 不 能 用 三言两语 就 可以 解决 的-basically speaking , yes . we welcome the establishment of representative offices by foreign companies in beijing . of course , there are more details to attended to . we cannot settle it in a few words .-0.382
+32619-在 那儿 你们 可以 观赏 大海  躺 在 细软 的 沙滩 上 晒 太阳  当然 如果 喜欢 的话  还 可以 游泳-there you can enjoy the sea , lie in the sun on the soft sand and of course , you can swim , if you like .-0.382
+6986-不错  并且 很 有意思-very much and i found it very funny , too .-0.38
+9395-很 好  这 地方 不错-yes . it &apos;s fine . it &apos;s a nice place here .-0.38
+9666-很 好  谢谢 你 的 优质 服务-it was fine . thank you for your excellent service .-0.38
+10535-好 的  当然 可以-sure , that &apos;s fine .-0.38
+11643-谢谢  很 好-thank you . it &apos;s fine .-0.38
+26980-好 的  当然 可以-yes , of course .-0.38
+29086-好 的  当然 可以-yes.of course .-0.38
+29769-很 好  谢谢  你 呢-just fine . thank you . and how are you ?-0.38
+50324-很 不错  又 宽敞  又 干净-it &apos;s nice , spacious and clean !-0.38
+10026-谢谢  希望 我们 能 很 快 学会-thank you . we hope to master it soon .-0.377
+28819-谢谢 您  很 高兴 为 您 服务-thank you . it &apos;s my pleasure .-0.377
+14984-谢谢  我 还 可以 做 得 更 好些 的-thank you . i could be better .-0.376
+15006-谢谢  我 还 可以 做 得 更 好些 的-thank you , i could be better .-0.376
+21953-很 好  我们 可以 看 清楚 他们 跳舞-it &apos;s fine . we can see them dance very clearly .-0.376
+26678-谢谢  可以 看 一下 您 的 护照 吗-thank you . may i have a look at your passport ?-0.376
+26919-谢谢  可以 看 一下 您 的 证件 吗-thank you . may i see some identifications ?-0.376
+48637-谢谢  这样 我 可以 免受 挤车 之 苦 了-thank you . then i don &apos;t have to suffer in the crowded buses .-0.376
+51273-这个 主意 听 起来 不错  可以 绕过 硬通货 问题-it certainly sounds very promising . thus we could get around the hard currency problem .-0.376
+19189-是 的  那 很 好  我 可以 获得 第一 手 资料-yes . that would be good . i can get the first-hand information .-0.375
+20147-这 件 事 很 急  再 说 你 可以 赚点 加班费-this is urgent and you &apos;ll be earning overtime money .-0.375
+25526-是 的  这些 领带 看 上去 确实 不错  很 出色-yes . they do look good , quite unusual .-0.375
+31040-很 高兴 听到 这个 消息  他 可以 接见 访客 吗-i &apos;m happy to hear that . is he able to receive visitors yet ?-0.375
+31477-结 的 冰 很 快 就 厚 得 可以 溜冰 了-the ice will soon be thick enough for skating .-0.375
+167-不用 担心  手推车 很 快 就 来 了  我们 可以 买 点 吃 的-don &apos;t worry . the trolley is soon coming . we can buy something to eat .-0.374
+16185-我 真的 很 需要 一 张 身份卡  我 可以 再 申请 一 张 吗-i really do need an id card . may i reapply for a new one ?-0.374
+19276-哦  谢谢 您 的 来访  希望 能 很 快 再 见到 你-well , thanks for calling . hope to see you again soon .-0.374
+27867-谢谢 你 的 关心  我 可以 从 酒店 拿到 观光 地图 吗-thank you for your concern . can i get a tourist map in the hotel ?-0.374
+36136-公共 汽车 和 地铁 很 方便  乘坐 它们 可以 到 任何 地方 去-the bus and subway are very convenient . you can go almost anywhere on them .-0.374
+39770-谢谢 您 的 好意  但 很 抱歉  我们 值班 时 不 能 喝酒-that &apos;s very kind of you , sir but i &apos;m afraid we cannot drink on duty .-0.374
+41818-先生  谢谢 您 的 好意  但 很 抱歉 我们 上班 时 不 能 喝酒-that &apos;s very kind of you , sir , but i &apos;m afraid we cannot drink on duty .-0.374
+44317-很 棒 的  一 边 跳舞 还 可以 一边 欣赏 音乐 呢-it &apos;s really nice.you can also enjoy work music while dancing .-0.374
+45462-稀薄 的 空气 阻力 很 小  对于 运动员 来说 可以 轻松 穿破-the thin air proved to be easy to slice through .-0.374
+1579-我 妻子 要 我 代 她 谢谢 你 上 回送 的 礼物  她 很 喜欢 那 个 珠宝盒-my wife wanted me to say thank you for your gift last time . she liked the jewelry box very much .-0.373
+2683-公园 附近 有 许多 设施 很 好 的 饭店  您 可以 品尝 各 种 美味 佳肴-near the park there are many well-equipped hotels . you can taste all kinds of wonderful cuisines there .-0.373
+8865-是  真 是 很 好  量 也 很 多  这里 也 可以 吃 晚餐 吗-yes , it &apos;s really good , and they give you a lot . do they serve dinner , too ?-0.373
+9668-我 认为 你们 做 得 相当 不错  饭菜 味美  服务 一流  我们 吃 得 很 开心-i think you &apos;ve done quite well . the food were tasty and your service was superb . we really enjoyed the dinner .-0.373
+12740-谢谢  再 稍 来 一点  够 了  这 很 好吃  可是 我 已经 吃饱 了-thanks . i &apos;ll take a little . that &apos;s enough . it &apos;s very good but i &apos;m almost full .-0.373
+13883-对  乒乓球 有 一 个 优点  不 须 占用 很 大 场地  实际 上 你 可以 在 任何 地方 打-yes , one good thing about ping pong is that it doesn &apos;t need space . you can play it practically anywhere .-0.373
+16204-谢谢  我 很 高兴  特别是 因为 我 并 未 期望 获得 如此 好 的 成绩-thank you very much . i &apos;m very happy , especially because i didn &apos;t expect to achieve such a good result .-0.373
+16497-谢谢  我 很 高兴  特别是 因为 我 并 未 期望 获得 如此 好 的 成绩-thank you very much . i &apos;m very happy , especially because i didn &apos;t expect to achieve such a good result .-0.373
+24905-不错  我 很 喜欢  可 是 颜色 不 行  对 我 这样 的 年龄 来说 太 谈 了-yes , i like it very much , except for the color . it &apos;s too light for my age .-0.373
+44713-棒球 也 是 一 项 很 流行 的 户外 运动  而且 一 年 四 季 都 可以 打-baseball is also a very popular outdoor game . it &apos;s played all the year round .-0.373
+45035-我们 的 学院 也许 很 小  但 就 学术 水平 和 名声 来说 可以 与 任何 综合性 大学 相 媲美-our college may be small , but it is in the same league as any comprehensive university in terms of academic standards and reputation .-0.373
+52600-这 很 有用  因为 只要 出示 专门 储蓄 本 就 可以 在 联合 王国 任何 邮局 里 取钱-this is useful , as money may be withdrawn from any post office in the u.k. on production of a special savings book .-0.373
+16334-不 难  香功 不同于 其他 气功 的 就 是 它 很 容易 学  你 几乎 可以 在 任何 地方  任何 时间 练习 香功-no , unlike other qigong exercises , it &apos;s very easy to start . you can start practice anywhere and anytime .-0.372
+19133-嗯  这个 主意 看来 不错  可以 绕过 硬通货 问题  不过 那样 的 话 肯定 有 很多 我 不 太 明白 的 技术 问题-well , it certainly sounds like a good idea to get around the hard currency problem , but there must be a lot of technical details i &apos;m not clear about .-0.372
+25904-很 抱歉  我们 店 没有 茶叶  不过 我 可以 告诉 你 冲泡 的 方法  先 把 茶叶 放进 壶 里  再 把 热水 倒 进去  苛叶 与 水 的 比例 是 1:9-i &apos;m sorry to say we do not have any tea in this shop , but i can tell you the steeping method . first , put the tea leaves into the pot , then put hot water into it , the amount of tea in proportion to water is 1 to 9 .-0.372
+30524-我 在 王子 大 饭店 123 号 房间  我 手 边 没有 它 的 电话 号码  但是 你 很 容易 可以 查到  对 吗-i &apos;m at room 123 of the prince hotel . i don &apos;t know the number offhand but you can look it up easily , can &apos;t you ?-0.372
+44059-奇才队 可能 对 好 时 坏  一 个 晚上 好 得 不错  第二 个 晚上 就 会 很 糟糕  因此 会 惹 他们 的 带头人 乔丹 生气  抑或 使 他 勃然大怒  甚至 怒发冲冠-the wizards will probably play well one night , horribly the next , frequently earning their leader , michael jordan &apos;s anger , then his wrath , then maybe his rage .-0.372
+51625-谢谢 各位 给 我 这个 机会 面对 大家 说话  我 希望 各位 会 决定 支持 我 的 竞选  我 现在 需要 各位 的 帮助  在 我 当选 以后  你们 可以 信任 我 对 农民 的 支持-thank you for allowing me this opportunity to speak before you today . i hope you will decide to support my candidacy for office . i need your help now , and when i &apos;m elected , you can count on my support for the farmer .-0.371
+1622-谢谢  赵 先生  我们 在 这儿 一定 会 过 得 很 愉快-thank you , mr. zhao . i &apos;m sure all of us will have a wonderful time in hefei .-0.37
+9396-谢谢  很 高兴 您 喜欢-thank you , mr. green . i am pleased you like it .-0.37
+18128-很 高兴 认识 各位  叫 我 Jill 就 可以 了-i &apos;m happy to meet you all . please , call me jill .-0.37
+22495-谢谢  见到 您 很 高兴-thank you . nice to meet you .-0.37
+41485-很 抱歉  我们 今天 人手不足  您 稍微 一下 可以 吗-sorry , we &apos;re short of help today . would you mind if you wait a few minutes ?-0.37
+50406-不错  可是 大夫 说 那样 可以 减肥-no , i don &apos;t. but the doctor says i can lose weight that way .-0.37
+14-谢谢-thank you .-0.2
+52-谢谢-thank you .-0.2
+60-我 可以 坐 这里 吗-may i sit here ?-0.2
+62-谢谢-thank you .-0.2
+63-我 可以 抽烟 吗-and may i smoke ?-0.2
+123-很 好-that &apos;s good .-0.2
+137-很 愿意 帮忙-sure .-0.2
+152-不  谢谢-no , thank you all the same .-0.2
+199-当然 行-of course .-0.2
+225-这 很 好-that &apos;s good .-0.2
+254-我 懂 了  谢谢-i see . thank you .-0.2
+288-谢谢-thank you .-0.2
+295-当然 会-yes , of course .-0.2
+297-当然 能-certainly .-0.2
+324-谢谢-thank you .-0.2
+386-当然 可以况-certainly .-0.2
+418-好 的  谢谢-yes  thank you .-0.2
+435-谢谢-thanks .-0.2
+466-哦  谢谢-oh ! thanks .-0.2
+485-好 主意  谢谢-good idea ! thank you .-0.2
+510-很 好-that &apos;s good .-0.2
+552-当然 是 黄山-mount huangshan , of course .-0.2
+593-谢谢-thank you !-0.2
+614-谢谢-thank you .-0.2
+633-谢谢-thank you .-0.2
+636-谢谢-thanks .-0.2
+669-谢谢-thank you .-0.2
+684-我 觉得 很 冷-i feel rather cold .-0.2
+700-谢谢-thanks .-0.2
+704-谢谢-thank you .-0.2
+713-不 要 了  谢谢-nothing more thank you .-0.2
+716-我 口 很 渴-i &apos;m very thirsty .-0.2
+720-谢谢-thank you .-0.2
+736-谢谢-thank you .-0.2
+773-我 可以 效劳 吗-may i help you ?-0.2
+776-我 头 很 痛-i have a bad headache .-0.2
+778-当然 有-yes , of course .-0.2
+785-谢谢-thank you .-0.2
+800-不 了  谢谢-no , thanks .-0.2
+831-好 的  谢谢-right , thanks .-0.2
+844-谢谢-thanks .-0.2
+849-可以  给 你-sure , here it is .-0.2
+854-可以-yes .-0.2
+872-谢谢-thank you .-0.2
+879-谢谢-thank you .-0.2
+901-当然  记得 吗-of course it is .-0.2
+917-谢谢-thank you .-0.2
+921-谢谢-thank you .-0.2
+937-谢谢-thank you .-0.2
+960-谢谢-thank you .-0.2
+1006-当然  非常 感谢-surely , thank you very much .-0.2
+1010-当然-sure .-0.2
+1017-很 好-hen hao !-0.2
+1048-谢谢-thank you .-0.2
+1061-那 很 好 嘛-that &apos;s fine !-0.2
+1086-当然 是 欧洲 历史-european history , of course .-0.2
+1108-谢谢-thank you .-0.2
+1112-很 好-it &apos;ll do fine !-0.2
+1199-噢  毛毯 和 枕头  谢谢-oh , a blanket and pillow ! thanks .-0.2
+1212-当然-sure .-0.2
+1215-我 可以 效劳 吗-may i help you ?-0.2
+1223-当然  先生-certainly , sir .-0.2
+1231-当然-sure .-0.2
+1242-当然  请 跟 我 来-certainly , follow me , please .-0.2
+1305-可以-yes .-0.2
+1315-谢谢-thank you .-0.2
+1347-那 挺 不错 啊-how nice !-0.2
+1420-一路上 都 很 愉快-it was very good all the way .-0.2
+1427-谢谢-thank you .-0.2
+1431-谢谢-thanks .-0.2
+1442-我 很 幸运-i &apos;m lucky .-0.2
+1445-是 的  很 愉快-yeah . i had a very pleasant flight .-0.2
+1451-谢谢-thank you .-0.2
+1481-很 抱歉  洛伊丝-i &apos;m terribly sorry , lois .-0.2
+1525-现在 可以 走 了 吗-shall we go now ?-0.2
+1533-现在 可以 开车 了 吗-shall we go now ?-0.2
+1566-很 好-good .-0.2
+1586-当然-sure .-0.2
+1591-听 起来 很 棒-sounds very exciting .-0.2
+1600-还 不错-just perfect .-0.2
+1629-很 好-exactly !-0.2
+1653-很 好-fine .-0.2
+1658-好吧  谢谢-ok , thank you .-0.2
+1676-谢谢-thank you very much .-0.2
+1686-可以-all right .-0.2
+1705-谢谢-thank you .-0.2
+1716-谢谢-thank you .-0.2
+1728-谢谢-thank you .-0.2
+1741-谢谢-thanks .-0.2
+1757-可以-yes .-0.2
+1775-谢谢-thank you .-0.2
+1802-谢谢-thanks .-0.2
+1835-当然 不 知道-of course not .-0.2
+1843-谢谢-thank you .-0.2
+1846-我 可以 效劳 吗-may i help you ?-0.2
+1849-当然  在 这里-sure , here you are .-0.2
+1852-当然-certainly .-0.2
+1930-谢谢-thank you .-0.2
+2010-谢谢-thank you very much .-0.2
+2030-谢谢-thank you very much .-0.2
+2107-谢谢-thanks .-0.2
+2130-谢谢-thank you .-0.2
+2143-谢谢-thanks .-0.2
+2231-行  很 好-yes , that &apos;ll be fine .-0.2
+2270-谢谢-thank you .-0.2
+2282-不  谢谢-no , thank you .-0.2
+2289-同志  谢谢-thank you , comrade .-0.2
+2304-谢谢-thank you .-0.2
+2324-谢谢-thank you .-0.2
+2334-谢谢-thank you .-0.2
+2349-谢谢-thank you-0.2
+2364-谢谢-thank you .-0.2
+2367-谢谢-thank you .-0.2
+2370-谢谢-thank you .-0.2
+2379-行  那 很 好-yes , that will be fine .-0.2
+2396-谢谢-thank you .-0.2
+2397-认识 你 很 高兴-glad to know you .-0.2
+2419-不 要 了  谢谢-no , thank you .-0.2
+2511-不 用 了  谢谢-no , thanks .-0.2
+2535-我 可以 坐 这儿 吗-may i sit here ?-0.2
+2539-谢谢-thanks anyway .-0.2
+2542-当然-sure .-0.2
+2543-谢谢-thanks .-0.2
+2549-谢谢-thanks .-0.2
+2567-谢谢-thank you .-0.2
+2601-谢谢-thanks .-0.2
+2610-谢谢-thank you very much .-0.2
+2635-谢谢-thanks .-0.2
+2640-当然-certainly .-0.2
+2642-谢谢-thank you very much .-0.2
+2659-谢谢-thank you .-0.2
+2664-谢谢-thank you .-0.2
+2691-谢谢-thank you .-0.2
+2698-谢谢-thank you .-0.2
+2759-当然 是-it sure is .-0.2
+2767-当然  绝对 肯定-yes , i &apos;m positive .-0.2
+2789-很 好-good .-0.2
+2794-谢谢-thank you .-0.2
+2797-非常 谢谢-thank you very much .-0.2
+2884-谢谢-thanks .-0.2
+2892-可以-sure !-0.2
+2902-谢谢-thanks .-0.2
+2919-谢谢-thank you very much .-0.2
+2961-谢谢-thank you .-0.2
+3041-谢谢-thank you .-0.2
+3123-不 要 了  谢谢-no , thank you .-0.2
+3138-可以-certainly , sir .-0.2
+3217-谢谢-thank you .-0.2
+3237-行  很 好-yes , it will be fine .-0.2
+3273-可以-certainly .-0.2
+3276-好 的  谢谢-yes , of course . thank you .-0.2
+3283-是 的  确实 不错-yes , it &apos;s nice indeed .-0.2
+3338-当然-i sure am .-0.2
+3364-谢谢-thank you .-0.2
+3368-谢谢-thank you very much .-0.2
+3389-谢谢-thank you .-0.2
+3410-谢谢-thanks .-0.2
+3431-可以 继续 开 吗-can you continue ?-0.2
+3456-谢谢-thanks .-0.2
+3492-谢谢-thank you .-0.2
+3528-谢谢-thank you .-0.2
+3562-谢谢-thank you .-0.2
+3564-谢谢-thank you !-0.2
+3573-不 用 了  谢谢-no , thanks .-0.2
+3598-我 很 喜欢-i love it .-0.2
+3613-中国菜 味道 很 美-chinese food is delicious .-0.2
+3617-不用  谢谢-no , thank you .-0.2
+3619-我 可以 走 过去-i can walk there .-0.2
+3663-谢谢-thank you .-0.2
+3691-听说 那里 很 漂亮-i hear it &apos;s very lovely there .-0.2
+3695-谢谢-thank you .-0.2
+3750-当然-sure .-0.2
+3760-那 一定 很 刺激-that must be exciting ?-0.2
+3763-谢谢-thank you .-0.2
+3784-很 好-very nice .-0.2
+3802-听 起来 很 有意思-that sounds interesting .-0.2
+3829-解释 得 很 好-very good explanation .-0.2
+3832-谢谢-thank you .-0.2
+3884-谢谢-thank you .-0.2
+3900-很 好-great .-0.2
+3902-谢谢-thank you .-0.2
+3910-真是 谢谢-thanks a lot .-0.2
+3941-谢谢-thank you .-0.2
+3965-谢谢-thank you .-0.2
+3974-谢谢-thank you .-0.2
+4003-谢谢-thank you .-0.2
+4028-谢谢-thanks a lot .-0.2
+4032-当然-of course .-0.2
+4050-谢谢-thank you .-0.2
+4058-可以-of course .-0.2
+4104-很 好-that &apos;s fine .-0.2
+4128-谢谢-thank you .-0.2
+4185-我 可以 搭 吗-can i ?-0.2
+4186-当然-sure .-0.2
+4206-可以-that will be fine .-0.2
+4216-可以-yes .-0.2
+4221-可以-of course .-0.2
+4277-行  很 好-yes . ok .-0.2
+4291-可以-all right .-0.2
+4306-谢谢-thank you .-0.2
+4328-谢谢-thank you .-0.2
+4332-不 用 了  谢谢-no , thanks .-0.2
+4348-谢谢-thank you .-0.2
+4390-很 抱歉-sorry .-0.2
+4395-我 可以 忍着-i can wait .-0.2
+4410-我 可以 载 您 去-i can take you there .-0.2
+4596-谢谢-thanks .-0.2
+4618-谢谢-thank you .-0.2
+4620-还 很 远 吗-do we have far to go ?-0.2
+4626-谢谢-thanks .-0.2
+4659-很 好-very nice .-0.2
+4775-这 活儿 挺 不错-it &apos;s a good living .-0.2
+4787-我 可以 帮 你 吗-may i help you ?-0.2
+4804-可以-all right .-0.2
+4811-不用  谢谢-no , thanks .-0.2
+4844-谢谢-thank you .-0.2
+4903-我 可以 预订 吗-may i make a reservation first ?-0.2
+4914-哦  很 好-oh , that &apos;s great .-0.2
+4921-当然-of course .-0.2
+4942-谢谢-thank you .-0.2
+4951-谢谢-thank you .-0.2
+4986-谢谢-thank you .-0.2
+5035-可以  在 这儿-yes , here it is .-0.2
+5058-哦  我 很 运气-oh , i &apos;m lucky .-0.2
+5059-谢谢-thank you .-0.2
+5061-当然  就 在 这里-certainly . here it is ?-0.2
+5074-可以 的-sure .-0.2
+5078-谢谢-thank you .-0.2
+5099-谢谢-thank you . ?-0.2
+5136-谢谢-thank you .-0.2
+5145-很 好-very good .-0.2
+5171-谢谢-thank you .-0.2
+5245-可以  这 就 是-yes . here you are .-0.2
+5308-可以  请 检查 吧-sure , please check in over .-0.2
+5317-谢谢-thank you .-0.2
+5329-谢谢-thank you .-0.2
+5352-谢谢-thank you .-0.2
+5391-不  谢谢-no , thanks .-0.2
+5398-不  谢谢-no , thanks .-0.2
+5421-哪里 可以 让 我 打气-and where do i get air ?-0.2
+5424-当然 好  女士-certainly , ma &apos;am .-0.2
+5432-谢谢-thank you .-0.2
+5434-当然-sure .-0.2
+5436-可以 拍照 吗-could i take pictures , please ?-0.2
+5451-当然-sure .-0.2
+5477-好  谢谢-fine , thanks .-0.2
+5484-很 好-very good .-0.2
+5504-很 好-very well .-0.2
+5528-真 不错-that &apos;s nice .-0.2
+5529-是 不错-yeah .-0.2
+5570-谢谢-thanks .-0.2
+5573-当然  您 要 什么 帮助-sure , what do you want ?-0.2
+5575-很 容易 找-that is easy .-0.2
+5583-谢谢-thank you very much .-0.2
+5594-谢谢-thank you very much .-0.2
+5670-谢谢-thank you .-0.2
+5706-您 可以 走 着 去-you may walk to the museum .-0.2
+5786-我 懂 了  谢谢-i see . thank you .-0.2
+5795-谢谢-thanks .-0.2
+5798-谢谢-thank you .-0.2
+5801-您 可以 坐 11 路-you can take bus no.11.-0.2
+5802-很 方便-it &apos;s very convenient .-0.2
+5803-谢谢-thank you .-0.2
+5812-谢谢-thank you .-0.2
+5816-谢谢-thank you .-0.2
+5820-谢谢-thanks a lot .-0.2
+5825-谢谢-thank you .-0.2
+5829-谢谢-thank you .-0.2
+5857-谢谢-thank you .-0.2
+5859-可以-certainly .-0.2
+5878-当然-sure .-0.2
+5901-谢谢-thank you-0.2
+5907-没有 很 远-it &apos;s not very far .-0.2
+5910-谢谢-thank you .-0.2
+5923-当然-certainly .-0.2
+5927-谢谢-thank you .-0.2
+5935-当然-sure .-0.2
+5942-谢谢-thank you .-0.2
+5965-当然  请 跟 我 来-sure.follow me , please .-0.2
+5991-谢谢-thank you very much .-0.2
+6017-谢谢-thank you .-0.2
+6058-谢谢-thank you .-0.2
+6073-谢谢-thank you .-0.2
+6086-我们 很 幸运-we &apos;re lucky .-0.2
+6116-很 好-great .-0.2
+6123-不 很 远-no , it &apos;s not very far .-0.2
+6124-你 可以 走去-you can walk there .-0.2
+6130-很 抱歉-i &apos;m sorry .-0.2
+6136-可以-yes .-0.2
+6142-路 很 远 吗-and is it very far ?-0.2
+6161-谢谢-thank you .-0.2
+6183-很 抱歉-i &apos;m sorry .-0.2
+6199-路 很 远 吗-and is it very far ?-0.2
+6229-好 的  谢谢-ok , thanks .-0.2
+6232-好 的  再次 谢谢-fine . thanks again .-0.2
+6247-好吧  谢谢-all right . thank you .-0.2
+6259-我 可以 在 那儿 问路-i can ask my way from there .-0.2
+6293-当然-yes , of course .-0.2
+6311-我 已经 很 迟 了-i &apos;m very late as it is .-0.2
+6317-谢谢-thank you .-0.2
+6350-谢谢-thank you very much .-0.2
+6388-很 难 说-it &apos;s hard to say .-0.2
+6399-谢谢-thanks .-0.2
+6404-谢谢-thank you .-0.2
+6439-谢谢-thank you .-0.2
+6452-谢谢-thank you .-0.2
+6467-谢谢-thank you .-0.2
+6475-谢谢-thanks .-0.2
+6495-谢谢-thank you .-0.2
+6509-谢谢-thank you .-0.2
+6535-谢谢-thank you .-0.2
+6541-谢谢-thank you .-0.2
+6551-你 可以 随身 携带-you can take it with you .-0.2
+6567-谢谢-thank you .-0.2
+6581-谢谢-thank you .-0.2
+6586-是 的  谢谢-yes it is . thank you .-0.2
+6589-可以  请 取走 吧-yes please .-0.2
+6599-谢谢-thank you .-0.2
+6651-谢谢-thank you .-0.2
+6670-谢谢-thank you .-0.2
+6680-谢谢-thank you .-0.2
+6702-谢谢-thank you .-0.2
+6719-谢谢-thank you .-0.2
+6729-谢谢-thank you .-0.2
+6745-很 好-that would be all right .-0.2
+6788-当然 是 经济舱-economy class , of course .-0.2
+6804-谢谢-thank you .-0.2
+6835-谢谢-thanks .-0.2
+7000-你 可以 乘 地铁-you can take the subway .-0.2
+7017-谢谢-i appreciate it .-0.2
+7065-当然 不 介意-not at all .-0.2
+7078-谢谢-thanks .-0.2
+7088-当然-sure .-0.2
+7104-当然 不-of course not .-0.2
+7130-谢谢-thank you .-0.2
+7189-谢谢-thank you .-0.2
+7218-谢谢-thank you .-0.2
+7285-谢谢-thank you .-0.2
+7286-谢谢-thank you .-0.2
+7300-先生  谢谢-thank you , sir .-0.2
+7320-不错-it &apos;s fine .-0.2
+7327-当然 有 啊  太太-certainly , madam .-0.2
+7357-当然 不 要 加冰-certainly without ice .-0.2
+7372-谢谢-thank you .-0.2
+7410-谢谢-thank you .-0.2
+7465-当然 罗-i will .-0.2
+7467-真 不错-that &apos;s good !-0.2
+7479-谢谢-thanks .-0.2
+7496-不错-it &apos;s fine .-0.2
+7508-当然 有 啊  女士-certainly , ma &apos;am .-0.2
+7531-听 起来 不错-that sounds good .-0.2
+7562-谢谢-thank you .-0.2
+7568-这个 酒吧 真 不错 啊-this is a nice bar !-0.2
+7569-是 啊  确实 不错-yes , very nice indeed .-0.2
+7604-谢谢-thank you .-0.2
+7607-看 起来 很 棒-that looks good .-0.2
+7615-很 好吃-it &apos;s delicious .-0.2
+7617-先生  谢谢-thank you , sir .-0.2
+7621-这样子 可以 吗-is this about right ?-0.2
+7630-我 会 的  谢谢-i will , thanks .-0.2
+7645-谢谢-thank you .-0.2
+7649-看 上去 不错-it looks good .-0.2
+7663-谢谢-thank you .-0.2
+7692-很 好-very good .-0.2
+7746-很 抱歉  先生-sorry , sir .-0.2
+7790-当然 不 介意-certainly not .-0.2
+7794-可以  请 稍等-ok , sir , just a moment please !-0.2
+7805-谢谢-thank you .-0.2
+7837-谢谢-thanks .-0.2
+7840-很 好吃-the food is delicious .-0.2
+7841-谢谢-thank you , sir .-0.2
+7846-可以 用 信用卡 吗-do you accept credit card ?-0.2
+7849-当然-yes , of course .-0.2
+7855-不 用 了  谢谢-no , thank you .-0.2
+7874-不 了  谢谢-no , thank you .-0.2
+7896-谢谢-thank you .-0.2
+7904-当然-we sure do .-0.2
+7919-谢谢-thanks .-0.2
+7924-不 要 了  谢谢-no , thanks .-0.2
+7928-可以 吗-do you accept it ?-0.2
+7939-可以-sure .-0.2
+7944-支票 可以 吗-do you accept the check ?-0.2
+7974-可以-sure .-0.2
+7975-谢谢-thank you .-0.2
+7977-不 需要 了  谢谢-no , thank you .-0.2
+7988-谢谢-thank you .-0.2
+7995-谢谢-thank you .-0.2
+7997-可以-yes , please .-0.2
+8015-谢谢-thank you .-0.2
+8027-可以  这 完全 可以-yes , that &apos;s quite all right .-0.2
+8031-哦  谢谢-oh , thank you .-0.2
+8114-谢谢-thanks a lot .-0.2
+8117-很 好吃-very delicious .-0.2
+8119-不 用 了  谢谢-no , thanks .-0.2
+8127-日元 可以 吗-may i pay in japanese yen ?-0.2
+8129-可以-japanese yen is acceptable to us .-0.2
+8132-谢谢-thank you .-0.2
+8164-谢谢-thank you , ma &apos;am .-0.2
+8218-不过 还是 很 感谢-thank you all the same .-0.2
+8261-谢谢-thank you .-0.2
+8266-谢谢-thank you .-0.2
+8269-没有 了  谢谢-no , thanks .-0.2
+8272-谢谢-thank you .-0.2
+8308-可以  我 叫 李明-yes , li ming .-0.2
+8336-好 的  谢谢-good , thank you .-0.2
+8340-谢谢-thanks .-0.2
+8398-可以  夫人-yes , madam .-0.2
+8450-很 好  先生-very good , sir .-0.2
+8473-可以-that sounds ok .-0.2
+8477-谢谢-thank you .-0.2
+8493-当然 有-certainly .-0.2
+8500-谢谢-thank you .-0.2
+8511-听 起来 很 棒 啊-that sounds wonderful .-0.2
+8538-谢谢-thank you .-0.2
+8711-很 好-very good , sir .-0.2
+8748-很 好-very good .-0.2
+8760-谢谢-thank you .-0.2
+8776-很 好  先生-very good , sir .-0.2
+8784-那 很 好-that &apos;ll be all right , sir .-0.2
+8872-谢谢-thanks .-0.2
+8878-好  这里 很 好-o.k. that &apos;ll do fine .-0.2
+8880-谢谢-thanks .-0.2
+8896-谢谢-thank you .-0.2
+8906-谢谢-thank you .-0.2
+8920-不 要 了  谢谢-no , thanks .-0.2
+8935-这 地方 真 不错-it &apos;s a nice place here .-0.2
+8965-不错-very nice .-0.2
+8975-谢谢-thanks .-0.2
+8978-好 的  谢谢-yes , thank you .-0.2
+8992-是 的  很 好-yes , that &apos;ll be fine .-0.2
+9028-谢谢-thank you .-0.2
+9049-谢谢-thank you .-0.2
+9050-这 地方 不错-it &apos;s nice here .-0.2
+9056-谢谢-thank you .-0.2
+9062-谢谢-thank you .-0.2
+9073-谢谢-thank you .-0.2
+9079-谢谢-thank you .-0.2
+9087-谢谢-thank you .-0.2
+9110-没 关系  谢谢-never mind . thank you .-0.2
+9124-谢谢-thank you .-0.2
+9142-谢谢-thank you .-0.2
+9194-谢谢-thank you .-0.2
+9202-哦  不错-oh , this is just fine .-0.2
+9219-谢谢-thanks .-0.2
+9253-谢谢-thanks .-0.2
+9264-很 好-that would be fine .-0.2
+9265-谢谢-thanks .-0.2
+9269-谢谢-thank you .-0.2
+9277-哦  不错-oh , it &apos;s just fine .-0.2
+9279-谢谢-thanks .-0.2
+9285-谢谢-thanks .-0.2
+9290-谢谢-thank you .-0.2
+9293-谢谢-thanks .-0.2
+9301-谢谢-thanks .-0.2
+9305-谢谢-thank you .-0.2
+9318-不  只要 盐  谢谢-no , just the salt . thanks !-0.2
+9334-谢谢-thank you .-0.2
+9387-好 的  谢谢-yes , please , thanks .-0.2
+9412-谢谢-thanks .-0.2
+9416-谢谢-thank you .-0.2
+9435-很 棒-it &apos;s wonderful .-0.2
+9444-嗯  很 好 吃-mmm , delicious !-0.2
+9453-当然  夫人-certainly , madam .-0.2
+9491-谢谢-thank you .-0.2
+9529-谢谢-thanks .-0.2
+9563-谢谢-thanks a lot .-0.2
+9575-很 好-very good .-0.2
+9641-谢谢-thanks .-0.2
+9643-味道 不错-it &apos;s very tasty .-0.2
+9662-不  谢谢-no , thank you .-0.2
+9684-谢谢-thanks .-0.2
+9729-当然 要 干贝-the scallops , of course .-0.2
+9757-谢谢-thank you .-0.2
+9797-当然  先生-certainly , sir .-0.2
+9895-没错  的确 很 讨厌-yes it &apos;s real nuisance .-0.2
+9923-我们 真的 很 抱歉-we are really very sorry .-0.2
+9972-太 好 了  谢谢-sounds great , thank you .-0.2
+10021-现在 不 要 了  谢谢-nothing at the moment , thank you .-0.2
+10043-不 要 了  谢谢-no , thank you .-0.2
+10048-我 可以 结账 吗-could i have the bill , please ?-0.2
+10063-很 安静 的-it &apos;s very quiet .-0.2
+10064-也 可以-that &apos;s fine .-0.2
+10118-当然-sure .-0.2
+10140-谢谢-thank you .-0.2
+10156-不用  谢谢-no , thanks .-0.2
+10172-谢谢-thank you .-0.2
+10174-谢谢-thanks .-0.2
+10204-谢谢-thanks .-0.2
+10209-很 好-very good .-0.2
+10243-海鲜 沙拉 不错-i recommend seafood salad .-0.2
+10250-谢谢-thank you .-0.2
+10278-先生  可以 点菜 了 吗-can i take your order , sir ?-0.2
+10279-可以 了-yes .-0.2
+10341-谢谢-thank you .-0.2
+10368-可以-all right .-0.2
+10393-这个 餐馆 不错-this is a nice restaurant .-0.2
+10402-可以  先生-yes , sir .-0.2
+10413-谢谢-thank you .-0.2
+10477-足够 了  谢谢-thank you. that &apos;s enough .-0.2
+10479-谢谢-thanks .-0.2
+10537-谢谢-thanks .-0.2
+10588-当然  让 我 看看-sure . let me see .-0.2
+10645-好 的  谢谢-yes , thank you .-0.2
+10656-很 好  先生-very good , sir .-0.2
+10671-谢谢-thank you , sir .-0.2
+10676-很 好-good .-0.2
+10684-很 好  先生-very good , sir .-0.2
+10730-嗯  桑塔·海伦娜 挺 不错 的-well , the santa helena is very nice .-0.2
+10733-齐 了  谢谢-yes , thank , you .-0.2
+10754-谢谢-thank you .-0.2
+10762-不错-sounds good .-0.2
+10767-谢谢-thank you .-0.2
+10798-不错-that &apos;ll be fine .-0.2
+10836-那 不错-that will be fine .-0.2
+10840-当然 好-certainly .-0.2
+10860-很 好  女士-very good , madam .-0.2
+10896-很 好-fine .-0.2
+10905-谢谢-thank you .-0.2
+10939-好 的  谢谢-that &apos;s great . thank you .-0.2
+11097-谢谢-thank you .-0.2
+11120-听 起来 挺 不错-that sounds good .-0.2
+11156-先生  谢谢-thank you , sir .-0.2
+11171-谢谢-thanks , i will .-0.2
+11174-谢谢-thank you .-0.2
+11193-谢谢-thank you , sir .-0.2
+11216-不 要  谢谢-no , thanks .-0.2
+11263-听 起来 不错-that sounds nice .-0.2
+11267-很 好-that is very good !-0.2
+11284-谢谢-thank you .-0.2
+11291-谢谢-thank you .-0.2
+11293-谢谢-thank you .-0.2
+11311-我 不 要 了  谢谢-no , thanks .-0.2
+11329-不 要 了  谢谢-no , thank you .-0.2
+11344-谢谢-thank you .-0.2
+11385-谢谢-thanks .-0.2
+11389-谢谢-thank you .-0.2
+11392-听 起来 不错-that sounds good .-0.2
+11410-当然 有-sure .-0.2
+11445-谢谢-thanks .-0.2
+11460-谢谢-thank you .-0.2
+11468-听 起来 不错-that sounds good .-0.2
+11475-谢谢-thank you , sir .-0.2
+11484-现在 可以 斟酒 了 吗-may i serve it now ?-0.2
+11510-当然 有  先生-certainly , sir .-0.2
+11518-很 好-very good .-0.2
+11543-很 好-very good .-0.2
+11573-当然 有 卖  先生-sure , sir .-0.2
+11575-当然 罗-of course .-0.2
+11623-谢谢-thank you .-0.2
+11627-听 起来 不错-sounds good .-0.2
+11637-很 满意-very good .-0.2
+11639-谢谢-thanks .-0.2
+11721-当然 吃 中餐 了-the chinese food , of course .-0.2
+11746-谢谢-thanks .-0.2
+11775-谢谢-thank you .-0.2
+11787-可以-certainly , sir .-0.2
+11796-您 可以 这样 说-you many say so .-0.2
+11798-听 起来  真 不错-sounds so good .-0.2
+11800-很 好-very good .-0.2
+11852-不 用 了  谢谢-no , thanks .-0.2
+11866-谢谢-thank you .-0.2
+11874-谢谢-thank you .-0.2
+11912-很 好-fine .-0.2
+11916-谢谢-thank you .-0.2
+11947-很 好  先生-very good , sir .-0.2
+11958-谢谢-thank you .-0.2
+11989-谢谢-thank you .-0.2
+12033-谢谢-thank you .-0.2
+12036-好吧  谢谢-yes , thank you .-0.2
+12045-谢谢-thanks .-0.2
+12056-听 起来 真 不错-it sounds good indeed .-0.2
+12069-很 好-very good .-0.2
+12158-谢谢-thank you .-0.2
+12168-谢谢-thank you .-0.2
+12179-谢谢-thank you .-0.2
+12203-不 待 了  谢谢-no , thanks .-0.2
+12231-不 行 了  谢谢-no , thanks .-0.2
+12235-谢谢-thank you .-0.2
+12246-对  我 很 喜欢-yes , i do .-0.2
+12292-谢谢-thank you .-0.2
+12319-我 的 不 要  谢谢-no , thanks .-0.2
+12332-什么 都 不 放  谢谢-neither , thank you .-0.2
+12350-谢谢-thanks .-0.2
+12356-不错-that &apos;ll be fine .-0.2
+12370-不  就 这些 了  谢谢-no , that &apos;s all , thanks .-0.2
+12383-谢谢-thank you .-0.2
+12387-谢谢-thank you .-0.2
+12445-听 起来 很 好-that sounds fine .-0.2
+12489-谢谢-thanks .-0.2
+12524-谢谢-thank you .-0.2
+12539-听 起来 的确 不错-that does sound good .-0.2
+12543-很 好  先生-very good , sir .-0.2
+12547-谢谢-thank you .-0.2
+12596-听 起来 不错-that sounds good .-0.2
+12641-不 了  谢谢-no , thanks .-0.2
+12668-现在 可以 吃 了-now it &apos;s done .-0.2
+12671-谢谢-thanks .-0.2
+12712-听 上去 就 不错-that sounds good .-0.2
+12723-谢谢-thanks .-0.2
+12726-要 一点  谢谢-yes , thanks .-0.2
+12779-可以-sure .-0.2
+12786-那样 很 好-that &apos;s good .-0.2
+12788-不 了  谢谢-no , thanks .-0.2
+12793-不  谢谢-no , thank you .-0.2
+12814-当然-by all means .-0.2
+12850-不 吃 了  谢谢-no , thank you .-0.2
+12853-不 要 了  谢谢-no , thank you .-0.2
+12878-这 羊肉 很 好 的-this lamb &apos;s very good .-0.2
+12906-当然 不 介意-of course not .-0.2
+12920-当然 不 愿意-of course not .-0.2
+12924-谢谢-thanks .-0.2
+13017-当然-sure .-0.2
+13028-不 了  谢谢-no , that &apos;s all , thanks .-0.2
+13029-先生  谢谢-thank you , sir .-0.2
+13062-很 好-great .-0.2
+13131-谢谢-thank you .-0.2
+13189-您 可以 在 这里 挑选-you may have a selection here .-0.2
+13191-您 可以 从中 挑选 两样-you can choose two from them .-0.2
+13194-很 好-very good .-0.2
+13200-谢谢-thank you .-0.2
+13206-很 好-fine .-0.2
+13220-谢谢-thank you .-0.2
+13229-那 很 好吃-it is delicious .-0.2
+13240-谢谢-thank you .-0.2
+13260-你们 可以 随意 挑选-you may choose anything you like .-0.2
+13263-很 好-very good .-0.2
+13336-谢谢-thank you .-0.2
+13353-很 好-very good .-0.2
+13358-当然 有-certainly .-0.2
+13456-可以-sure .-0.2
+13463-杠铃 一定 很 重-it must be very heavy .-0.2
+13705-我 很 喜欢 射箭-i &apos;m fond of archery very much .-0.2
+13734-我 很 喜欢 射箭-i &apos;m fond of archery very much .-0.2
+13814-那 很 有趣-that &apos;s interesting .-0.2
+13825-那 很 有趣-that &apos;s interesting .-0.2
+13831-当然  我们 不 能 自满-of course we should not become complacent .-0.2
+13861-他们 很 了不起-they &apos;re great !-0.2
+13880-不错-that can &apos;t be bad .-0.2
+13896-他们 很 了不起-they &apos;re great !-0.2
+13951-可以-ok .-0.2
+14028-当然-certainly .-0.2
+14095-见到 你 很 高兴-nice to meet you !-0.2
+14097-见到 你 很 高兴-nice to meet you !-0.2
+14118-中国队 很 棒-the chinese team is great !-0.2
+14140-你 也 不错 啊-you were good too !-0.2
+14169-谢谢-thank you .-0.2
+14171-当然 行-certainly .-0.2
+14183-运动员 可以 持球 走 吗-can the player take some steps with the ball ?-0.2
+14196-当然 有 了-yes , of course .-0.2
+14218-当然 有 了-yes , of course .-0.2
+14504-谢谢-thank you .-0.2
+14516-可以-certainly .-0.2
+14537-谢谢-thank you .-0.2
+14549-可以-certainly .-0.2
+14654-感觉 很 好-i feel good .-0.2
+14656-人们 很 友好-people are friendly .-0.2
+14702-当然-sure .-0.2
+14736-结果 还 很 难 预料-it &apos;s very hard to predict the result .-0.2
+14750-谢谢-thanks .-0.2
+14797-这 成绩 不错-that &apos;s not bad .-0.2
+14799-进行 得 很 顺利-it &apos;s going well .-0.2
+14964-天气 可 真 不错 呵-it &apos;s a lovely day , isn &apos;t it ?-0.2
+14965-是 的  不错-yes , it is .-0.2
+14987-天气 可 真 不错 啊-it &apos;s a lovely day , isn &apos;t it ?-0.2
+14988-是 的  不错-yes , it is .-0.2
+15019-谢谢-thanks .-0.2
+15025-对  很 有趣-yes , it is .-0.2
+15079-很 喜欢-yes , i like it very much .-0.2
+15093-当然 好 了-sure .-0.2
+15095-谢谢-thanks !-0.2
+15238-我 可以 帮 你 吗-may i help you ?-0.2
+15446-当然 啦-certainly !-0.2
+15512-不过 他们 很 少 准时-but of course they seldom start on time .-0.2
+15557-当然 是 我们-we &apos;re leading , of course .-0.2
+15575-不错-not bad .-0.2
+15581-我 也 很 擅长 乒乓球-i &apos;m good at table tennis , too .-0.2
+15584-当然 了-yes , of course .-0.2
+15653-当然 了-of course .-0.2
+15685-当然 是 足球 了-football , of course .-0.2
+15720-当然-of course .-0.2
+15738-他们 有 很 大 希望-they have much hope .-0.2
+15762-很 好-cool .-0.2
+15829-当然 是 足球 了-football , of course .-0.2
+15876-我 很 想 去-i &apos;d love to go .-0.2
+15889-当然-surely .-0.2
+15937-谢谢-thank you very much .-0.2
+15956-当然 了-of course .-0.2
+15982-谢谢-thank you .-0.2
+16028-天气 不错 噢-lovely days , isn &apos;t it ?-0.2
+16102-天气 不错 噢-lovely day , isn &apos;t it ?-0.2
+16132-谢谢-thank you very much .-0.2
+16143-谢谢-thanks .-0.2
+16147-很 好-very well .-0.2
+16148-谢谢-thank you .-0.2
+16159-谢谢-thank you .-0.2
+16181-可以  什么 事-sure . what &apos;s the matter ?-0.2
+16208-谢谢-thank you .-0.2
+16225-谢谢-thank you .-0.2
+16235-当然 是 中餐-chinese , of course .-0.2
+16266-谢谢-thank you .-0.2
+16287-可以-not at all .-0.2
+16292-当然 能-sure .-0.2
+16442-很 抱歉-i &apos;m sorry .-0.2
+16501-谢谢-thank you .-0.2
+16511-很 抱歉-i &apos;m sorry .-0.2
+16648-他们 是 很 强壮-they are .-0.2
+16679-水花 很 小-small splash .-0.2
+16797-可以  请-yes , please .-0.2
+16905-他 还 很 有才华 呢-and he is intelligent , too .-0.2
+16906-很 有 才华-intelligent ?-0.2
+16967-很 好-good .-0.2
+17057-很 棒-great !-0.2
+17096-当然 有 了-of course .-0.2
+17158-这些 术语 很 难 懂-these terms are really hard to understand .-0.2
+17208-当然  拿 着 吧-sure , here it is .-0.2
+17220-可以 呀-yes , you can .-0.2
+17222-谢谢-thanks .-0.2
+17330-谢谢-thank you .-0.2
+17355-可以-sure .-0.2
+17404-可以 吗-would you ?-0.2
+17433-好 的  谢谢-right , thanks .-0.2
+17447-谢谢-thank you .-0.2
+17560-这 很 有意思-that interests me very much .-0.2
+17581-谢谢-thank you .-0.2
+17604-这样 可以 吗  陶 先生-is that all right , mr. tao ?-0.2
+17619-这 很 有意思-that interests me very much .-0.2
+17782-很 好-i &apos;m doing great .-0.2
+17818-不 很 急-not urgently .-0.2
+17859-当然  你 会 拿到 的-certainly , you can .-0.2
+17864-谢谢-thank you .-0.2
+17882-真 不错-it is very impressive .-0.2
+17889-当然-sure .-0.2
+17895-那 真 不错-i believe so .-0.2
+17905-谢谢-thank you very much .-0.2
+17928-谢谢-thank you .-0.2
+17962-很 好-very good .-0.2
+17986-当然  从 这儿 走-sure , come over here .-0.2
+17998-谢谢-thank you .-0.2
+18045-谢谢-tank you .-0.2
+18102-那 很 好-that &apos;s good .-0.2
+18110-我 的确 很 喜欢-i certainly did .-0.2
+18112-谢谢-thank you .-0.2
+18138-谢谢-thanks .-0.2
+18158-谢谢-thank you .-0.2
+18160-谢谢-yes . thank you .-0.2
+18172-很 好-very good .-0.2
+18233-很 高 吗-is it very high ?-0.2
+18255-这样 做 很 好-ok .-0.2
+18293-可以-yes .-0.2
+18381-新桥 饭店 很 幽静 舒适-xinqiao hotel is a nice quiet place .-0.2
+18459-旅途 上 很 愉快 吧-thank you . i hope you &apos;ve had a pleasant trip .-0.2
+18518-我 也 觉得 不错-it &apos;s quite alright to me .-0.2
+18577-当然 愿意-certainly .-0.2
+18619-谢谢-thank you .-0.2
+18631-当然 能-sure you can .-0.2
+18643-很 好-great .-0.2
+18659-我 很 难 理解-i really can &apos;t understand .-0.2
+18690-谢谢-thank you .-0.2
+18821-谢谢-thank you .-0.2
+18865-很 好-fantastic !-0.2
+18898-听 起来 不错-sounds good .-0.2
+18904-很 好-excellent .-0.2
+18908-很 好-very good .-0.2
+18916-可以-yes .-0.2
+18973-味道 很 好-well , this wine tastes great .-0.2
+18989-可以-sure .-0.2
+18991-可以-sure .-0.2
+19007-清楚 了  谢谢-yes , thank you .-0.2
+19074-当然 有 兴趣-surely i am .-0.2
+19091-听 起来 很 有趣-that sounds interesting .-0.2
+19172-我 可以 看看 吗-can i look at them ?-0.2
+19190-我 可以 作 安排-i &apos;ll make the arrangement .-0.2
+19193-谢谢-thank you .-0.2
+19212-谢谢-thank you .-0.2
+19219-这些 非常 不错-they are very splendid .-0.2
+19224-谢谢-thank you .-0.2
+19229-那些 看来 不错-they look very good .-0.2
+19234-谢谢-thanks .-0.2
+19237-谢谢-thanks .-0.2
+19273-那 很 好-that &apos;s good .-0.2
+19308-那 很 方便 呀-it &apos;s very convenient .-0.2
+19316-谢谢-thank you .-0.2
+19353-好 的  谢谢-fine , thank you .-0.2
+19354-我 可以 看 一下 吗-i &apos;d like to have a look at them .-0.2
+19360-不错-not bad .-0.2
+19475-谢谢-thank you .-0.2
+19478-很 好-quite right .-0.2
+19521-这个 主意 不错-it sounds a good idea .-0.2
+19557-谢谢-thanks .-0.2
+19575-很 好-terrific .-0.2
+19580-谢谢-thank you .-0.2
+19680-谢谢-thank you .-0.2
+19689-谢谢-thank you .-0.2
+19695-很 好-that is very good .-0.2
+19700-谢谢-thank you very much .-0.2
+19701-数量 很 清楚-it is very clear .-0.2
+19706-谢谢-thank you .-0.2
+19721-谢谢-thank you .-0.2
+19738-我们 可以 多 项 经营-we deal in a great variety of items .-0.2
+19828-很 好-very good .-0.2
+19846-很 好-very good .-0.2
+19880-谢谢-thanks .-0.2
+19899-谢谢-thank you .-0.2
+19917-谢谢-thank you .-0.2
+19993-当然 有-sure .-0.2
+20014-当然 是 啦-you bet .-0.2
+20030-当然 不 反对-no , i &apos;d like it .-0.2
+20041-这 可以 安排-that can be easily arranged .-0.2
+20052-很 理想-that &apos;s ideal !-0.2
+20066-谢谢-thanks .-0.2
+20099-听 起来 很 好-that sounds wonderful .-0.2
+20105-谢谢-thank you .-0.2
+20146-我 很 抱歉-i &apos;m sorry .-0.2
+20198-可以  请便-yes , please do .-0.2
+20245-谢谢-thank you .-0.2
+20255-那 很 好-that &apos;s fine .-0.2
+20260-很 好-very good .-0.2
+20262-很 感谢 您-thank you very much .-0.2
+20291-可以-sure .-0.2
+20295-谢谢-thank you .-0.2
+20310-谢谢-thank you .-0.2
+20312-谢谢-thank you .-0.2
+20324-谢谢-thank you .-0.2
+20329-可以-all right .-0.2
+20331-谢谢-thank you .-0.2
+20446-当然-sure .-0.2
+20466-好 的  谢谢-that &apos;s all right . thank you .-0.2
+20482-谢谢-thank you .-0.2
+20491-谢谢-thanks a lot !-0.2
+20557-听 起来 不错-sounds good .-0.2
+20622-可以  什么 事-yes . why ?-0.2
+20679-不错-certainly .-0.2
+20682-确实 不错-very true .-0.2
+20895-这 很 有 必要-that &apos;s necessary .-0.2
+20919-有  谢谢-yes , i am .-0.2
+20929-谢谢-thanks .-0.2
+20934-见到 你 很 高兴-nice to meet you .-0.2
+20940-见到 你 很 高兴-very nice to meet you .-0.2
+20970-谢谢-thank you .-0.2
+21015-很 好-that &apos;s good .-0.2
+21024-谢谢-thank you-0.2
+21061-可以-yes , that &apos;s ok .-0.2
+21108-离 这儿 很 远 吗-is it very far ?-0.2
+21137-很 难 讲-it &apos;s hard to say .-0.2
+21184-谢谢-thank you .-0.2
+21231-谢谢-thank you .-0.2
+21317-谢谢-. thank you .-0.2
+21369-当然 了-of course .-0.2
+21396-当然 想-i &apos;d love to .-0.2
+21426-当然-of course .-0.2
+21455-当然 了-you can count on it .-0.2
+21593-谢谢-thank you !-0.2
+21645-谢谢-thank you .-0.2
+21647-当然-sure .-0.2
+21652-谢谢-thank you .-0.2
+21655-我 可以 买 吗-can i take them ?-0.2
+21701-还 不错-not bad .-0.2
+21731-很 好-fine !-0.2
+21733-也 很 好-also good !-0.2
+21734-谢谢-thank you !-0.2
+21737-我 很 愿意  雪莉-with the greatest pleasure , shirley .-0.2
+21799-谢谢-thank you .-0.2
+21824-谢谢  谢谢-thank you , thank you .-0.2
+21838-这 很 简单  太太-that &apos;s simple , madam .-0.2
+21870-当然 有 东西 吃 呀-of course .-0.2
+21890-当然 我们 接受 信用卡-and of course we accept credit cards .-0.2
+21913-谢谢-thank you .-0.2
+21917-谢谢-thank you .-0.2
+21921-很 抱歉  先生-sorry , sir .-0.2
+21942-谢谢-thank you .-0.2
+21951-谢谢-thank you .-0.2
+21988-谢谢-thank you .-0.2
+21992-主意 不错-not a bad idea .-0.2
+22007-这 主意 不错-that &apos;s a good idea .-0.2
+22050-当然 不 介意-of course not .-0.2
+22067-谢谢-thank you .-0.2
+22080-很 抱歉  小姐-sorry , miss .-0.2
+22115-很 抱歉  先生-i &apos;m sorry , sir .-0.2
+22127-可以  先生-yes , you can , sir .-0.2
+22135-很 好-that &apos;s good .-0.2
+22145-那 很 好-that &apos;s good .-0.2
+22148-谢谢-thank you .-0.2
+22153-当然-sure .-0.2
+22160-是 的  很 喜欢-i like it very much .-0.2
+22190-很 好-yes .-0.2
+22194-我 很 乐意 参加-i &apos;ll be delighted to come .-0.2
+22233-是 很 丰富-it is .-0.2
+22243-噢  很 有意思-oh , that sounds interesting .-0.2
+22265-是 很 好-it was .-0.2
+22332-还 不错-not too bad .-0.2
+22469-我 也 很 激动-so am i.-0.2
+22521-谢谢-thank you .-0.2
+22565-当然-yes , of course .-0.2
+22580-我 很 想 去-i &apos;d like to very much .-0.2
+22599-当然 会 的-you bet .-0.2
+22622-我 很 愿意 去-i &apos;d love to !-0.2
+22625-很 棒-it &apos;s wonderful .-0.2
+22713-很 好-that &apos;s fine .-0.2
+22721-可以-yes , you can .-0.2
+22723-谢谢-thanks .-0.2
+22737-谢谢-thank you .-0.2
+22752-谢谢-thank you .-0.2
+22756-好  谢谢-oh , thanks .-0.2
+22787-你 可以 试一试 这 药膏-you should try this ointment .-0.2
+22862-您 可以 试试 推拿-you could try some massage .-0.2
+22866-我 很 愿意 试一试-i &apos;d love to try it .-0.2
+22867-很 好-fine .-0.2
+22884-谢谢-thank you .-0.2
+22886-这个 可以 消炎 止痛-this will relieve your pain and subdue this inflammation .-0.2
+22888-谢谢-thank you .-0.2
+22956-是 的  很 有 可能-yes , very likely .-0.2
+22960-我 很 难受-i feel ill .-0.2
+22981-拔牙 很 疼 吗-is it very painful to have it taken out ?-0.2
+23037-有  而且 很 难闻-yes , and it smells terrible .-0.2
+23052-谢谢-thank you .-0.2
+23082-很 不 好-not so good .-0.2
+23106-我 可以 继续 旅行 吗-can i continue my trip ?-0.2
+23164-很 严重 吗-is it serious ?-0.2
+23167-我 可以 吃东西 吗-can i eat anything ?-0.2
+23191-可以-ok .-0.2
+23204-我 可以 试穿 一下么-may i try it on ?-0.2
+23205-可以-yes .-0.2
+23208-谢谢-thanks .-0.2
+23215-谢谢-thanks .-0.2
+23241-谢谢-thank you .-0.2
+23272-当然  邮资 需 另付-the postage , of course , will be extra .-0.2
+23287-可以-yes .-0.2
+23316-可以-certainly .-0.2
+23329-谢谢-thank you .-0.2
+23337-可以-sure .-0.2
+23357-当然 有-certainly , sir .-0.2
+23362-听 起来 不错-that sounds good enough .-0.2
+23394-很 高兴-with pleasure .-0.2
+23403-很 抱歉-i &apos;m sorry .-0.2
+23410-不 买 了  谢谢-no . thank you .-0.2
+23436-当然-certainly .-0.2
+23453-听 起来 不错-it sounds terrific .-0.2
+23458-目前 很 畅销-it &apos;s a selling crème at present time in our shop .-0.2
+23522-谢谢-yes , thank you .-0.2
+23526-您 很 幸运  夫人-you are very lucky , madam .-0.2
+23529-当然  夫人-certainly , madam .-0.2
+23549-谢谢-thank you .-0.2
+23623-谢谢-thank you .-0.2
+23641-不  谢谢-no , thank you .-0.2
+23658-谢谢-thank you .-0.2
+23670-谢谢-thank you .-0.2
+23686-听 起来 满 不错 的-it sounds good .-0.2
+23729-这 支 不错-this will do .-0.2
+23752-看来 一切 都 不错-every thing seems ok .-0.2
+23757-谢谢-thank you .-0.2
+23773-我 会 的  谢谢-i will . thanks .-0.2
+23855-你 可以 用手 摸摸-you can feel it with your hand .-0.2
+23865-当然-certainly .-0.2
+23867-谢谢-thank you .-0.2
+23878-我 可以 试试 吗-could i try this on , please ?-0.2
+23915-谢谢-thank you .-0.2
+24002-可以 少 些 吗-can you lower your price a little ?-0.2
+24030-当然-sure .-0.2
+24056-我 可以 试穿 一下 吗-can i try those on , please ?-0.2
+24072-可以 水洗 吗-is it washable ?-0.2
+24073-可以-yes , it is .-0.2
+24080-可以-ok .-0.2
+24088-知道 了  谢谢-i see.thank you .-0.2
+24092-闻 起来 很 好-it smells nice .-0.2
+24112-当然-sure .-0.2
+24139-不 要 了  谢谢-no , thanks .-0.2
+24143-谢谢-thank you .-0.2
+24145-当然  先生-certainly , sir .-0.2
+24151-谢谢-thank you .-0.2
+24156-谢谢-thank you !-0.2
+24164-谢谢-thank you .-0.2
+24170-谢谢-thank you .-0.2
+24172-可以-yes , it is .-0.2
+24246-只是 看看  谢谢-i &apos;m just looking around . thanks .-0.2
+24295-谢谢-thank you .-0.2
+24304-我 可以 试穿 一下 吗-may i try it on ?-0.2
+24305-可以-yes .-0.2
+24308-谢谢-thanks .-0.2
+24335-可以  多少 钱-ok . how much is it ?-0.2
+24338-谢谢-thank you very much .-0.2
+24340-不 用 了  谢谢-no , thank you .-0.2
+24353-这个 价钱 很 合理-the price is reasonable .-0.2
+24386-很 漂亮-it &apos;s pretty .-0.2
+24387-我 可以 试穿 吗-may i try this on ?-0.2
+24388-当然-sure .-0.2
+24390-谢谢-thank you .-0.2
+24419-我 可以 看看 吗-may i see it ?-0.2
+24422-非常 谢谢-thanks a lot .-0.2
+24452-这个 可以 免税 吗-can i get it tax-free ?-0.2
+24471-我 可以 写写 看 吗-may i try it ?-0.2
+24473-很 好 写-it &apos;s very smooth .-0.2
+24480-很 好-very good .-0.2
+24496-他们 都 很 好看 的-they all great-looking .-0.2
+24499-当然  请 吧-certainly , please do .-0.2
+24508-好  谢谢-thank you-0.2
+24521-你 看起来 很 潇洒-you look smart .-0.2
+24532-很 简单-it &apos;s very simple .-0.2
+24562-我 很 喜欢 丽菲尔牌-i like lyfel very much .-0.2
+24570-不错-not too bad .-0.2
+24571-我 可以 试用 一下 吗-may i have a try ?-0.2
+24578-色质 很 透明-it &apos;s with much transparent touch .-0.2
+24617-很 不幸-unlucky .-0.2
+24662-可以 分期 付款 吗-can you sell them on an installment basis ?-0.2
+24663-可以 的-yes .-0.2
+24671-谢谢-thank you .-0.2
+24682-当然 没有 白 来 了-certainly not .-0.2
+24724-我 可以 给 你 打八折-i can give you a 20 % discount .-0.2
+24728-谢谢-thank you .-0.2
+24760-谢谢-thank you .-0.2
+24771-可以  但 邮资 另付-yes , but the postage is extra .-0.2
+24782-看 起来 挺 不错-that looks fine .-0.2
+24805-谢谢-thank you .-0.2
+24819-不 是 很 喜欢-not very , i &apos;m afraid .-0.2
+24821-谢谢-thank you .-0.2
+24864-不  谢谢-no , thank you .-0.2
+24896-这 可以 试穿 一下 吗-may i try these on ?-0.2
+24897-可以  请 试 吧-yes , please .-0.2
+24903-可以  给 你-all right . here you are .-0.2
+24904-看  式样 很 别致-look , the design is unique .-0.2
+24916-哦  真 不错-oh , they are really great .-0.2
+24941-哦  可以-oh , yes .-0.2
+24956-不错  先生-yes , sir .-0.2
+24971-便宜 的 很  29 美元-it &apos;s twenty-nine dollars , very cheap .-0.2
+24988-可以-ok .-0.2
+24997-好 的  谢谢-yes , thank you .-0.2
+25010-谢谢-thanks .-0.2
+25024-谢谢-thank you .-0.2
+25031-哦  不错-oh , yes .-0.2
+25033-谢谢-thanks .-0.2
+25042-不 用 了  谢谢-no , thanks .-0.2
+25046-谢谢-thank you .-0.2
+25070-这些 可以 放进 微波炉 吗-are these microwave-oven proofed ?-0.2
+25107-很 好-sounds good .-0.2
+25112-谢谢-thank you .-0.2
+25123-谢谢-thank you .-0.2
+25129-谢谢-thank you .-0.2
+25137-你 肯定 很 好 吗-are you sure it is made well ?-0.2
+25153-这些 可以 吗-will these do ?-0.2
+25157-当然 的-certainly , there is .-0.2
+25171-看 起来 还 不错-that seems alright .-0.2
+25189-谢谢-thank you .-0.2
+25193-谢谢-thank you .-0.2
+25217-可以  先生-yes , sir .-0.2
+25223-不错-yes .-0.2
+25226-可以  先生-yes , sir .-0.2
+25233-谢谢-thank you .-0.2
+25246-你 太 好 了  谢谢-that &apos;s very kind of you . thank you .-0.2
+25276-要 很 久 吗-will it take long ?-0.2
+25284-谢谢-thank you .-0.2
+25297-您 看  很 简单-there &apos;s nothing to that , you see .-0.2
+25301-谢谢-thank you .-0.2
+25323-当然-certainly .-0.2
+25358-谢谢-thank you .-0.2
+25366-当然 有  夫人-certainly , madam .-0.2
+25376-不错-this one is fine .-0.2
+25383-谢谢-thank you .-0.2
+25403-谢谢-thank you .-0.2
+25408-谢谢-thanks .-0.2
+25416-谢谢-thank you .-0.2
+25533-谢谢-thank you .-0.2
+25538-谢谢-thanks .-0.2
+25557-很 漂亮-they look very nice .-0.2
+25566-嗯  很 合适-umm . this is a comfortable fit .-0.2
+25571-可以  请 看-yes , please .-0.2
+25584-当然-of course .-0.2
+25596-可以-of course .-0.2
+25628-当然-sure .-0.2
+25657-很 好-good .-0.2
+25669-谢谢-thank you .-0.2
+25681-当然 的  在 这里-sure . here they are .-0.2
+25697-好 的  谢谢-ok . thank you .-0.2
+25704-好 的  谢谢-yes , thanks .-0.2
+25709-颜色 不错-the colour is wonderful .-0.2
+25714-可以-sure .-0.2
+25763-我 可以 看看 吗-may i have a look ?-0.2
+25771-可以  给 你-yes . here you are .-0.2
+25772-很 漂亮-it &apos;s very nice .-0.2
+25782-不 用 了  谢谢-no , thanks .-0.2
+25792-这些 很 好  先生-these are quite nice , sir .-0.2
+25805-可以  请 吧-yes , please . here you are .-0.2
+25813-谢谢-thank you .-0.2
+25828-谢谢-yes , thank you .-0.2
+25836-我 可以 先试 一下 吗-would you mind my testing first ?-0.2
+25843-可以  小姐-ok , miss .-0.2
+25845-不错-good .-0.2
+25846-我 很 满意-i &apos;m satisfied with this bottle .-0.2
+25857-可以  我 买 了-all right , i take it .-0.2
+25860-谢谢-thank you .-0.2
+25879-谢谢-thank you .-0.2
+25883-可以  夫人-of course , madam !-0.2
+25922-谢谢-thank you .-0.2
+25924-可以  给 你-yes , here you are .-0.2
+25932-我 可以 试穿 一下 吗-can i try it on ?-0.2
+25946-谢谢-thank you .-0.2
+25979-谢谢-thank you .-0.2
+25984-您 品味 不错  太太-you really have good taste , madam .-0.2
+25991-谢谢-thank you .-0.2
+26005-当然 不 介意-certainly not .-0.2
+26011-谢谢-thank you .-0.2
+26023-谢谢-thank you .-0.2
+26027-不 了  谢谢-no , thanks .-0.2
+26050-谢谢-thank you .-0.2
+26052-就 买 这些  谢谢-nothing more , thanks .-0.2
+26058-一点 不错-exactly .-0.2
+26066-当然 有-why yes .-0.2
+26080-谢谢-thanks .-0.2
+26128-很 好-good .-0.2
+26131-那 很 好-that &apos;ll be fine .-0.2
+26160-可以  先生-certainly , sir .-0.2
+26169-谢谢-thank you .-0.2
+26211-不 很 急-not urgently .-0.2
+26261-当然-of course .-0.2
+26323-啊  很 好-oh , good !-0.2
+26324-谢谢-thank you .-0.2
+26349-很 好-that &apos;s fine .-0.2
+26360-谢谢-thank you .-0.2
+26362-谢谢-that &apos;s very kind of you .-0.2
+26368-谢谢-thank you very much .-0.2
+26387-我 可以 改 一下 领口-i can change the neckline .-0.2
+26390-星期五 可以-friday is fine .-0.2
+26396-我们 可以 放出 一点-we can let it out a bit .-0.2
+26419-可以-yes , we can .-0.2
+26430-可以-sure .-0.2
+26508-谢谢-thank you .-0.2
+26531-当然 行-sure .-0.2
+26534-当然 行-certainly .-0.2
+26540-非常 谢谢-thanks a lot .-0.2
+26543-谢谢-thank you .-0.2
+26551-当然-certainly .-0.2
+26578-可以-ok .-0.2
+26581-可以  先生-yes , sir .-0.2
+26602-当然-certainly-0.2
+26617-当然 要 以-certainly .-0.2
+26679-可以  给 您-yes , here you are .-0.2
+26685-谢谢-thank you .-0.2
+26697-可以-yes , that &apos;s fine .-0.2
+26699-谢谢-thank you .-0.2
+26707-谢谢-thanks .-0.2
+26712-可以  先生-yes , sir .-0.2
+26731-当然 不 会 介意-of course not .-0.2
+26748-谢谢-thank you .-0.2
+26769-可以-all right .-0.2
+26795-这些 可以 吗-will they do ?-0.2
+26800-谢谢-thank you .-0.2
+26806-很 好-good .-0.2
+26828-谢谢-thank you .-0.2
+26845-谢谢-thank you .-0.2
+26855-谢谢-thank you .-0.2
+26877-这个 问题 很 容易 解决-it &apos;s easy to solve the problem .-0.2
+26886-谢谢-thanks .-0.2
+26903-当然-certainly .-0.2
+26947-谢谢-thank you .-0.2
+26956-可以-all right .-0.2
+26957-谢谢-thanks .-0.2
+26966-我 可以 看看 房间 吗-can i see it , please ?-0.2
+26970-我 可以 帮 你 吗-may i help you ?-0.2
+26975-可以-that &apos;s fine .-0.2
+26982-当然 不-certainly not .-0.2
+26999-谢谢-thank you .-0.2
+27001-当然-sure .-0.2
+27006-是 的  谢谢-yes , thank you .-0.2
+27024-听 上去 不错 了-that sounds very good !-0.2
+27030-噢  我 明白 了  谢谢-oh , i see . thanks .-0.2
+27067-谢谢-thanks .-0.2
+27112-可以  给 你-yes , here you are .-0.2
+27128-谢谢-thanks .-0.2
+27133-谢谢-thank you .-0.2
+27150-可以  给 你-sure . here you are .-0.2
+27153-好  谢谢-thank you .-0.2
+27167-我 可以 用 信用卡 吗-can i pay by credit card ?-0.2
+27190-当然 好-of course not .-0.2
+27192-谢谢-thanks .-0.2
+27215-谢谢-thank you .-0.2
+27225-谢谢-thanks .-0.2
+27250-当然 想 换-certainly .-0.2
+27287-谢谢-thank you .-0.2
+27305-这样 可以 了 吗-is that all right ?-0.2
+27319-我 可以 问 问题 吗-may i ask you something ?-0.2
+27323-谢谢-thank you .-0.2
+27367-谢谢-thanks .-0.2
+27375-谢谢-thanks .-0.2
+27377-可以 的-certainly .-0.2
+27407-不  谢谢-no , thank you .-0.2
+27445-对 的  谢谢-that &apos;s right . thank you .-0.2
+27461-想必 可以-i think so .-0.2
+27494-谢谢-thank you .-0.2
+27502-不 要 了  谢谢-no , thank you .-0.2
+27514-谢谢-thank you .-0.2
+27518-可以  请便-yes , do !-0.2
+27523-谢谢-thank you .-0.2
+27540-谢谢-thank you .-0.2
+27558-谢谢-thanks .-0.2
+27565-谢谢-thank you .-0.2
+27568-谢谢-thank you .-0.2
+27571-我 真的 很 喜欢-i do like it .-0.2
+27578-当然 啦-certainly .-0.2
+27609-不 必 了  谢谢-no , thank you .-0.2
+27620-可以 吗  太太-would that be all right , ma &apos;am ?-0.2
+27621-可以-yes .-0.2
+27630-谢谢-thank you .-0.2
+27657-谢谢-thank you .-0.2
+27661-谢谢-thank you .-0.2
+27666-谢谢-thank you .-0.2
+27669-当然 是 了-i sure do .-0.2
+27673-这 很 简单-it &apos;s very simple .-0.2
+27702-谢谢-thank you .-0.2
+27715-谢谢-thank you .-0.2
+27724-不用  谢谢-no , thank you .-0.2
+27730-谢谢-thank you .-0.2
+27740-谢谢-thanks .-0.2
+27760-谢谢-thanks .-0.2
+27765-谢谢-thanks .-0.2
+27767-当然-of course .-0.2
+27776-当然 是 啦-certainly .-0.2
+27790-不 要 了  谢谢-no , thanks .-0.2
+27839-谢谢-thank you .-0.2
+27847-谢谢-thank you .-0.2
+27904-可以  女士-yes , madam .-0.2
+27942-可以-yes .-0.2
+27947-是 的  谢谢-yes , please , thank you , sir .-0.2
+27953-我 可以 进来 吗-may i come in ?-0.2
+27995-这样 就 行 了  谢谢-no , that &apos;s all , thanks .-0.2
+28004-谢谢-thanks .-0.2
+28073-当然 好-yes , of course .-0.2
+28081-当然 好-sure .-0.2
+28085-看 起来 很 好吃-they look good .-0.2
+28090-知道 了  谢谢-i see , thanks .-0.2
+28128-没有 了  谢谢-no . thanks .-0.2
+28146-可以 冲印 彩色片-they can be developed for color prints .-0.2
+28167-只 要 一 个  谢谢-just one , thanks .-0.2
+28200-谢谢-thank you .-0.2
+28226-谢谢-thanks .-0.2
+28235-可以 进来 吗-may come in ?-0.2
+28237-谢谢-thank you .-0.2
+28242-谢谢-thank you .-0.2
+28245-没有 了  谢谢-no , thanks .-0.2
+28346-可以-yes .-0.2
+28355-谢谢-thank you .-0.2
+28396-可以-okay .-0.2
+28413-可以 进来 吗-may i come in ?-0.2
+28416-谢谢-thank you .-0.2
+28426-谢谢-thanks .-0.2
+28453-我 可以 进来 吗-may i come in ?-0.2
+28500-很 好-perfect .-0.2
+28512-谢谢-thank you .-0.2
+28526-谢谢-thank you .-0.2
+28539-当然 行啦-certainly .-0.2
+28563-很 好-that &apos;s fine .-0.2
+28564-谢谢-thank you .-0.2
+28601-谢谢-thank you .-0.2
+28611-谢谢-thank you .-0.2
+28673-很 愉快-yes .-0.2
+28686-当然 行-certainly .-0.2
+28689-谢谢-thank you .-0.2
+28691-谢谢-thank you .-0.2
+28710-谢谢-thanks .-0.2
+28723-谢谢-thank you .-0.2
+28739-谢谢-thank you .-0.2
+28832-噢  是 这样  谢谢-oh , i see . thanks .-0.2
+28965-你 可以 信赖 我  先生-you can count on me , sir .-0.2
+28971-可以-ok .-0.2
+28973-谢谢-thank you .-0.2
+29016-肯定 很 大 吧-it must be very large .-0.2
+29058-谢谢-thank you .-0.2
+29070-谢谢-thanks .-0.2
+29083-可以-that &apos;s fine .-0.2
+29101-谢谢-thank you .-0.2
+29111-谢谢-thank you .-0.2
+29118-可以 看看 房间 吗-can i have a look at it , please .-0.2
+29138-哦  不错-o.k. that will be fine .-0.2
+29140-当然-sure .-0.2
+29143-当然 有-certainly .-0.2
+29150-谢谢-thank you .-0.2
+29155-很 好-that &apos;s fine .-0.2
+29199-谢谢-thank you .-0.2
+29261-没有 了  谢谢-no , thanks .-0.2
+29302-先生  谢谢-thank you , sir .-0.2
+29304-我 很 感激-i &apos;d appreciate that .-0.2
+29369-很 抱歉  先生-i &apos;m very sorry , sir .-0.2
+29417-最近 一直 很 忙-i &apos;ve had a busy schedule recently .-0.2
+29430-谢谢-thank you .-0.2
+29471-谢谢-thank you .-0.2
+29485-谢谢-thank you .-0.2
+29488-她 很 忙-she &apos;s very busy .-0.2
+29546-还 可以-pretty good .-0.2
+29550-谢谢-thank you .-0.2
+29555-好极 了  谢谢-wonderful , thank you .-0.2
+29557-还好  谢谢-quite well , thank you .-0.2
+29576-很 好-good .-0.2
+29583-听说 那 很 贵-i heard it is very expensive .-0.2
+29584-是 很 贵-yes .-0.2
+29607-谢谢-oh , thank you .-0.2
+29611-谢谢-oh , thanks .-0.2
+29638-当然 是 他-it sure is .-0.2
+29650-很 好-very good .-0.2
+29664-谢谢-thank you .-0.2
+29684-好  很 好-fine , just fine .-0.2
+29699-谢谢-thank you .-0.2
+29702-谢谢-thank you .-0.2
+29731-谢谢-thank you !-0.2
+29819-噢  谢谢-oh , thanks .-0.2
+29831-当然  我 会 的-of course , i will .-0.2
+29836-不  谢谢-no , thanks .-0.2
+29842-不  谢谢-no , thanks .-0.2
+29849-不  谢谢-no , thanks .-0.2
+29855-不  谢谢-no , thanks .-0.2
+29963-我 可以 借用 电话 吗-may i use the phone ?-0.2
+29964-当然  你 打 吧-sure . go right ahead .-0.2
+29965-谢谢-thank you .-0.2
+29986-当然 愿意 效劳-of course not . i &apos;ll be glad to .-0.2
+30005-谢谢-thank you .-0.2
+30009-可以  随便 停 吧-yes , just park it where you love .-0.2
+30027-不  谢谢-no , thank you .-0.2
+30052-可以-yes .-0.2
+30065-好  谢谢-yes , thanks .-0.2
+30237-可以  请 稍 等-yes , just a minute , please .-0.2
+30243-谢谢-thank you !-0.2
+30267-可以-ok .-0.2
+30325-很 乐意-with pleasure .-0.2
+30365-可以-yes , please .-0.2
+30449-谢谢-thanks .-0.2
+30469-谢谢-thanks .-0.2
+30498-谢谢-thanks .-0.2
+30554-不 了  谢谢-no , thank you .-0.2
+30563-谢谢-thank you .-0.2
+30777-对  谢谢-yes . thank you .-0.2
+30804-你 可以 拼 一下 吗-could you spell it ?-0.2
+30854-谢谢-thank you-0.2
+30863-谢谢-thank you .-0.2
+30867-当然 愿意-yes , certainly .-0.2
+30877-202-6560 , 谢谢-202-6560 . thank you .-0.2
+30930-我 知道 了  谢谢-i see . thanks .-0.2
+30938-谢谢-thank you .-0.2
+30940-谢谢-thank you .-0.2
+31036-谢谢-thank you .-0.2
+31046-谢谢-thank you .-0.2
+31055-谢谢-thank you .-0.2
+31058-你们 一定 很 乐 了-you must be very happy .-0.2
+31066-谢谢-thank you .-0.2
+31084-好  谢谢-fine , thanks .-0.2
+31103-谢谢-thank you .-0.2
+31116-谢谢-thank you .-0.2
+31132-很 好-good .-0.2
+31151-可以-sure .-0.2
+31157-我 可以 去 看看 吗-may i go and have a look ?-0.2
+31158-可以-sure .-0.2
+31160-我 可以 看看 吗-may i take a look ?-0.2
+31186-我 可以 缩短 租期 吗-can i shorten the lease ?-0.2
+31195-谢谢-thanks .-0.2
+31200-谢谢-thank you .-0.2
+31203-我 很 喜欢-i think i like it .-0.2
+31213-谢谢-thank you .-0.2
+31215-谢谢-thank you .-0.2
+31229-我 可以 去 看看 吗-can i take a look ?-0.2
+31236-我 可以 看看 房间 吗-can i see the room ?-0.2
+31237-当然-sure .-0.2
+31261-听 起来 挺 不错-that sounds all right .-0.2
+31275-哦  可以-oh , yes .-0.2
+31296-听 起来 还 不错-sounds all right .-0.2
+31300-我 可以 看看 房子 吗-can i take a look at the house ?-0.2
+31304-我 可以 进来 看看 吗-may i come in for a look ?-0.2
+31306-哦  房间 很 宽敞  亮堂-oh , it &apos;s quite roomy and bright .-0.2
+31307-我 很 喜欢-i think i like it .-0.2
+31347-当然 锁 了-of course not .-0.2
+31377-很 好  先生-very good , sir .-0.2
+31389-谢谢-thank you .-0.2
+31413-谢谢-thank you very much .-0.2
+31426-谢谢-thank you .-0.2
+31453-我 也 很 高兴-so am i.-0.2
+31527-谢谢-thank you .-0.2
+31540-谢谢-thank you .-0.2
+31576-当然 去 啦-yes , of course .-0.2
+31658-谢谢-thanks .-0.2
+31690-是 很 壮观-it was .-0.2
+31750-谢谢-thank you .-0.2
+31792-很 好-that &apos;s fine .-0.2
+31853-这 很 简单-that &apos;s simple .-0.2
+31859-当然-certainly , yes .-0.2
+31866-当然 能 啦-of course , you can .-0.2
+31879-谢谢-thank you !-0.2
+31881-当然 有-yes , of course .-0.2
+31913-他们 是 很 虔诚-they are .-0.2
+32053-当然 买好 了-of course .-0.2
+32066-当然 会 的-he sure can .-0.2
+32101-谢谢-thanks .-0.2
+32124-不 会 很 久 的-it won &apos;t take long .-0.2
+32129-谢谢-thanks !-0.2
+32142-当然-sure .-0.2
+32160-我 很 乐意 参加-i &apos;d be happy to .-0.2
+32189-行  谢谢-ok . thanks .-0.2
+32207-当然 啦-sure .-0.2
+32247-很 想 啊-sure .-0.2
+32266-不错-pretty good .-0.2
+32269-到是 很 有趣 啊-sounds interesting .-0.2
+32274-很 好-very good .-0.2
+32281-当然 是-it sure has .-0.2
+32283-我 很 乐意-it would be a pleasure .-0.2
+32284-我们 可以 今晚 去 吗-could we go this evening ?-0.2
+32288-我 也 很 好-i &apos;m doing fine , too .-0.2
+32296-我 很 想 去-i &apos;d love to come .-0.2
+32303-我 很 乐意 去-i &apos;d love to .-0.2
+32387-我 也 很 好-i &apos;m doing fine , too .-0.2
+32514-您 可以 下午 来 取票-you can come and get the ticket in the afternoon .-0.2
+32522-谢谢-thank you .-0.2
+32532-这 主意 也许 不错-that might be a good ides .-0.2
+32545-谢谢-thank you .-0.2
+32571-当然-yes , of course .-0.2
+32587-可以-oh , yes .-0.2
+32598-我 可以 帮 你 吗-may i help you ?-0.2
+32614-当然 有 罗  太太-we certainly have , madam .-0.2
+32638-对 了  谢谢-yes . thank you .-0.2
+32652-谢谢-thank you .-0.2
+32663-很 好-great .-0.2
+32666-听 起来 很 有趣-sounds very interesting .-0.2
+32780-谢谢-thank you .-0.2
+32782-当然-sure .-0.2
+32816-很 好-that &apos;s good .-0.2
+32832-谢谢-thanks .-0.2
+32860-谢谢-thanks .-0.2
+32863-见到 您 很 高兴-pleased to meet you .-0.2
+32865-谢谢-thank you .-0.2
+32869-谢谢-thank you .-0.2
+32870-我们 也 很 喜欢-we really like it , too .-0.2
+32883-这 主意 不错-it &apos;s not a bad idea .-0.2
+32951-谢谢-thanks .-0.2
+32955-好 的  谢谢-yes , thank you .-0.2
+32991-当然 没 忘-of course not .-0.2
+33023-不 啦  谢谢-no , thank you .-0.2
+33038-谢谢-thanks .-0.2
+33062-谢谢-thanks .-0.2
+33082-谢谢-thank you .-0.2
+33101-可以  先生-yes , sir .-0.2
+33119-可以  先生-yes , sir .-0.2
+33152-我 很 喜欢-i love it .-0.2
+33194-您 手艺 很 好-you &apos;ve done a good job .-0.2
+33197-谢谢-thank you .-0.2
+33205-不用  谢谢-no , thank you .-0.2
+33229-谢谢-thank you .-0.2
+33231-不 用 了  谢谢-no , thank you .-0.2
+33237-不 用 了  谢谢-no , thank you .-0.2
+33262-谢谢-thank you .-0.2
+33268-很 好-very nice .-0.2
+33269-谢谢-thanks .-0.2
+33339-好 的  很 好-yes , well done !-0.2
+33394-是 的  谢谢-yes , thanks .-0.2
+33413-那 很 好-that &apos;s better .-0.2
+33476-可以-ok .-0.2
+33484-谢谢-thanks .-0.2
+33487-可以  给 您-yes , here you are .-0.2
+33500-谢谢-thanks .-0.2
+33527-谢谢-thank you .-0.2
+33540-可以-yes .-0.2
+33542-谢谢-thank you .-0.2
+33548-谢谢-thank you .-0.2
+33567-谢谢-thank you .-0.2
+33574-谢谢-thanks .-0.2
+33585-谢谢-thanks .-0.2
+33589-可以  女士-yes , ma &apos;am .-0.2
+33612-谢谢-thank you .-0.2
+33664-没有 了  谢谢-no , thanks .-0.2
+33723-谢谢-thank you .-0.2
+33741-谢谢-thanks .-0.2
+33751-谢谢-thank you .-0.2
+33759-很 好-very good .-0.2
+33768-谢谢-thanks a lot .-0.2
+33778-谢谢-thanks .-0.2
+33794-谢谢-thanks .-0.2
+33817-当然-sure .-0.2
+33831-谢谢-thank you .-0.2
+33859-谢谢-thank you .-0.2
+33868-可以-yes .-0.2
+33892-谢谢-yes , thank you .-0.2
+33906-谢谢-thank you .-0.2
+34009-风浪 很 大-the sea is very rough .-0.2
+34034-我 可以 乘坐 联运 航班-you could take a connecting flight .-0.2
+34059-见到 您 很 高兴-nice to see you .-0.2
+34060-见到 您 很 高兴-glad to meet you .-0.2
+34286-我们 可以 拿 多少 行李-how much luggage can we take ?-0.2
+34796-我 可以 坐 这里 吗-may i sit here ?-0.2
+34798-当然  请 坐-sure , have a seat , please .-0.2
+34864-我 可以 中途 下 吗-can i stop over on the way ?-0.2
+35063-您 可以 直达 那里-you may go straight there .-0.2
+35198-哪里 可以 买到 邮票-where can i get stamps ?-0.2
+35467-你 可以 免费 携带-you can carry it free of charge .-0.2
+35567-我 可以 领取 行李 吗-may i claim my luggage ?-0.2
+35763-您 可以 用 人民币 买票-you may pay renminbi for your ticket .-0.2
+35875-很 喜欢-very much .-0.2
+36326-今天 交通 很 拥挤-traffic is really heavy today .-0.2
+36333-塞车 很 严重-it &apos;s a pretty bad jam .-0.2
+36400-可以 继续 开 吗-can you continue ?-0.2
+36410-我 可以 试试 看-i can try .-0.2
+36436-你 家乡 很 美 吗-is your hometown very beautiful ?-0.2
+36442-食物 也 很 棒-the food is great , too .-0.2
+36510-听 起来 很 意思-that sounds interesting .-0.2
+36525-有时候 很 无聊-sometime it &apos;s boring .-0.2
+36557-中国菜 很 好吃-chinese food is delicious .-0.2
+36590-还 不错-pretty good .-0.2
+36593-我 很 好-fine .-0.2
+36595-一切 都 很 好-everything is fine .-0.2
+36641-我 可以 看车 吗-may i see the car ?-0.2
+36643-哪里 可以 雇到 出租 汽车-where can we get a taxi ?-0.2
+36744-我 可以 指引 方向-i can give you directions .-0.2
+36792-我们 可以 避开 塞车-we can avoid traffic jam .-0.2
+36814-可以 快 一点 吗-can we move it ?-0.2
+36815-可以 开快 一点 吗-can you step on the gas ?-0.2
+36853-我 可以 抽烟 吗-is it all right if i smoke ?-0.2
+36882-还 要 很 久 吗-will it be much longer ?-0.2
+36884-还 很 远 吗-do we have far to go ?-0.2
+36901-我 听力 很 差-i have poor listening .-0.2
+36924-还 很 远 吗-is it much further away ?-0.2
+36927-会 很 久 吗-will it take long ?-0.2
+37015-我 可以 载 您 去-i can take you there .-0.2
+37121-可以  如果 您 愿意-yes  if you like .-0.2
+37162-可以 换成 卧铺 吗-can i have a change for the berth ?-0.2
+37265-今天 天气 很 凉爽-it &apos;s very cool today .-0.2
+37273-广州 冬天 很 冷 吗-is it very cold in guangzhou in winter ?-0.2
+37274-不  不 很 冷-no , it &apos;s not very cold .-0.2
+37335-我 可以 打开 窗子 吗-may i open the window ?-0.2
+37364-我 觉得 很 冷 .-i feel rather cold .-0.2
+37369-包房 里 很 热-it is rather hot the compartment .-0.2
+37416-很 高兴 参加-with pleasure .-0.2
+37420-打 桥牌 很 费神-playing bridge is rather demanding .-0.2
+37455-可以-yes , it is .-0.2
+37723-味道 很 好-it &apos;s quite delicious .-0.2
+37769-当然 好-sure .-0.2
+37793-我们 可以 走 了 吗-can we go now ?-0.2
+37801-旅行 很 愉快-i enjoyed the flight .-0.2
+37897-不 必  谢谢-no , thank you .-0.2
+37923-我 可以 换 座位 吗-may i change my seat ?-0.2
+38016-不  谢谢-no , thank you .-0.2
+38023-我 可以 抽烟 吗-may i smoke ?-0.2
+38048-我 可以 用 人民币 吗-can i use rmb yuan ?-0.2
+38054-我 够 了  谢谢-i &apos;ve had enough . thank you .-0.2
+38382-我 可以 口头 申报 吗-may i give you an oral declaration ?-0.2
+38450-我们 可以 让 行李员搬 行李-we can leave the luggage to the porter .-0.2
+38717-当然 好  什么 问题-sure . what &apos;s the problem ?-0.2
+38726-你 可以 搭 地铁-you can get there by subway .-0.2
+38809-咱们 可以 坐 900 路-let &apos;s take no.990.-0.2
+38910-我 可以 问路-i can ask the way .-0.2
+38925-离 这儿 很 远-it &apos;s a long way from here .-0.2
+38994-清楚 了  谢谢-oh , i &apos;ve got it . thank you !-0.2
+39130-您 可以 乘 地铁-you can take the subway .-0.2
+39136-您 可以 买 月票-you can buy a monthly pass .-0.2
+39721-这个 菜 很 新鲜-it is very fresh .-0.2
+40074-我 可以 现在 上菜 吗-may i serve it to you now ?-0.2
+40173-我 可以 坐 这儿 吗-can i sit here ?-0.2
+40218-现在 可以 就餐 吗-is it possible to have dinner now ?-0.2
+40226-这 张 桌子 不错-this one is good .-0.2
+40310-好 的  谢谢-fine , thank you .-0.2
+40322-您 可以 随便 坐-you can sit where you like .-0.2
+40467-服务 很 差劲-the service was very bad .-0.2
+40550-服务 很 差劲-the service was very had .-0.2
+40612-做  菜 很 费 时间-. takes quite a while to prepare .-0.2
+40802-先生  可以 点菜 了 吗-are you ready to order , sir ?-0.2
+40804-先生  可以 点菜 了 吗-may i have your order , sir ?-0.2
+40805-可以 点菜 了 吗-could i take your order ?-0.2
+40809-可以 点菜 了 吗-would you please to order now ?-0.2
+40935-北京 烤鸭 很 好吃 的-it &apos;s very delicious .-0.2
+40985-我 可以 推荐 烤 牛肉-i can recommend the roast beef .-0.2
+41149-可以 进去 吗-may i come in ?-0.2
+41402-好 的  谢谢-yes , please .-0.2
+41572-我 可以 推荐 牛排 吗-may i recommend beef steak ?-0.2
+41663-可以 点菜 了 吗-may i take you order ?-0.2
+41762-够 了  谢谢-no more , thanks .-0.2
+41795-很 好-it &apos;s very nice !-0.2
+41918-可以 走 了 吗-can we go now ?-0.2
+42236-不 要 了  谢谢-no more , thanks .-0.2
+42238-真的 不 要 了  谢谢-no , thank , really .-0.2
+42330-我 无所谓 吃 什么  谢谢-i wouldn &apos;t care for anything , thanks .-0.2
+42377-队伍 移动 很 快-the line sure does move fast .-0.2
+42383-我 很 饿-i &apos;m famished .-0.2
+43075-乒乓球 很 有趣-it &apos;s fun to play table tennis .-0.2
+43390-裁判员 很 实事求是-the referee is reasonable and fair .-0.2
+43487-林同志 很 适合 中锋-comrade lin is quite suited for the center .-0.2
+43660-他 投篮 很 轻松-he shoots with ease .-0.2
+43865-我 可以 看 篮球赛 吗-may i watch the basketball match ?-0.2
+43990-你 可以 用 它-you may borrow it .-0.2
+44267-我 可以 看看 时间表 吗-may i see the time schedule , please ?-0.2
+44652-当然 记得-of course .-0.2
+45254-当然 是 跳高 啦-high jump , of course .-0.2
+45767-你 可以 游 多 长-i can swim about 35 lengths in one go .-0.2
+45861-游泳 我 很 在行 的-i &apos;m pretty good at swimming , you know .-0.2
+45908-运动员 可以 直接 入水-the diver may plunge straightly into the water .-0.2
+45954-你 干 得 不错-you did a good job !-0.2
+46064-跆拳道 很 重 礼-taekwondo emphasizes courtesy .-0.2
+46096-你 很 会 滑雪-you are good at skiing .-0.2
+47023-明白 了  谢谢-i see . thank you .-0.2
+47179-主意 不错-a good idea .-0.2
+47203-是 不错-yes , it is !-0.2
+47402-好  谢谢-yes , thank you .-0.2
+47406-我 也 很 崇拜 他-i admire him , too .-0.2
+47409-我 很 喜欢 网球-i really enjoy playing tennis .-0.2
+47413-我 很 喜欢 烹饪-i &apos;m been on cooking .-0.2
+47435-读书 很 有意思-reading is fun .-0.2
+47506-谢谢-it &apos;s very good of you to say so .-0.2
+47510-谢谢-it &apos;s very kind of you to say so .-0.2
+47526-你 看起来 很 难过-you look upset .-0.2
+47598-当然-sure it is .-0.2
+47601-大家 的 反映 不错 呀-it was tell received .-0.2
+47707-很 饿-oh , yes .-0.2
+47720-哦  谢谢-oh , thank you .-0.2
+47769-天儿 真 不错-it &apos;s a lovely day , isn &apos;t it ?-0.2
+47812-天阴 得 很 沉啊-it &apos;s pretty cloudy , isn &apos;t it ?-0.2
+47814-我 感到 很 闷-i feel suffocated .-0.2
+47816-天哪  雨 很 大 呀-gosh , the rain is so heavy !-0.2
+47822-不错-yeah .-0.2
+47940-当然  妇孺皆知-yeah , everyone knows about it .-0.2
+48094-当然 啦-of course .-0.2
+48123-我 很 难过-i &apos;m so sorry .-0.2
+48180-当然-sure i will .-0.2
+48474-很 抱歉-we feel terribly sorry .-0.2
+48505-当然 啦-you set ?-0.2
+48535-当然-ok .-0.2
+48573-可以-please do .-0.2
+48602-当然 不 介意-no , i wouldn &apos;t mind at all .-0.2
+48611-可以  放 吧-yes , please do .-0.2
+48623-我 可以 坐 在 后面-i can take seat in the back .-0.2
+48628-当然  现在 没有 下雨 吧-certainly . it &apos;s not raining , is it ?-0.2
+48640-当然 不-no , of course not .-0.2
+48642-我 可以 打开 窗子 吗-could i open the window ?-0.2
+48744-她 是 很 努力  不过-she is hardworking , but .-0.2
+48792-当然  4 点 过 一点儿-of course , it &apos;s a little after four .-0.2
+48829-当然 去 了-sure .-0.2
+48890-谢谢-thank you .-0.2
+48917-见到 你 很 高兴-good to have met you .-0.2
+48961-当然 想  只要 能 攒足钱-you let , as long as i can save enough money .-0.2
+48962-我 可以 借给 你 一些-i can lend you some .-0.2
+48966-当然-certainly i do .-0.2
+48979-当然-surely i do .-0.2
+49076-见到 您 很 荣幸-it &apos;s a please to meet you . i &apos;m wang li .-0.2
+49077-见到 你 很 高兴-pleased to meet you .-0.2
+49080-见到 你 很 高兴-glad to meet you .-0.2
+49134-杰克 很 势利-jack is very snobbish .-0.2
+49212-我 英语 很 棒-i am quite fluent in english .-0.2
+49279-总的来说 还 不错-no bad on the whole .-0.2
+49352-我们 觉得 很 难 接受-we find it difficult to accept .-0.2
+49384-我 可以 转告 她 吗-could i take a message ?-0.2
+49398-当然 了-yes .-0.2
+49647-不 喝 了  谢谢-no , thanks .-0.2
+49674-当然 要 接着 干-we &apos;ll certainly go on .-0.2
+49699-噢  不 要 了  谢谢-oh , no we don &apos;t thanks .-0.2
+49722-当然  用 吧-sure , go ahead .-0.2
+49751-当然 记得-yes , of course .-0.2
+49761-我 也 很 高兴-pleasure is mine .-0.2
+49778-好 的  谢谢-thanks .-0.2
+49780-见到 您 很 高兴-very glad to meet you .-0.2
+49791-当然-oh , yes , of course .-0.2
+49799-很 乐意-yes , i &apos;ll be glad to .-0.2
+49837-好  谢谢-yes , please .-0.2
+49842-见到 你 很 高兴-nice to see you .-0.2
+49848-顺利  谢谢-yes , thank you .-0.2
+49887-很 好-fine , thank you .-0.2
+49891-见到 你 很 高兴-it &apos;s good to see you .-0.2
+49956-当然-he sure is .-0.2
+49966-我 觉得 很 合理-i must say i find it quite reasonable .-0.2
+50006-太 好 了  谢谢-sure , thank you .-0.2
+50034-项目 很 成功-that was a very successful project .-0.2
+50055-她 很 美-she &apos;s really beautiful .-0.2
+50059-查尔斯  干得 不错 嘛-you &apos;ve done a great job , charles .-0.2
+50067-谢谢-how very nice of you to say so !-0.2
+50091-谢谢-it &apos;s very nice of you to say so .-0.2
+50231-很 难 说-it &apos;s bard to say .-0.2
+50304-而且 效率 很 高-and it &apos;s very efficient .-0.2
+50314-公关部 很 重要 啊-the public relations department is very important .-0.2
+50460-很 遗憾-sorry to hear that .-0.2
+50524-有  而且 前景 不错-yes , there are good prospects .-0.2
+50612-可以-that &apos;s ok .-0.2
+50624-好 的  谢谢-all right . thank you .-0.2
+50793-她 很 可能 失败-there &apos;s a good chance she &apos;ll fail .-0.2
+50801-听 起来 不错-it sounds all right .-0.2
+50812-需要  谢谢-yeah , thanks .-0.2
+50816-不 必 了  谢谢-no , thanks anyway .-0.2
+50826-当然  如果 你 不 介意-sure , if you don &apos;t mind .-0.2
+50829-谢谢-oh , thank you .-0.2
+50840-不 用 了  谢谢-no , thanks anyway .-0.2
+50897-很 好-i &apos;m doing fine .-0.2
+50907-谢谢-thank you so much .-0.2
+50954-我 可以 打开 吗-may i open it ?-0.2
+50961-我 很 乐意-i &apos;d be glad to .-0.2
+50983-谢谢-than you .-0.2
+50986-我 会 的  谢谢-i will . thank you .-0.2
+51018-谢谢-cheers !-0.2
+51039-这 很 方便 的-it was convenient to do it .-0.2
+51047-你 可以 用 一 枝-you can take one of them .-0.2
+51234-我 很 乐意 去-i &apos;d be delighted to .-0.2
+51358-当然-you bet ?-0.2
+51528-到时候 见  谢谢-see you then. thank you .-0.2
+51808-当然 了-certainly .-0.2
+51811-很 好-pretty good .-0.2
+51816-这 主意 不错-that sounds nice .-0.2
+51821-当然-that &apos;s for sure .-0.2
+51837-当然-i &apos;ll be glad to .-0.2
+51851-还 不错-not too bad so far .-0.2
+51862-听 起来 很 有趣-sounds interesting .-0.2
+51869-不错-not so bad .-0.2
+51874-我 可以 看 一下 吗-can i have a look at it ?-0.2
+51875-我 可以 试试 吗-may i try it on ?-0.2
+51876-我 可以 试试 吗-can i try it on ?-0.2
+51883-我 可以 看看 吗-can i see it ?-0.2
+51896-这 很 简单-it &apos;s very simple .-0.2
+51912-我 很 乐意-my pleasure .-0.2
+51942-很 好-that &apos;ll be fine .-0.2
+51944-我 可以 试穿 一下 吗-can i try it on ?-0.2
+52007-很 简单-oh , it &apos;s easy .-0.2
+52019-房间 真 不错-the room is so nice !-0.2
+52044-当然 好-certainly .-0.2
+52049-不错-that sounds good .-0.2
+52057-我 可以 看看 吗-may i have a look at it ?-0.2
+52089-听 起来 还 不错-that sounds not bad at all .-0.2
+52125-当然-of course .-0.2
+52151-挺 好 的  谢谢-pretty good , thank you .-0.2
+52158-谢谢-thank you .-0.2
+52159-谢谢-thanks .-0.2
+52161-很 愉快-had a good time .-0.2
+52228-这个 主意 不错-that &apos;s not a bad idea .-0.2
+52237-我 会 的  谢谢-i will.thanks a lot .-0.2
+52265-当然-yes , please .-0.2
+52268-当然 了-well , of course .-0.2
+52288-我 知道 了  谢谢-i see . thank you .-0.2
+52305-我 头 很 痛-i have a headache .-0.2
+52313-可以 呀-yes .-0.2
+52315-当然 了-that &apos;s for sure .-0.2
+52318-不 用 了  谢谢-no , thank you .-0.2
+52326-那 很 好-that &apos;s good service .-0.2
+52440-谢谢-thank you .-0.2

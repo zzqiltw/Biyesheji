@@ -1,0 +1,2614 @@
+小姐  您 要 买 什么
+23840-您 要 买 什么-can i help you with something ?-0.8
+51887-您 要 买 什么-may i help you ?-0.8
+23330-您 好  您 要 买 什么-good afternoon , what can i do for you ?-0.793
+23364-小姐  您 想 买 点 什么-do you want to see anything else , miss ?-0.793
+22759-您 要 买 点 什么-what can i do for you ?-0.79
+24775-您 要 买 什么  先生-may i help you , sir ?-0.79
+25982-您 要 买 什么  太太-what have you decided on , madam ?-0.79
+26325-您 要 买 些 什么-what can i show you ?-0.79
+51935-您 要 买 点 什么-can i help you ?-0.79
+14029-那么  您 要 买 点 什么  先生-now what can i show you , sir ?-0.789
+23769-先生 下午 好  您 要 买 什么-good afternoon , sir . may i help you with something ?-0.789
+24561-您 要 买 什么 牌子 的-do you have any particular brand in mind ?-0.785
+23521-欢迎 您 到 我们 购物 中心  您 要 买 些 什么-welcome to our shopping centre , madam . what can i do for you ?-0.778
+4465-小姐  您 要 去 哪里-where would you like to go , miss ?-0.6
+10158-您 要 什么-and what , will yours be ?-0.6
+10552-您 要 点 什么-may i take your order ?-0.6
+11220-先生  您 要 点 什么-.. are you ready to order , sir ?-0.6
+11899-您 要 点 什么-what are you going to order ?-0.6
+12375-您 要 什么-what can i get for you ?-0.6
+13132-您 要 什么-what can i do for you ?-0.6
+13139-夫人  您 要 点 什么-what can i do for you , ma &apos;am ?-0.6
+23196-要 买 什么-what can i do for you ?-0.6
+23244-您 买 什么-are you being attended to ?-0.6
+23503-您 买 什么-are you being helped ?-0.6
+23791-您 要 什么-can i be of any assistance to you ?-0.6
+24052-您 想 买 什么-what can i do for you ?-0.6
+24105-您 想 买 什么-what can i show you ?-0.6
+24126-您 要 点 什么-can i help you ?-0.6
+24297-要 买 什么-what can i do for you ?-0.6
+24509-你 要 买 什么-what can i do for you ?-0.6
+24807-你 要 买 什么-anything i can do for you ?-0.6
+24990-您 想 买 什么-what do you wish to buy ?-0.6
+25433-您 要 点 什么-can i help you ?-0.6
+25484-您 想 买 什么-can i be of any assistance to you ?-0.6
+25528-你 要 买 什么-is there anything i can do for you ?-0.6
+25797-您 买 什么-in what way can i serve you ?-0.6
+33656-小姐  您 需要 些 什么-can i help you , miss ?-0.6
+35618-您 要 什么-can i help you ?-0.6
+40892-您 要 什么-what would you like ?-0.6
+40974-接下来 您 要 什么-what &apos;ll you have to follow ?-0.6
+42325-您 要 些 什么-what can i help you with ?-0.6
+42388-您 要 什么-what are you going to have ?-0.6
+51844-您 要 什么-yes ?-0.6
+51892-您 想 买 什么-anything i can do for you ?-0.6
+51906-您 想 买 什么-what do you wish to buy ?-0.6
+51975-您 买 什么-can i help you ?-0.6
+51976-您 买 什么-what can i do for you ?-0.6
+51977-您 买 什么-is there anything i can do for you ?-0.6
+51978-您 买 什么-what can i show you ?-0.6
+51979-您 买 什么-what can i offer you ?-0.6
+51980-您 买 什么-can i be of any assistance ?-0.6
+51981-您 买 什么-what do you want to buy ?-0.6
+23945-女士  您 想 买 些 什么-anything i can do for you , ma &apos;am ?-0.595
+24815-请 问  您 想 买 什么-yes ? how can i help you ?-0.595
+24946-下午 好  您 想 买 什么-good afternoon . what are you looking for ?-0.595
+40661-先生  您 要 点 什么 菜-are you ready to order now , sir ?-0.595
+40664-先生  您 要 点 什么 菜-may i have your order , sir ?-0.595
+41293-今晚 您 要 吃 点 什么-what would you like to have tonight ?-0.595
+41644-先生  您 要 点 什么 菜-may i take your order , sir ?-0.595
+41648-先生  您 要 点 什么 菜-what would you like to order , sir ?-0.595
+2508-琼斯 先生  您 要 来 些 什么-what would you like to have , mr. jones ?-0.591
+7354-那么  先生 您 要 喝 什么 呢-now , what can i make for you , sir ?-0.591
+7401-先生  您 和 太太 要 喝 什么-what can i offer you and your wife , sir ?-0.591
+12024-主菜 您 要 上 些 什么 呢-and what would you like for your main course ?-0.591
+23672-早上 好  您 想 买 点 什么-good morning . can i help you ?-0.591
+28155-请 问 您 要 点 什么 菜-may i have your order please ?-0.591
+2002-您 要 什么 舱位-which class do you want ?-0.59
+5573-当然  您 要 什么 帮助-sure , what do you want ?-0.59
+7546-您 要 用 些 什么-what can i do for you ?-0.59
+10066-您 要 点 什么  先生-what will you have , sir ?-0.59
+10144-您 要 什么  太太-what &apos;s yours , madam ?-0.59
+10425-您 要 吃 点 什么-what would you like to order ?-0.59
+10435-您 要 吃 点 什么-what can i do for you ?-0.59
+10504-您 要 点 什么  女士-and you , madam ?-0.59
+10607-您 要 点 什么  先生-what would you like , sir ?-0.59
+10618-您 要 点 些 什么-what would you like to order ?-0.59
+10667-您 还 要 点 什么-will there be anything else ?-0.59
+10831-那么 您 要 什么  先生-and for you , sir ?-0.59
+11346-您 要 什么 菜-may i take your order now ?-0.59
+11747-您 要 点 什么 菜-are you ready to order now ?-0.59
+11991-您 要 点 什么 菜-may i take your order , now ?-0.59
+12086-那么 主菜 您 要 什么-and what would you like to have for the main course ?-0.59
+13137-您 要 喝 点 什么-what would you like to drink ?-0.59
+13223-请 问 您 要 什么-can i take your order , please ?-0.59
+23351-您 买 点 什么-can i be of any assistance .-0.59
+23409-您 还 买 什么 吗-is there anything else ?-0.59
+24058-您 想 买 什么 吗-anything i can do for you ?-0.59
+24065-您 买 点儿 什么-can i be of any help ?-0.59
+24096-您 想 买 点 什么-anything i can do for you ?-0.59
+24485-您 想 买 什么 书-what can i do for you ?-0.59
+24697-您 要 些 什么 呢-could i be of any service to you ?-0.59
+25859-您 买 点 什么-can i help you ?-0.59
+37653-您 要 什么 汤-what soup would you like ?-0.59
+39842-您 要 什么 冰淇淋-what kind of ice-creams do you order ?-0.59
+39843-您 要 什么 甜点-what kinds of sweets do you want ?-0.59
+39855-您 要 预订 什么 日期-when would that be for ?-0.59
+40618-您 要 什么  先生-what &apos;ll you have , sir ?-0.59
+40621-您 要 喝 点 什么-would you like something to drink ?-0.59
+40968-您 要 什么 菜-what dishes would you like ?-0.59
+41341-您 要 什么 汤-what soup would you like to have ?-0.59
+41675-您 要 喝 什么 饮料-what kind of drink would you like ?-0.59
+51971-您 买 点 什么-may i help you ?-0.59
+13308-请 问 您 要 些 什么 食物 呢-what would you like for your food ?-0.589
+23627-早晨 好  先生  您 想 买 些 什么-good morning , sir . can i help you ?-0.589
+24213-早上 好  夫人  您 想 买 点儿 什么-good morning , madam . what can i do for you ?-0.589
+24270-今天 还 要 买 什么 别 的 吗-anything else today ?-0.589
+24283-顺便 问问  小姐  您 还 需要 些 什么-by the way , what else would you like , miss ?-0.589
+41647-先生  请 问 您 要 点 什么 菜-excuse me , sir . are you ready to order now ?-0.589
+731-您 还 要 点 什么 吗-will you have anything more ?-0.587
+7302-您 要 喝 点 什么 吗-would you like anything to drink , sir ?-0.587
+10225-您 要 点 什么 喝 吗-would you like something to drink ?-0.587
+10394-您 要 喝 点 什么 吗-would you like anything to drink ?-0.587
+10451-您 今天 要 点 什么 呢-what would you like to have ?-0.587
+11185-亲爱 的  您 想 要 什么-what would you like , dear ?-0.587
+20164-小姐  您 要 我 如何 处理 今天 的 邮件-what would you like me to do with today &apos;s mail , ma &apos;am ?-0.587
+23230-您 好  买 什么 东西 吗-good afternoon . what can i do for you ?-0.587
+23567-您 还 买 什么 东西 吗-is there anything else i can do for you ?-0.587
+23600-这里 就 是 毛衣 专柜  您 想 买 什么-here is the cashmere sweater counter , what can i do for you ?-0.587
+24121-您 想 买 什么 东西 吗-can i be of any assistance ?-0.587
+24932-您 想 买 什么 牌子 的-do you have any particular brand in mind ?-0.587
+25495-您 要 买 多 大 的-what size do you want to take ?-0.587
+26006-您 打算 买 些 什么 呢-what are you thinking of buying ?-0.587
+39409-您 再 要 点 什么 吗-would you care for anything else ?-0.587
+39848-请 问 您 要 订 什么 时间 的 席位-what time would you like your table ?-0.587
+40452-您 要 我 做 些 什么-what would you like me to do ?-0.587
+40887-先生  您 点菜 前 要 喝 点 什么 吗-would you care for a drink before you order , sir ?-0.587
+40979-您 要 喝 点 什么 吗-would you like something to drink ?-0.587
+41319-您 要 点 什么 饮料 吗-would you care for something to drink ?-0.587
+2006-您 要 采取 什么 形式 付 订金-how do you like to pay for your deposit ?-0.584
+11479-请 问 您 要 什么 牌子 的-which brand would you prefer ?-0.584
+11618-您 要 不 要 喝 点 什么-would you like to order something from the bar ?-0.584
+26375-您 要 修改 的 是 什么 衣服-what was the dress you wanted me to fix for you ?-0.584
+39593-您 要 喝 点 什么 吗  先生-do you want anything to drink , sir ?-0.584
+39608-您 要 订 什么 时间 的 席位-for what time do you want your table ?-0.584
+39873-您 要 不 要 什么 开胃菜 下酒-would you like any appetizers with your drinks ?-0.584
+40754-您 要 的 色拉 加 什么 调料-what kind of dressing would you like on your salad ?-0.584
+40763-您 要 的 牛肉 做到 什么 火候-how do you want your steak served ?-0.584
+40969-您 的 色拉 要 放 什么 调料-what kind of dressing would you like on your salad ?-0.584
+293-我 把 餐车 服务员 找来  您 可以 告诉 他 你 要 吃 什么-i &apos;ll ask the dining-car attendant to come and you can tell him what you want .-0.582
+482-这样 的话  您 最好 买到 杭州 的 卧铺票  不 要 买 上海 的-in that case , it is better for you to book the berth ticket for hangzhou instead of shanghai .-0.582
+6557-您 要 把 行李 托运 到 什么 地方-where do you want to check your luggage ?-0.582
+12090-您 的 牛排 要 配 什么 蔬菜 呢-what would you like to go with your steak ?-0.582
+12378-先生  您 的 面包圈 要 什么 风味 的-what kind of doughnut , sir ?-0.582
+29037-先生  您 想 要 什么 类型 的 房间-what kind of room would you like , sir ?-0.582
+37493-如果 您 要 继续 旅行  您 得 另 买 一 张 票-you have to buy a new one if you want to continue your journey .-0.582
+39715-您 还 要 别 的 什么 吗  女士-is there anything else , madam ?-0.582
+39868-您 要 不 要 喝 点 什么  女士-would you care to have some drinks , madam ?-0.582
+40080-咖啡 是 我们 最后 的 服务 了  您 还 要 点 什么 吗-this is our last service for coffee . would you like some more ?-0.582
+40766-您 要 的 牛肉 配 些 什么 蔬菜-what vegetables do you want to come with the steak ?-0.582
+41237-您 决定 要 点 什么 菜 了 吗-have you decided on something ?-0.582
+41312-格林 先生  格林 太太  您 要 什么 汤-what soup would you like to have , mr and mrs green ?-0.582
+41440-请 问 第一 道 菜 您 要 什么-what would you like for starters ?-0.582
+12039-您 点菜 之前 要 不 要 喝 点 什么-do you care for anything to drink before you order ?-0.581
+10727-您 要 什么 酒 吗-and would you like anything to drink ?-0.58
+14010-要 买 点 什么 吗-can i help you ?-0.58
+24138-您 还 要 什么  先生-would you like anything else , sir ?-0.58
+25912-您 还 要 什么 吗-any thing else for you ?-0.58
+33863-您 要 什么 牌子 的-what brand do you want ?-0.58
+37701-对 不 起  我 没有 搞 清楚 您 要 什么-sorry  i haven &apos;t made clear what you want .-0.58
+39784-您 还 要 什么 吗-would you like some more ?-0.58
+41126-您 要 什么 牌子 的-which brand would you prefer ?-0.58
+20173-我 刚 打完 所有 您 要 我 打 的 那些 电话  接下来 您 要 我 做 什么-i &apos;ve just finished placing all those telephone calls you requested . what would you like me to do next ?-0.579
+29075-好 的  您 想 要 什么 价格 范围 内 的 呢-ok , what price range do you have in mind ?-0.579
+51417-喂  喂  我 已 拿出 档案 了  您 要 我 告诉 您 什么 特定 的 资料-hello again , i have the file before me , what specific information would you like me to give you ?-0.579
+886-小姐  我 看 不 清 扶手 上 的 说明  只 想 知道 伸腿 或 调调 座位 要 按 什么 钮-stewardess , i can &apos;t see the armrest instructions very clearly . i just want to know which buttons should i push when i want to stretch out or adjust my seat .-0.578
+35825-您 要 给 他们 买 一 张 卧铺 和 两 张 小孩 客票-you are required to buy a berth ticket and two child &apos;s tickets for them .-0.578
+1225-请 您 看看 这 份 价目表  然后 再 告诉 我 您 要 什么 好 吗-would you refer to this price list , please ? and then give me your order .-0.577
+1276-请 看 一下 这 张 价格表  然后 您 再 告诉 我 您 要 什么-please refer to this price list and give me your order .-0.577
+3176-我们 有 上午 11:05 和 下午 2:00 的 航班  您 要 什么 时候 的-we have a morning flight leaving at 11 : 05 a.m. and an afternoon flight leaving at 2 : 00 p.m. which do you prefer ?-0.577
+10395-好 的  我 要 一 杯 加 奶油 的 咖啡  爸爸 您 要 什么-yes , i &apos;ll have a cup of coffee with cream , please.dad , what would you like ?-0.577
+25249-要 买 点 什么 东西 吗  先生-can i help you , sir ?-0.577
+26026-您 别急  至少 还 有 两 个 小时  还 要 买 别 的 吗-don &apos;t worry . we have at least two hours to go . anything else ?-0.577
+35821-您 可以 和 小孩 共用 一 个 卧铺  但 要 买 一 张 小孩 客票-you can share the berth with your child , but you &apos;ll have to buy a child &apos;s ticket .-0.577
+46912-您 要 什么 时候 上 茶点 呢-what time would you like refreshments served ?-0.577
+35604-我 要 买 些 什么 东西 来 作为 我 到 这个 城市 旅游 的 纪念 呢-what articles shall i get as a reminder of my trip to this city ?-0.576
+40535-您 在等 的 时候  要 什么 别 的 吗-would you like something else while you &apos;re waiting ?-0.576
+40973-您 要 什么 同 那 个 一起 吃-what would you like with that ?-0.576
+19954-谁 都 知道 你们 公司 是 世界 上 有名 的 几 家 大 跨国 公司 之一  在 十多 个 国家 有 三十几 处 分号  我们 要 买 的 这个 成套 设备 对 你们 说来 根本 算 不 了 什么-everybody knows that yours is one of the largest and most famous transnational corporations in the world , and has more than 30 branches in over ten countries . it is nothing to you at all to finance the manufacture of the complete plant we plan to buy .-0.574
+4838-告诉 我 您 什么 时候 要 搭车  好 吗-would you please tell me when you need the taxi ?-0.571
+35665-要 节省 时间 和 开支  您 可以 买 月票-to save time and money , you can buy a monthly pass .-0.571
+17856-您 什么 时候 要 报价单 呢-when do you want their quotations ?-0.568
+5303-您 有 什么 东西 要 申报 吗-do you have anything to declare ?-0.567
+27833-哎  夫人  您 可以 叫 我 Jack  有 什么 事情 要 我 办 吗-oh , you could call me jack . madam . may i help you ?-0.567
+38380-您 没有 什么 要 申报 的 吗-don &apos;t you have anything to declare ?-0.567
+38399-您 有 什么 要 申报 的 吗-have you got anything to declare ?-0.567
+1472-您 的 手提箱 是 什么 颜色 的  汤普森 小姐-what color is your suitcase , miss thompson ?-0.566
+6420-您 有 什么 专门 要 参观 的 吗-is there anything special you want to see ?-0.566
+23756-不 要 紧  您 看 合适 了 再 买-that &apos;s quite all right . whatever will suit you .-0.566
+24616-市内 免费 送 货  市外 我们 送 货 要 收费 的  不 知道 您 住 什么 地方-t is free within the town . and we charge for delivery outside it . i wonder where you live .-0.566
+25163-小姐 不 要 紧 的  我们 店 里 有 很多 相当 漂亮 的 衣服 可以 让 您 试穿-that &apos;s alright , miss . there are perfectly beautiful dresses in our collection you can try on .-0.566
+26883-如果 我 还 能够 为 您 做 些 什么 的话  请 不 要 客气 地 告诉 我-if i can be of further help , please don &apos;t hesitate to let me know .-0.566
+38402-您 行李 中 有 什么 要 纳税 的 东西 吗-have you got anything dutiable in your baggage ?-0.565
+17471-您 好  Waltzon 小姐  我 是 David 余  台湾 Pacer 电脑 公司 的 业务 代表  我 是 要 确定 我们 约好 下 星期 见面 的 事-hello , ms. waltzon . this is david yu , sales representative from pacer computers in taiwan . i &apos;m calling to reconfirm the appointment we set up for nest week .-0.564
+4822-您 什么 时候 要 搭车-what time do you need the taxi-0.56
+4863-您 什么 时候 要 搭车-when do you want the taxi ?-0.56
+23659-买 些 什么  小姐-can i help you , miss ?-0.56
+24492-看好 买 什么 了 吗  小姐-have you found anything you like , miss ?-0.56
+36999-您 什么 时候 要 搭车-when do you want the taxi ?-0.56
+3618-那 您 要 上 哪儿-but where are you going ?-0.4
+3968-先生  您 要 去 哪里-where do you want to go , sir ?-0.4
+4151-您 要 租车 吗-may i help you ?-0.4
+4349-您 要 去 哪里-where are you going ?-0.4
+4435-您 要 去 哪里-where can i take you ?-0.4
+4453-先生  您 要 上 哪儿-where would you like to go , sir ?-0.4
+4931-您 要 报关么-have you anything to declare ?-0.4
+5082-你 要 申报 什么-what are you declaring ?-0.4
+6003-您 说 什么-pardon ?-0.4
+6356-午餐 你 要 吃 什么-what would you like for lunch ?-0.4
+6628-您 需要 什么-what can i do for you ?-0.4
+6780-小姐  您 有 事 吗-can i help you , miss ?-0.4
+6793-小姐  您 运气 好-you are in luck , miss .-0.4
+7436-先生  您 想来 点 什么-what would you like to drink , sir ?-0.4
+9723-您 点 了 什么-what did you order ?-0.4
+10514-你 要 点 什么-can i take your order ?-0.4
+10659-您 喜欢 什么-what do you prefer ?-0.4
+10723-还 要 点 什么-anything else ?-0.4
+10915-然后 要 什么-and to follow ?-0.4
+10927-那么 您 喜欢 喝 什么-and what would you like to drink ?-0.4
+10958-还 要 什么-and to follow ?-0.4
+11340-你 早餐 要 吃点 什么-what would you lie for breakfast ?-0.4
+11680-您 要 汤 吗-would you like any soup ?-0.4
+12417-你 要 喝 什么-what would you like to drink ?-0.4
+12432-您 要 几点 到-what time would you like to come ?-0.4
+13195-蔬菜 要 什么-what about the vegetable ?-0.4
+13280-你 要 喝 什么-what will you have ?-0.4
+16238-还 要 什么-what would you like to eat ?-0.4
+16240-还 要 什么-anything else ?-0.4
+17944-您 要 几 份-how many copies would you like to have ?-0.4
+21983-您 要 票 吗-do you want tickets ?-0.4
+22656-我 也 要 买 这个-i &apos;ll take this one , too .-0.4
+23433-您 想 买 多少-how many handkerchiefs would you like to buy ?-0.4
+23517-您 要 收据 吗-yes . do you need a receipt for it ?-0.4
+25409-您 要 帮忙 吗-can i help you ?-0.4
+26674-您 要 换 多少-how much would you like to exchange ?-0.4
+27639-您 想要 什么-what do you want for lunch ?-0.4
+28103-你 要 什么-what will you have ?-0.4
+30029-那么  您 要 留言 吗-then perhaps you would like to leave a message ?-0.4
+30553-您 要 留言 吗-would you like to leave a message ?-0.4
+30920-您 要 打 几号-what number would you like to call ?-0.4
+31001-您 要 打 几号-what number would you like to call ?-0.4
+32510-您 要 吗-do you want them ?-0.4
+35504-您 要 负责 赔偿-you are responsible for the loss .-0.4
+35616-您 想要 些 什么-what can i do for you ?-0.4
+36981-您 要 去 哪里-where are you going ?-0.4
+37669-您 要 饮料 吗-do you want any drinks ?-0.4
+37714-您 要 水果 吗-do you want any fruit ?-0.4
+38067-您 要 呆 多久-how long will you stay ?-0.4
+38383-您 申报 什么-what are you declaring ?-0.4
+39136-您 可以 买 月票-you can buy a monthly pass .-0.4
+39255-先生  您 喜欢 什么-what is your pleasure , sir ?-0.4
+39261-先生  您 要 的 啤酒-your beer , sir .-0.4
+39852-您 想 喝 什么-what would you like to drink ?-0.4
+40753-甜食 要 点 什么-how about the dessert ?-0.4
+40817-接下来 要 点 什么-anything to follow ?-0.4
+40903-您 要 汤 吗-do you want any soup ?-0.4
+40961-接下来 要 什么-and to follow ?-0.4
+40962-接下来 要 什么-and what to follow ?-0.4
+40963-别的 还 要 什么-anything else ?-0.4
+40967-甜 点心 要 什么-how about the dessert ?-0.4
+40975-别的 还 要 什么-will there be anything else ?-0.4
+41189-今晚 您 想来 点 什么-what can i do for you ?-0.4
+41229-你 要 吃 什么-what would you like to have for dinner ?-0.4
+41236-您 喜欢 吃 什么-what do you fancy ? what would you like to have ?-0.4
+41352-您 要 套餐 吗-are you going to have the set course ?-0.4
+41664-您 推荐 什么-what do you recommend ?-0.4
+41674-您 想 喝 什么-what would you like for a drink ?-0.4
+42305-您 需要 什么-what can i help you with ?-0.4
+42389-您 最 喜欢 什么-what &apos;s your favorite ?-0.4
+49839-您 要 喝点儿 咖啡么-can i get you some coffee ?-0.4
+51930-还 要 什么-anything else ?-0.4
+52008-您 要 换 多少-how much would you like to cask ?-0.4
+52285-您 要 打 几号-what number are you calling ?-0.4
+7321-女士们  先生们  你们 要 喝 什么-what may i offer you , ladies and gentlemen ?-0.397
+8741-琼 小姐  您 现在 点菜 吗-would you like to order now , miss joan ?-0.397
+8828-能 为 您 做 些 什么-may i help you ?-0.397
+10328-那 主菜 要 些 什么 呢-and what would you like to have for the main course ?-0.397
+10408-喂  今晚 您 想 吃 什么-hello , what would you like to have for dinner ?-0.397
+10410-好 的  您 想要 喝 什么-ok , what would you like to drink ?-0.397
+10612-请 问 要 喝 点 什么-would you like something to drink ?-0.397
+10884-那么 您 想 点 什么 呢-what do you have in mind , then ?-0.397
+10977-晚安  今晚 要 吃 些 什么-good evening . what would you like to eat tonight ?-0.397
+11854-有  您 要 一 杯 吗-yes , we have . do you want one ?-0.397
+12874-你 今天 要 买 肉 吗-do you want any meat today ?-0.397
+13181-那么 您 是 要 喝 汤喽-so you want to have the soup ?-0.397
+20630-但 你 要 我 做 什么-what would you like me to do ?-0.397
+23471-小姐  我 想 买 种 摩丝-can you help me , miss ? i want to buy a kind of mousse .-0.397
+23643-我 想 要 买 双 布鞋-i want to have a pair of cloth shoes .-0.397
+24089-能 为 您 做 点 什么-what can i do for you ?-0.397
+24115-能 为 您 做 些 什么-what can i do for you ?-0.397
+24764-要 不 要 买 一 个-do you want to buy one ?-0.397
+24790-要 不 要 买 便裤  短袜-slacks , socks ?-0.397
+26559-能 为 您 做 些 什么-can i help you ?-0.397
+28000-先生  您 要 几 点 用餐-at what time shall we serve breakfast , sir ?-0.397
+28166-先生  您 要 几 个 杯子-how many glasses will you need , sir ?-0.397
+28522-好 的  您 要 怎样 换-sure.what would you like ?-0.397
+32335-先生  您 要 单人房 还是 双人房-do you want a single or twin , sir ?-0.397
+33340-先生  你 要 理 什么 发式-how do you want it , sir ?-0.397
+35395-请 您 看看 缺少 什么 没有-will you please see if there &apos;s anything missing ?-0.397
+37695-这些 是 您 要 的 吗-is this what you want ?-0.397
+39224-今晚 给 您 来 点儿 什么-what can i make for you tonight ?-0.397
+39257-先生  您 喜欢 来 杯 什么-what would you like to drink , sir ?-0.397
+39277-今晚 给 您 来 点 什么-what can i make for you tonight ?-0.397
+40475-先生  您 明天 有 什么 计划-what is your schedule for tomorrow , sir ?-0.397
+40622-晚饭 您 一般 都 吃 什么-what do you usually have for dinner ?-0.397
+41123-先生  您 要 的 麦道克 葡萄酒-your medoc , sir .-0.397
+42299-这 是 您 要 的 快餐-here is the snack you ordered .-0.397
+42314-两 位 今天 要 点 什么-what can i get for you today ?-0.397
+46915-其间 您 还 需要 什么 吗-is there anything else you need done in the meantime ?-0.397
+48393-最近 最好 不 要 买 股票-you &apos;d better not buy stocks these days .-0.397
+456-能 帮 您 做 点 什么 吗-can i help you ?-0.394
+458-好 的  您 想 了解 些 什么-okay . what would you like to know ?-0.394
+1166-小姐  请 问 我们 什么 时候 着陆-excuse me , miss . when will we land ?-0.394
+1254-小姐  请 问 我们 什么 时候 降落-excuse me , miss . when will we land ?-0.394
+1894-夫人  您 要 去 吉隆坡  对 吗-your final destination is kuala lumpur , is that right , ma &apos;am ?-0.394
+2447-现在 您 二 位 要 走 了-and now you &apos;re leaving .-0.394
+4474-能 为 您 做 些 什么 吗-what can i do for you ?-0.394
+6612-我 能 帮 您 做 些 什么-what can i do for you ?-0.394
+6643-那 您 要 多 付 20 美元-first class is 20 dollars more .-0.394
+7497-女士们  先生们  你们 要 喝 点 什么-what may i offer you , ladies and gentlemen ?-0.394
+7801-先生  您 还 要 点别 的 吗-would you like anything else , sir ?-0.394
+7854-先生 您 再 来 点 什么 吗-would you like anything else , sir ?-0.394
+7993-但是 您 要 出示 地址 和 证件-but could you give me your address and some identification ?-0.394
+8277-我 能 为 您 做 些 什么-can i help you ?-0.394
+8723-琼 小姐  宴会 订 在 什么 时候-when would you like your banquet ?-0.394
+9977-能 为 您 做 点 什么 吗-may i help you ?-0.394
+10007-您们 还 要 点 什么 蔬菜 吗-what vegetables would you like with your dinner ?-0.394
+10058-能 为 您 做 点 什么 吗-may i help you ?-0.394
+10427-那么 您 喜欢 喝 什么 饮料 呢-and what kind of fruit juice would you like to have , sir ?-0.394
+10704-请 问 还 要 点 什么 吗-anything else do you like to order ?-0.394
+11028-好极 啦  您 喝 点 什么 吗-ok . anything to drink ?-0.394
+21620-我 能 为 您 做 些 什么-can i help you ?-0.394
+22493-我 能 为 您 做 些 什么-can i help you ?-0.394
+23874-我 能 为 您 做 点 什么-what can i help you , madam ?-0.394
+23917-我 能 为 您 做 些 什么-may i help you ?-0.394
+23973-我 能 为 您 做 些 什么-may i help you ?-0.394
+23995-我 能 为 您 做 些 什么-can i help you ?-0.394
+24231-早安  先生  您 想 看 点 什么-good morning , sir . is there anything i can show you ?-0.394
+24245-下午 好  夫人  您 想要 点 什么-good afternoon , madam . may i help you ?-0.394
+24262-早上 好  女士  想 买 点 什么-good morning , lady . what can i do for you ?-0.394
+25911-好吧  我 要 买 这 一 套-all right , i will take this set .-0.394
+25926-我 能 为 您 做 些 什么-anything i can do for you ?-0.394
+25948-我 能 为 您 做 些 什么-can i help you ?-0.394
+26064-我 想 要 买 一 个 饭锅-i &apos;m looking for a rice cooker .-0.394
+26452-我 能 为 您 做 点 什么-can i help you , sir ?-0.394
+26486-我 能 为 您 做 些 什么-what can i do for you ?-0.394
+26830-我 能 为 您 做 些 什么-may i help you ?-0.394
+27200-我 能 为 您 做 些 什么-can i help you ?-0.394
+27531-我 能 为 您 做 些 什么-may i help you ?-0.394
+27644-我 能 为 您 做 些 什么-can i help you ?-0.394
+27670-我 能 为 您 做 些 什么-can i help you ?-0.394
+27988-先生  您 的 蛋 要 怎么 煮-how would you like your eggs , sir ?-0.394
+28017-先生  您 要 茶 或 咖啡 吗-would you like any tea or coffee , sir ?-0.394
+28185-我 能 为 您 做 些 什么-what can i do for you ?-0.394
+28559-我 能 为 您 做 些 什么-what can i do for you ?-0.394
+28628-能 为 您 做 点 什么 吗-may i help you ?-0.394
+28663-我 能 为 您 做 些 什么-what can i do for you ?-0.394
+28719-我 能 为 您 做 些 什么-can i help you ?-0.394
+28975-我 能 为 您 做 些 什么-may i help you ?-0.394
+28999-我 能 为 您 做 些 什么-can i help you ?-0.394
+29081-可以  您 要 什么样 的 房间 呢-yes , what sort of room do you want ?-0.394
+32493-我 能 为 您 做 些 什么-can i help you ?-0.394
+33650-我 能 帮 您 做 些 什么-may i help you ?-0.394
+33886-我 能 为 您 做 些 什么-may i help you ?-0.394
+35253-是 的  您 要 在 N 换车-yes , you must change trains at n. there is no through train for m.-0.394
+39260-先生  这 是 您 要 的 酒-here you are , sir .-0.394
+40519-我 给 您 另外 买 一 份-i &apos;ll get you another one .-0.394
+40599-我 能 为 您 做 点 什么-can i be of assistance ?-0.394
+40816-你 的 色拉 要 放点 什么 调料-what kind of dressing would you like on your salad ?-0.394
+41365-我们 还 没有 决定 要 点 什么-we haven &apos;t decided yet .-0.394
+52051-我 能 为 您 做 些 什么-what can i do for you ?-0.394
+140-20 分钟 后 您 就 要 下车 了-it &apos;s only twenty minutes before you get off the train .-0.393
+316-要 换车  您 要 在 C 站 换车-yes , you have to change at c station .-0.393
+1106-女士  您 要 喝 咖啡  还是 喝 茶-what do you want , madam , coffee or tea ?-0.393
+2075-您 早  能 为 您 做 些 什么-good morning . can i help you ?-0.393
+2101-王 女士  您 要 头等舱 还 是 经济舱-do you want to fly first or economy class , ms.wang ?-0.393
+7552-好极 啦  您 还 要 些别 的 吗-very good , anything else ?-0.393
+7585-我 给 你 要 一 份 什么 酒-what can i get you ?-0.393
+8034-早上 好  您 想 再 点 些 什么-good morning . what would you like to order ?-0.393
+8571-小姐  要 不 要 把 电话 转 过去-shall i transfer your call , miss ?-0.393
+9122-斯威夫特 先生  您 要 的 餐台 有 了-mr. swift . i have a table for you now .-0.393
+9475-今晚 您 几 位 想 用 些 什么-what &apos;s your pleasure this evening ?-0.393
+10799-女士  您 的 牛排 要 几 分 熟-how would you like your steak cooked , madam ?-0.393
+11103-太太  您 点 的 蛋 要 怎样 煮-how would you like your eggs , ma &apos;am .-0.393
+11417-女士  您 决定 点 什么 菜 了 吗-have you decided on anything , madam ?-0.393
+12030-那么 我 想 您 可以 要 米兰 瘦肉-then i think you can have noisettes milanese .-0.393
+12359-先生  您 的 牛排 要 几 分 熟-how would you like your steak , sir ?-0.393
+18469-没 问题  给 您  您 要 几 份-sure . here you are . how many copies would you like to have ?-0.393
+23325-我 可以 问问 您 想 画 什么 吗-may i ask what you want to paint ?-0.393
+24609-先生  您 要 多 大 面额 的 钞票-what banknotes would you like , sir ?-0.393
+26038-顺便 问问  先生  您 还 需要 点 什么-by the way , what else would you like , sir ?-0.393
+26509-先生  我 能 为 您 做 些 什么-may i help you ?-0.393
+26579-早上 好  先生  要 办 什么 事 吗-good morning , sir . what can i do for you ?-0.393
+27138-夫人  我 能 为 您 做 些 什么-what can i do for you , madam ?-0.393
+27656-曼宁 先生  这 是 您 要 的 食品-mr. manning , here is the food you ordered .-0.393
+27799-小姐  您 能 帮 我 一下 忙 吗-will you do me a favor , miss ?-0.393
+27992-先生  请 问 您 要 几 客 凤梨汁-how many orders of pineapple juice would you like , sir ?-0.393
+28505-能 为 您 做 点 什么 吗  先生-may i help you , sir ?-0.393
+28580-我 能 为 您 做 些 什么 吗-can i help you ?-0.393
+28694-女士  我 能 为 您 做 些 什么-what can i do for you , ma &apos;am .-0.393
+28708-那么 您 今天 是 要 去 亚特兰大 了-so you are leaving for atlanta .-0.393
+28822-早  夫人  能 为 您 做 些 什么-good morning , madam . can i help you ?-0.393
+28988-另外  您 准备 采用 什么 方式 付款 呢-by the way , how do you like to pay for it ?-0.393
+29325-当然 可以  请 问 您 想 喝 什么-certainly , sir.what would you like ?-0.393
+33416-我 能 为 您 做 点 什么 吗-may i help you , sir ?-0.393
+38066-那 您 要 到 哪些 地方 旅游 呢-where will you stay then ?-0.393
+39266-先生  请 您 告诉 我 什么 时候 停-please say &quot; when &quot; , sir .-0.393
+39507-先生 和 夫人  还 要 用 些 什么-would you like anything else , sir and madam ?-0.393
+39635-请 问 您 的 鱼 要 怎样 做-how would you like your fish ?-0.393
+39731-请 问 您 的 宴会 在 什么 厅-may i know which dining hall your banquet is in ?-0.393
+40257-先生  您 要 的 桌子 准备 好 了-your table &apos;s ready , sir .-0.393
+40579-是 您 要 见 我 吗  史密斯 先生-you asked to see me , mr.smith ?-0.393
+46880-先生  您 要 我 何时 做好 此 事-when would you like this prepared by , sir ?-0.393
+49630-请 问 您 找 他 有 什么 事-may i tell him what you wish to see him about ?-0.393
+51426-可否 请 问 您 需要 它 做 什么-could i ask what you need it for ?-0.393
+145-在 出站口  您 要 把 车票 交给 验票员 查看-at the exit , you are required to give it to the ticket-checker .-0.391
+4802-这 是 中兴 出租车 公司  您 要 出租车 吗-hello , this is zhongxing taxi company.do you want a taxi ?-0.391
+6175-我 看 不 需要 买 什么 别的 东西 了-well , i don &apos;t think i want to buy anything else .-0.391
+8230-好吧  您 喝 点 什么  甜点 吃 什么 呢-good . and anything to drink , and how about the dessert ?-0.391
+8246-请 问 您 要 流行 早餐 还是 欧式 早餐-would you like a continental breakfast ?-0.391
+8739-琼 小姐  请 问 宴会 订 在 什么 标准-miss joan , how much would you like your banquet at ?-0.391
+10155-太太  您 的 蛋 要 两 面 煎 吗-will you have your eggs turned over madam ?-0.391
+10575-我 可以 替 您 拿 点别 的 什么 吗-can i bring you anything else ?-0.391
+11358-请 问 您 要 小圆 面包 还 是 吐司-would you prefer rolls or toast ?-0.391
+11376-先生  您 点 的 牛排 要 几 分 熟-how would you like your steak , sir ?-0.391
+20133-先生  您 要 我 做到 怎样 的 精确 程度-what exactly would you like me to do , sir ?-0.391
+20477-如果 您 要 其他 东西  别 客气 请 说-if there &apos;s anything else you &apos;d like , please don &apos;t hesitate to ask .-0.391
+23820-十二 岁 的 小 女孩 买 什么 玩具 好-can you suggest a toy for a twelve-year-old girl ?-0.391
+25851-小姐  您 知道 一 分 钱 一 分 货-as you know , miss , price depends on quality .-0.391
+26246-先生  恐怕 您 不 是 在 这里 买 的-i &apos;m afraid , sir . i don &apos;t think you could have bought it here .-0.391
+26586-谢谢  您 要 多 大 面额 的 钞票 呢-thank you . how would you like it ?-0.391
+26615-早上 好  能 为 您 做 点 什么 吗-good morning.may i help you ?-0.391
+27842-下午 好  先生  能 为 您 做 点儿 什么-good afternoon , sir . may i help you ?-0.391
+28030-先生  您 点 的 食物 要 二十 分钟 左右-your order should take about twenty minutes , sir .-0.391
+28244-除了 早晨  您 还 需要 别 的 什么 吗-would you like anything else besides the breakfast ?-0.391
+29906-刚才 您 提到 过 一 个 寺庙  是 什么-just now you mentioned a temple . what is it ?-0.391
+32817-斯特 先生  您 要 的 是 头等舱  对 吗-you want to fly first class . is that correct , mr. stern ?-0.391
+34686-今天 我们 去 斯大林 路 要 坐 什么 车-which bus do we take to stalin road ?-0.391
+37071-当 您 要 还 车 时 用 得 着-use it when you want to turn in the car .-0.391
+37456-但 您 的 车票 要 在 H 站 签字-but you should get the ticket signed at h station .-0.391
+37772-请 告诉 我 这里 要 写 什么 好 吗-could you show me what to write here ?-0.391
+39374-今天 客人 很 多  您 点 了 什么 菜-there are so many guests today . what have you ordered ?-0.391
+40539-先生  您 点 的 菜 有 什么 问题 吗-is there anything wrong with your order , sir ?-0.391
+41110-进餐 前 您 要 不 要 来 杯 开胃酒-would you care for an aperitif before your meal ?-0.391
+41133-请 问 您 要 美式 早餐 还是 欧式 早餐-would you like a american breakfast or a continental breakfast ?-0.391
+41658-先生  您 点 的 牛排 要 几 分 熟-how would you like your steak , sir ?-0.391
+50756-我 明白  您 要 终止 本 公司 的 服务-i see , you wish to discontinue our services .-0.391
+315-如果 我 去 上海  要 在 什么 地方 换车 吗-do i have to change trains anywhere if i go to shanghai ?-0.39
+428-您 要 到 哪儿 去-where are you going ?-0.39
+889-当然 可以  太太  您 要 不 要 枕头 和 毯子-of course , madam . would you like to have a pillow and a blanket ?-0.39
+1992-您 要 直达 的 吗-do you want a direct flight ?-0.39
+2116-您 要 头等舱 或 经济舱-would you prefer first class or economy ?-0.39
+2195-您 要 哪 个 航班-which flight do you prefer ?-0.39
+2210-您 要 头等舱 还是 公务舱-would you like to go first class or business class ?-0.39
+2564-这样 的话  您 如何 决定 该 穿 什么 衣服 呢-then , how do you decide what clothes to wear for the day ?-0.39
+2799-请 问 还 有 没 有 人 要 买 票-any more fares , please ?-0.39
+3164-您 要 如何 付款 呢-how will you be paying for the ticket ?-0.39
+4155-您 要 用 几 天-how many days do you want the car ?-0.39
+4285-如果 您 要 租 一 周  我们 会 便宜 一点-we &apos;ll charge a favorable rent if you rent for a week .-0.39
+4407-您 要 乘 出租车 吗-do you need a taxi ?-0.39
+4905-你 要 什么 型号-what type do you have in mind ?-0.39
+5419-还 要 什么  先生-anything else , sir ?-0.39
+6629-我 要 买 双 绣花鞋-i &apos;d like a pair embroidery shoes .-0.39
+7331-您 想要 什么 呢-what do you have in mind ?-0.39
+7575-你们 要 喝点儿 什么 吗-would you like something to drink ?-0.39
+7873-还 要 点 什么 吗-would you like anything more ?-0.39
+7976-您 还 需要 些 什么-would you like anything else ?-0.39
+8268-除了 流行式 早餐  您 还 需要 别 的 什么 吗-would you like something else besides the full breakfast ?-0.39
+8389-您 要 订 坐 吗-you &apos;d like to book a table , wouldn &apos;t you ?-0.39
+8897-您 现在 要 点菜 吗-would you like to order now ?-0.39
+8919-还 要 什么 吗-will there be anything else ?-0.39
+9802-您 点 的 是 什么-what was your order ?-0.39
+10271-要 喝 点 什么-what would you like to drink ?-0.39
+10337-您 吃 什么 甜食-and what would you like for dessert ?-0.39
+10359-您 想 点 什么 菜-what would you like to order ?-0.39
+10377-您 想 吃 点 什么-would you like to eat ?-0.39
+10403-您 要 热狗 还是 汉堡包-would you care for a hot dog or hamburger ?-0.39
+10471-要 点 什么 开开胃-would you like to whet your appetite ?-0.39
+10516-你 要 什么 饮料-what kind of drink do you want with those ?-0.39
+10559-您 的 主菜 是 什么-what would you like for your main dish ?-0.39
+10694-请 问 要 什么 汤-what soup would you prefer ?-0.39
+10749-还 要 点 什么 吗-anything else ?-0.39
+10785-还 要 什么 吗-anything else ?-0.39
+10855-还 要 什么 呢-what else would you like ?-0.39
+10921-您 要 蘑菇 还是 扒西红柿-would you prefer mushrooms or grilled tomato ?-0.39
+11005-你 要 吃 些 什么-what will you have ?-0.39
+11071-要 点 什么 菜-may i take your order now ?-0.39
+11077-您 要 什么样 的 蛋-how would you like your eggs ?-0.39
+11079-您 要 我们 怎么 煮-how would you like us to cook your eggs ?-0.39
+11083-请 问 您 要 吐司 还 是 小 圆 面包-would you prefer toast or rolls ?-0.39
+11101-要 点 什么 菜-may i take your order now ?-0.39
+11203-午安  要 点 什么 菜-good afternoon.may i take your order ?-0.39
+11309-请 问 要 什么 甜点-what would you like for dessert ?-0.39
+11352-您 要 哪 种 蛋-how would you like your eggs ?-0.39
+11751-请 问 您 要 哪 种 果汁  西柚汁 还是 菠萝汁-which kind of juice would you prefer , grapefruit or pineapple ?-0.39
+11753-请 问 您 要 吐司 还 是 小 圆 面包-would you prefer toast or rolls ?-0.39
+11930-还 要 什么 吗-will there be anything else ?-0.39
+11973-要 点 什么 菜-may i take your order ?-0.39
+11980-两 份 A 餐  您 要 不 要 叫 饮料-the &quot; a &quot; course for two.would you like anything to drink ?-0.39
+12019-您 的 头道 菜点 什么-what would you like for your starter ?-0.39
+12034-您 主菜 点 什么 呢-what would you like to go with your main course ?-0.39
+12070-还 要 什么 吗-anything more ?-0.39
+12097-您 要 哪 一 种-which do you prefer ?-0.39
+12135-还 要 点 什么 吗-want anything else ?-0.39
+12320-你们 还 要 什么 吗-is there anything else you want to order ?-0.39
+12352-要 点 什么 菜-may i take your order , now ?-0.39
+12381-还 要 什么 吗-anything else ?-0.39
+12565-您 什么 时候 来-at what time can we expect you ?-0.39
+12970-请 不 要 特地 为 我 做 什么 吃 的-please don &apos;t cook anything specially for me .-0.39
+13176-要是 在 这里 吃  您 还 可以 要 份 汤-if you eat here , you may also have the soup .-0.39
+13207-您 想 先 吃 什么-what would you like to start ?-0.39
+13232-您 想 喝 点 什么-what would you like to drink with your meal ?-0.39
+13249-你们 要 喝 什么 茶-what kind of tea do you want ?-0.39
+13252-你们 要 吃 些 什么-what would you like to have for your breakfast ?-0.39
+16236-你 要 什么 饮料-what kind of drinks do you prefer ?-0.39
+19554-您 指 的 是 什么-what do you mean ?-0.39
+20500-您 喝 点 什么 吧-let me get you something to drink .-0.39
+21633-您 要 几 张 票-how many tickets do you need ?-0.39
+22776-你 要 抗生素 做 什么-what did you want the antibiotics for ?-0.39
+23218-要 买 表 吗-can i help you ?-0.39
+23304-买 些 什么-may i help you ?-0.39
+23442-您 想 买 面霜 吗-are you looking for some crème , madam ?-0.39
+23490-您 打算 买 这 种-you want to take it .-0.39
+23843-你 看 买 什么 好-what do you suggest for it ?-0.39
+23986-女士  您 不 要 灰心-cheer up , ma &apos;am .-0.39
+24329-要 买 东西 吗-can i help you ?-0.39
+24414-您 想要 什么 颜色-what color do you have in mind ?-0.39
+24487-我们 有 这 两 种  您 要 哪 一 种-we have these two . which one would you like ?-0.39
+24535-我 要 买 一 只-i &apos;ll take one .-0.39
+24652-你 要 买 鱼 吗-would you like to buy some fish ?-0.39
+24826-要 买 东西 吗-anything you want to buy here ?-0.39
+24871-要 买 东西 吗-can i help you ?-0.39
+24917-您 想要 什么  夫人-what do you want , madam ?-0.39
+24996-想 买 点 什么-may i help you ?-0.39
+25041-您 还 需要 点 什么-anything else ?-0.39
+25202-如果 您 要 的话  我 会 给 您 打折 的-i can give you a discount on it , if you want .-0.39
+25435-您 最 喜欢 什么 颜色-what color are you interested in ?-0.39
+25503-您 要 仔细 看看 吗-would you like to have a closer look at them ?-0.39
+25816-还 买 什么 吗-what else can i do for you ?-0.39
+25986-您 喜欢 什么 颜色-what color do you prefer ?-0.39
+26108-夫人  要 买 东西 吗-any thing can i do for you , madam ?-0.39
+26613-您 要 提 1000 美元-you want to withdraw one thousand u.s. dollars .-0.39
+26773-这 笔 款 您 想 以 什么 方式 兑换 呢-well , do you have any preference as to the kind of money to be paid .-0.39
+26815-您 要 呆 几 天-how long do you intend to stay ?-0.39
+27641-还 要 什么 吗-anything else ?-0.39
+27748-您 是 什么 意思-what &apos;s your meaning ?-0.39
+27786-是 的  您 能 为 我 买 一些 苹果 吗-yes , would you please buy me some apples ?-0.39
+27967-您 要 看 哪些 报纸-which papers would you like ?-0.39
+28013-先生  请 问 您 的 蛋 要 煮 几 分钟-how many minutes would you like us to boil your egg , sir ?-0.39
+28147-您 要 印 多少 张-how many prints do you want ?-0.39
+28162-您 要 几 瓶 啤酒-how many bottles of beer would you like ?-0.39
+28212-请 问 您 要 哪 种果 汗 菠萝汁 还是 橙汁-which kind of juice would you prefer , pineapple or orange ?-0.39
+28214-您 要 什么样 的 蛋-how would you like your eggs ?-0.39
+28220-请 问 您 要 吐司 还 是 小 圆 面包-would you prefer toast or rolls ?-0.39
+29073-要 我 帮忙 做 什么-how may i help you ?-0.39
+29173-先生  您 什么 时间 入住-when , sir ?-0.39
+29295-先生  您 早餐 要 吐司 还 是 小 圆 面包-would you like toast or rolls with your breakfast , sir ?-0.39
+30384-琼斯 先生 现在 不 在  您 要 不 要 留话-mr. jones is not in right now . may i take a message ?-0.39
+30637-你 要 挂 什么 城市-what city are you calling ?-0.39
+31014-Jones 先生 现在 不 在  您 要 不 要 留话-mr. jones is not in right now . may i take a message ?-0.39
+31381-还 要 其他 什么 吗-anything else ?-0.39
+31992-您 将 去 什么 地点-where will you go ?-0.39
+32504-您 要 订张 票 吗-do you need a ticket ?-0.39
+32589-我 不 懂 您 说 的 是 什么 意思  先生-i don &apos;t understand , sir .-0.39
+32950-您 喝 点 什么 吗-can i get you a drink ?-0.39
+32954-您 喝 点 什么 吗-can i get you a drink ?-0.39
+33385-您 喜欢 什么 发式-how do you like your hair set ?-0.39
+33805-还 要 什么 吗-anything else ?-0.39
+34461-如果 您 打算 回来  那 买 来 回票 更 便宜-if you plan to return , then it &apos;s cheaper if you buy a round-trip ticket .-0.39
+35603-我 要 买 一些 纪念品-i want to get some souvenirs .-0.39
+35631-我 要 买 些 橘子-i &apos;d like some oranges .-0.39
+35717-您 要 几 等 票-which class do you want ?-0.39
+37068-您 要 附加 综合险 吗-do you want the additional comprehensive insurance coverage ?-0.39
+37442-如果 我 去 北京  要 在 什么 地方 换车 吗-should i change trains anywhere if i &apos;m leaving for beijing ?-0.39
+37647-您 喜欢 吃 什么 蔬菜-what vegetables would you like ?-0.39
+38026-您 要 去 哪里 呢-what &apos;s your destination ?-0.39
+38029-我们 叫 空中 小姐 过来 要 点儿 喝 的 吧-let &apos;s call the stewardess and ask for something to drink .-0.39
+38371-您 要 住 在 哪里-where are you staying ?-0.39
+39627-您 要 几 杯  先生-how many glasses will you need , sir ?-0.39
+39632-您 要 预订 多少 席位-how many would that be for ?-0.39
+39735-您 现在 要 点菜 吗-may i take your order now ?-0.39
+39844-您 喜欢 吃 什么  女士-what is your pleasure , sir ?-0.39
+39865-你们 还 要 什么 吗-will there be anything else ?-0.39
+39897-先生  这 是 您 要 的 啤酒  希望 您 喜欢-your beer , sir . enjoy your drink .-0.39
+40043-您 要 订 席位 吗-would you like to book a table ?-0.39
+40350-您 愿意 要 吗-would you like to take it ?-0.39
+40574-也许 您 能 告诉 我 究竟 出 了 什么 事-perhaps you could tell me what exactly is the matter .-0.39
+40585-能 再 问 一下 您 点 了 什么 菜 吗-may i ask what you ordered again ?-0.39
+40620-您 先 来 点 什么-what would you like to start with ?-0.39
+40728-您 要 哪 一 种-which would you prefer ?-0.39
+40752-请 问 开胃菜 要 什么-what do you want for your appetizer , please ?-0.39
+40823-你 要 吃 点 什么-what &apos;ll you have ?-0.39
+40971-您 喜欢 什么 汤-what soup would you prefer ?-0.39
+41082-您 现在 要 还是 饭后-you want it now or after dinner ?-0.39
+41209-先生  请 您 告诉 我 什么 时候 停  好 吗-would you like to say &quot; when &quot; , please sir ?-0.39
+41278-您 吃 什么 蔬菜-what vegetables would you like ?-0.39
+41281-您 吃 点 什么 甜食-what would you take for dessert ?-0.39
+41305-我 给 您 二 位 拿 些 什么 饮料 呢-what can i get you to drink ?-0.39
+41325-要 什么 色拉酱-what kind of dressing ?-0.39
+41343-您 要 什么样 的 牛排-how would you like your steak ?-0.39
+41348-我们 有 套餐 和 点菜  您 要 哪 一 种-we have set courses and carte dishes , which would you prefer ?-0.39
+41470-您 想 喝 什么 饮料-which kind of juice would you like ?-0.39
+41654-您 要 什么样 的 蛋-how would you like your eggs ?-0.39
+41671-您 想 吃 点 什么-what would you like ?-0.39
+42165-你 要 喝 什么 酒-what liquor do you prefer ?-0.39
+42306-您 想 吃 点 什么-do you want to try something ?-0.39
+43822-他 要 去 干 什么-what &apos;s he going to do ?-0.39
+45273-可是 别 忘 了 你 要 跳高  什么 时候 开始-but don &apos;t forget you &apos;ll have high jump . when will that begin ?-0.39
+49300-您 什么 时间 方便-what time would be good for you ?-0.39
+49393-这里 是 市场部  能 为 您 做 点 什么 吗-marketing department , can i help you ?-0.39
+51126-您 要 出席 会议 吗-you &apos;ll be attending the conference ?-0.39
+51435-您 要 那 型号 吗-would you like the model number ?-0.39
+51899-您 最 喜欢 什么 颜色-what &apos;s your favorite color .-0.39
+52002-您 要 兑换 多少 呢-how much would you like to change ?-0.39
+48-我 带 了 些 矿泉水 和 茶  您 喜欢 喝 什么-i &apos;ve brought some mineral water and some tea . which do you prefer ?-0.389
+1277-不用 看 了  小姐  我 只 想 要 杯 可 乐-that &apos;s not necessary , miss . i just want a coke .-0.389
+7294-先生  您 的 布根 地 红酒  要 不 要 尝尝 看-your red burgundy , sir.would you like to taste it ?-0.389
+8331-现在 客人 已经 满 了  恐怕 您 要 等 一会儿 了-we are rather busy at the moment . i &apos;m afraid you will have to wait for a while .-0.389
+9677-我 跟 您 说 过 肉 要 烧 得 老 一点-i told you i wanted it well-done .-0.389
+11075-请 问 您 要 哪 一 种 果汁  葡萄柚 还是 柳丁汁-which kind of juice would you prefer , grapefruit or orange ?-0.389
+13227-请 问 您 要 不 要 来 一 块 炸 鸡-would you care for a piece of fried chicken ?-0.389
+23104-我 给 您 开个 方子  您 拿去 药 店 买 药-i &apos;ll give you a prescription and you can get your medicine from a pharmacy .-0.389
+23335-我们 有 许多 种 牙膏  您 想 买 哪 一 种-we have many kinds of tooth paste , which would you like to buy ?-0.389
+24319-这些 是 各种各样 的 玉器  您 喜欢 什么  就 挑 什么-here are all kinds of jade . choose whatever you like , please .-0.389
+25271-夫人  好 的  您 要 哪 一 国 制造 的 呢-yes , madam . which country do you want ?-0.389
+33018-我 来 给 您 拿 点儿 什么 喝 的 好 吗-could i get you something to drink ?-0.389
+35605-你 认为 我 应 买 件 什么 东西 作为 纪念 呢-what article do you think i should get as a souvenir ?-0.389
+39599-对 不 起  您 能 告诉 我 是 什么 问题 吗-excuse me , but could you tell me what the trouble is ?-0.389
+39600-对 不 起  您 能 告诉 我 是 什么 问题 吗-excuse me , but could you tell me what the trouble is ?-0.389
+39760-小姐  别 的 客人 想 跟 您 共用 这 张 桌子-some other guests wish to join this table , miss .-0.389
+39853-有 什么 事  先生  我 能 为 您 做 点 什么-what &apos;s the problem , sir ? can i be of assistance ?-0.389
+40718-A 餐 附有 饭 或 凉面  您 要 哪 一 种-the &quot; a &quot; course comes with rice or chilled noodles . which would you prefer ?-0.389
+1234-你 要 喝 些 什么 吗-would you like something to drink ?-0.388
+1885-您 有 行李 要 托运 吗-do you have any baggage to check ?-0.388
+2098-请 问 您 叫 什么 名字-what &apos;s your name , please ?-0.388
+2174-请 问 您 叫 什么 名字-may i have you name , please ?-0.388
+4055-那 我 就 决定 租 了  我 还 要 买 个 保险-i &apos;d like to go ahead and get insurance too , then .-0.388
+4939-这 件 东西 您 要 交税-you &apos;ll have to pay duty on it .-0.388
+5667-对 不 起  先生  您 能 告诉 我 火车站 在 什么 地方 吗-i beg your pardon , sir , but could you tell me where the railway station is ?-0.388
+5944-对 不 起  请 您 告诉 我 邮局 在 什么 地方 好 吗-excuse me . could you tell me where the post office is ?-0.388
+6570-您 早  有 什么 事 吗-good morning ! what can i do for you ?-0.388
+6714-按照 我们 的 规定  您 要 用 外汇券 按 国际 票价 购票-according to our regulations , you are to pay foreign exchange certificates for your ticket in international fare .-0.388
+6787-您 要 头等舱 还 是 经济舱-first class or economy class ?-0.388
+6821-您 要 单程票 还 是 来回票-you want to buy a single fare or round trip ticket ?-0.388
+6823-您 要 软座  硬卧 还是 软卧-would you like a soft seat , a hard-berth or a soft-berth ?-0.388
+7245-您 好  要 预订 船票 吗-good morning . what can i do for you ?-0.388
+7344-您 还 等 什么 人 吗-are you expecting anyone ?-0.388
+7426-您 还 等 什么 人 吗-are you expecting anyone ?-0.388
+7522-你们 要 喝 点 什么 吗-would you like something to drink ?-0.388
+7566-请 您 喝 好  您 有 什么 吩咐 我 会 随时 来 的-enjoy yourself . i &apos;ll be with you if you have any instructions .-0.388
+7808-您 使用 的 是 什么 卡-what kind of card do you have ?-0.388
+8118-还 要 点别 的 什么 吗-what else do you want ?-0.388
+8294-您 要 订餐 位 吗  先生-would you like to reserve a table , sir ?-0.388
+8354-格雷戈里 夫人  您 什么 时候 光临-when would you like your table , ms. gregory ?-0.388
+8650-请 问 您 叫 什么 名字-may i have your name , please ?-0.388
+9005-对 不 起  您 说 什么-i beg your pardon .-0.388
+9928-您 点 的 是 什么 菜-what was your order ?-0.388
+10011-要 的  你 看 什么 汤好-yes , what sup do you recommend ?-0.388
+10016-是 的  一定 会 的  要 米饭  面条 或是 馒头 什么 的 吗-yes , it certainly will . would you like to eat rice , noodles or steamed bread with your dishes ?-0.388
+10020-还 要 点别 的 什么 吗-what else would you like to order ?-0.388
+10076-我 相信 您 一定 会 喜欢 我们 做 的 牛排  要 色拉 吗-i &apos;m sure you &apos;ll enjoy our steak . would you lie some salad ?-0.388
+10354-您 要 哪 一 种 汤-what kind of soup would you like to order ?-0.388
+10644-您 要 不 要 看看 食谱-would you like to take a look at the menu ?-0.388
+10794-您 决定 了 吃 什么 吗-have you decided on something ?-0.388
+10837-您 要 选用 酒 吗  先生-would you like to choose a wine , sir ?-0.388
+10913-您 想 先 喝 什么 果汁-what sort of fruit juice would you like to start with ?-0.388
+11081-我们 提供 火煺 或 腌肉 夹 蛋  您 要 哪 一 种-we serve ham or bacon with your eggs.which would you prefer ?-0.388
+11356-我们 提供 火腿 或 腌肉 夹 蛋  您 要 哪 一 种-we serve ham or bacon with your eggs . which would you prefer ?-0.388
+11378-您 要 不 要 点 饮料-would you like anything to drink ?-0.388
+11449-您 要 看 甜点 菜单 吗-may i show you the dessert menu ?-0.388
+11493-您 要 中餐 还 是 西餐-which would you prefer , chinese or western ?-0.388
+11664-点菜 前 您 二 位 要 不 要 来 点儿 饮料  先生-do you care for anything to drink before ordering , sir ?-0.388
+11757-您 要 茶 还 是 咖啡-would you prefer tea or coffee ?-0.388
+11921-您 现在 要 点菜 了 吗-may i take your order now ?-0.388
+12082-您 现在 要 点菜 吗  先生-are you ready to order now , sir ?-0.388
+12166-如果 您 一定 要 我 喝  我 就 再 喝 一 杯-i &apos;ll have another cup if you insist .-0.388
+12167-我 知道 您 酒量 大  因此  我 要 再 给 您 斟点儿-i know you can hold your liquor , so i &apos;ll get you some more .-0.388
+12349-您 要 午餐 的 菜单 吗-may i show you our lunch menu ?-0.388
+12423-你 要 喝 点 什么 吗-what do you want to drink ?-0.388
+12438-张 小姐  欢迎 您 明天 光临-we will be expecting you tomorrow , ms. chang .-0.388
+12611-您 想要 些 什么 水果 呢-what kinds of fruit would you like to have ?-0.388
+13022-您 要 茶 还 是 咖啡-which would you prefer , tea or coffee ?-0.388
+14031-您 想 买 双 网球鞋 吗-do you want some tennis shoes ?-0.388
+14034-不  我 要 买 双 拖鞋 -- 就 像 那 个 样子 的-no . i &apos;d like to buy some carpet slippers - like those .-0.388
+14919-怀特 先生  您 在 业余 时间 通常 都 做 些 什么 呢-what do you usually do in your spare time , mr. white ?-0.388
+20418-如果 您 还 要 问路 的话  您 会 在 那里 再 找到 服务台-you &apos;ll also find a reception desk there if you need any more directions .-0.388
+21528-您 最 欣赏 的 是 什么-what did you enjoy most ?-0.388
+22685-您 的 问题 是 什么 呢-what seems to be the problem ?-0.388
+22734-您 还 要 别 的 吗-do you have anything else you want ?-0.388
+23236-您 愿意 买 哪 一 种-which do you prefer ?-0.388
+23341-如果 您 喜欢 留兰香型 的  您 可以 买 “ 蓝天 ” 牌 牙膏-if you like the scent of spearmint , you may take the &quot; blue sky &quot; tooth paste .-0.388
+23815-我 是 要 给 我 的 侄子 和 侄女 买 些 玩具-i do have to buy some toys for my nieces and nephews .-0.388
+23937-但 我 买鞋 的话  总 要 买 小 一 个 码 的-but i always buy my shoes a size smaller .-0.388
+23969-我 要 买  总共 多少 钱-i &apos;ll take it . how much are they altogether ?-0.388
+24423-我 要 买 这 本 书-i &apos;ll take this book , please .-0.388
+24789-您 还 要 别的 东西 吗-anything else ?-0.388
+24830-不 知 您 给 谁 买-i wonder whom you are buying for ?-0.388
+24833-我们 正好 有 您 想 买 的 : 安怡 高 钙 奶粉-we have the very thing you want : anlene hi-calcium milk powder .-0.388
+25368-您 要 哪 一 种  夫人-which do you prefer , madam ?-0.388
+25512-我 要 买 一些 东西 送礼-i &apos;m looking for something to give as a present .-0.388
+25769-还 要 其他 什么 东西 吗-is there anything else you want ?-0.388
+26019-我 女儿 要 我 给 她 买 一 瓶 真正 的 美国 香水-my daughter &apos;s asked me to buy her a typical american perfume .-0.388
+26051-还 要 买 点别 的 吗-anything else ?-0.388
+26507-谢谢  这 是 您 要 的 人民币  按 现行 汇率 是 1234 元-thank you . here is the renminbi you wanted . that &apos;s 1243 at the current exchange rate .-0.388
+26512-您 持有 的 是 什么 货币-what currency do you have ?-0.388
+27119-我 能 为 您 做 什么-can i help you ?-0.388
+27368-您 好  要 我 帮忙 吗-hello , can i help you ?-0.388
+27384-我 会 帮 您 叫 部车  您 要 直接 到 机场 吗-i &apos;ll get a taxi for you . are you going directly to the airport ?-0.388
+27544-请 稍等  您 叫 什么 名字-please wait a moment . what &apos;s your name ?-0.388
+27853-传真 您 想 什么 时候 发-when do you expect to have it faxed ?-0.388
+28216-您 要 的 蛋 怎样 煎法-how would you like us to cook your eggs ?-0.388
+29972-这 要 看 是 什么 忙-it depends on what it is .-0.388
+30118-你 要 留 什么 口信 吗-would you care to leave a message ?-0.388
+30866-您 愿意 接听 何艳 小姐 打来 的 由 您 付款 的 电话 吗-will you accept a collect call from miss yan he from china ?-0.388
+31990-您 想 在 什么 时间 呢-what time would you like it ?-0.388
+33325-您 想 理成 什么 式样 的-how would you like it cut ?-0.388
+34334-您 有 行李 要 托运 吗-do you have any baggage to check ?-0.388
+34420-您 要 坐 头等舱 还是 公务舱-would you like to go first class or business class ?-0.388
+35531-您 要 托运 几 件 行李-how many pieces of luggage are you going to check ?-0.388
+36127-你 已经 坐 过 站 了  所以 你 要 买 过 站 车票-you have gone too far for your ticket so you must pay an excess fare .-0.388
+36622-这儿 是 古德 出租车 公司  我 能 为 您 做 点 什么-this is good taxi company , can i help you ?-0.388
+36637-您 现在 就 要 车 吗-do you want the car now ?-0.388
+38014-您 要 牛奶 和 糖 吗-with cream and sugar ?-0.388
+39592-您 要 喝 汤 吗  女士-do you want any soup , madam ?-0.388
+39850-您 想 吃 点 什么  先生-what will you have , madam ?-0.388
+39857-您 喜欢 坐 在 什么 地方-where would you like to sit ?-0.388
+39866-先生  请 问 您 的 饮料 是 要 加冰  还是 不 要 加冰-with or without ice , please , sir ?-0.388
+39875-您 要 不 要 吃点 菠萝-would you like some pineapples ?-0.388
+39880-您 要 不 要 吃点 荔枝-would you like to have some lychees ?-0.388
+40075-您 要 来 点儿 咖啡 吗-would you like some coffee ?-0.388
+40333-趁 您 等 着  是 不 是 在 休息厅 喝 点 什么-would you care to have a drink in the lounge while you wait ?-0.388
+40972-您 想 开始 先 来 什么-what would you like to begin with ?-0.388
+41190-你们 要 喝 点 什么 吗-would you like something to drink ?-0.388
+41230-你 要 点 些 什么 菜-what would you like to order ?-0.388
+41381-决定 要 点 什么 了 吗-may i take your order ?-0.388
+41413-您 决定 吃 什么 了 吗-have you decided on anything ?-0.388
+41453-您 喜欢 吃 什么 开胃品 呢-what would you like for your appetizer ?-0.388
+41486-您 要 瓶装 啤酒 还是 生啤酒-would you like bottled or draught beer ?-0.388
+41657-我们 提供 火腿 或 腌肉 夹 蛋  您 要 哪 一 种-we serve ham or bacon with your eggs . which would you prefer ?-0.388
+41673-您 想 喝 点 什么 吗-would you like something to drink ?-0.388
+41833-您 要 不 要 开胃菜 下酒-would you like any appetizers with your drinks ?-0.388
+43896-我 要 去 买 个 篮球-i &apos;m going to buy a basketball .-0.388
+44459-你 建议 羽毛球 运动员 还 要 采用 其他 什么 形式 的 练习-what other forms of exercise do you recommend for the badminton player ?-0.388
+46924-如果 您 没有 其他 事  我 现在 要 去 整理 发票 了-if you don &apos;t need me for anything else , i &apos;ll take care of them now .-0.388
+49507-您 要 他们 的 电话 吗-would you like their telephone numbers ?-0.388
+49542-我们 老板 想 知道 您 要 花 多久 的 时间 来 修理-the boss would like to know how long it will take you to make the repairs .-0.388
+49634-您 可否 留 个 字条 给 他 说明 您 要 谈 的 事-would you like to write a note to him on the matter you wish to see him about ?-0.388
+49636-弗伦奇 先生 是 想 见 您  但 他 要 到 下午 才 有空-mr. french would like to meet you , but he &apos;ll be busy until this afternoon .-0.388
+49840-您 要 在 这儿 待 多久-how long are you going to stay here ?-0.388
+50755-如果 您 改变 了 主意  请 不 要 客气 打 电话 给 我们-if you change your mind , do not hesitate to give us a call .-0.388
+51124-如果 您 还 有 其他 什么 需要  别 客气 请 与 我们 联系-if there is anything else you need , do not hesitate to contact us .-0.388
+51444-您 要 找 别人 说话 吗-is there anyone else you would like to talk to ?-0.388
+51466-请 给 我们 参考 一下 买 哪 种 股票 什么 价钱 才 合算-please give us suggestions for a good price to purchase that stock at .-0.388
+51997-您 持有 的 是 什么 货币-what kind of currency have you got ?-0.388
+52063-您 还 要 别 的 吗-is there anything else that you want ?-0.388
+231-如果 您 要 在 M 下车  我 建议 您 乘坐 N 次 特快 车-if you want to get off the train at m , i suggest you take the express train no . n.-0.387
+581-您 的 表 是 什么 牌 的-what is the brand of your watch ?-0.387
+2418-您 要 订下 一 班 飞机 吗-shall i make another reservation for you ?-0.387
+3208-您 愿意 要 一等舱 还 是 经济舱-will that be first class or economy class ?-0.387
+4235-还 有 一 个 问题  如果 买 全 保 会 有 什么 分别 呢-one last question . what difference does it make if i get full insurance coverage ?-0.387
+5183-您 来 中国 的 目的 是 什么-what &apos;s your purpose of coming to china ?-0.387
+5269-您 此 行 的 目的 是 什么-what is the purpose of your visit ?-0.387
+5539-我 要 带 什么 东西 去 吗-and should i bring any thing ?-0.387
+5970-我 能 帮 您 什么 忙 吗-can i help you ?-0.387
+6708-您 要 非 吸烟车厢 的 票 吗-do you want a non-smoker ?-0.387
+7618-您 的 牛排 要 几 分 熟-how would you like your steak ?-0.387
+7923-您 不 要 其它 东西 了 吗-wouldn &apos;t you like anything else ?-0.387
+8223-您 今天 的 早餐 需要 什么 呢-what would you like for your breakfast ?-0.387
+8371-史密斯 先生  您 打算 什么 时候 来-at what time will you come , mr. smith ?-0.387
+8542-早晨 好  您 有 什么 事 吗-good morning . what can i do for you ?-0.387
+8820-请 问 您 叫 什么 名字  先生-may i have your name , sir , please ?-0.387
+9498-您 还 需要 别 的 什么 呢-do you need anything else ?-0.387
+9735-我 能 为 您 效劳 什么 吗-what can i do for you ?-0.387
+9946-来 啦  您 有 什么 事  先生-yes , what can i do for you , sir ?-0.387
+10311-先生  你们 的 色拉 要 什么 调料-what kind of dressing would you like on the salad , sir ?-0.387
+10439-您 的 面包 要 涂 黄油 吗-would you like your bread with butter on it ?-0.387
+10579-您 要 现在 就 用 咖啡 吗-would you like your coffee now ?-0.387
+10706-如果 还 要 什么  我们 再 点-if we need something more , we &apos;ll order later .-0.387
+11158-您 要 看 甜点 的 菜单 吗-may i show you the dessert menu ?-0.387
+11189-夫人 要 香槟 鸡尾酒  您 要 没有 甜味 的 雪莉酒  请 稍 等 一会儿-a champagne cocktail for madam and a dry sherry for you . just a moment , please .-0.387
+11198-请 问 你 要 什么 牌子 的-which brand would you prefer ?-0.387
+11354-您 点 的 蛋 要 怎样 煎-how would you like us to cook your eggs ?-0.387
+11373-您 决定 点 什么 茶 了 吗-have you decided on something ?-0.387
+11736-要  你们 有 些 什么 汤 呢-yes , i don &apos;t know what soup you have .-0.387
+11744-您 要 不 要 看 早餐 菜单-may i show you our breakfast menu ?-0.387
+13271-您 儿子 也 要 来 一碟 吗-would your son also like to have one dish ?-0.387
+14011-是 的  呃  小姐  您 看 过 今天 报纸 上 的 奥运 乒乓球赛 吗-yes . er , have you read about the olympic games of table tennis in today &apos;s newspaper , miss ?-0.387
+17475-只是 想 再次 提醒 您  我们 要 谈谈 家庭 安全 产口线 的 续约 问题-just to refresh your memory , we &apos;ll be discussing the renewal of our contract with the home safety product line .-0.387
+17941-你 有 没 有 介绍 您 的 公司 产品 的 目录 或 别 的 什么-do you have a catalogue or something that tells abut your company ?-0.387
+18591-因此  我们 不 理解 为什么 要 付 更 多 的 钱 买 你 的 女衫-so , we don &apos;t see why we should pay more for your blouses .-0.387
+19251-如果 您 要 小 一点 的 引擎 的话  这些 机型 您 认为 如何 呢-but if you want a smaller engine , what about these models ?-0.387
+19387-对 了  威尔森 先生  您 对 未来 流行 的 趋势 有 什么 高见 吗-by the way , mr. wilson , do you have an estimate about the trend in fashions ?-0.387
+19593-换 句 话 说  无论 价格 如何 变化  人们 要 买 还 得 买-in other words , whatever the prices , people will just have to buy them .-0.387
+21488-可以  我 能 帮 您 做 什么-yes , what can i do for you ?-0.387
+22861-我 给 您 开点镇 疼 药片  您 要 休息 三四 天  不 能 提 重物-i &apos;ll give you a prescription for some pills to relieve the pain , and you should stay off work for 3 or 4 days , and not lift any heavy objects .-0.387
+23067-您 不 会 感觉 到 什么 的-you won &apos;t feel a thing .-0.387
+23258-您 想 买 一 把 筷子 吗-would you like to buy a bunch of chopsticks ?-0.387
+23660-我 要 买 些 葡萄干 夹心 点心-i &apos;d like to buy some raisin cookies , please .-0.387
+23705-噢  是 偏头痛  我们 有 很多 种 药  不 知 您 要 那 一 种-oh , it &apos;s migraine . we have several varieties of medicine for that . i don &apos;t know which kind you need .-0.387
+23744-还 要 买 其它 的 东西 吗-do you want anything else ?-0.387
+23960-哦  有 这么 大  我 要 买-oh , it &apos;s so spacious . i &apos;ll buy it .-0.387
+23985-那 我 要 在 中国 买到 绿色 的 帽子 是 没有 什么 希望 的 了-maybe i have little hope to avail myself of a green hat in china .-0.387
+24347-我 能 为 您 做 什么 吗-what can i do for you ?-0.387
+24564-请 问 您 通用 什么 颜色 的-may i know what color you usually wear ?-0.387
+25076-您 要 看 在 眼里 这些 吗-would you like to take a look at these ?-0.387
+26076-您 不 现在 就 买 下来 吗-won &apos;t you buy it now ?-0.387
+26682-您 要 多 大 面值 的 钞票-what denominations would you like ?-0.387
+26721-请 您 告诉 我 储蓄 存款 与 支票 存款 有 什么 不同 好 吗-excuse me , can you tell me the difference between a savings account and a checking account ?-0.387
+26851-先生  您 打算 什么 时候 离 店-when will you leave , sir ?-0.387
+26867-如果 您 真的 要 我们 把 您 唤醒 的话  您 可以 拨打 21 告诉 我们-if tell us .-0.387
+27698-还 能 为 您 做 什么 呢-what else can i do for you ?-0.387
+27990-好 的  您 要 哪 一 种 沙拉 佐料  法式 还是 千 岛 式-o.k.which kind of salad dressing would you prefer , french or thousand island ?-0.387
+29329-先生  我们 有 迷你型  四分之一 和 半瓶装 的  请 问 您 要 哪 一 种-we sell mini , quarter and half bottles , sir.which would you prefer ?-0.387
+30047-斯坦纳 先生  您 什么 时间 方便 呢-when would be a convenient time for you , mr. steiner ?-0.387
+30517-您 要 不 要 留 个 话-would you like to leave a message ?-0.387
+30756-您 要 打 的 分机号 是 多少-what &apos;s the extension number ?-0.387
+33553-在 这 一 栏 里  您 要 写上 包裹 里 每 一 件 东西-and in this column , you write down everything in the parcel .-0.387
+34492-能 为 您 帮 什么 忙 吗-may i help you ?-0.387
+34992-如果 您 要 在 去 上海 途中 到 天津 游览  您 可以 先 去 天津-if you want to visit tianjin on your way to shanghai , you may go to tianjin first .-0.387
+35365-您 要 不 要 在 那里 下车-will you get off the train there ?-0.387
+35804-您 的 小孩 要 个 座位 吗-do you want to get a seat for your child ?-0.387
+37436-我 要 在 什么 地方 换车 吗-do i have to change trains any where ?-0.387
+37509-可以  不过 您 应该 补票  也就是说  你 要 付 所 延长 路程 的 票价-yes , but you should pay excess fare , that is you have to pay for the extended distance .-0.387
+37514-您 得 另 买 一 张 票-you have to buy another ticket .-0.387
+37670-您 喜欢 喝 什么  白兰地 还是 啤酒-which do you prefer , brandy or beer ?-0.387
+38216-您 来 这里 的 目的 是 什么-what &apos;s the purpose of your visit ?-0.387
+38217-您 准备 来 此 从事 什么 活动-what are you going to do here ?-0.387
+39594-您 是 现在 要 还是 饭后 要-do you want it now or after your dinner ?-0.387
+39607-您 要 订 多少 人 的 席位-for how many people do you want your table ?-0.387
+39625-您 要 不 要 尝尝 北京 烤鸭-how about trying the roast beijing duck ?-0.387
+39859-您 要 先 上 哪 道 菜-which dishes would you like to be served first ?-0.387
+39884-您 要 不 要 尝尝 苹果 馅饼-would you like to try some apple pies ?-0.387
+40101-您 要 不 要 再 来 一点-would you like some more . ?-0.387
+40956-您 决定 吃 什么 菜 了 吗-have you decided what you &apos;d like ?-0.387
+41128-您 要 看 甜点 的 菜单 吗-may i show you the dessert menu ?-0.387
+41158-先生  我们 供应迷您型  四分之一 和 半瓶装 的  请 问 您 要 哪 一 种-we sell mini , quarter and half bottles , sir . which would you prefer ?-0.387
+41340-我 给 您 拿 什么 饮料 呢-what can i get you to drink ?-0.387
+41455-您 主菜 喜欢 配 些 什么 呢-what would you like to go with your main course ?-0.387
+41655-您 点 的 蛋 要 怎样 煎-how would you like us to cook your eggs ?-0.387
+42308-你 想好 了 要 什么 了 吗-do you know what you are going to order yet ?-0.387
+42320-您 要 色拉 还是 要 烤 土豆-would you like a salad or a baked potato ?-0.387
+46881-如果 您 要 的话  我 会 将 您 的 演讲 概要 打在 摘要 卡片 上-i could type an outline of your speech on note cards if you would like .-0.387
+46972-如果 您 同意 这 电报 的 内容  我 要 叫 操作员 立刻 发 出去-if the wording on this telegram message meets your approval , i &apos;ll call the operator and send it immediately .-0.387
+49337-我 也许 能 帮 您 什么 忙-perhaps i can help .-0.387
+49492-您 要 咖啡  红茶 还是 绿 茶-would you prefer coffee , tea or green tea ?-0.387
+49498-您 要 找 谁 个别 谈 吗-is there anyone in particular you &apos;d like to talk to ?-0.387
+49587-我 会 说 一点 英文  您 要 我 为 您 翻译 那 个 吗-i can speak a little english . would you like me to translate that for you ?-0.387
+49620-今天 您 是 开车 来 的  还是 您 要 我 为 您 叫 计程车-did you drive here today , or would you like me to call a taxi for you ?-0.387
+51118-您 要 用 筷子 还 是 刀叉-would you prefer to use chopsticks or a knife and fork ?-0.387
+51452-您 要 见 他 有 何 贵干-what would you like to meet him about ?-0.387
+241-到达 您 的 目的地 乘 特快 客车 比 乘 直 快 客车 要 少 花 些 时间-it takes you less time to get to your destination by express passenger train than by fast through passenger train .-0.386
+400-您 是 在 什么 时候  什么 地方 丢失 的-when and where did you lose it ?-0.386
+554-人们 常 说  如果 您 到 过 黄山  别的山 就 没有 什么 可 看 的 了-it is often said if you have been to mount huangshan , it is not worth climbing all the other mountains .-0.386
+803-现在  您 要 不 要 把 椅子 往后 推 一点  这样 会 让 您 舒服 些-until then , why don &apos;t you push back your seat a little ; it will help you to relax .-0.386
+1836-你 逮捕 我 之前  一定 要 对 我 说 清楚  我 到底 犯 了 什么 法-before you arrest me , you must tell me exactly how i happen to have broken the law !-0.386
+1854-您 要 吸烟区 或 非 吸烟区 的 座位-would you like a seat in the smoking or no-smoking section ?-0.386
+1951-嗯  首先  您 有 多少 行李 要 寄放-well , first , how many pieces of luggage have you got ?-0.386
+2281-您 是 不 是 愿意 要 美金 呢-would you prefer it in american dollars ?-0.386
+2639-您 能 告诉 我 什么 时候 下车 吗-could you tell me when to get off ?-0.386
+3174-好 的  先生  您 想 什么 时候 走-very good , sir.when do you want to travel ?-0.386
+4051-要 租车 可以 向 你 买 保险 吗-do you offer insurance on this rental car ?-0.386
+4112-您 要 用 万事达卡 或 现金 付 保险金-do you want to pay for the deposit with your master card or cash ?-0.386
+6442-列车 马上 就 要 开动 了  但是 我 的 朋友 还 在 站台 商店 买 东西-the train is leaving in a minute , but my friend is still buying things at the platform store .-0.386
+6636-我 要 买 张 星期六 到 巴黎 的 火车票-i &apos;d like to buy two train tickets to paris for this saturday .-0.386
+6818-那 您 可以 乘 11 点 40 的 那 趟 车  只不过 要 多 停 几 站-you may take the 11 : 40 train then . there are more stops , though .-0.386
+7167-李 小姐  你 要 知道  英国 已经 有 那么 多 移民  移民局 必须 采取 谨慎 的 态度-but , miss li , with so many immigrants in britain already , the immigration office has to take precautions , you know .-0.386
+7549-您 要 哪 一 种  加冰 还是 不 加冰-how would you like it , straight or on the rock ?-0.386
+8417-济慈 先生  您 需要 什么 时候 准备 好 餐台-mr. keats . when do you like your table available ?-0.386
+8548-您 要 订 中餐 还 是 西餐 呢-and do you favour chinese food or western food ?-0.386
+8617-那 好  先生  请 问 您 叫 什么 名字-that &apos;ll be all right , sir . what name , please ?-0.386
+8774-我 想 问 一下 您 预订 的 8:30 的 4 人 台 有 什么 变化 吗-you have booked a table for four at 8 : 30 . has there been any change ?-0.386
+9019-您 认为 我们 要 等 多 长 时间 呢-how long do you think we &apos;ll have to wait ?-0.386
+9206-您 要 不 要 来 一 份 开胃酒-would you care for an aperitif ?-0.386
+9667-很 高兴 您 感到 满意  不过 我们 的 工作 还 有 什么 需要 改进 的 吗-we &apos;re glad to know that you are satisfied with it . but is there anything we should do to improve our work ?-0.386
+10062-您 愿意 要 角落 里 那 张 桌子 吗-but would you like to take the one in the corner ?-0.386
+10175-您 是否 先 喝 些 什么  然后 再 点菜-would you like to have a drink before you order ?-0.386
+10369-您 决定 点 什么 菜 了 吗  先生-have you decided on something , sir ?-0.386
+10801-请 问 您 要 哪 一 种 色拉 作料  法式  千岛 还 是 油 醋 作料-which kind of salad dressing would you prefer , french , thousand island or oil and vinegar ?-0.386
+10852-您 今天 的 午餐 想 吃 点 什么-what would you care to order for your lunch today ?-0.386
+11098-您 要 不 要 看 早点 的 菜单-may i show you our breakfast menu ?-0.386
+11105-您 的 吐司 要 稍微 烤 一下  还是 烤焦-and your toast , ma &apos;am , light or dark ?-0.386
+11107-您 的 茶 要 加 柠檬 还 是 牛奶-would you prefer your tea with lemon or with milk ?-0.386
+11213-您 要 大碗 的 还 是 小 碗 的-would you like large or small portions ?-0.386
+11380-您 是 现在 就 要 咖啡  还是 等 会儿-would you like your coffee now or later ?-0.386
+11576-您 是 要 大份 的  还 是 小份 的-would you like large or small portions ?-0.386
+11917-您 要 不 要 看看 早餐 的 菜单-may i show you our breakfast menu ?-0.386
+11924-您 是 要 清 咖啡 还是 加奶 咖啡-would you like your coffee black or white ?-0.386
+12088-您 的 牛排 要 几 分 熟 的-how would you like your steak done ?-0.386
+12099-您 要 瓶装 的 还 是 罐装 的-do you want it bottled or canned ?-0.386
+12361-请 问 您 要 哪 一 种 沙拉 佐料  法式  千岛 还是 由 醋 佐料 呢-which kind of salad dressing would you prefer , french , thousand island or oil and vinegar ?-0.386
+13044-告诉 柜台 后面 的 人 你 要 什么-tell me man behind the counter what you want .-0.386
+13203-您 是 要 点菜 用餐 还是 吃 份饭-are you going to dine a la carte or have the set lunch ?-0.386
+15209-您 一定 要 努力 减轻 体重 才 好-you must try your best to reduce weight .-0.386
+16931-啊  还 有 一 个 月 就 要 开 田径 运动会 了  你报 了 什么 项目 吗-oh , the spring track and field meet will be held a month from now. have you entered for any events ?-0.386
+17469-Waltzon 小姐 在  我 帮 您 接 过去-ms. waltzon is in , mr. yu . i &apos;ll put you through .-0.386
+17873-戴维斯 先生  您 刚才 参观 了 我们 的 展览室  什么 让 您 觉得 印象 最 深 呢-mr. davis , can you tell me what impresses most when you visited our showroom just now ?-0.386
+18502-哦  我 认为 您 不 应 只 考虑 价格  还 要 看 它 的 生产 效率-well , the way i think , you shouldn &apos;t consider the price only , but also its efficiency .-0.386
+18843-我 一定 要 得到 我们 想 买 的 那些 机器  而且 它们 必须 处于 良好 的 状态-i want to make double sure that the machines are the ones we want to buy and that they are in good shape .-0.386
+20132-安藤 先生  既然 今天 没有 其他 事 要 做  您 要 审阅 并 更新 数据库 吗-mr. ando , since there isn &apos;t much else to do today , would you go through the database and update it ?-0.386
+20177-那么  如 查 您 有 其他 事 要 我 做  今天 我 可以 早上 点 午休 吗-then , if there &apos;s nothing else you would like me to do , could i take my lunch break a little early today ?-0.386
+20258-您 可以 在 什么 时候 开始 工作 呢-when can you start ?-0.386
+20261-请 您 下 星期一 上午 再 来  到时 我 会 告诉 您  我们 给 您 指定 什么 工作-please come again next monday morning , and i &apos;ll let you know what job we &apos;ll assign you .-0.386
+20470-您 要 喝 咖啡  红茶 还是 绿 茶-would you prefer coffee , tea , or green tea ?-0.386
+20710-请 别 介意 我 直 说  如果 您 要 好 的 质量  就 得 付出 代价-no offense , but if you want good quality , you have to pay for it .-0.386
+22293-您 一定 要 努力 减轻 体重 才 好-you must try your best to reduce weight .-0.386
+22830-您 提过 或 搬运 过 什么 重 东西 吗-have you picked up or moved anything heavy ?-0.386
+23814-您 是否 给 家里 的 孩子 买 一 部-would you like to get one for the children at home ?-0.386
+23823-她 已经 有 许多 玩具 娃娃 了  这 次 我 要 给 她 买 些 别的 东西-she &apos;s already got plenty of dolls . i &apos;d like to give her something different this time .-0.386
+23842-但 我 不 知道 买 什么 好  因为 种类 太 多 了  我 都 挑花 了 眼-but i have the faintest idea of what to buy since there are so many sorts to choose from .-0.386
+24122-我 在 给 我 女儿 寻找 一 份 生日 礼物  但 我 定 不 下来 买 什么-i &apos;m looking for a birthday present for my daughter , but i haven &apos;t made up my mind .-0.386
+24247-噢  我 想 买 宝石 坠子  串珠 项链 或是 手镯 什么 的  但 还 没 定 下来-well , anyway , i &apos;m thinking of buying some gemstone pendant , bead necklace or bracelet . haven &apos;t decided yet .-0.386
+24391-午安  我 能 为 您 效劳 什么 吗-good afternoon . is there anything i can do for you ?-0.386
+25060-您 要 看 一些 杯子 和 碟子 吗-would you like to see some cups and saucers ?-0.386
+25809-每 一 把 人民币 15 元  4 把 60 元  您 还 买 些 别 的 吗-fifteen yuan rmb for each , so sixty yuan for four , is there anything else you are interested in ?-0.386
+25953-我 建议 您 买 些 刺绣  很 便于 携带-i suggest you buy some embroidery . it &apos;s easy to carry .-0.386
+26912-您 要 有 闭路 电视 的 房间 吗-would you like a room with a cable tv ?-0.386
+27068-您 能 告诉 我 要 往 哪里 走 吗-could you point me in the right direction ?-0.386
+27431-先生  谢谢 您 的 等候  名单 上 没有 他 的 名字  他 应该 什么 时候 到-thank you for waiting , sir . i &apos;m afraid his name does not appear on the list . when is he due to arrive ?-0.386
+27737-我 能 为 您 做 什么 事 吗-can i do anything for you ?-0.386
+28015-您 的 蛋 要 加 火腿 还是 腌肉-would you like ham or bacon with your egg ?-0.386
+28036-好 的  先生  但是 您 的 晚餐 恐怕 要 大约 四十 到 五十 分钟 才 能 送到-certainly , sir , but i &apos;m afraid your order will take about forty to fifty minutes to arrive .-0.386
+28189-您 需要 我们 什么 时候 把 您 唤醒 呢-at what time do you like us to wake you up ?-0.386
+28348-您 能 告诉 我 里面 有 什么 吗-could you tell me the contents of the purse ?-0.386
+28595-我 还 能 帮 您 什么 忙 吗-is there anything else i can help you with ?-0.386
+28978-女士  请 问 您 什么 时间 入住 本 店-when for , ma &apos;am ?-0.386
+29042-斯特华 先生  您 什么 时间 将 到达 呢-what time will you be arriving , mr.steward ?-0.386
+29322-您 要 不 要 叫 些 别的 东西-would you like to try something else ?-0.386
+31748-您 太 好 了  我 要 份 悉尼 地图-it &apos;s so kind of you . a map of sydney , please .-0.386
+31875-您 是 不 是 要 去 那里 呀-is that where you &apos;re going ?-0.386
+33074-您 还 有别 的 东西 要 洗 吗-anything else that you want to wash ?-0.386
+33186-您 要 不 要 把 胡子 刮 干净-would you like to have a close shave ?-0.386
+33742-下午 好  女士  可以 为 您 做 什么 吗-good afternoon , madam , can i help you ?-0.386
+33919-您 是 要 打 普通 电话  还是 加急 电话-which do you want , an ordinary call or an emergency call ?-0.386
+35331-您 看 起来 面色 苍白  要 好好 注意-you are looking quite pale , take good care of yourself .-0.386
+35475-您 带 的 行李 超重 了  您 要 付超重费-how much should i pay for my excess articles ?-0.386
+35669-您 想 买 单程票 还 是 往返 票-do you buy a single fare or a round trip ticket ?-0.386
+35810-您 免费 携带 的 小孩 不 能 单独 占用 座位  否则  您 要 购买 小孩 客票-the child you take with you free of charge can &apos;t occupy a seat alone , otherwise you &apos;ll have to get a child &apos;s ticket for him .-0.386
+35816-您 的 小孩 不 够 一 米 一 高  您 只 需 给 自己 买 一 张 卧铺票-your child is under 1.1 meters in height , so you only need to buy a berth ticket for yourself .-0.386
+36030-您 要 搭 几 日 几 点 的 飞机-what time and date would you like to make this flight ?-0.386
+37431-我 要 买 一 张 直达 A 的 车票-i want to buy a ticket through to a.-0.386
+37511-别 担心  您 可以 要求 乘坐 下 一 趟 车  但是 您 的 卧铺票 要 失效 了-don &apos;t worry , you may ask to take the next train , but your berth ticket will be invalid .-0.386
+38723-您 的 车 看 起来 是 什么 样子-what does your car look like ?-0.386
+39137-您 可以 一 次 多 买 些 铺币-you may buy many tokens at one time .-0.386
+39227-您 要 的 苏格兰 威士忌 要 放 冰块 吗-and how would you like your scotch , straight or on the rock ?-0.386
+39229-您 可以 等到 要 走 的 时候 再 付账-you can hold the payment of the bill until you decide to leave if you like .-0.386
+39278-您 要 的 苏格兰 威士忌 要 放 冰块 吗-and how would you like your scotch , straight or on the rock ?-0.386
+39284-您 还 要 喝 点 别 的 吗-would you like something else to drink ?-0.386
+39308-您 要 现在 端 饭来  还是 等 一下-would you like your rice now or later ?-0.386
+39573-我 可以 帮 您 什么 忙 吗  女士-can i be of any assistance , madam ?-0.386
+39628-您 点 的 鸡蛋 要 煮 几 分钟-how many minutes shall we boil your eggs ?-0.386
+39698-对 不 起  先生  我们 今天 人手 少  您 是 不 是 先 喝 点 什么-i &apos;m sorry , sir , we are short of help today . would you like to have a drink first ?-0.386
+39736-您 点 的 饮料 要 由 谁 付账 呢-on whose bill would you like me to put the drinks order ?-0.386
+39833-您 要 用 哪 一 种 秒票 付款-which denomination of bill will you be paying with ?-0.386
+39878-您 要 一 面 煎 黄 的 荷包蛋 吗-would you like your fried eggs sunny-side up ?-0.386
+39885-您 是 不 是 吃 点 别 的 什么-would you like to try something else ?-0.386
+39906-您 要 榻榻米 的 房间 还 是 坐 餐桌-would you like to sit in a &quot; tatami &quot; room or at a table ?-0.386
+40082-您 点 的 饮料 要 由 谁 付账 吗-on whose check would you like me to put the drinks order ?-0.386
+40295-您 想好 今晚 准备 喝 点 什么 吗-have you anything on mind what drinks you are going to have tonight ?-0.386
+40616-先生  对 不 起  我们 今天 人手 少  您 是 不 是 先 喝 点 什么-i &apos;m sorry , sir . we are short of help today . would you like to have a drink first ?-0.386
+40648-您 点 的 蛋 要 煮 几 分钟-how many minutes shall we boil your eggs ?-0.386
+40649-您 要 一 面 煎 黄 的 荷包蛋 吗-would you like your eggs sunny-side up ?-0.386
+40663-您 要 看 我们 蛋糕 的 种类 吗-would you like to see our cake selection ?-0.386
+40681-夫人  您 有 什么 特别 限定 的 饮食 吗-are you on a special diet , ma &apos;am ?-0.386
+41081-您 喜欢 要 点 辣酱油 蘸炸 牡蛎 吗-would you like a little worcestershire sauce with your fried oyster ?-0.386
+41423-抱歉  现在 不 是 生长 这 种菜 的 季节  您 是 不 是 吃 点 别 的 什么-i &apos; m afraid that this vegetable is not in season . would you like to try something else ?-0.386
+41441-您 点 的 排骨 要 多 大 火候  先生-how would you like your steak done , sir ?-0.386
+41806-您 要 用 哪 一 种 钞票 付款-which denomination of bill will you be paying with ?-0.386
+41849-那 要 看 你 喜欢 吃 什么 了-it all depends on what you &apos;d like to have .-0.386
+46879-您 要 我 速记 还是 用 录音带 录音-would you like me to take this in shorthand or record it on cassette tape ?-0.386
+46889-国内 信件 收件 是 在 三点  但 如 呆 您 要 的话  我 可 联络 私人 递送 公司-local mail pickup is at 3 : 00 , but if you prefer , i will contact a private delivery service .-0.386
+46893-先生  有 一 个 邮包 刚 寄到 是 给 您 的  要 我 拿到 您 的 办公室 吗-sir , a parcel has just arrived for you . shall i bring it to your office ?-0.386
+46899-这些 是 您 所 要 的 有关 布罗弟 案件 的 所有 论文  都 按 日期 编排-these are all the articles you requested on the brody case , arranged by date .-0.386
+46909-您 讲话 时 要 有 讲 台 吗-would you like a lectern for the presentation ?-0.386
+46939-小姐 这 是 你 要 的 证券 目录  你 用完 时 告诉 我  我 会 再 归档-here &apos;s the stock portfolio you requested ma &apos;am . let me know when you are finished and i will refile it .-0.386
+49361-您 能 告诉 我 找 他 什么 事 吗-could you tell me a little of what you want to see him about ?-0.386
+49485-您 等候 时  还 有 其他 要 代劳 吗-is there anything else i could do for you while you wait ?-0.386
+49517-林 先生  请 在 这里 随意 坐 一下  我 就 去 告诉 候特 先生 您 要 走 了-please make yourself comfortable here , mr. lynn , and i &apos;ll tell mr. holt you are ready to leave .-0.386
+49553-如果 您 能 告诉 我 您 在 审查 着 什么  我 会 找 出来 给 您-if you could tell me specifically what you would like to see for the audit , i &apos;ll take it out for you .-0.386
+49554-如果 您 以后 还 需要 什么 其他 东西  请 打 电话 来  我们 会 送到 市 税务局-if there is anything else you need later , please call and we will bring it down to the city tax office .-0.386
+50738-您 的 意思 是  您 要 我们 付款 时 一起 退回 发票 的 黄色联  而 我们 存留 蓝色联-if i understand you , you would like the yellow copy of the invoice returned with payment while we can keep the blue one .-0.386
+51097-如果 您 能 描述 一下 那 个 问题  我 会 斟酌 是否 要 人 去 看看-if you would describe the problem . i &apos;ll see if someone can take care of it .-0.386
+51411-午安  这里 是 波内勒 电子 工业  我 想 请 问 您 是否 要 出席 电阻器 会议-good afternoon , i &apos;m calling from bonelle electronics to inquire as to whether you will attend the resistors conference or not .-0.386
+2325-您 要 搭 哪 一 家 航空 公司 的 飞机-what airline are you going to fly with ?-0.385
+2454-王 先生  您 一路 给 了 我们 巨大 的 帮助  我们 要 向 您 表达 我们 最 诚挚 的 谢意-you have been a great help to us along the way , mr. wang . we &apos;d like to express our heart-felt gratitude to you .-0.385
+3231-您 要 不 要 订 这 次 航班 的 票-would you like to book a ticket for flight ?-0.385
+6693-我 要 买 两 张 明天 去 北京 的 特快 车票-i want to buy two express tickets for beijing tomorrow .-0.385
+6889-让 我 帮 您 把 这 张 票 退掉  重新 买 一 张 下 一 趟 到 B 去 的 车票-let me help you to have this ticket refunded and buy another one for the next train to b.-0.385
+7322-我 不 知道 要 什么  我 不 太 会 喝酒-i don &apos;t know what i want . i &apos;m not really a drinker .-0.385
+7356-您 的 威士 忌酒 要 加冰 还是 不 要 加冰泥-would you like your whisky with ice or without ice ?-0.385
+7498-我 不 知道 要 什么  我 不 太 会 喝酒-i don &apos;t know what i want . i &apos;m not really a drinker .-0.385
+10582-您 要 时 叫 我 一 声 就 行 了-just call me when you want it .-0.385
+10591-您 要 没有 甜味 的 还 是 有 甜味 的-dry or sweet ?-0.385
+11153-您 要 来 点 小 圆 面包 配 汤 吗-would you like rolls with your soup ?-0.385
+11195-您 要 不 要 叫点 利口酒 来 结束 这 顿 饭-would you like a liqueur to complete your meal ?-0.385
+11457-您 要 不 要 叫 点 酒 来 下 菜-would you like to order some wine with your meal ?-0.385
+11476-您 要 不 要 来 点 利口酒 来 结束 这 餐饭-would you like a liqueur to complete your meal ?-0.385
+12026-您 认为 这里 有 什么 具有 特色 的 主菜 呢-what would you recommend for the main course ?-0.385
+12041-您 要 哪 种 菜  是 红 茶 还是 绿 茶-which kind of tea would you prefer , black tea or green tea ?-0.385
+12297-祝 你们 下午 过 得 愉快  你们 想 要 什么-i wish you a nice afternoon , what would you like to order ?-0.385
+15747-顺便 问 一下  告诉 我 您 将来 的 打算  在 今后 的 5 年 中 您 将 做 什么-by the way , tell me about your future . what will you be doing in five years &apos; time ?-0.385
+17438-我 会 到 您 房间 去 的  您 是 要 在 那儿 等 我  或是 我们 在 楼下 大厅 见面-i &apos;ll come to your room . will you wait there , or shall we meet in the lobby ?-0.385
+19238-我 在 尚 未 了解 贵 公司 拥有 哪些 产品 和 决定 买 什么 之前  我 不 能够 先 决定 数量-i can &apos;t decide on quantities until i see what you have and what i can take .-0.385
+19510-今后 您 还 有 什么 细节 需要 了解  可以 找 我们 的 业务员 吴长标 先生 联系  也 可以 直接 找 我-you may contact mr. wu changbiao , our staff member for further detail , or talk to me directly , if you like .-0.385
+19681-您 想 喝 点 什么  是 茶  咖啡 还是 可乐-what do you like to drink , coffee , tea or cola ?-0.385
+19683-刘 小姐  您 一定 听说 过 我们 公司 吧 : 我们 是 英国 最 大 的 茶叶 进口商 之一-miss liu , you must have heard of our company-we are one of the leading tea importers britain .-0.385
+19733-您 想 用 什么 货物 来 换 我们 的 牛羊肉 呢-but what commodity do you have to exchange for our beef and mutton ?-0.385
+20192-您 要 我 用 电子 邮件 发 那 封信 吗-would you like me to send that letter as electronic mail ?-0.385
+22671-您 好  今天 能 帮 您 点 什么 忙 吗-hello there , can i help you with anything today ?-0.385
+23438-我 免费 送 您 一 个 有 小兔 的 钥匙链  因为 我们 有 “ 买 一 送 一 ” 的 规定-i &apos;ll give you a key chain with a small rabbit without charge . since we have the policy - - buying one , getting one free .-0.385
+23634-这 就 是 6 号 半 的  我 为 你 换 顶 7 号 的  您 太太 最 喜欢 什么 颜色-that &apos;s the size six and a half . i &apos;ll change a size seven for you . and which color does she like best ?-0.385
+24444-您 要 两 件 都 是 蓝色 条纹 的 吗-would you like both in blue stripes ?-0.385
+24584-您 想 买 进口 的 还 是 美国 产 的-are you interested in imported or america-made cars ?-0.385
+25838-不 用 着急  小姐  我 呆 会儿 再 为 您 服务-well , miss , take your time , i &apos;ll be with you soon ..-0.385
+26003-但 三 小时 后 我 就 要 上 飞机 了  恐怕 我 没有 足够 的 时间 买 东西 了-but i &apos;ll catch my plane in three hours . i &apos;m afraid i haven &apos;t got enough time to do the shopping .-0.385
+26770-您 随身 有 什么 东西 可以 证明 您 身份 的 吗-do you have something to identify you ?-0.385
+27579-如果 您 有 衣服 要 洗  只要 把 它 放 在 浴室 内 的 洗衣袋 里 就 行 了-if you &apos;ve got some laundry , simply leave it in the laundry bag in your bathroom .-0.385
+27652-那么 您 所 要 的 是 两 个 三明治 和 一 大 壶 咖啡  咖啡 不 加糖  不 加奶  要 非常 浓-so it &apos;s two sandwiches and a large pot of coffee . no sugar , no cream , straight coffee and very black .-0.385
+27674-通常 的 洗衣 量 您 得 付 1.5 美元  每 台 洗衣机 都 要 用 25 美分 的 硬币-the regular loads cost a dollar-fifty and each machine takes quarters .-0.385
+28466-是 的  前天 会议 结束 了  现在 有 了 大 的 空房  您 要 面朝山 的 还 是 面向 河 的-i see.the conference was over the day before yesterday . now we have larger rooms available . would you like a room facing the mountain or the river ?-0.385
+29217-您 是 要 临街 的 房间 呢 还 是 背街 的-do you prefer a room on the street or on the court ?-0.385
+31715-您 要 知道  鹿特丹 是 世界 最 大 的 海港-rotterdam is the world &apos;s largest seaport , you know .-0.385
+33827-您 要 发 哪 种 电报  普通 电 还是 加 急电-what kind of cable do you want to send , ordinary or urgent ?-0.385
+34497-您 要 二 等 票 还 是 一 等 票-how do you want fly , coach or first class ?-0.385
+34643-您 要 去 的 那 个 地方 在 第三 站 下车-your destination is at the third stop .-0.385
+34932-您 乘 直达 列车 到 那里 大约 要 45 个 小时-it takes you about forty-five hours to get there by through passenger train .-0.385
+34973-您 乘 特快 客车 到 那里 大约 要 22 小时-it takes you about twenty-two hours to get there by an express train .-0.385
+34997-如果 您 要 在 济南 观光  我 建议 您 乘坐 北京 开往 青岛 的 特快 车  这 次 车 在 济南 停站-if you want to visit jinan , i suggest you take the beijing-qingdao express train , which stops at jinan .-0.385
+34998-如果 您 要 在 济南 下车  您 可以 乘 北京 开往 上海 的 直快 客车  这 次 车 在 济南 停车-if you want to get down the train at jinan , you may take the beijing-shanghai fast through passenger train , which stops at jinan .-0.385
+35003-如果 您 要 在 去 上海 途中 游览 南京 和 苏州  我 建议 您 买到 南京 的 车票  不 要 买到 上海-if you want to visit nanjing and suzhou on the way to shanghai , it is better for you to book the ticket for nanjing instead of shanghai .-0.385
+35011-您 乘 特快 车 到 那里 大约 要 30 个 小时-it takes you about thirty hours to get there by express train .-0.385
+35085-您 乘 特快 车 到 那里 要 24 个 小时-it takes you twenty-four hours to get there by the express train .-0.385
+35086-您 乘 特快 车 到 那里 要 一 整 天 时间-it takes you exactly a day to get there by the express train .-0.385
+35173-请 您 从 “ 出站口 ” 进站  因为 你 要 接人-you may get into the station via the exit since you &apos;re going to meet someone .-0.385
+35502-如果 您 带 了 危险品 上车  造成 损失  您 要 负责-if you should bring hazardous articles into the train and cause damages , you would be responsible for the loss .-0.385
+35522-您 要 声明 您 所 托运 的 行李 的 价格 吗-do you want to declare the value of the luggage you have checked ?-0.385
+35813-您 要 给 您 可爱 的 女儿 搞 个 铺位 吗-do you want to have a berth for your lovely girl ?-0.385
+35828-您 只要 买 一 张 卧铺票 和 一 张 小孩 票-you need only to get a berth ticket and a child &apos;s ticket .-0.385
+36979-您 要 不 要 我 把 行李 放到 后车厢 去-do you want me to put your suitcase in the trunk ?-0.385
+37468-当然 可以  但是  您 必须 搞 清楚 您 要 坐 的 车 是 在 哪 个 站台  哪 股 道上 发车-certainly , but you must be clear about which platform and track your train will depart .-0.385
+37862-如果 你 想 同 陌生人 打招呼  不 要 用 头衔 称呼 他  什么 时候 都 可以 说 “ 借光 ”-if you want to get someones attention , do not attempt to address a stranger by title ; it is always appropriate to say &quot; excuse me . &quot;-0.385
+39678-抱歉  现在 不 是 吃 这 种 蔬菜 的 季节  您 是 不 是 吃 点 别 的 什么-i &apos;m afraid this vegetable is not in season . would you like to try something else ?-0.385
+39755-您 要 不 要 来 一 瓶 试 一 试-would you like to try it ?-0.385
+39877-您 的 啤酒 要 散装 的 还 是 瓶装 的-would you like your beer draught or bottled ?-0.385
+40608-您 是 不 是 想 吃 点 别 的 什么-would you like to try something else ?-0.385
+41122-您 要 不 要 叫 点 酒 来 下 菜-would you like to order some wine with your meal ?-0.385
+41167-您 是 要 大碗 的 还 是 小 碗 的-would you like large or small portions ?-0.385
+41672-您 是 不 是 在 吃饭 前 喝 点 什么-would you care for a drink before dinner ?-0.385
+42319-您 是 要 在 这儿 就餐 还是 要 把 它 带走-is that for here or to go ?-0.385
+46888-您 要 我 用 公司 还是 私人 信纸 封缮 打 信文-would you like this typed on company or personal stationery ?-0.385
+46892-您 要 我 对 今天 的 来信 寄发 回信 吗-would you like me to send replies to any of today &apos;s letters ?-0.385
+48835-好 了  我们 就 别 再 谈 这个 问题 了  还 是 来 看看 明天 要 做 些 什么 吧-now let &apos;s drop the subject , and have a look at what we need to do tomorrow .-0.385
+49508-不  先生  我 想 他 不 知道 您 要 来-no sir , i don &apos;t believe he knows you were coming .-0.385
+49509-我 这 就 打 电话 一 他 部门  告诉 他 您 要 上去  还是 要 他 下来 这儿 见 您-may i call his office and tell him you are on your way up , or should i ask him to meet you down here ?-0.385
+50724-您 想 知道 附 在 您 五月 十六日 的 订单 寄出 的 发票 上 第二  三 项 指 的 是 什么 部分-you would like to know what parts the second and third items on the invoice sent with your may 16th order refer to .-0.385
+51167-我 打 电话 是 要 通知 您  这个 月 过 后 我们 就 要 停 订贵社 的 报纸 了-i am calling to inform you that we will discontinue your paper supply services after this month .-0.385
+696-您 还 记得 您 买 票 时 付 了 多少 钱 吗-do you remember how much you paid for your ticket ?-0.384
+1850-您 的 行李 要 直接 托运 到 您 的 目的 地 吗-would you like me to check your baggage through to your destination .-0.384
+2047-早晨 好  瑞士 航空 公司  我 是 史密斯 小姐  能 为 您 帮忙 吗-good morning , swiss airlines , miss smith &apos;s speaking . can i help you ?-0.384
+4110-现在 是 2 点半  所以 你 应该 在 24 日 2 点半 前 还 车  否则 您 要 多 付 一 天 的 额外 租费-it &apos;s 2 : 30 now , so you &apos;re supposed be return the car by 2 : 30 on the 24th , or you &apos;ll be charged for the deposit with your master card or cash ?-0.384
+4936-不 用 上税  但是 您 必须 把 它们 填写 进 这个 表格 里  并且 注意 在 这个 国家 逗留 期间 不 要 遗失 它们-no , but you have to write them all down on this form and make sure you don &apos;t lose them during your stay in the country .-0.384
+6178-如果 您 没有 什么 别 的 事  和 我 一起 走 一 趟 怎么样-if you haven &apos;t anything special to do , why not come with me !-0.384
+6591-有 两 趟 车  一 趟 是 早晨 八点 的  另 一 趟 是 下午 两 点 的  您 要 哪 一 趟 的-there are two trains on saturday . 8 : 00 a.m.and 2 : 00 p.m. which one do you prefer ?-0.384
+8845-晚上 好  帝 宛 餐厅  您 有 什么 事 需要 帮忙 吗-good evening . emperor &apos;s court . may i help you ?-0.384
+9728-您 要 留 着 这些 牡蛎  还 是 我 去 换 干贝 给 您-will you keep the oysters , or should i get the scallops for you ?-0.384
+9966-晚上 好  这里 是 “ 洪都 ” 饭店  能 为 您 做 什么 吗-good evening , this is the hongdu restaurant . can i help you ?-0.384
+11018-现在 就 点  但是 我 是 初 次 来到 这个 城市 第一 次 住 在 您 的 饭店  所以 现在 我 还 拿不定 主意 点 些 什么-yes . but i &apos;m new in your hotel and this is my first time to come to your city . so i &apos;ve not made up my mind what to order .-0.384
+11131-您 的 沙拉 是 现在 要 用 还是 等 会儿 再 用-would you like your salad now or later ?-0.384
+11295-我们 还 没 决定 要 什么  请 你 再 等 一下 好 吗-we haven &apos;t decided yet . could you give us a little longer ?-0.384
+11755-您 的 吐司 要 怎样 做  是 稍烤 一下 还 是 烤焦-how would you like it , light or dark ?-0.384
+12868-那么  您 什么 时候 能 来 和 我们 一起 吃 晚饭 呢-then , when can we expect you for dinner ?-0.384
+18463-史密斯 先生  请 你 放心  我们 一定 大力 配合  您 经营 什么 商品-let me assure you of four best attention , mr. smith , what &apos;s your line of business ?-0.384
+19644-我 得来 一 杯 咖啡  你 要 什么  咖啡 还 是 茶水-i could do with a cup of coffee . what would you like , coffee or tea ?-0.384
+23220-您 要 哪 一 类 手表 : 机械 手表  还是 石英 手表-what kind of watch do you prefer : mechanical watches , or quartz watches ?-0.384
+24526-我 就 要 离开 美国 了  我 想 给 我 儿子 买 一 件 美国 玩具 作为 生日 礼物  不过 我 不 知道 他 喜欢 哪 一 个-yes , please . i am leaving america soon . i want to buy an american toy for my son as his birthday present , but i don &apos;t know which one is the best for him .-0.384
+25650-您 买 的话  厂家 将 安排 熟练 工人 为 您 免费 安装  调试-and if you buy it , the manufacturer will arrange for a trained technician to install and test it for you free of charge .-0.384
+26033-您 要 是 处 在 我 的 位置 也 会 这么 做 的-you would have done the same in my position , i &apos;m sure .-0.384
+26277-请 不 要 再 说 我 本 应该 做 什么  你 得 想 点 办法  要么 退钱 给 我  要么 给 我 换 一 台-please stop telling me what i should have done , and do something , either give my money back or give me another radio .-0.384
+28669-您 所 说 的 “ 其他 的 费用 ” 指 的 是 什么-what do you mean by extras ?-0.384
+29099-您 能 告诉 我 你们 这里 有 什么 类型 的 房间 吗-would you tell me what kind of room you have ?-0.384
+31141-我 要 每 月 300 美元  当然 什么 都 包括 在内 了-i ask $ 300 a month , which includes everything .-0.384
+34501-我 要 买 一 张 芝加哥 到 波士顿  13 日 的 来回票-i &apos;d like a round-trip ticket from chicago to boston on the 13th .-0.384
+34987-您 乘 直达 特别 快车 到 上海 大约 要 17 个 小时-it takes you about seventeen hours to get to shanghai by through express passenger train .-0.384
+35027-您 是 直接 到 南京  还是 要 在 沿途 游览 一下 名胜-are you going straight to nanjing or visiting some places of interest on the way ?-0.384
+35523-如果 您 不 要 声明 您 的 行李 价格  请 您 在 您 在 行李 票 上 写明 这 一 点  并且 签上 您 的 姓名-if you don &apos;t want to declare the value of your luggage , please make it clear in your luggage ticket and sign your name .-0.384
+35811-您 的 男孩 身高 已经 超过 一 米 一 了  请 买 小孩 客票-your boy is already over 1.1 meters in height , please buy a child &apos;s ticket .-0.384
+36109-检票员 要 那 个 年轻人 离开 车厢  因为 他 没 买 头 等 车票-the guard made the young man leave the carriage as he didn &apos;t have a first-class ticket .-0.384
+38267-不  只有 你 有 值钱 的 东西 要 申报 的 时候 才 需要 填  还 有 那些 在 中国 买 的 需要 上税 的 东西-no , you need to fill it out only when you have something valuable to declare and something dutiable you bought it china .-0.384
+41125-您 要 不 要 来 点 利口酒 来 结束 这 顿 饭-would you like a liqueur to complete your meal ?-0.384
+46882-您 要 以 正式 的 文体 还 是 用 口语体 翻译 此 文-would you like this translation done in a formal or informal style ?-0.384
+46896-您 要 我 把 您 的 信 转送 给 您  还是 留 在 这里-would you like me to forward your mail or hold it here ?-0.384
+46902-您 要 我 拿 一 份 席尔斯 公司 客户 资料 的 副本 吗-would you like me to get a copy of the sears account ?-0.384
+46921-我 被 排定 九点半 到 十一点 使用 文字 处理机  所以 如果 您 没 问题 的话  我 完成 报告 后 就 要 打字 了-i &apos;m scheduled to use the word processor from 9 : 30 to 11 : 00 , so if it &apos;s alright with you , i &apos;ll type the report right after i finish .-0.384
+47004-你 好 , 我 叫珍娜 , 我 要 指导 你 做 这 工作 , 所以 如果 你 有 什么 问题 , 可以 问 我-how do you do ? my name is janet . i &apos;ll be training you for this position , so if you have any questions . i &apos;m the person to ask .-0.384
+51423-真 谢谢 您  我 要 把 这 资料 交给 小野 田 先生  如果 他 还 要 其他 资料  我 会 再 和 您 联络-thank you very much , i &apos;ll pass this information on to mr. onoda and contact you again if there is anything else he would like .-0.384
+3142-我 要 买 芝加哥 到 迈阿密 的 来回 机票  12 日 星期四 去  14 日 星期六 回来-yes , i &apos;d like a round-trip ticket from chicago to miami , leaving on thursday , the 12th and returning on saturday , the 14th .-0.383
+5726-您 至少 要 换乘 两 次 车  您 最 好 乘 地铁  那样 简单 多 了  也 快 多 了-you have to change buses at least twice . better take the subway instead . it &apos;s much less complicated that way , and much quicker .-0.383
+19045-嗯  李 先生  你 能 不 能 告诉 我  假如 我们 要 在 中国 建立 一 家 制造 公司  要 办成 这 件 事  最 好 的 办法 是 什么-now mr. li , could you tell me , if we are to set up a manufacturing company in china , what would be the best way to go about it ?-0.383
+19953-司密斯 先生  我们 所 要 买 的 这个 成套 设备 是 不 小  但 你 要 说 你们 公司 的 财务 负担 不 了  那 恐怕 是 过谦 了 吧-mr. smith , it &apos;s true the complete plant we intend to buy is not small , but i &apos;m afraid you are too modest when you say it is beyond the financial capability of your corp .-0.383
+22775-当然 要  不过 你 可以 买 多 中 有效 而 不 需要 医生 处方 的 药-of course , but you can buy many effective non-prescription drugs .-0.383
+27683-首先  选择 您 所 要 温度  放入 洗衣机 用 起来 倒 挺 方便 的  首先  选择 您 所 要 温度  放入 洗衣粉  然后 把 硬币 塞 进去  放到 位  洗衣机 就 启动 了-first , you select your temperature , add your laundry , then place your quarters in the slots , put it in right there , and that starts the machine .-0.383
+28986-好 的  帆 女士  不  我 是 说邓 女士  您 是 要 预订 7 月 1 日 到 8 日 的 一 个 带 浴室 的 双 人 房间-that &apos;s bath from the first of july to the eighth ?-0.383
+30821-您 可以 直接 打到 广州  方法 是 : 先 拨 “ 00 “  然后 拨 中国 地区 号 “ 186 ”  再 拨 广州 地区 号 “ 20 ”  然后 拨 您 要 打 的 电话 号码-you can call directly to guangzhou by first dialing &quot; 0 &quot; twice , then the code number of china &quot; 186 &quot; and the code number of guangzhou &quot; 20 &quot; , and finally the number you want .-0.383
+31378-你 只要 告诉 我 要 什么  我 就 会 吩咐 管 仓员 在 你 来 这里 之前 准备 好-if you &apos;ll tell me what you want , i &apos;ll have the stock gather it together before you come in .-0.383
+33182-我 想 问 一 问  您 用 什么 种类 的 洗发水  您 不 介意 吧-do you mind if i ask you what kind of shampoo you use ?-0.383
+35039-您 要 在 去 南京 途中 游览 苏州  得 坐 直 快 客车  不 要 坐 特快 车-if you want to visit suzhou on the way to nanjing , you have to take a fast through passenger train instead of an express train .-0.383
+35817-您 的 小孩 已 超过 一 米 一  需要 买 一 张 小孩 客票 和 一 张 卧铺票-your child is over 1.1 meters in height , so you need to buy a child &apos;s ticket and a berth ticket .-0.383
+37515-您 得 从 发现 丢失 车票 的 车站 起 补付 票价  并 要 交付 手续费-you are required to pay the fare from the station where you found the ticket lost and pay the service charge .-0.383
+38703-见 男人 即 称 “ 先生 ”  见 妇女 即 称 “ 太太 ” 或 “ 小姐 ” 也 不 一定 都 合适  这 要 根据 场合 和 情况 而 定-and it is not always appropriate to call a man &quot; sir &quot; and woman &quot; madam &quot; or &quot; miss &quot; , because the situation in which you meet them may not be the same .-0.383
+41424-您 喜欢 几 成熟 的 牛排  是 要 熟透 的  还 是 适中 的  还是 半生 的-how would you like the steak done , well done , medium , or rare ?-0.383
+46895-您 不 在 时  我 要 替您 保留 业务 邮件  还 是 我 自行 处理-shall i hold your business mail while you are gone or process the letters myself ?-0.383
+49586-您 好 了 的话  我 就 要 把 他 的 话 翻译 成 英文 了-if it is alright with you , i &apos;ll translate what he said into english .-0.383
+50478-我们 20 日 要 邀请 一些 像 您 这样 的 特别 的 客户 来 吃饭  可 不 要 又 像 上 次 一样 不空  这 次 没 您 是 不 行 的-we &apos;re having some special customers like you for dinner on the 20th . i hope you won &apos;t be engaged as last time . the party wouldn &apos;t be complete without you .-0.383
+51758-不论 您 遇到 什么 困难  请 立刻 通知 我们  我们 将 尽全力 使 各位 感到 宾至 如归-if you experience any difficulties , don &apos;t hesitate to bring them to our attention.we will do our best to make you feel at home .-0.383
+18555-是 的  田 中 先生  记得 去年 您 提出 要 从 我国 进口 价值 六千万 日元 的 丝绸  可 实际上  由于 我方 当时 手头 已 有 很多 积压 订单  结果 不 能 完全 满足 贵方 的 订货  只 装运 了 价值 三千二百万 日元 的 丝绸-right . mr. tanaka , as i remember , you placed an order of 60 million japanese yen worth of silk goods last year , but in fact only 30 million japanese yen worth of silk goods were shipped owing to our heavy backlog of orders on hand , and as a result , we would not fulfill your order completely .-0.382
+23426-您 最 好 多 买 几 块 印有 小 动物 的 手帕  这 不仅 为 他 使用  而且 也 为 他 欣赏 这些 小 动物园-you &apos;d better take more handkerchiefs with small animals , not only for his using handkerchiefs but also for his enjoying the small animals .-0.382
+28593-您 只 需 把 要 干洗 的 衣服 连同 干洗 单 放进 干洗 袋 里 就 行  不 要 放进 一般 的 洗衣袋 里-just put the one for dry cleaning on your dry cleaning list cleaning list and then put it , together with the dry cleaning list , in the dry cleaning bag , not the usual laundry bag .-0.382
+34636-您 如果 有 月票 的话  每 次 上车 就 不 必 买 票 了  但 您 得 向 乘务员 出示 月票-if you have a monthly pass , you don &apos;t have to pay the fare each time when you get on the bus , bur you &apos;ll have to show it to the conductor .-0.382
+34960-您 乘 特快 列车 到 那里 大约 要 18 个 小时  乘 直 快 客车 要 21 个 小时 多 一点-it takes you about eighteen hours to get there by express passenger train , and a little more than twenty-one hours by fast through passenger train .-0.382
+40156-您 预订 的 席位 恐怕 还 没 准备 好  要 不 要 等 它 空 出来  或者 您 坐 另 一 桌-i &apos;m afraid the table you reserved is not yet ready . would you mind waiting until it is free or would you prefer another table ?-0.382
+42516-可口可乐 的 魅力 在 1971 年 向 全 世界 进行 了 充分 的 展示  当时 来自 世界 各 地 的 年轻人 聚集 在 意大利 一 座 山顶 上 高歌 : “ 我 要 给 全 世界 买 一 瓶 可 乐 ”  表现 了 一 种 全球 一致 的 精神-the worldwide appeal of coca-cola was dramatically displayed in 1971 , when young people from around the world gathered on a hilltop in italy to sing &quot; i &apos;d like to buy the world a coke &quot; --- presenting a unifying global spirit .-0.382
+51594-如果 您 在 阅读 此信 和 所 附 的 简历 后 觉得 我 正 是 你们 所 需要 的 人选  请 拨 简历 上 注明 的 家庭 电话 或 在 上班 时间 拨打 753286  通知 我 什么 时候 您 觉得 方便-if you agree , upon reading this letter and the enclosed resume , that i am the person you need , call me at the home number listed in the resume or at 7543286 during office hours . please let me know when it would be convenient to see you .-0.382
+51598-在 审阅 我 的 简历 后  您 对 我 的 工作 可能 有些 问题 要 问  对 我 作为 管理者 的 一些 技能 可能 希望 进一步 了解  那 就 尽管 拨打 简历 上 注明 的 电话 号码  或 与 证明人 取得 联系-after you review my resume , you may have questions about my career , or you may need further information about my career , or you may need further information about my skills as an administrator . please feel free to call me at the number listed on my resume to obtain any further information or the names and numbers of my references .-0.382
+19961-在 我们 中国  现在 出现 了 许多 联合 企业  虽然 都 是 社会主义 所有制  但 联合 企业 内部 各 单位 也 要 实行 独立 核算  自 负 盈亏 的  就 你们 这个 跨国 公司 的 分号 来说  我们 是 了解 的  单独 制造 我们 要 买 的 这些 成套 设备 也 是 豪 无 问题 的  况服 必要 的 时候 你们 总部 还 会 给予 财务 帮助 呢  我 相信 你们 总部 的 董事 所 说 你们 在 与 中国 做 生意  在 批准 财务 帮助 方面 是 会 给予 有利 的 考虑 的-although all of them are socialist in ownership , each branch or unit within the associated enterprise is also independent in finance and responsible for its own financial gain or loss . we are well aware that there will be no financial problem at all if your branch manufactures the complete plant single-handedly . besides , if necessary , you could still get financial aid from the head office . i &apos;m sure that the board of the directors will give favourable consideration to authorizing financial help to your branch when they are told your branch is doing business with china .-0.381
+27909-您 可以 直接 打到 芝加哥  方法 是 : “ 先 拨 “ 00 ”  然后 拨 美国 地区 号 “ 1 ”  再 拨 芝加哥 地区 号 “ 312 ”  最后 拨 你 要 打 的 电话 号码-you can call directly to chicago by first dialing &quot; 00 &quot; , then the code number of the united stated &quot; 1 &quot; , and the code number of chicago &quot; 312 &quot; , and finally the number you want .-0.381
+257-您 买 的 是 硬座票  是 吗-you have bought a hard seat ticket , haven &apos;t you ?-0.38
+3202-您 计划 什么 时候 开始 您 的 旅行-and when do you plan to travel ?-0.38
+4755-什么 时候 要  太太-what time do you need cab , ma &apos;am ?-0.38
+5097-您 的 护照  小姐-your passport please , miss .-0.38
+6692-您 有 什么 事 吗-what can i do for you ?-0.38
+6811-您 想 什么 时候 走-when do you want to leave ?-0.38
+7307-真的  要 什么 酒 呢-yes ? what will it be ?-0.38
+7337-先生  要 什么 牌子 的 啤酒 呢-any special brand , sir ?-0.38
+7501-要 什么 牌子 的-any special brand , sir ?-0.38
+8462-要 什么 水果 呢-and how about fruit ?-0.38
+8667-您 有 什么 要求 吗-room service . can i help you ?-0.38
+8816-您 什么 时间 来 用餐-what time do you like your table ?-0.38
+9552-您 喜欢 什么 牌子 的-which brand would you prefer ?-0.38
+10018-你 要 什么  斯诺 先生-what would you like , mr. snow ?-0.38
+10165-要 什么 蔬菜 呢 先生-what a vegetables , sir ?-0.38
+10171-您 可以 在 那边 沙拉 柜台 去 要-you can get it at the salad counter over there .-0.38
+10237-您 有 什么 特别 推荐 的 菜 吗-what would you recommend ?-0.38
+10289-要 喝 点 什么 吗-and what would you like to drink with your meal ?-0.38
+10417-您 点 什么 菜 呢-may i know what would you like to order first ?-0.38
+10988-你 要 什么 开胃 小菜-what would you like as a starter ?-0.38
+11011-你 要 什么 点心  先生-anything for dessert , sir ?-0.38
+11055-您 呢  小姐-and what &apos;s yours , miss ?-0.38
+12753-要 庆祝 什么 事情 吗-is there something to congratulate ?-0.38
+13005-买 的 什么 饭  凯文-what food did you have , kevin ?-0.38
+13217-要 喝 点 什么 吗-would you like something to drink with your meal ?-0.38
+19486-您 打算 什么 时候 开始 招标 呢-when do you intend to start the invitation to tender ?-0.38
+21800-要 买 的 票 是 排 在 这里 吗-is this the line for grand canyon ?-0.38
+22344-您 什么 时间 比较 方便-what time is convenient for you ?-0.38
+23199-您 喜欢 什么 颜色 的 呢-what colour do you like ?-0.38
+23281-买 什么 东西 吗-what can i show you ?-0.38
+23753-我 要 去 吃午饭  过 一 会 再 来 买-i &apos;ll just have lunch and i &apos;ll come back for it later .-0.38
+24964-你 要 什么 颜色 的-what color ?-0.38
+25642-您 喜欢 什么 牌子 的 空调-which brand of air-conditioners are you interested in ?-0.38
+25867-您 需要 什么 规格 和 颜色 的-what particular style , color and size do you want , madam ?-0.38
+25969-您 买 的 这 件 是 机器绣 的  也 就 是 批量 生产 的  值 不 了 那么 多 钱  最 多 值 150 元-yours machine-made , i mean it is mass produced . it isn &apos;t worth that much . at most it can sell 150 .-0.38
+26112-您 喜欢 什么 式样 的-what pattern do you have in mind ?-0.38
+26388-您 什么 时候 来 取-when would you like to pick it up ?-0.38
+26629-你 要 什么 票面 的 钱-how did you want it ?-0.38
+26710-要 办 什么 事 吗-what can i do for you ?-0.38
+26848-您 以 什么 方式 结账 呢-how will you settle your account , sir ?-0.38
+27723-要 什么 饮料 吗-anything to drink ?-0.38
+27736-您 好  今天 上午 我 将 要 离开-hello , i &apos;m leaving this morning .-0.38
+27928-您 有 什么 吩咐 吗-may i help you ?-0.38
+28406-您 是 什么 时候 把 预订 卡 挂 在 门 上 的 呢-at what time did you leave the card on your door ?-0.38
+28767-您 什么 时候 将 离 店-when are you checking out ?-0.38
+29175-您 有 什么 事 吗-may i help you ?-0.38
+29373-您 是 什么 时候 把 预约卡 挂 在 门 上 的 呢-at what time did you leave the card on your door ?-0.38
+32052-您 买 好 飞机 票 了 吗-do you have the ticket ?-0.38
+34350-要 我 做 什么 呢-what should i do ?-0.38
+35277-我 要 买到 Z 的 车票  在 哪里 买-where can i book a ticket for z ?-0.38
+35371-您 记得 什么 时间 丢失 的 吗-do you remember the time you lost it ?-0.38
+37497-您 有 什么 证明 吗-have you got any certificates ?-0.38
+37667-要 喝 点 什么 吗-anything to drink ?-0.38
+38059-您 有 什么 需要 申报 的 吗-have you got anything to declare ?-0.38
+39242-你 要 什么 牌 的 啤酒-what brand of beer would you like ?-0.38
+39572-您 有 什么 特别 限定 的 饮食吗  女士-are you on a special diet , madam ?-0.38
+39588-您 有 什么 特殊 要求 吗-do you have any special requirements ?-0.38
+39847-您 想 什么 时候 到-what time would you like to arrive ?-0.38
+40024-您 什么 时间 来 用餐-what time do you like your table ?-0.38
+40059-您 什么 时间 需要 这个 桌子 呢-what time would you like your table ?-0.38
+40104-您 什么 时候 可以 过来 拿-when will you be able to collect it ?-0.38
+40977-要 什么 喝 的 吗-will you have anything to drink ?-0.38
+41317-要 什么 甜食 呢-what would you like for dessert ?-0.38
+42370-你 要 什么 就 告知 柜台 后面 的 男 服务员-tell the man behind the counter what you want .-0.38
+47285-您 什么 时间 能 和 李 先生 谈话-what time do you think you can talk to mr. lee ?-0.38
+49697-您 上 次 订 了 一些 订书器  现在 还 要 吗-last time you ordered some staplers . do you any more ?-0.38
+52181-您 有 什么 事 吗-may i help you ?-0.38
+3245-我 什么 时间 来 买 票-when shall i come to get the ticket ?-0.378
+5069-你 有 什么 要 申报 吗-do you have anything to declare ?-0.378
+5151-有 什么 要 申报 的 吗-anything to declare ?-0.378
+10944-有 什么 事 要 我 效劳-yes ? can i be of any assistance ?-0.378
+26801-有 什么 要 帮忙 的 吗-can i help you , sir ?-0.378
+38363-我 没有 什么 要 申报 的-i have noting to declare .-0.378
+38405-我 没有 什么 要 申报 的-i &apos;ve nothing to declare .-0.378
+4943-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.377
+4952-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.377
+4956-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.377
+4991-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.377
+5036-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.377
+5051-有 什么 要 报关 的 吗  先生-anything dutiable , sir ?-0.377
+5342-你 有 什么 东西 要 申报 吗-do you have anything to declare ?-0.377
+5368-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.377
+8302-你 想 什么 时候 要 台  先生-what time would you like your table , sir ?-0.377
+9661-要 我 帮 您 收拾 盘子 吗-can i give you a hand with the dishes ?-0.377
+9746-有 什么 要 吩咐 的 吗  先生-is there anything that matters , sir ?-0.377
+22680-成套 买 比分 开 买 要 便宜-well , they &apos;re less expensive if you buy them as a set than if you bought them individually .-0.377
+26329-我 要 说 您 真 有 眼光-i must say you have good taste .-0.377
+27451-有 什么 事 要 我 办 吗-what can i do for you ?-0.377
+27766-要 我 领 您 去 房间 吗-may i show you to your room ?-0.377
+30069-有 什么 事 要 转告 他 吗-can i take a message ?-0.377
+30088-有 什么 事 要 转告 他 吗-may i take a message ?-0.377
+30700-有 什么 事 要 转告 他 吗-may i take a message ?-0.377
+31247-你 什么 时候 要 搬进 来 呢-when do you want to move in ?-0.377
+37222-我 要 帮 您 拿 行李 吗-shall i help you with your luggage ?-0.377
+38306-你 有 什么 东西 要 申报 吗-do you have anything to declare ?-0.377
+40331-恐怕 要 请 您 等 二十 分钟-there will be a wait of about 20 minutes .-0.377
+49483-有 什么 事 要 我 代劳 吗-may i help you ?-0.377
+1932-可能 要 花 几 分钟  您 先 坐 一会儿-it could take a few minutes , so why don &apos; you have a seat .-0.376
+2125-那么 我 要 替 您 预订 机位 吗-shall i reserve you a seat then ?-0.376
+2204-要 不 要 将 您 列入 候补 名单-would you like me to put you on the waiting list ?-0.376
+8265-要 我 现在 给 您 倒 些 咖啡 吗-shall i pour you some coffee now ?-0.376
+10096-不 要 了  谢谢 您  这些 足够 了-no , thank you . that &apos;ll be enough .-0.376
+11142-有 什么 东西 您 不 能 吃 吗-is there anything you cannot eat ?-0.376
+13153-我们 要 为 您 特别 做 一 个-we &apos;ll have to make a special one for you .-0.376
+17752-索米 公司  有 什么 事 要 我 效劳 吗-sony electronics . may help you ?-0.376
+20306-现在 你 还 有 什么 问题 要 了解 吗-now , is there anything else you &apos;d like to know ?-0.376
+20962-李 先生  你 有 什么 问题 要 问 吗-do you have any questions to ask , mr. li ?-0.376
+23060-格林 先生  医生 吩咐 要 给 您 打针-mr. green , the doctor has prescribed a shot for you .-0.376
+27595-客房 服务  有 什么 事 要 我 效劳 的-room service . can i help you ?-0.376
+28241-要 我 现在 给 您 倒 些 咖啡 吗-shall i pour you some coffee now ?-0.376
+31180-你 还 有 什么 事 要 问 吗-is there anything you want to know ?-0.376
+33395-还 有别 的 什么 事 要 我 做 吗-anything else i can do for you ?-0.376
+34959-这 要 看 您 乘 哪 次 车-it depends on which train you take .-0.376
+36636-要 不 要 我 拿 价目表 给 您 看-shall i show you the rate chart ?-0.376
+38154-你 有 什么 东西 要 申报 吗  先生-have you got anything to declare , sir ?-0.376
+39620-这 是 找 给 您 的 钱  小姐-here is your change , miss .-0.376
+46925-主管 要 您 忙 完 尽快 去 见 他-the director would like to see you as soon as you are free .-0.376
+49493-西尾 先生 刚 回来  他 要 见 您-mr. nishio has just returned and he would like to see you .-0.376
+722-有 什么 东西 您 习惯 上 不 吃 的 吗-is there anything you don &apos;t take as a habit ?-0.375
+11807-我 只要 个 杂拌 炒面  别 的 什么 都 不 要-i just want a chop-suey , and nothing else .-0.375
+17211-什么 地方 能 买 供 一 天 用 的 升降 机票-where can i buy a one-day ticket to the lift ?-0.375
+19379-改好 后 要 不 要 我 立刻 送到 饭店 给 您-shall i send it to your hotel as soon as it &apos;s ready ?-0.375
+22741-好 的  我 买 那磁 维生素 片  喉片 也 要 上-okay . well , i &apos;ll take the vitamin set , and i &apos;ll take the lozenges .-0.375
+24844-我 要 可以 您 保证  它 还 耐 穿  不 变形-i can assure you it wears well and keeps its shape .-0.375
+27981-我们 明早 会 在 六点半 叫 您  谢谢 您  陈 小姐-we &apos;ll ring you up at half past six tomorrow , ms chen . thank you .-0.375
+28871-喂  请 问 最 晚 什么 时候 要 结账 退房-hello , when is check-out time , please .-0.375
+33387-要 把 您 头 顶 上 的 头发 剃掉 一点 吗-would you like me to thin out the top ?-0.375
+39288-要 我 替 您 拿 汤匙 或 叉子 来 吗-shall i bring you a spoon or a fork ?-0.375
+39657-我 去 给 您 重 端 一 份 来  小姐-i &apos;ll get you another one , miss .-0.375
+39713-还有 没 有 人 要 来 同 您 一起 吃  先生-is anyone joining you , sir ?-0.375
+49635-或者 要 不 要 弗里曼 先生 给 您 回 个 电话-or do you want mr. freeman to call you back ?-0.375
+49841-如果 有 什么 要 帮忙 的  请 跟 我 说-well , if there &apos;s anything i can do for you , just ask me .-0.375
+51127-很 好  有 多少 人 要 参加 您 的 宴会-very good . how many people will be in your party ?-0.375
+3011-到 了 我们 要 下车 的 第 19 街 时  请 您 告诉 我-and can you let me know when we should be getting off at 19th avenue ?-0.374
+5455-下 次 我 再 去 什么 地方 玩  也 要 打 电话 咨询 一下-i &apos;ll call you for consultation next time i take a trip somewhere .-0.374
+7239-如果 你 还 有 什么 其他 的 问题  就 问 李 小姐-if you have any other questions , just ask miss li .-0.374
+8225-好吧  什么 时候 给 您 送去 呢  您 住 几 号 房间-all right . when do you want it and your room number ?-0.374
+9185-要 不 要 到 那边 坐  有 空位 时 我 再 叫 您-could you take a seat over there and i will call you when a table is free .-0.374
+12264-太太  要 不 要 给 您 女儿 拿 一 张 高 椅子-shall i fetch a higher chair for your daughter , madam ?-0.374
+17478-下 星期 见面 时  我 会 有 很多 事 要 告诉 您-i &apos;ll have a lot to tell you when we meet next week .-0.374
+18429-好 的  王 先生  今天 你 有 什么 消息 要 告诉 我 吗-good . have you any news for me today , mr. wang ?-0.374
+20398-他 要 我 带 您 到 他 的 办公室  请 往 这 边 走-he asked me to show you to his office . this way , please .-0.374
+22742-好  请 到 柜台 上去  我 在 收银 要 上 帮 您 结账-okay . well , step over to the counter , and i &apos;ll ring you up .-0.374
+22836-要 等 看 了 结果 才 能 给 您 确定 的 答复-i can &apos;t give you a definite answer until i see the results .-0.374
+25124-早安  怀特 太太  什么 风 把 您 给 吹到 这里 来 啦-good morning . what brings you here today , mrs. white ?-0.374
+26923-把 要 洗 衣物 放 在 您 房间 的 洗衣 袋 中 即 可-you may leave it in the laundry bag in your room .-0.374
+29776-如果 以后 有 什么 要 我 帮忙 的 地方  请 务必 通知 我-if there &apos;s anything that i can help you with in the future , please let me know .-0.374
+30879-国际 长途 电话 台  有 什么 可 为 您 效劳 的 吗-overseas operator . may i help you ?-0.374
+37591-如果 只 买 小件 物品  请 不 要 随身 携带 贵重 物品  以免 丢失-don &apos;t bring your valuables with you for fear that you would lose it , if you are only to buy some small things .-0.374
+37803-如果 你 有 事 要 叫 空中 小姐  你 可以 按 这个钮-if you need the stewardess for anything , you can press the button .-0.374
+38156-假如 你 没有 什么 要 报关 的  就 填上 “ 个人 用品 ”-if you &apos;ve got nothing to declare , just put down &quot; personal effects &quot; .-0.374
+38273-如果 我 没 什么 要 申报 的 我 该 在 哪里 办理 海关 手续-where should i go through the customs if i have nothing to declare here ?-0.374
+39871-要 不 要 给 您 的 小孩 拿 张 高 一点 的 椅子 来-would you like a higher chair for your child ?-0.374
+40133-要 不 要 给 您 的 儿子 / 女儿 / 小孩 一 张 高椅-would you like a high chair for your son / daughter / child ?-0.374
+40159-抱歉  我们 要求 客人 要 穿 外衣 打 领带  我们 可以 借给 您-i &apos;m afraid we require our guests to wear a jacket and tie . we can lend you one .-0.374
+40659-法国 吐司 大概 要 十五 分钟 才 能 做好  您 愿意 等 吗-the french toast will take about 15 minutes to make . would you mind waiting ?-0.374
+41659-法国 吐司 大概 要 15 分钟 才 能 做好  您 愿意 等 吗-the french toast will take about 15 minutes to make . would you mind waiting ?-0.374
+49519-盖瑞 先生 要 您 去 他 的 办公室  所有 访客 都 走 了-mr. gary wants you to come to his office , all the visitors have left .-0.374
+50645-我 打 电话 是 要 通知 您  我们 已 决 写 购买-i &apos;m calling to inform you that we have decided to make the purchase .-0.374
+51445-对 不 起  要 问 那 资料 您 应 打到 收音机 部门-i &apos;m sorry , but for that information you should call the radio department .-0.374
+51473-我 打 电话 是 要 通知 您  贵 公司 已 超过 信用 额度-i am calling to notify you that you have gone over your credit limit .-0.374
+18146-千万 得 记住  买 东西 要 杀价  就 把 出价 写上  再 叫 老板 写出 他 的 价钱-one thing you should remember is you are expected to bargain by writing down your offer , and having the shop-owner write down his .-0.373
+18673-现在  假如 我 想 买 一 台 日本 摄像机  我 还 会 要 一 张 保修单 吗-now suppose i want to buy a japanese camcorder . do i still need a warranty ?-0.373
+20468-斯蒂纳 先生  格雷勃 先生 要 我 带 您 到 他 的 办公室  请 这 边走-mr. steiner , mr. grabber asked me to show you to his office . would you come this way , please-0.373
+21258-要 取得 最 佳 的 观光 效果 的话  您 最 好 是 逐渐 地 参观-to see it best , you had better visit it gradually .-0.373
+25829-我 想 买 一 瓶 香水 作为 礼物 送给 我 的 男朋友  他 就 要 出国 留学 啦-i &apos;d like to buy a bottle of perfume as a gift to my boyfriend who is going abroad to study .-0.373
+28583-女士  不 会 有 什么 总是 的  您 只 需 在 洗衣 单 上 予以 特别 说明 就 行 了-there shouldn &apos;t be any problem , ma &apos;am , but you will need to write down special instructions on your laundry list .-0.373
+29801-要是 有 什么 其他 的 事 要 我 为 你 做 的话  你 就 告诉 我-but let me know if there &apos;s anything else i can do for you .-0.373
+31045-我 明天 下午 三点 左右 去 看 他  如果 有 什么 要 我 帮忙 的  请 告诉 我 一 声-i think i &apos;ll visit him around 3 o &apos;clock tomorrow afternoon . if there &apos;s anything i can do to help , please let me know .-0.373
+31668-但 那里 什么 东西 都 贵  而且 很 拥挤  我 确信 比起 广州 要 更 拥挤 得 多-but everything is expensive . it is also crowded , even much more crowded than guangzhou i think .-0.373
+33543-我 要 把 这 两 封 信 交还 给 您  还是 把 它们 投进 外面 的 邮箱-do i hand the letters back to you , or put them in the mailbox outside ?-0.373
+35929-他 不 能 确定 什么 时候 回国  所以 买 了 到 西班牙 的 未 限 日期 机票-he bought an open-ticket to spain as he &apos;s not sure when he will return .-0.373
+40636-我 建议 你 要 点 厨师 的 拿手菜 : 也许 您 想 喝 点 牛肉汤-perhaps you &apos;d like beef soup .-0.373
+49537-我 也 受 交代 要 告诉 您  这 项 工作 必须 在 明天 以前 完成-i &apos;ve also been asked to tell you that we mush have this work finished by tomorrow .-0.373
+50651-我 打 电话 是 要 告诉 您  崔可 公司 的 矢野 先生 将 出席 贵 公司 的 大会-i &apos;m calling to let you know that mr. yano from trimco incorporated will be attending your convention .-0.373
+50749-午安  我 打 电话 要 告诉 您  我们 的 服务部 已经 找到 您们 机器 故障 问题-good afternoon , i am calling to let you know our service department has found the problem with your unit .-0.373
+51172-我 打 电话 是 要 通知 您  通用 汽车车 公司 的 真 田 先生 确定 不 能 来 参加 宴会-i &apos;m calling to inform you that mr. sanada , from general motors , will not be able to attend the party after all .-0.373
+51475-我 打 电话 是 要 通知 您  您 的 银行 账户 存款 不 足以 兑现 您 开给 我们 的 支票-i am calling to let you know there were insufficient funds in your bank account to cash the check you sent us .-0.373
+51582-本人 明年 7 月 就 要 从 北大 毕业 了  这 一 点 您 可以 从 简历 中 看出-as you can see from the enclosed resume , i will be graduating next july from beijing university .-0.373
+20427-对 了  后 藤 先生 要 给 您 这 份 小 纪念品 和 小册子  以 作为 您 这 次 来访 的 记念-by the way , mr. goto would like to present you with this small memento and brochure to remember your visit by .-0.372
+21333-你 要 知道  李 小姐  这 所 大学 的 学生 不 住校 内 宿舍 ； 他们 如果 家 不 在 伦敦  一般 就 住校 外 宿舍 或者 膳宿 所-you see , miss li , students in this university don &apos;t live in dormitories ; they stay in hostels or boarding-houses as a rule , if they don &apos;t have homes it london .-0.372
+23003-这 以后 你 想 吃 什么 就 吃 什么  不过  短期 内 即使 想吃  也 不 要 吃 得 太 多-after that you may eat what you like , but don &apos;t overeat for a while even if you have an appetite .-0.372
+28570-今晚 6:00 我 有 一 个 非常 重要 的 宴会 要 参加  您 看 能 在 那 之前 洗 好 吗-i have an important dinner to attend at 6 o &apos;clock this evening . do you think i could have it back before then ?-0.372
+31741-也 要 抽出点 时间 来 游览 一 个 附近 的 国家 公园  了解 一下 澳大利亚 灌木  如果 天气 热 的话  您 还 可以 带 上游 泳装 去 蹦迪 海滩-also try to take time out to visit one of the nearby national parks for a taste of the australian bush , and if it &apos;s hot take your swimsuit and towel to bondi beach .-0.372
+31825-公共 汽车 是 要 经过 些 小街  但 您 还 没有 反应 过来 的 时候  公共 汽车 又 把 您 载 回到 现代 世界 了-the bus does take you across some narrow streets . but before you know it , you may have come into the modern world .-0.372
+37590-到站 台上 散步 或 购买 物品 的 旅客  请 不 要 把 您 的 行李 物品 让 不 相识 的 人 看管-anyone who wants to go out for a walk and go shopping on the platform , please don &apos;t have your luggage looked after by some strangers .-0.372
+39694-对 不 起  女士  得 等 20 分钟 左右  请 先 到 休息厅 里 喝 点 什么  您 不 介意 吧-i &apos;m sorry , madam , but there will be a wait of about twenty minutes . would you mind having a drink in the lounge first ?-0.372
+40637-我 建议 你 要 点 厨师 的 拿手菜 : 现在 该 点 蔬菜 了  芦笋 和 青豆 您 更 喜欢 哪 一 种-now , there &apos;s a choice of vegetables , asparagus or green peas . which would you prefer ?-0.372
+49133-李 先生  我 希望 没 人 的 时候 你 叫 我 的 名字  但 公司 规定 有 他人 在场 时 要 称 “ 先生 ”  “ 女士 ” 或 “ 小姐 ”-mr. lee , i hope you &apos;ll continue to use my first name when we &apos;re alone , but company rules are that we use mr. or mrs. or ms. or miss when other people me around .-0.372
+50652-我们 部门 有 两 位 其他 人员 要 和 他 同去 , 一 位 是 连 先生  一 位 是 佛德 小姐-he will be accompanied by two other members from our department , a mr. lane and a ms. ford .-0.372
+49535-我 知道 我 对 回教 不 太 熟悉  所以 如果 有 什么 您 信仰 上 不 能 接受 的 事  或 您 停留 期间 宗教 上 的 需要  有 我 可以 效劳 的 地方  请 尽管 告诉 我-i &apos;m afraid i &apos;m not very familiar with the islamic religion , so i would be very grateful if you could tell me if anything is unacceptable to your faith , or if there is anything i could do to help you fulfill your religious requirements during your stay .-0.371
+51621-我 看 不 出 有 什么 简单 的 解决 办法  我 觉得 要 让 我们 的 未来 前景 实现  需要 下 一 番 苦功夫  而 未来 正 需要 农民 以及 我们 社会 上 的 各 个 阶层 勇于 改革  以 应付 挑战-i don &apos;t see any simples answers , and i feel that it will take a lot of hard work to keep our future prospects realistic.and the future is going to require the farmer , as we all segments of our society , to change in order to meet the challenges .-0.371
+51640-除了 申谢 以外  我 实在 不 知道 该 说 些 什么 才 好  当 我 今晚 受邀 来 此 的 时候  我 并不 知道 会 发生 这 件 事  因此 我 也 没有 准备 要 说 的 话-i really don &apos;t know what to say except &quot; thank you &quot; .when i was invited here tonight , i had no idea that this was going to happen , so i haven &apos;t prepared anything to say .-0.371
+1260-填 什么 表 呀  小姐-what forms must we fill out , miss ?-0.37
+4867-我们 应该 什么 时候 去接 您-at that time should we pick you up ?-0.37
+5237-有 什么 东西 要 申报-anything to declare ?-0.37
+5240-你 有 什么 东西 要 申报-do you have anything to declare ?-0.37
+5953-不 要 紧  我 可以 帮 您 吗-i &apos;m sorry to hear that . what can i do for you ?-0.37
+6580-不 要 遗失  否则 就 不 能 取 您 的 提箱-don &apos;t lose it or you can not claim your suitcase .-0.37
+8408-有 什么 可以 帮 您 吗-what can i do for you ?-0.37
+8755-还 需要 什么 吗  琼 小姐-anything else , miss joan ?-0.37
+9618-没 什么  康登 太太  很 高 光 为 您 效劳-it was nothing , mrs. condon . we &apos;re glad to be of your service .-0.37
+20563-在 什么 地方 与 您 碰面-where should i meet you ?-0.37
+27891-有 什么 我 可以 为 您 做 吗-what can i do for you ?-0.37
+27976-要 几 点 叫 您 呢-what time would you like ?-0.37
+30016-你 什么 时候 要-when do you want it ?-0.37
+30613-我 要 接 TANAKA 小姐  T-A - N-A-K-A-i want to talk to miss tanaka , t-a-n-a-k-a .-0.37
+30892-我 要 找 张丽丽 小姐-i &apos;d like to talk to miss lily zhang .-0.37
+33337-不  什么 也 不 要-no , nothing of the kind .-0.37
+36997-你 什么 时候 要 搭车-what time do you need the taxi ?-0.37
+37001-我们 什么 时候 去接 您-at what time should we pick you up ?-0.37
+37118-这 要 看 那 个 座位 上 的 旅客 是否 愿意 同 您 换 座-it depends on whether the occupant is willing to change seats with you .-0.37
+39624-要 什么样 的 甜点  小姐-how about the dessert , miss ?-0.37
+41407-不  谢谢  什么 都 不 要-no , thanks . i like it plain .-0.37
+46981-什么 时候 您 最 方便-when is the most convenient for you ?-0.37
+46993-我 要 是 不 能 来 我 会 告诉 您 的-i &apos;ll tell you if i won &apos;t .-0.37
+49303-什么 时间 对 您 方便-what time will be good for you ?-0.37
+49318-什么 时间 对 您 方便-when would be good for you ?-0.37
+50480-舞会 要 持续 到 11:00  之后 是 自助餐  希望 您 能 来-there &apos;ll be dancing till 11 o &apos;clock , and a buffet supper after that . i hope you can make it .-0.37
+51406-我 要 他 今天 下午 回 电话 给 您 好 吗-shall i have him call you back later this afternoon ?-0.37
+13-希望 您 早日 恢复 健康-i hope you &apos;ll be all right soon .-0.2
+29-没有 什么-that &apos;s ok .-0.2
+85-谢谢 您 的 帮助-thank you for your help .-0.2
+128-还 要 多久 到站-how long will it take to arrive at the station ?-0.2
+191-谢谢 您 告诉 我 这些-thank you for your information .-0.2
+192-没有 什么-not at all .-0.2
+340-没有 什么-no trouble at all .-0.2
+384-没有 什么-you are welcome !-0.2
+416-给 您-here it is .-0.2
+429-我 要 去 堪萨斯-i &apos;m going to kansas .-0.2
+486-没有 什么-you are welcome !-0.2
+532-谢谢 您 告诉 我 这些-thank you for your information .-0.2
+592-欢迎 您 到 广州 来-welcome to guangzhou !-0.2
+603-西安 您 一定 得 去-xi &apos;an is the city you must visit .-0.2
+613-欢迎 您 到 北京 来-welcome to beijing .-0.2
+635-欢迎 您 到 中国 来-welcome to china !-0.2
+646-欢迎 您 到 中国 来-welcome to china !-0.2
+668-祝 您 旅途 愉快-wish you a happy journey !-0.2
+710-要 汤 吗-will you take some soup ?-0.2
+713-不 要 了  谢谢-nothing more thank you .-0.2
+719-给 您-here you are .-0.2
+729-您 不 必 担心-you don &apos;t have to worry about it .-0.2
+740-谢谢 您 的 好意-thank you just the same .-0.2
+741-您 脸色 苍白-you look pale .-0.2
+790-您 需要 帮忙 吗-may i help you ?-0.2
+795-打扰 您 了  先生-excuse me , sir .-0.2
+796-您 还 好 吗-is everything alright ?-0.2
+832-您 好-hello .-0.2
+866-马上 就 要 起飞 了-we &apos;ll be leaving very shortly .-0.2
+1058-这样 走 要 便宜 一些-it &apos;s cheaper going this way .-0.2
+1085-你 学 什么-and yours ?-0.2
+1109-先生  您 呢-and you , sir ?-0.2
+1160-祝 您 旅行 愉快-have a nice trip !-0.2
+1221-小姐  对 不 起-excuse me , miss .-0.2
+1226-小姐  不 用 了-that &apos;s not necessary , miss .-0.2
+1237-我 要 红酒-i &apos;ll have red wine .-0.2
+1239-我 要 咖啡-i &apos;ll have coffee .-0.2
+1280-小姐  你们 有 果汁 吗-do you have fruit juice , miss ?-0.2
+1283-给 您-here you are .-0.2
+1287-给 您-here you are .-0.2
+1294-小姐  打扰 一下-excuse me , miss .-0.2
+1316-小姐  打扰 一下-excuse me , miss .-0.2
+1382-见到 您 非常 高兴-very glad to meet you .-0.2
+1385-谢谢 您 来接 我们-thank you for coming to meet us .-0.2
+1393-谢谢 您-thank you .-0.2
+1402-女士  您 好-hello ma &apos;am .-0.2
+1404-您 好  德克尔 先生-hi , mr. decker .-0.2
+1405-欢迎 您 来 中国-welcome to china .-0.2
+1478-给 您-here you are .-0.2
+1489-谢谢 您  莫 先生-thank you , mr. mo .-0.2
+1636-您 了  杰克逊 先生-how do you do , mr. jackson ?-0.2
+1669-我 要 了-i &apos;ll take it .-0.2
+1803-谢谢 您-thank you .-0.2
+1823-要 我-i &apos;m wanted ?-0.2
+1873-里面 有 什么-what &apos;s inside ?-0.2
+1883-谢谢 您-thank you .-0.2
+1891-谢谢 您-thank you .-0.2
+1892-谢谢 您-thank you .-0.2
+1901-谢谢 您-thank you .-0.2
+1964-谢谢 您  先生-thank you , sir .-0.2
+2004-您 的 名字-your name , please ?-0.2
+2011-您 订 好 了-you have been booked .-0.2
+2013-谢谢 您-thank you .-0.2
+2019-您 的 姓名-may i have your name please ?-0.2
+2046-给 您-here you are .-0.2
+2052-让 您 久等 了-thank you for waiting .-0.2
+2065-让 您 久等 了-thank you for waiting .-0.2
+2168-谢谢 您-thank you .-0.2
+2271-原来 您 来自 中国-so you are from china .-0.2
+2319-谢谢 您  先生-thank you , sir .-0.2
+2323-感谢 您 光顾 瑞士 民航-thank you for calling swiss airlines .-0.2
+2357-谢谢 您-thank you .-0.2
+2371-祝 您 旅途 愉快-have a pleasant flight .-0.2
+2390-机票 要 多少 钱-how much is the plane ticket ?-0.2
+2419-不 要 了  谢谢-no , thank you .-0.2
+2472-要 帮忙 吗-do you need any help ?-0.2
+2532-请 买 票-your fare , please .-0.2
+2559-谢谢 您-thank you .-0.2
+2644-各位 乘客 请 买 票-all fares , please .-0.2
+2655-他 应该 买 票-you should pay for his ride .-0.2
+2663-给 您-here you are .-0.2
+2773-只 要 1 元-just 1 yuan .-0.2
+2774-转车 要 钱 吗-will it cost for the transfer ?-0.2
+2868-到 旅馆 要 多久-how long does it take to the hotel ?-0.2
+2910-要 多少 钱-how much is the fare ?-0.2
+2935-要 多少 钱-how much is the fare , please ?-0.2
+3010-谢谢 您-thank you .-0.2
+3123-不 要 了  谢谢-no , thank you .-0.2
+3185-谢谢 您  赵 先生-thank you , mr. zhao .-0.2
+3251-谢谢 您 提醒 我  晚安-thank you for reminding me . good-night .-0.2
+3325-大概 要 一 小时-approximately an hour .-0.2
+3373-给 您-here you are .-0.2
+3413-什么-what ?-0.2
+3502-什么-what ?-0.2
+3530-什么-what ?-0.2
+3621-您 好 吗-how &apos;s it going ?-0.2
+3682-小姐  你 打 哪儿 来-where are you from , miss ?-0.2
+3893-你 的 秘诀 是 什么-what &apos;s your secret ?-0.2
+3967-您 好-hello .-0.2
+4116-谢谢 您-thank you .-0.2
+4121-我 要 小型车-i &apos;d like a compact .-0.2
+4123-我 要 这 辆-i like this one .-0.2
+4131-你 要 租 多久-how long will you need it ?-0.2
+4146-不 要 麻烦 了-don &apos;t let me trouble you .-0.2
+4188-你 要 去 哪里-where are you going ?-0.2
+4192-到 饭店 要 多久-how long does it take to the hotel ?-0.2
+4245-您 预订 了 吗-have you already reserved one ?-0.2
+4271-我 想 买 保险-i would like to buy insurance .-0.2
+4290-我 要 全 保-i &apos;d like to have full insurance .-0.2
+4320-我 要 搭 计程车-well , i &apos;m going to take a taxi .-0.2
+4373-又 要 下雨 了-it &apos;s raining again .-0.2
+4403-你 说 什么-yes ?-0.2
+4444-您 想 去 哪儿-where would you like to go ?-0.2
+4448-您 早  先生-good morning , sir .-0.2
+4464-祝 您 好运-wish you luck .-0.2
+4475-我 要 赶 时间-i &apos;m in a big hurry .-0.2
+4476-请 问 要 多久-how long will it take ?-0.2
+4592-小姐  打扰 一下-excuse me , miss .-0.2
+4610-你 说 什么-what was that ?-0.2
+4629-你 说 什么-excuse me ?-0.2
+4642-你 说 什么-what was that ?-0.2
+4682-小姐  去 哪儿-where to , miss ?-0.2
+4705-小姐  不 用 着急-don &apos;t worry , miss !-0.2
+4795-租车 要 多少 钱-what &apos;s the rate for one of your cars ?-0.2
+4825-谢谢 您-thank you .-0.2
+4829-但 您 人 在 哪儿-but what &apos;s you location ?-0.2
+4851-您 好-hello .-0.2
+4872-您 好-hello .-0.2
+4978-里面 有 什么-what &apos;s inside ?-0.2
+5010-这 是 什么-what &apos;s this ?-0.2
+5032-一会儿 您 就 知道 了-you &apos;ll get to know in a moment .-0.2
+5067-谢谢 您  一定 会 的-thank you . i &apos;m sure i will .-0.2
+5084-还 有 什么-anything else ?-0.2
+5098-给 您-here you are .-0.2
+5102-给 您-here it is .-0.2
+5108-好 盒子 里 是 什么-what is it in that box ?-0.2
+5122-谢谢 您 的 合作-thank you for you cooperation .-0.2
+5157-这 是 什么-what &apos;s this ?-0.2
+5177-欢迎 您 到 中国 来-welcome to china .-0.2
+5180-给 您-here they are .-0.2
+5190-照相机 旁边 是 什么-what &apos;s that next to the camera ?-0.2
+5227-在 我国 要 停留 多久-how long are you going to stay in this country ?-0.2
+5309-这些 是 什么-what are these ?-0.2
+5311-噢  您 得 付税-well. you have to pay duty on them .-0.2
+5334-这 是 什么-what &apos;s this ?-0.2
+5372-这个 盒子 里 是 什么-what &apos;s this in the box ?-0.2
+5474-您 好 吗-how are you ?-0.2
+5476-您 好 吗-and how are you ?-0.2
+5478-您 上 哪儿 去-where are you going ?-0.2
+5479-我 去 买 东西-i &apos;m going shopping .-0.2
+5480-您 呢-and you ?-0.2
+5588-您 走错 了 方向-it is the wrong direction .-0.2
+5596-您 好-hello .-0.2
+5647-你 要 小心 开车-you take care and drive safe .-0.2
+5665-谢谢 您-thank you very much .-0.2
+5685-谢谢 您-thanks a lot .-0.2
+5702-谢谢 您-thank you very much .-0.2
+5709-谢谢 您-thank you .-0.2
+5711-您 想 去 哪儿-where do you want to go ?-0.2
+5714-谢谢 您  先生-thank you , sir .-0.2
+5762-谢谢 您-thank you .-0.2
+5849-谢谢 您-thanks a lot .-0.2
+6005-呵  您 问 饭馆-oh , restaurant ?-0.2
+6021-谢谢 您 帮忙 了-thank you very much for your help .-0.2
+6028-到 那边 要 多久-how long will it take ?-0.2
+6037-要 换车 吗-do i need to transfer ?-0.2
+6127-您 认得 路 吗-do you know the way ?-0.2
+6180-不过 您 认得 路 吗-but do you know the way ?-0.2
+6273-谢谢 您 提醒 我-thank you for reminding me .-0.2
+6412-请 买 票-fares , please .-0.2
+6451-不 要 遗忘 东西-and don &apos;t leave any thing there !-0.2
+6457-要 转车 吗-do i have to change ?-0.2
+6458-要 转 的-yes .-0.2
+6537-我 要 托运 行李-i want to have my luggage checked .-0.2
+6569-您 早-good morning !-0.2
+6583-我 要 领取 行李-i want to get my checked luggage .-0.2
+6592-要 八点 的-8 : 00 a.m.please.-0.2
+6618-要 多少 钱-what &apos;s its price ?-0.2
+6635-我 要 这 双-i &apos;ll have this pair .-0.2
+6645-我 要 两 张-i &apos;ll take two .-0.2
+6646-给 您 票-here you are .-0.2
+6653-买 票-yes .-0.2
+6658-得 了  还 等 什么-well , what are we waiting for ?-0.2
+6761-要 转车 吗-do i have to change ?-0.2
+6762-要 转 的-yes .-0.2
+6769-要 转车 吗-need i change trains ?-0.2
+6770-要 的-yes .-0.2
+6801-给 您 钱-here you are .-0.2
+6826-给 您-here you are .-0.2
+6857-给 您-here you are .-0.2
+6892-不过  你 要 付 退票费-but you have to pay the fee for refund .-0.2
+6903-你 想 知道 什么-what would you like you know ?-0.2
+6922-要 换乘 吗-must i change ?-0.2
+6929-谢谢 您-thank you very much .-0.2
+6955-我们 在 哪儿 买 票-where do we pay the fare ?-0.2
+6958-让 我 去 买-let me pay for it .-0.2
+7016-车 就 要 到 了-a train will be in directly .-0.2
+7036-要 多少 钱-how much is the fare ?-0.2
+7105-你 去 美国 做 什么-what do you go to the states for ?-0.2
+7258-给 您 钱-here you are .-0.2
+7283-好  我 要 三 张-ok . i &apos;ll take three tickets .-0.2
+7284-给 您-here you are .-0.2
+7293-谢谢 您  先生-thank you , sir .-0.2
+7306-我 想 要 一点酒-i would like some wine .-0.2
+7332-先生们  你们 想 喝 什么-i &apos;ll have coconut water then .-0.2
+7357-当然 不 要 加冰-certainly without ice .-0.2
+7363-谢谢 您 了-thank you just the same .-0.2
+7368-不 要 紧  先生-it doesn &apos;t matter , sir .-0.2
+7450-谢谢 您 了-thank you just the same .-0.2
+7452-祝 您 身体 健康  先生-but your very good health , sir .-0.2
+7464-祝 您 喝 得 开心-enjoy your drink .-0.2
+7482-您 开 玩笑 吧-are you kidding ?-0.2
+7527-你 想 喝 点 什么-what do you car for ?-0.2
+7667-给 您-here it is .-0.2
+7682-给 您 盐-here is the salt .-0.2
+7709-这 是 什么-what is this ?-0.2
+7721-您 的 炸 虾球-your fried shrimp balls .-0.2
+7730-这些 你们 叫做 什么-what do you call these ?-0.2
+7764-您 的 油炸 虾米丸-your fried shrimp balls .-0.2
+7774-这 种 食物 叫 什么-what do you call this food ?-0.2
+7781-小姐  结账-miss . can i have the bill please ?-0.2
+7783-给 您 帐单-here it is , sir .-0.2
+7804-给 您 帐单  先生-here you are sir . your bill .-0.2
+7819-什么-what ?-0.2
+7826-谢谢 您  先生-thank you , sir .-0.2
+7827-祝 您 愉快  再见-have a nice day , good-bye !-0.2
+7830-要 结账 吗-may i help you ?-0.2
+7833-劳 您 久等 了  先生-thank you for waiting , sir .-0.2
+7839-您 觉得 饭菜 怎么样-how did you like it ?-0.2
+7844-我 还 要 结账-could i have the bill , please ?-0.2
+7871-谢谢 您  先生-thank you , sir .-0.2
+7878-这 50 元 是 什么-what &apos;s this 50 yuan for ?-0.2
+7887-您 是-mr.-0.2
+7899-祝 您 愉快-have a nice day .-0.2
+7907-给 您 帐单-here it is .-0.2
+7914-先生  您 真 客气-it &apos;s very kind of you , sir .-0.2
+7917-谢谢 您 的 好意-thank you all the same .-0.2
+7920-谢谢 您  先生-thank you , sir .-0.2
+7924-不 要 了  谢谢-no , thanks .-0.2
+7926-给 您 账单-here is your bill .-0.2
+7932-给 您  共计 一百二十六 元-here you are . it comes to $ 126 .-0.2
+7942-给 您-here you are .-0.2
+7978-我们 现在 要 结账 了-we &apos;ll take the bill now .-0.2
+7982-您 有 哪 种-what kind do you have , sir ?-0.2
+8068-午安  先生  要 结账 吗-good afternoon , sir.may i help you ?-0.2
+8098-谢谢 您-thank you , sir .-0.2
+8100-为什么 要 签名-why do i have to sign ?-0.2
+8116-您 觉得 饭菜 怎样-how do you like your dinner ?-0.2
+8131-给 您 钱-here is the money .-0.2
+8138-小姐  请 给 我们 帐单-miss , can we have our checks , please ?-0.2
+8139-帐单 要 分开 吗-do you want separate checks ?-0.2
+8157-谢谢 您  先生-thank you . sir .-0.2
+8161-要 结账 吗-may i help you ?-0.2
+8168-祝 您 下午 愉快-have a nice afternoon .-0.2
+8170-要 结账 吗-may i help you ?-0.2
+8183-为什么 要 签名-why do i have to sign ?-0.2
+8200-祝 您 晚上 愉快-have a nice evening .-0.2
+8292-谢谢 您-thank you .-0.2
+8329-您 预定 了 吗-do you have a reservation , sir ?-0.2
+8332-要 等 多久-how long will it be ?-0.2
+8365-您 好-hello .-0.2
+8420-谢谢 您-thank you , mr. keats .-0.2
+8453-菜 一定 要 好-the dinner must be a good one .-0.2
+8481-谢谢 您  托兰 先生-thank you , mr. toland .-0.2
+8557-感谢 您 光临 本 餐厅-thanks for your coming to our restaurant .-0.2
+8558-恭候 您 的 到来-we &apos;re looking forward to your visit .-0.2
+8566-您 喜欢 川菜 吧-do you prefer sichuan style dishes ?-0.2
+8585-您 好-hello .-0.2
+8615-您 好-hello .-0.2
+8622-谢谢 您-thank you .-0.2
+8637-谢谢 您  韦尔斯 先生-thank you , mr. welles .-0.2
+8692-就 您 一 位 吗-are you alone ?-0.2
+8713-谢谢 您  乔丹 先生-thank you , mr.jordan.-0.2
+8716-您 好-hello .-0.2
+8718-您 好-hello .-0.2
+8736-宴会 可 要 一流 哦-the banquet must be a good one .-0.2
+8751-要 不 要 红 葡萄酒-do you want some red wine ?-0.2
+8798-您 好-hello .-0.2
+8842-谢谢 您 打 电话 来-thank you for calling us .-0.2
+8899-我 还 要 等等 朋友-i &apos;d like to wait for my friend first .-0.2
+8920-不 要 了  谢谢-no , thanks .-0.2
+8949-先生  您 预订 了 吗-have you made a reservation , sir ?-0.2
+8980-您 有 预订 吗-have you made a reservation ?-0.2
+9096-那么 要 等 多久-well . how long will it be ?-0.2
+9116-好 的  要 等 多久-all right . for how long shall we wait ?-0.2
+9178-要 等 多久-well , how long will it take ?-0.2
+9184-谢谢 您  安德生 先生-mr.anderson.thank you .-0.2
+9195-太太  您 有 没有 预约-do you have a reservation , ma &apos;am ?-0.2
+9239-您 有 订位 吗-do you have reservations ?-0.2
+9317-胡椒粉 也 要 吗-pepper too ?-0.2
+9351-我们 要 A 餐-we &apos;ll take the &quot; a &quot; course .-0.2
+9431-给 您-here you are .-0.2
+9525-他 说 什么-what did he say ?-0.2
+9559-好吧  要 多少 钱-well , how much are they ?-0.2
+9571-你 要 啤酒 吗-would you like some beer ?-0.2
+9583-我 要 草莓 冰淇淋-i think i &apos;ll have strawberry .-0.2
+9639-谢谢 您 的 赞美-thank you for praising .-0.2
+9649-要 花 时间-it &apos;s time consuming .-0.2
+9658-谢谢 您 的 夸奖-thank you !-0.2
+9665-您 觉得 晚餐 怎么样-what did you think of your dinner ?-0.2
+9682-那么  我 要 奶油 汤-then , i &apos;d like cream soup .-0.2
+9713-我 要 赶 火车-i have a train to catch .-0.2
+9729-当然 要 干贝-the scallops , of course .-0.2
+9847-为什么 要 这么 久-why is it taking so long ?-0.2
+9854-先生  您 的 菜-your meal , sir .-0.2
+9893-先生  您 先 请-after you , sir .-0.2
+9900-谢谢 您  先生-thank you , sir .-0.2
+9904-我 明天 要 穿-i &apos;ll need my suit tomorrow .-0.2
+9936-为什么 要 这么 久-why is it taking so long ?-0.2
+9992-我 也 要 芙蓉 牡蛎-i &apos;ll have the eggs with oysters , too .-0.2
+10000-今天 的 特色菜 是 什么-what &apos;s today &apos;s speciality ?-0.2
+10017-我 要 米饭-i &apos;d like rice .-0.2
+10021-现在 不 要 了  谢谢-nothing at the moment , thank you .-0.2
+10037-我 要 冰镇 果羹-i &apos;d like the iced fruit jelly , please .-0.2
+10038-我 要 拔丝 苹果-i &apos;d rather have caramelized apple .-0.2
+10043-不 要 了  谢谢-no , thank you .-0.2
+10068-给 您  先生-here you are , sir .-0.2
+10070-您 请便  先生-take your time , sir .-0.2
+10087-是 现在 要 还是 饭后-do you want it now or after dinner ?-0.2
+10091-可能 要 的-possibly .-0.2
+10131-想 喝 点 什么-what would you like to drink ?-0.2
+10135-要-yes .-0.2
+10139-不 要 了-yes .-0.2
+10163-要 卤汁 吗-gravy ?-0.2
+10164-要 的-please .-0.2
+10167-要 咖啡 吗-have some coffee ?-0.2
+10168-要-all right .-0.2
+10181-你 推荐 什么-what &apos;s you recommendation .-0.2
+10186-别的 不 要 了-nothing else ?-0.2
+10190-我们 要 涮羊肉-we &apos;ll try lamb .-0.2
+10205-你 要 啤酒 吗-would you like some beer ?-0.2
+10217-我 要 草莓 冰淇淋-i think i &apos;ll have strawberry .-0.2
+10229-想 吃 点 什么-what would you like to eat ?-0.2
+10232-您 有 菜单 吗-could i have a menu , please ?-0.2
+10301-迈克  您 呢-how about you , mike ?-0.2
+10304-请 问 喜欢 什么-which do you prefer ?-0.2
+10309-我 要 份 土豆泥-mashed potatoes .-0.2
+10315-迈克  您 说 呢-how about you , mike ?-0.2
+10349-想来 点 什么-may i help you ?-0.2
+10371-给 您-here you are .-0.2
+10381-请 您 尝试 一下-please try it .-0.2
+10392-不 要 了-that &apos;s all .-0.2
+10455-但是 这个 干酪酥 是 什么-but what &apos;s this cheese soufflé like ?-0.2
+10470-好  就 要 这个-ok . i &apos;ll have that .-0.2
+10522-冰水 要 50 美分-we charge 50 cents for water .-0.2
+10540-要 不 要 试试 海鲜-will you try sea-food ?-0.2
+10543-我 要 鲜蠔-fresh oysters .-0.2
+10571-谢谢 您  先生-thank you , sir .-0.2
+10606-要 半生 的-rare , please .-0.2
+10608-我 不 知道 吃 什么-i don &apos;t know what to have .-0.2
+10633-好  我们 要 了-yes , that will do .-0.2
+10687-要 不 要 油炸 全蟹-and sautéed whole prawns ?-0.2
+10703-先生  您 真 幽默-you &apos;re really humorous , sir .-0.2
+10724-今天 的 例汤 是 什么-what is the soup of the day ?-0.2
+10726-我 要 一 份-i &apos;d like one .-0.2
+10746-要 不 要 汤-do you want any soup ?-0.2
+10753-给 您 食谱-here is the menu .-0.2
+10755-您 现在 点菜 吗-would you like to order now ?-0.2
+10783-要 不 要 饮料-would you like something to drink ?-0.2
+10813-谢谢 您  夫人-thank you , madam .-0.2
+10815-现在 您 点菜 吗  先生-would you like to order now , sir ?-0.2
+10824-那么 主菜 吃 什么-and for your main course ?-0.2
+10861-要 不 要 配酒-care for some wine-0.2
+10862-不 要-no .-0.2
+10874-我们 要 坐 柜台-we &apos;ll sit at the counter .-0.2
+10883-我们 要 点菜-we &apos;ll take a la carte dishes .-0.2
+10895-我 要 一 份-i &apos;ll take it .-0.2
+10904-给 您 食谱  女士-here you are , madam .-0.2
+10909-那 您 慢慢 看看 吧-please take your time .-0.2
+10922-我 想 要 西红柿-tomato , i think .-0.2
+10969-我们 要 等 多久-how long do you think we will have to wait ?-0.2
+10985-我 要 啤酒-i &apos;ll have a beer .-0.2
+10989-鳄鱼 肉饼 是 什么-what is this &quot; alligator fritter &quot; ?-0.2
+11003-我 要 秋共葵 浓汤-i &apos;ll take the gumbo .-0.2
+11008-我 要 洋葱 牛排-i &apos;ll have a steak with onions .-0.2
+11015-我 要 草莓 的-then i &apos;ll take strawberry .-0.2
+11051-先生  来 点 什么-what &apos;ll it be , mister ?-0.2
+11069-太太  您 早-good morning , ma &apos;am .-0.2
+11078-我 要 煎蛋-i &apos;d like them fried .-0.2
+11137-谢谢 您  先生-thank you , sir .-0.2
+11161-嗯  我 要 一些 冰淇淋-let &apos;s see . i &apos;ll have some ice cream , please .-0.2
+11169-谢谢 您  先生-thank you , sir .-0.2
+11215-你 要 米饭 吗-would you like rice with your meal ?-0.2
+11216-不 要  谢谢-no , thanks .-0.2
+11217-谢谢 您  先生-thank you , sir .-0.2
+11273-我们 要 绿 茶-we &apos;d like to have green tea .-0.2
+11274-你们 想 吃 点 什么-what would you like to have ?-0.2
+11294-要 点菜 吗-may i take your order ?-0.2
+11304-我 要 嫩的-i &apos;d like it medium-rare .-0.2
+11308-我 也 要 同样 的-the same for me , please .-0.2
+11311-我 不 要 了  谢谢-no , thanks .-0.2
+11312-我 要 买单-could i have the check , please ?-0.2
+11329-不 要 了  谢谢-no , thank you .-0.2
+11353-我 要 煎蛋-i &apos;d like them fried .-0.2
+11357-要 火腿-ham , please .-0.2
+11369-不  就 要 这些-no , that &apos;s all .-0.2
+11377-我 要 熟透 的-i &apos;ll have it well-done .-0.2
+11384-不  就 要 这些-no , that &apos;s all .-0.2
+11386-谢谢 您  先生  请 稍候-thank you , sir . just a moment , please .-0.2
+11393-我 要 一 份-i &apos;ll take one .-0.2
+11430-谢谢 您  女士-thank you , madam .-0.2
+11526-要 青岛 啤酒-qingdao beer .-0.2
+11530-谢谢 您  先生-thank you , sir .-0.2
+11562-请 问 这些 是 什么-what are these , please ?-0.2
+11565-那么 这些 是 什么-how about these ?-0.2
+11569-请 问 这些 是 什么-what are these , please ?-0.2
+11571-我 要 两 块-i &apos;ll take two .-0.2
+11574-要 不 要 尝尝-would you like to try some ?-0.2
+11616-您 好  先生-good evening , sir .-0.2
+11622-先生  您 的 酒-here is your drink , sir .-0.2
+11645-你 推荐 些 什么-what do you recommend ?-0.2
+11651-我们 要 这个 菜-we &apos;ll take it .-0.2
+11652-想 喝 点 什么-what would you like to drink ?-0.2
+11657-您 节食 吗  先生-are you on a special diet , sir ?-0.2
+11672-史蒂夫  你 想要 点儿 什么-what would you like to have , steve ?-0.2
+11685-先 要 这些 吧-i think that &apos;s it for now .-0.2
+11735-要 汤 吗-do you like some soup ?-0.2
+11779-先生  您 现在 点菜 吗-are you ready to order , sir ?-0.2
+11796-您 可以 这样 说-you many say so .-0.2
+11802-要 不 要 尝尝-would you like to try it ?-0.2
+11892-谢谢 您  先生-thank you , sir .-0.2
+11919-给 您-here it is .-0.2
+11983-你们 要 多少 瓶-how many would you like ?-0.2
+12008-要 冰块 吗-with ice , sir ?-0.2
+12048-给 您-here you are .-0.2
+12068-我 要 核桃 虾仁-i &apos;d prefer the fried shrimps with walnuts .-0.2
+12071-今天 的 特色菜 是 什么-what &apos;s today &apos;s special ?-0.2
+12089-要 适中 的-medium , please .-0.2
+12092-要 不 要 土豆 呢-how about potatoes ?-0.2
+12098-我 要 蓝带 啤酒-i &apos;ll have blue ribbon beer .-0.2
+12114-杨 先生  这 是 什么-mr. yang , what &apos;s this ?-0.2
+12268-您 慢慢 看吧-take your time , please .-0.2
+12318-您 呢  先生-how about you , sir ?-0.2
+12321-现在 不 要-not at the moment .-0.2
+12371-谢谢 您  先生-thank you , sir .-0.2
+12411-要 不 要 糖-do you want any sugar ?-0.2
+12413-要 不 要 加 牛奶-do you want any milk ?-0.2
+12481-要 包房-a private room will be fine .-0.2
+12488-谢谢 您 打 电话 来-thank you for calling .-0.2
+12504-谢谢 您  福雷斯特 先生-thank you , mr. forester .-0.2
+12562-那么 我们 要 预订 座位-we &apos;ll do that then .-0.2
+12564-谢谢 您  先生-thank you , sir .-0.2
+12572-谢谢 您 先生-thank you , sir .-0.2
+12578-谢谢 您  先生-thank you , sir .-0.2
+12583-您 好-hello .-0.2
+12617-谢谢 您  斯通 先生-thank you , mr. stone .-0.2
+12726-要 一点  谢谢-yes , thanks .-0.2
+12778-您 有空 吗-are you free ?-0.2
+12797-你 想 喝 点 什么-what can i get you to drink ?-0.2
+12811-你 喜欢 喝 什么-what would you like ?-0.2
+12825-祝 您 生日 快乐-happy birthday to you !-0.2
+12830-您 许愿 了 吗-did you make a wish ?-0.2
+12853-不 要 了  谢谢-no , thank you .-0.2
+12880-要 不 要 一些 牛排-what about some steak ?-0.2
+12888-你们 吃 了 些 什么-what did you have ?-0.2
+12900-要 不 要 些 甜点-would you like some dessert ?-0.2
+12922-要 三明治 吗-sandwich ?-0.2
+12940-她 正 要 拨腿 跑去-she is about to run off .-0.2
+12946-你 问 这 干 什么-why did you ask ?-0.2
+13045-我 要 鱼-fish , please .-0.2
+13055-你 打算 吃 什么-what are you going to have ?-0.2
+13065-噢  不 要 你 请-oh , no , you don &apos;t .-0.2
+13102-我们 该 先 做 什么-what shall we do first ?-0.2
+13110-我们 现在 该 做 什么-what shall we do now ?-0.2
+13117-是 的  你 想要 什么-yes . what are you going to have ?-0.2
+13118-我 想 要 炸鱼-i &apos;d like the fried fish .-0.2
+13125-里边 夹 什么-what put inside ?-0.2
+13143-给 您-here you are .-0.2
+13148-我 要 这里 用-i &apos;ll have it here .-0.2
+13150-汉堡 要 加 蕃茄酱-i &apos;d like the hamburger with ketchup .-0.2
+13162-请 问 点 些 什么-may i help you ?-0.2
+13178-我 要 一 份-i &apos;ll buy one portion .-0.2
+13186-我 宁愿 要 酸辣汤-i &apos;d rather have the hot and sour soup .-0.2
+13205-所以 我 要 吃 份饭-so i &apos;ll have the set lunch .-0.2
+13208-今天 的 例汤 是 什么-what &apos;s the soup of the day ?-0.2
+13211-那 主菜 是 什么-and for your main course ?-0.2
+13218-要 的-yes .-0.2
+13228-哦  要 的-oh , yes , please .-0.2
+13243-您 真 好-it &apos;s very kind of you .-0.2
+13264-我 要 一碟-i &apos;ll take one dish .-0.2
+13277-给 您-here you are .-0.2
+13283-我 要 一点 啤酒-i want some beer .-0.2
+13292-请 问 点 些 什么-may i help you ?-0.2
+13302-请 不 要 着急-take your time , please .-0.2
+13320-先生  您 早-good morning , gentlemen .-0.2
+13328-请 问 这些 是 什么-what &apos;re these , please ?-0.2
+13337-就 要 这些 吗-is that all ?-0.2
+13577-现在  她 要 下来 了-now she &apos;s off the beam .-0.2
+13608-现在  她 要 下来 了-now she &apos;s off the balance beam .-0.2
+14312-我 刚刚 说 了 什么-now what was i saying ?-0.2
+14706-你 要 先 发球-do you want the ball first ?-0.2
+14711-你 说 什么-what do you mean ?-0.2
+14754-你 想 了解 些 什么-what do you want to know ?-0.2
+14916-是 什么-what ?-0.2
+15202-您 是 跳舞 高手么-are you a good dancer ?-0.2
+15250-什么-what !-0.2
+15479-不 要 急-don &apos;t worry .-0.2
+15739-您 好  托尼-hello , tony .-0.2
+15754-谢谢 您-thanks .-0.2
+16042-奥运会 的 信条 是 什么-what &apos;s the olympic creed ?-0.2
+16045-奥运会 的 誓言 是 什么-what &apos;s the olympic oath ?-0.2
+16048-奥林匹克 圣火 是 什么-what &apos;s the olympic flame ?-0.2
+16055-奥运会 的 渊源 是 什么-what &apos;s the origin of the olympics ?-0.2
+16062-奥运会 的 目的 是 什么-what are the aims of the olympics ?-0.2
+16242-噢  要 米饭 吗-ok , do you want any rice ?-0.2
+16294-我 应该 先 学 什么-what should i learn first ?-0.2
+16433-这 是 为 什么-why ?-0.2
+16557-发令员 说 的 是 什么-what did the starter say ?-0.2
+16567-伊恩 就 要 转身 了-ian is about to turn .-0.2
+16622-嗯  不 要 伤心-well , don &apos;t be so upset .-0.2
+16841-决赛 要 开始 了-the final is on the line .-0.2
+16843-他们 就 要 起跑 了-they are to rise to the set position .-0.2
+16891-您 好  珍妮-hello , jane .-0.2
+16993-计时员 的 工作 是 什么-what does this timekeeper do ?-0.2
+17202-来  您 拿 着-ah , here you are .-0.2
+17360-我 正 要 找 你-you &apos;re just the person i wanted to speak to .-0.2
+17398-书名 是 什么-could you give me the title ?-0.2
+17453-我们 要 自动式 的-we shall want automatics .-0.2
+17580-您 看 一下 吧-please have a glance at it .-0.2
+17585-恐怕 您 得 付 保险费-i am afraid you have to pay the premium .-0.2
+17684-什么-what !-0.2
+17923-您 好  陈 先生-how are you , mr. chen ?-0.2
+17924-您 好  史密斯 先生-how are you , mr. smith ?-0.2
+17952-你 下午 想 干 什么-what do you have in mind for this afternoon ?-0.2
+17999-这 是 什么-what &apos;s this ?-0.2
+18152-您 早-good morning .-0.2
+18177-您 早  陈 先生-good morning , mr. chen .-0.2
+18250-您 大可不必 担心-you needn &apos;t worry about that .-0.2
+18435-那 是 为 什么-why then ?-0.2
+18494-谢谢 您-thank you .-0.2
+18524-您 觉得 怎样-how do you like it ?-0.2
+18528-您 说 得对-you are right .-0.2
+18572-愿 您 成功-i wish you every success .-0.2
+19214-谢谢 您-thank you .-0.2
+19218-您 认为 如何 呢-what do you think about them ?-0.2
+19383-这个 您 觉得 如何-how do you like it ?-0.2
+19530-您 说 的 对-you are right .-0.2
+19672-您 好-how do you do ?-0.2
+19723-谢谢 您 邀请 我 赴宴-you are very kind to invite me to a dinner party .-0.2
+19728-请 不 要 难过-please , don &apos;t be worry about it .-0.2
+19927-这些 是 什么-what are these ?-0.2
+20241-谢谢 您 的 帮助-thank you for your help .-0.2
+20249-谢谢 您-thank you .-0.2
+20359-你 想 干 什么-what were you thinking of ?-0.2
+20365-你 特别 喜欢 干 什么-anything in particular that appeals to you ?-0.2
+20426-先生  您 真 客气-that &apos;s very kind of you , sir .-0.2
+20515-谢谢 您-thank you .-0.2
+20521-就是说 您 爱 吃 海味-you mean you &apos;re a seafood lover ?-0.2
+20548-谢谢 您 这样 说-thank you for saying so .-0.2
+20580-您 有 约定 吗-do you have an appointment ?-0.2
+20645-呃  你们 经营 什么-well , what do you have ?-0.2
+20723-您 想 订 多少-how big an order are you thinking of ?-0.2
+20726-打九折  您 怎么 说-would you consider ten ?-0.2
+21056-我 去 买 票-i &apos;ll buy the tickets .-0.2
+21161-你 还 喜欢 什么-what else did you like ?-0.2
+21167-我 要 付 多少-how much ?-0.2
+21171-给 您 5 美元-here are $ 5 .-0.2
+21172-给 您 收据 和 找头-here is the receipt and your change .-0.2
+21180-给 您 表-here you are .-0.2
+21185-您 借书 吗-can i help you ?-0.2
+21286-我们 就 要 下班 了-we were just going to close up .-0.2
+21331-你 在 笑 什么-what are you laughing at ?-0.2
+21604-您 可能 说 得对-perhaps you are right .-0.2
+21655-我 可以 买 吗-can i take them ?-0.2
+21681-您 真 幸运-how lucky you are !-0.2
+21877-欢迎 您 光临 东方 夜总会-you are welcome to dong fang night club .-0.2
+21916-祝 您 今晚 快乐-wish you a good time here .-0.2
+21929-什么-what ?-0.2
+21979-现在 放映 什么-what are you showing now ?-0.2
+21996-今晚 想 干 什么-what would you like to do tonight ?-0.2
+22012-今晚 想 干 什么-what would you like to do tonight ?-0.2
+22021-演 什么-what &apos;s on ?-0.2
+22025-宏大 影院 在 演 什么-what &apos;s on at the grand cinema now ?-0.2
+22049-第六 项 是 什么-what is item 6 ?-0.2
+22236-谢谢 您-thank you .-0.2
+22302-您 喜欢 功夫片 吗-do you care for a kung-fu movie ?-0.2
+22321-您 决定 吧-it &apos;s up to you .-0.2
+22328-我 一定 要 去 看-i must go and see it .-0.2
+22374-祝 您 旅途 愉快-have a nice trip .-0.2
+22465-不 要 错过-don &apos;t miss it .-0.2
+22578-要 不 要 去-shall we go ?-0.2
+22590-音乐会 好像 要 开始 了-it looks as if the concert is starting .-0.2
+22630-您 吃点 阿斯匹林 看看-you can try some aspirin .-0.2
+22638-谢谢 您-thank you very much .-0.2
+22679-这些 要 多少 钱-how much are these ?-0.2
+22714-要 几 片-how many tablets do you want ?-0.2
+22730-要 多少 钱-how much will that be ?-0.2
+22735-不 要 了-that &apos;s all .-0.2
+22792-您 好-hello .-0.2
+22837-您 发烧 吗-do you have any fever ?-0.2
+22854-您 真的 这样 认为-do you really think so ?-0.2
+22862-您 可以 试试 推拿-you could try some massage .-0.2
+22908-要-yes .-0.2
+23005-谢谢 您  医生-thanks .-0.2
+23070-您 怎么 了-what &apos;s wrong with you ?-0.2
+23081-您 的 胃口 如何-how about your appetite ?-0.2
+23092-您 哪里 不 舒服-what &apos;s the matter with you ?-0.2
+23105-谢谢 您  医生-thank you doctor .-0.2
+23110-多谢 您-thanks again .-0.2
+23146-谢谢 您  再 见-thank you.goodbye !-0.2
+23148-您 哪里 不 舒服-what seems to be the trouble ?-0.2
+23151-不 要 动-please don &apos;t move .-0.2
+23156-您 哪里 不 舒服-what &apos;s the matter ?-0.2
+23158-您 有 食欲 吗-do you have any appetite ?-0.2
+23172-谢谢 您-thank you very much .-0.2
+23176-请 不 要 挂断-hold on , please .-0.2
+23203-给 您-here you are .-0.2
+23210-噢  您 穿上 很 合身-oh , it fits you nicely !-0.2
+23255-给 您-here you are .-0.2
+23264-不 要 担心  先生-don &apos;t worry , sir .-0.2
+23280-您 好-good afternoon .-0.2
+23303-您 好  先生-good afternoon , sir .-0.2
+23320-给 您-here you are .-0.2
+23350-欢迎 您 到 我 部-welcome to our department , sir .-0.2
+23352-我 想 买 刀片-i want to buy some razor blades .-0.2
+23355-给 您-here you are .-0.2
+23365-我 想 买 肥皂-i want to buy some soap .-0.2
+23387-我 想 买 洗衣粉-i &apos;m cooking for detergent .-0.2
+23401-谢谢 您 提供 的 信息-thank you for your information .-0.2
+23411-今天 就 买 这些-that will be all for today .-0.2
+23412-您 好  夫人-good , morning , madam .-0.2
+23485-您 明白 了 吗-are you clear , madam ?-0.2
+23510-给 您-here you are .-0.2
+23518-要-yes , please .-0.2
+23526-您 很 幸运  夫人-you are very lucky , madam .-0.2
+23535-给 您-here you are .-0.2
+23547-请 您 到 收款台 付款-please pay at the cashier &apos;s desk .-0.2
+23552-我 下月 要 结婚 了-i will be married next month .-0.2
+23594-我 买 了-i &apos;ll buy it .-0.2
+23596-不 要 了-no .-0.2
+23624-今晚 您 就 能 收到-you can have it this evening .-0.2
+23734-你 想 买 多少-how many to do you want to buy ?-0.2
+23741-好  就 买 这个-o.k .. i &apos;ll have this .-0.2
+23754-现在 不 买 吗-but won &apos;t you buy it now ?-0.2
+23836-我 要 了-i &apos;ll take it .-0.2
+23877-给 您-here you are .-0.2
+23879-您 穿 多 大号-what size ?-0.2
+23900-我 买 了-i &apos;ll take it .-0.2
+23971-给 您 钱-here you are .-0.2
+23992-祝 您 好运-wish you good luck .-0.2
+23998-给 您-here you are .-0.2
+24005-但 您 看-but look !-0.2
+24043-要 不 要 试穿-will you try them on ?-0.2
+24044-要-okay , i will .-0.2
+24077-你 想要 点 什么-can i help you ?-0.2
+24134-给 您-here it is .-0.2
+24135-什么-what ?-0.2
+24139-不 要 了  谢谢-no , thanks .-0.2
+24140-现在 我们 要 结账-just the bill .-0.2
+24142-给 您-here you are .-0.2
+24248-您 觉得 玛瑙 怎么样-how do you like agate or onyx ?-0.2
+24269-我 买 了-i &apos;ll take it .-0.2
+24334-您 觉得 这个 怎么样-how about this one ?-0.2
+24352-这 只 要 1000 元-it costs only one thousand dollars .-0.2
+24354-我 要 这个-i &apos;ll take it .-0.2
+24355-要 不 要 送到 府上-shall i have it delivered ?-0.2
+24403-找 您 300 元-this is the change . three hundred dollars .-0.2
+24434-您 大名  先生-and the name , sir ?-0.2
+24474-我 买 了-i &apos;ll take it .-0.2
+24538-谢谢 您 的 建议-thank you for your suggestion .-0.2
+24555-很 合身  我 买 了-it seems to be a perfect fit . i &apos;ll take it .-0.2
+24560-我 想 买 口红-i want a lipsticks .-0.2
+24601-先生  要 帮忙 吗-what can i do for you , sir ?-0.2
+24605-谢谢 您-thank you . i-0.2
+24643-我 就 要 这 只-i &apos;ll take this one .-0.2
+24678-不 买 了-no more .-0.2
+24687-您 真 幸运-you &apos;re very lucky !-0.2
+24693-感谢 您-thank you .-0.2
+24732-谢谢  这些 是 什么-thank you . what are these ?-0.2
+24761-这些 是 什么-what are these ?-0.2
+24779-我 想 要 蓝色 的-i &apos;d like something in blue .-0.2
+24785-那 好  我 买 了-all right . i &apos;ll take it .-0.2
+24828-您 推荐 什么样 的-what would you recommend ?-0.2
+24839-欢迎 您 来 我们 店-welcome .-0.2
+24880-给 您-here you are .-0.2
+24930-谢谢 您 这么 说-thank you .-0.2
+24954-您 好-hello . this is mr. anderson speaking .-0.2
+24958-我 想 要 羊毛实 的-something in wool , i think .-0.2
+24985-您 好-hello .-0.2
+24986-您 好-hello .-0.2
+25045-给 您 钱-here is the money .-0.2
+25059-祝 您 旅途 愉快-wish you a very pleasant journey .-0.2
+25128-小姐  生日 快乐-happy birthday , miss .-0.2
+25130-您 喜欢 这些 吗-how do you like these ?-0.2
+25235-要 帮忙 吗-can i help you ?-0.2
+25293-给 您  多 可 爱-here it is . isn &apos;t it lovely !-0.2
+25297-您 看  很 简单-there &apos;s nothing to that , you see .-0.2
+25317-给 您-here you are .-0.2
+25319-您 喜欢 吗-how would you like it ?-0.2
+25336-我 买 了-i &apos;ll take it .-0.2
+25369-我 想 要 锦锻 的-i want brocade .-0.2
+25461-您 穿 几号 的-what size do you take ?-0.2
+25465-您 愿意 试一试 吗-would you like to have a try ?-0.2
+25472-您 觉得 怎么样-how do they feel ?-0.2
+25497-给 您-here you are .-0.2
+25502-谢谢 您 的 夸奖-thank you .-0.2
+25569-好 的  我 买 了-all right . i &apos;ll take it .-0.2
+25603-您 好-hello .-0.2
+25607-您 穿过 了 吗-have you worn it yet ?-0.2
+25711-给 您-here you are .-0.2
+25738-您 愿意 试一试 吗-would you like to have a try ?-0.2
+25746-您 觉得 怎么样-how do they feel ?-0.2
+25767-我 买 了-i &apos;ll take it .-0.2
+25783-我 买 了-i &apos;ll take it .-0.2
+25796-您 好  夫人-good morning , madam .-0.2
+25825-欢迎 您 来 我们 店-welcome to our shop .-0.2
+25857-可以  我 买 了-all right , i take it .-0.2
+25870-请 您 稍候  夫人-wait a minute please , madam !-0.2
+25880-我 想 要 一 个-i want to have one .-0.2
+25886-谢谢 您 夸奖-thank you for your high praise .-0.2
+25887-请 您 到 收款处 交款-please pay your money at the cashier &apos;s desk .-0.2
+25889-谢谢 您-it &apos;s very kind of you .-0.2
+25940-我 就 要 这 件-i &apos;ll take this one .-0.2
+25966-您 买下 了 吗-did you take it ?-0.2
+25970-您 买贵 了-you were overcharged .-0.2
+25978-给 您 钱-here is the money .-0.2
+25984-您 品味 不错  太太-you really have good taste , madam .-0.2
+26032-不 要 客气-don &apos;t mention it .-0.2
+26120-这个 枕头 要 多少 钱-how much would a pillow like this cost ?-0.2
+26121-夫人  面料 要 250 美元-well , the cost of the material will come to 250 dollars .-0.2
+26125-谢谢 您  夫人-thank you , madam .-0.2
+26133-谢谢 您  夫人-thank you very much , madam .-0.2
+26144-不 要 了-nothing more .-0.2
+26162-您 打算 兑换 多少-how much would you like to change , sir ?-0.2
+26431-肩部 要 衬垫 吗-and do you want any padding in the shoulders ?-0.2
+26463-谢谢 您-thank you .-0.2
+26469-此外  它 要 清洗 一下-besides , it needs cleaning .-0.2
+26487-您 好-good morning .-0.2
+26513-想 换成 什么-and what currency do you want ?-0.2
+26519-您 想 换 多少-how much would you like to change ?-0.2
+26520-这 就 要 看 了-it just depends .-0.2
+26521-看 什么-depends on what ?-0.2
+26529-给 您-here is the money .-0.2
+26588-给 您  先生-here you are , sir .-0.2
+26617-当然 要 以-certainly .-0.2
+26637-您 想 换 多少-how much do you want to change ?-0.2
+26718-给 您  先生-here you are , sir .-0.2
+26774-纸币 就 要 以-i &apos;d like to have it all in banknotes .-0.2
+26775-给 您  请 当面 点清-here you are , sir . count them carefully please !-0.2
+26822-给 您-here you are .-0.2
+26829-欢迎 您 来 假日 饭店-welcome to holiday inn .-0.2
+26854-行李员领 您 去-the porter will show you to the room .-0.2
+26882-谢谢 您-thank you .-0.2
+26940-您 有 预定 吗-have you gotten a booking ?-0.2
+26946-给 您-here you are .-0.2
+26951-谢谢 您-thank you .-0.2
+26960-谢谢 您-thank you .-0.2
+26976-请 问 你 叫 什么-may i have your name , please ?-0.2
+27005-要 住旅馆 吗-can i help you ?-0.2
+27076-请 您 填写 这些 表格-could you fill out these forms , please ?-0.2
+27085-祝 您 愉快-have a nice stay , sir .-0.2
+27122-您 的 名字-your name , please .-0.2
+27188-多谢 您-thanks .-0.2
+27212-谢谢 您-thank you .-0.2
+27214-给 您-here you are .-0.2
+27221-谢谢 您 告诉 我-thank you for telling me .-0.2
+27224-希望 您 住 得 愉快-i hope you enjoy your stay .-0.2
+27293-谢谢 您-thank you .-0.2
+27327-您 的 大名 是-your name , please .-0.2
+27348-谢谢 您-thank you .-0.2
+27353-谢谢 您-thank you .-0.2
+27361-谢谢 您-thank you .-0.2
+27378-要 怎么 付账-how do i pay for it ?-0.2
+27403-请 不 要 挂断-hold the line , please .-0.2
+27502-不 要 了  谢谢-no , thank you .-0.2
+27525-您 好-hello .-0.2
+27625-还 要 其他 吗-anything else ?-0.2
+27693-谢谢 您 的 帮助-i really appreciate your help .-0.2
+27701-您 先 请  先生-after you , sir .-0.2
+27705-给 您 房间 钥匙-here &apos;s your key .-0.2
+27746-谢谢 您-thank you .-0.2
+27784-您 好-hello .-0.2
+27790-不 要 了  谢谢-no , thanks .-0.2
+27798-谢谢 您 告诉 我们 这些-thank you for the information .-0.2
+28032-谢谢 您  先生-thank you , sir .-0.2
+28037-为什么 要 这么 久-why so long ?-0.2
+28071-谢谢 您  先生-thank you , sir .-0.2
+28074-谢谢 您  先生-thank you , sir .-0.2
+28099-谢谢 您-thank you .-0.2
+28134-您 想 照相 吗-do you want to have your photo taken ?-0.2
+28176-谢谢 您  先生-thank you , sir .-0.2
+28195-您 就 放心 吧-you can count on it .-0.2
+28215-我 要 煎蛋-i &apos;d like them fried .-0.2
+28258-谢谢 您-thank you .-0.2
+28273-您 好  怀特 教授-hello , prof. white !-0.2
+28281-这 是 什么-what &apos;s this ?-0.2
+28322-给 您-here you are .-0.2
+28337-您 的 地址-your address , please .-0.2
+28342-您 的 护照 呢-your passport ?-0.2
+28356-您 好-hello !-0.2
+28375-请 不 要 着急-please don &apos;t be worried .-0.2
+28432-谢谢 您  先生-thank you , sir .-0.2
+28524-给 您-here you are .-0.2
+28525-祝 您 愉快-have a fine day .-0.2
+28556-祝 您 愉快  余 先生-have a nice day , mr. yu .-0.2
+28557-女士  您 好-hello , ma &apos;am .-0.2
+28597-谢谢 您-thank you .-0.2
+28634-您 想 怎样 结账-how would you like to pay your bill ?-0.2
+28644-希望 您 住 得 愉快-hope you enjoyed your stay .-0.2
+28648-欢迎 您 再 来-i hope you &apos;ll come again .-0.2
+28661-谢谢 您-thank you .-0.2
+28683-给 您-here you are .-0.2
+28690-请 您 点收-here is the money .-0.2
+28693-祝 您 旅途 愉快-wish you a happy journey .-0.2
+28780-给 您-here you are .-0.2
+28787-给 您-here you are .-0.2
+28791-谢谢 您 告诉 我-thank you for telling me .-0.2
+28793-您 好-excuse me .-0.2
+28798-谢谢 您-thank you .-0.2
+28833-不谢  您 打算 怎样 付款-my pleasure . how do you wish to settle your bill ?-0.2
+28902-让 您 久等 了-thank you for waiting .-0.2
+28930-让 您 久等 了-thank you for waiting .-0.2
+28935-请 您 在 这儿 签字-could you sign here , please ?-0.2
+28943-谢谢 您-thank you .-0.2
+28969-我 要 退房-i &apos;d like to check out .-0.2
+28996-谢谢 您-thank you .-0.2
+29008-是 要 大 些-yes .-0.2
+29041-谢谢 您-thank you .-0.2
+29051-等候 您 的 光临-waiting for your coming .-0.2
+29084-谢谢 您-thank you .-0.2
+29087-您 好-hello !-0.2
+29180-您 好-hello .-0.2
+29182-您 好-hello .-0.2
+29195-您 看 行吗-is that ok ?-0.2
+29208-您 好-hello .-0.2
+29210-您 好-hello .-0.2
+29232-您 好-hello .-0.2
+29271-你 要 呆 多久-how ling will you be staying ?-0.2
+29296-我 要 小圆 面包-i &apos;ll have some rolls , please .-0.2
+29384-不 要 紧-that &apos;s o.k.-0.2
+29385-谢谢 您  先生-thank you , sir .-0.2
+29409-您 好-how do you do ?-0.2
+29410-您 好-how do you do ?-0.2
+29431-您 好  您 是-hello , mr.-0.2
+29435-谢谢 您-thank you .-0.2
+29678-你 的 名字 叫 什么-what &apos;s your first name ?-0.2
+29692-瞧  我 要 迟到 了-look , i &apos;m late for work .-0.2
+29711-您 有 行李 吗-have you got any luggage ?-0.2
+29715-这些 行李 要 付费 吗-should i pay for the luggage ?-0.2
+29783-最少 也 要 二 星期-at the earliest , in about two weeks .-0.2
+29871-您 有 孩子 吗-do you have children ?-0.2
+30004-给 您-here you are .-0.2
+30043-您 有 事 吗-can i help you ?-0.2
+30172-不 要 紧-that &apos;s all right .-0.2
+30210-请 不 要 挂断-hold on , please .-0.2
+30246-恐怕 您 打错 电话 了-i &apos;m afraid you have the wrong number .-0.2
+30396-麻烦 您 了-thank you for your help .-0.2
+30547-您 好-hello .-0.2
+30631-不 要 客气-you are welcome .-0.2
+30660-我 要 挂 新加坡-i &apos;d like to call singapore .-0.2
+30673-不 要 客气-you are welcome .-0.2
+30704-不 要 客气-you &apos;re welcome .-0.2
+30722-不 要 客气-you &apos;re welcome .-0.2
+30729-不 要 客气-you &apos;re welcome .-0.2
+30739-不 要 客气-you &apos;re welcome .-0.2
+30764-您 同意 付费 吗-will you accept the charge ?-0.2
+30787-不 要 客气-you &apos;re welcome .-0.2
+30807-你 要 几号 分机-what extension did you want ?-0.2
+30837-请 不 要 挂断-hold the line , please .-0.2
+30851-你 要 哪里-may i help you ?-0.2
+30899-谢谢 您  先生-thank you , sir .-0.2
+30905-你 要 打到 哪里-where are you calling , sir ?-0.2
+30906-我 要 打到 澳门-i &apos;d like to call macao .-0.2
+30916-谢谢 您  先生-thank you , sir .-0.2
+31008-您 贵 姓-what is your name ?-0.2
+31330-废话  我 要 钱-nonsense ! i want money !-0.2
+31332-请 不 要 伤害 我-please don &apos;t hurt me .-0.2
+31361-您 怎么 了-what &apos;s wrong with you ?-0.2
+31716-什么-what ?-0.2
+31749-给 您-here you are .-0.2
+31814-您 看 屋脊 那边-look over the roof line .-0.2
+31828-您 觉得 曼谷 怎么样-what do you think about bangkok ?-0.2
+31834-您 呢-what about you ?-0.2
+31847-谢谢 您-thank you .-0.2
+32008-谢谢 您-thank you very much .-0.2
+32034-谢谢 您 的 夸奖-thank you for you appreciation .-0.2
+32051-没有 什么-not at all .-0.2
+32341-您 贵 姓 大名-could i have your name ?-0.2
+32369-噢  你 要 去 吗-oh , are you ?-0.2
+32372-你 要 去 多久-how long will you be gone ?-0.2
+32432-我 真的 要 你 来-i really want you to come .-0.2
+32511-要-yes .-0.2
+32523-祝 您 旅途 愉快-have a nice trip .-0.2
+32542-给 您 钱  明天见-here you are . see you tomorrow !-0.2
+32554-要 多少 钱-how much does it come to ?-0.2
+32569-你 要 怎样 付款-how would you like to pay for this ticket ?-0.2
+32745-它 包括 什么-what does it include ?-0.2
+32755-这个 旅行 要 多少 钱-how much is the tour ?-0.2
+32806-您 好  斯特 先生-hello , mr.stern.-0.2
+32831-祝 您 旅途 愉快-have a nice flight .-0.2
+32862-您 好-how do you do ?-0.2
+32863-见到 您 很 高兴-pleased to meet you .-0.2
+32933-在 西城区 买 东西-shopping in the west end ?-0.2
+33043-您 好  史密斯 先生-hello , mr. smith .-0.2
+33086-你 要 上浆 吗-do you want them starched ?-0.2
+33102-不过 这 要 一 美元-but it &apos;ll cost a dollar .-0.2
+33112-要 上浆 吗-do you want us to use starch ?-0.2
+33187-要-yes .-0.2
+33194-您 手艺 很 好-you &apos;ve done a good job .-0.2
+33204-之后 也 要 洗头 吗-would you like to have a shampoo as well ?-0.2
+33206-要 洗头 吗-do you want a shampoo ?-0.2
+33249-今天 我 要 试试 泡沫烫-today i &apos;ll try a foam permanent .-0.2
+33252-海  我 要 烫 头发-hi , i want to have a perm .-0.2
+33270-你 要 洗头 吗-would you like a shampoo ?-0.2
+33307-是 的  要 中国式 的-yes , in the chinese style .-0.2
+33308-先生  你 要 洗头 吗-would you like to have a shampoo , sir ?-0.2
+33342-要 洗头 吗-would you like it washed ?-0.2
+33425-谢谢 您-thank you .-0.2
+33590-包裹 里面 是 什么-what &apos;s in the parcel ?-0.2
+33603-好 的  要 保险-yes . i &apos;d like to have it insured .-0.2
+33608-给 您 钱-here is the money .-0.2
+33633-里面 装 了 些 什么-what are the contents ?-0.2
+33688-总共 要 99 分-that &apos;ll be ninety-nine cents .-0.2
+33700-要 16 元-that &apos;ll be 16 dollars .-0.2
+33702-寄 船运 要 多少 钱-how much is it by ship ?-0.2
+33708-我 要 寄 船运-i &apos;ll send it by ship .-0.2
+33713-里面 是 什么-what does it contain ?-0.2
+33720-一共 要 四 美元-that &apos;ll be $ 4 .-0.2
+33736-谢谢 您 的 提醒-thank you for reminding me .-0.2
+33772-要 多少 钱-how much will it be ?-0.2
+33783-要 保险 吗-do you want it insured ?-0.2
+33787-要 多少 钱-how much will that be ?-0.2
+33836-要 多少 钱-how much does it cost ?-0.2
+33843-要 照相 吗-what can i do for you ?-0.2
+33847-您 想 放大 多少-how do you want it enlarged ?-0.2
+33875-您 想 放大 多少-how do you want it enlarged ?-0.2
+34010-船 就 要 开 了-the ship is about to start .-0.2
+34013-恐怕 我 要 吐 了-i &apos;m afraid i &apos;m going to be sick .-0.2
+34025-请 不 要 曝光-please don &apos;t expose it .-0.2
+34059-见到 您 很 高兴-nice to see you .-0.2
+34060-见到 您 很 高兴-glad to meet you .-0.2
+34206-广播 里 说 什么-what &apos;s the announcement about ?-0.2
+34245-里面 是 什么-what &apos;s in it ?-0.2
+34331-随 您 的 便-as you like .-0.2
+34383-嗯  我 要 经济舱-well , i want to go economy .-0.2
+34464-有的  您 有 学生证 吗-yes . do you have an id card ?-0.2
+34499-祝 您 旅途 愉快-enjoy your flight .-0.2
+34500-祝 您 旅途 愉快-hope you have a nice trip .-0.2
+34515-我 要 乘坐 头等舱-i &apos;d like to travel first class .-0.2
+34517-我 不 要 夜班 飞机-i don &apos;t want a night flight .-0.2
+34583-我们 在 哪儿 买 车票-where do we get tickets ?-0.2
+34593-请 买 票-all fares , please .-0.2
+34669-车票 在 哪里 买-where do i buy a ticket ?-0.2
+34683-大约 要 45 分钟-it takes about 45 minutes .-0.2
+34713-下 一 站 是 什么-what &apos;s the next stop ?-0.2
+34737-车费 要 多少-what is the fare ?-0.2
+34781-扶好  请 买 车票-hold tight ! fares , please !-0.2
+34805-你 要 坐 吗-would you like to sit down ?-0.2
+35063-您 可以 直达 那里-you may go straight there .-0.2
+35155-就 要 开车 了-the train is about to leave .-0.2
+35195-我 要 寄 封信-i want to post a letter .-0.2
+35203-要 多少 邮费-how much is the postage ?-0.2
+35207-我 要 打个 电话-i want to make a phone call .-0.2
+35254-您 不 需要 换车-no , you needn &apos;t .-0.2
+35294-火车 就 要 进站-the train is pulling in .-0.2
+35302-我们 要 剪票 进站-we will have our tickets punched .-0.2
+35310-广播 的 节目 是 什么-what program is it through the broadcasting ?-0.2
+35317-您 脸色 苍白-you look rather pale .-0.2
+35323-您 哪儿 不 舒服-what &apos;s the matter with you ?-0.2
+35337-您 的 胃口 如何-what appetite do you have ?-0.2
+35353-给 您 些 碘酒-here is some iodine for you .-0.2
+35356-您 劳累 过度 了-you are over-tired .-0.2
+35387-里面 有 些 什么-what have you got in it ?-0.2
+35527-我 要 托运 行李-i want to have my luggage checked .-0.2
+35645-给 您 钱  10 元-here you are , ten yuan .-0.2
+35714-先生  您 到 哪里-where to , sir ?-0.2
+36001-这个 包里 是 什么-what &apos;s in the bag ?-0.2
+36158-买 票-pares !-0.2
+36178-那 要 快得多-it &apos;s much faster .-0.2
+36249-那 是 为 什么-why is that ?-0.2
+36297-要 多久-how long will it take ?-0.2
+36302-还 要 多久-how much longer do we have &quot;-0.2
+36303-大概 要 1 小时-it will take an hour or so .-0.2
+36501-你 卖 些 什么-what do you sell ?-0.2
+36584-你 的 秘诀 是 什么-what &apos;s your secret ?-0.2
+36588-您 今天 好 吗-how are you today ?-0.2
+36598-您 想 去 哪儿-where would you like to go ?-0.2
+36599-我 要 去 颐和园-i need to go to the summer palace .-0.2
+36608-您 需要 租用 多久-how many days do you want the car ?-0.2
+36720-您 想 去 哪里-where are you going to go ?-0.2
+36732-我 要 小型 汽车-a small automatic one , please .-0.2
+36759-告诉 我  要 去 哪儿-tell me . where to ?-0.2
+36892-我 要 赶 时间-i &apos;m really pressed for time .-0.2
+36894-你 说 什么-what was that ?-0.2
+36959-要 看 计价器-watch the meter .-0.2
+36982-您 好  出租车 公司-hello , . taxi company .-0.2
+36983-我 要 叫车-i need a taxi .-0.2
+36988-您 现在 在 哪儿-where are you now ?-0.2
+36989-您 人 在 哪儿-what &apos;s your location ?-0.2
+37019-搭出 租车 要 多少 钱-how much is the taxi ride ?-0.2
+37141-马上 就 要 开车 了-the train is going to leave at once .-0.2
+37175-我 想 要 这个 卧铺-i &apos;d like to have this berth .-0.2
+37196-请 不 要 下车-please don &apos;t get off the train .-0.2
+37319-我们 马上 要 到站 了-we &apos;ll be at the station in a minute .-0.2
+37390-要 赔偿-you are required to pay for it .-0.2
+37445-我 要 中转 D-i want to transfer to d.-0.2
+37491-现在 我 要 恢复 旅行-now i want to continue my journey .-0.2
+37502-我 想 要 变更 经路-i should like to have a change of route .-0.2
+37524-但 旅客 要 付 退票费-but the passenger has to pay the fee for refund .-0.2
+37541-我 要 洗手-i want to wash my hands .-0.2
+37626-给 您 菜单-here is the menu .-0.2
+37659-我 要 一 份-good . i &apos;ll have one .-0.2
+37668-要 饮料 吗-any drinks ?-0.2
+37677-我 要 汽水-i want some soda water .-0.2
+37680-我 要 冰淇淋-i want to have some ice-cream .-0.2
+37684-我 要 等 多久-how long shall i wait ?-0.2
+37686-我 要 等 多久-how long do i have to wait ?-0.2
+37691-您 不 必 着急-you don &apos;t have to worry about it .-0.2
+37693-您 不 必 着急-don &apos;t worry .-0.2
+37705-您 喝 茶 吗-will you have some tea ?-0.2
+37735-小姐  洗手 间 在 哪儿-miss , where are the restrooms ?-0.2
+37795-广播 说 什么-what did it say ?-0.2
+37797-现在 在 广播 什么-what did she say in the announcement ?-0.2
+37816-飞机 要 飞 多久-how long does the flight take ?-0.2
+38012-您 需要 饮料 吗-what would you like to drink ?-0.2
+38013-我 要 咖啡-coffee , please .-0.2
+38025-您 从 哪里 来-where do you come from ?-0.2
+38039-晚饭 有 什么-what can we have for dinner ?-0.2
+38297-签证 要 检查 吗-what about the visa ?-0.2
+38307-你 袋 里 装 什么-what do you have in this bag ?-0.2
+38314-你 要 停留 多久-how long are you going to stay ?-0.2
+38352-你 要 待 多久-how long are you going to stay ?-0.2
+38364-旅行 的 目的 是 什么-what is the purpose of your trip ?-0.2
+38416-这些 您 得 纳税-you have to pay duty on them .-0.2
+38548-我 要 申请 补发-could you issue me a replacement card right away ?-0.2
+38627-到 那 要 走 多久-how long will it take to get there ?-0.2
+38714-要 不 要 检查 油-shall i check the oil ?-0.2
+38721-您 现在 在 哪里-where are you now ?-0.2
+38731-至少 要 二十五 元-it &apos;s gonna be at least twenty-five dollars .-0.2
+38741-好  但是 要 钱-sure , but it &apos;s not free .-0.2
+38762-我 要 去 博物馆-i &apos;m going to the museum .-0.2
+38906-您 去 哪儿-where are you heading for ?-0.2
+38907-也许 您 转错 弯 了-maybe you have turned the wrong way .-0.2
+38953-我们 要 找 银行-we &apos;re looking for the bank .-0.2
+39038-你 的 职业 是 什么-what &apos;s your occupation ?-0.2
+39130-您 可以 乘 地铁-you can take the subway .-0.2
+39139-到 Bayswater 要 多少 钱-how much is it to bayswater ?-0.2
+39147-还 要 付 多少-how much more is it ?-0.2
+39148-卧铺 车费 要 多少 钱-what &apos;s the sleeper fare ?-0.2
+39156-我们 在 哪儿 买 票-where do we get our tickets ?-0.2
+39231-谢谢 您 的 好意  先生-that &apos;s very kind of you .-0.2
+39250-我 要 吃点 东西-i want to have something to eat .-0.2
+39258-先生  想 喝 杯 什么-what can i prepare for you ?-0.2
+39262-希望 您 喜欢-enjoy your drink .-0.2
+39263-先生  您 的 帐单-your bill , sir .-0.2
+39329-我 要 葡萄酒-i &apos;d like wine .-0.2
+39341-你 点 了 什么-what did you order ?-0.2
+39384-我们 要 分别 付账-we &apos;d prefer separate checks .-0.2
+39475-要 结账 吗-may i help you ?-0.2
+39528-我 要 买单 .-could have the check , please ?-0.2
+39618-给 您 菜谱  女士-here is the menu , madam .-0.2
+39621-给 您 菜谱  女士-here it is , madam .-0.2
+39622-给 您 菜谱  先生-here you are , sir .-0.2
+39648-祝 您 一路 顺风-i wish you a happy landing .-0.2
+39649-祝 您 回程 愉快-i wish you a pleasant journey home .-0.2
+39717-那 没 什么-it doesn &apos;t matter .-0.2
+39725-那 没 什么-it &apos;s nothing .-0.2
+39767-多谢 您 惠顾 本 餐馆-thank you for your coming .-0.2
+39768-那 没 什么-that &apos;s quite all right .-0.2
+39778-要 收 附加费-there is a cover charge .-0.2
+39840-你们 想 先 吃 什么-what about a drink to begin with ?-0.2
+39959-今天 的 特色菜 是 什么-what is today &apos;s specialty ?-0.2
+39960-你 给 推荐 点 什么-what would you recommend ?-0.2
+39963-你 想 喝 什么-what would you like to drink ?-0.2
+39980-欢迎 您  先生-you are welcome , sir .-0.2
+40008-谢谢 您 订 电话 来-thank you for calling .-0.2
+40032-谢谢 您 来 电话-thank you for calling .-0.2
+40050-我 要 等 多久-how long a wait do you think there &apos;ll be ?-0.2
+40062-您 为 谁 预订-who &apos; s the reservation for ?-0.2
+40087-希望 您 用餐 还 愉快-i hope you enjoyed your meal .-0.2
+40102-您 坐 哪儿-where were you sitting ?-0.2
+40243-您 想要 吗-would you like it ?-0.2
+40248-您 想 坐 哪儿-where would you like to sit ?-0.2
+40268-要 等 多久-how long will it take ?-0.2
+40272-您 愿意 坐 哪儿-where would you like to sit ?-0.2
+40289-谢谢 您 了-thank you anyway .-0.2
+40311-先生  您 有 预订 吗-do you have a reservation , sir ?-0.2
+40312-您 有 预订 吗-have you got a reservation ?-0.2
+40322-您 可以 随便 坐-you can sit where you like .-0.2
+40371-请 不 要 怕 难为情-please don &apos;t be bashful ?-0.2
+40474-先生  您 何时 结账-when are you checking out , sir ?-0.2
+40683-您 赶 时间 吗-are you in a hurry ?-0.2
+40772-我 要 一些 水-i &apos;d like some water .-0.2
+40780-我 要 煮 荷包蛋-i &apos;d like my eggs poached .-0.2
+40796-我 要 一些 米饭-i &apos;d like some rice .-0.2
+40797-我们 要 一些 甜点-we &apos;d like some dessert .-0.2
+40811-要 蔬菜 吗-any vegetables ?-0.2
+40812-要 甜点 吗-any dessert ?-0.2
+40813-喝 点 什么-anything to drink ?-0.2
+40814-喝 点 什么-would like something to drink ?-0.2
+40824-今天 吃 点 什么-what &apos;re you having today ?-0.2
+40825-你 想 吃 点 什么-what would you like to eat ?-0.2
+40826-你 想 喝 点 什么-what are you going to drink ?-0.2
+40854-我 也 要 同样 的-i &apos;ll like some , too .-0.2
+40888-你 想 喝 点 什么-what do you wish to drink ?-0.2
+40965-要 汤 吗-do you want any soup ?-0.2
+41018-我 也 要 可 乐-coke for me too , please .-0.2
+41035-我 也 要 一点-i &apos;d like some , too .-0.2
+41048-不 要 甜点心-no dessert , please .-0.2
+41049-就 要 咖啡-just coffee .-0.2
+41054-我 也 要-same here .-0.2
+41057-我 也 要 一盘 龙虾-i &apos;ll have a lobster plate , too .-0.2
+41058-我 也 要-so will i.-0.2
+41075-您 喜欢 什么样 的-how would you like it ?-0.2
+41077-您 喜欢 怎么 做法-how would you like them prepared ?-0.2
+41092-今天 的 特餐 是 什么-what is today &apos;s special ?-0.2
+41094-中午 特餐 包括 些 什么-what &apos;s included in your luncheon special ?-0.2
+41177-今天 的 例汤 是 什么-what &apos;s the soup of the day ?-0.2
+41196-祝 您 健康  先生-cheers , sir .-0.2
+41201-祝 您 健康-cheers .-0.2
+41213-祝 您 健康  先生-your good health , sir .-0.2
+41215-祝 您 喝 得 开心-enjoy your drink .-0.2
+41218-今天 的 特色菜 是 什么-what &apos;s today &apos;s special ?-0.2
+41235-您 点菜 了 吗-have you ordered ? have you given your order ?-0.2
+41249-我 要 鸡 茶-i think i &apos;ll take chicken tea .-0.2
+41267-我 要 蘑菇 汤-i &apos;ll have mushroom soup .-0.2
+41268-今天 的 特菜 是 什么-what &apos;s today &apos;s special ?-0.2
+41300-我 要 香茹 清汤-i prefer dried mushroom clear soup .-0.2
+41308-我 要 小 羊腿-i &apos;d like the leg of lamb .-0.2
+41321-要 干白 的-dry .-0.2
+41331-这 是 什么-what &apos;s this ?-0.2
+41339-我 要 香菇 清汤-i prefer dried mushroom clear soup .-0.2
+41353-我 要 套餐-i &apos;ll have the set lunch .-0.2
+41372-我 要 嫩的-i &apos;d like it medium-rare .-0.2
+41393-我 要 沙拉-salad , please .-0.2
+41397-我 要 五分熟-medium , please .-0.2
+41398-我 要 早餐 B-i &apos;ll have breakfast b.-0.2
+41401-还 要 咖啡 吗-some more coffee ?-0.2
+41410-您 现在 点菜 吗-are you ready to order ?-0.2
+41430-也许 您 会 喜欢-maybe you &apos;ll like it .-0.2
+41498-你 喜欢 什么-what do you recommend ?-0.2
+41505-我 也 要 一样 的-i &apos;ll have the same .-0.2
+41515-还 有 些 什么-what else do you have ?-0.2
+41521-今天 的 特色菜 是 什么-what &apos;s special today ?-0.2
+41545-我 想 要 一点 水果-i &apos;d like to have some fruit first .-0.2
+41565-我 要 一点 芦笋-i &apos;ll have some asparagus .-0.2
+41569-我 想 要 一点 布丁-i want to have some pudding .-0.2
+41630-今天 早餐 你们 供应 什么-what do you have today for breakfast ?-0.2
+41635-我们 点 什么-what shall we order ?-0.2
+41723-你 要 多少 喜饼-how many fortune cookies do you want ?-0.2
+41724-要 足够 分配-enough to go around .-0.2
+41727-我们 上班 要 迟到 了-we &apos;ll be late for work .-0.2
+41752-我 简直 要 胀破 了-i &apos;m ready to burst .-0.2
+41775-现在 不 要  谢谢 你-not at the moment , thank you .-0.2
+41779-你 早饭 吃 的 什么-what did you have for breakfast ?-0.2
+42133-你 喜欢 喝 点 什么-what would you like to drink ?-0.2
+42140-我 要 浓茶  加两勺糖-a strong one with two spoonfuls for me .-0.2
+42236-不 要 了  谢谢-no more , thanks .-0.2
+42238-真的 不 要 了  谢谢-no , thank , really .-0.2
+42275-我们 想 要 些 土豆片-we &apos;d like some chips .-0.2
+42289-牛排 的 配菜 是 什么-what vegetables come with the steak ?-0.2
+42293-我 要 中嫩 的-i &apos;ll have it medium rare , please .-0.2
+42301-您 在 排队 吗-are you in line ?-0.2
+42329-你 喜欢 什么-what would you like ?-0.2
+42340-我 想 要 健康 食品-i want something healthy .-0.2
+42391-我 要 乳酪-i &apos;ll have cheese .-0.2
+42392-您 想 坐 哪儿-where do you prefer to sit ?-0.2
+42610-裁判员 的 职责 是 什么-what are the responsibilities of a referee ?-0.2
+42823-射击 的 意思 是 什么-what is the meaning of shooting ?-0.2
+42859-金色 中心 叫 什么-what is the gold center called ?-0.2
+42998-ITTF 表示 什么-what does ittf stand for ?-0.2
+43097-我们 要 玩 排球-we &apos;re gonna play volleyball .-0.2
+43798-不 要 客气-you are welcome .-0.2
+43827-你 学习 什么-what do you learn ?-0.2
+43863-或许  他 要 打-perhaps , he does .-0.2
+43923-她 在 那儿 干 什么-what is she doing there ?-0.2
+43930-要 绿色 的-i want a green whistle .-0.2
+43946-你 弟弟 喜欢 看 什么-what about your brother ?-0.2
+43956-那些 人 排队 干 什么-they are booking seats for a basketball match .-0.2
+43969-你 打算 做 什么-what position are you aiming for ?-0.2
+44380-司线员 的 职责 是 什么-what are the responsibilities of the linesmen ?-0.2
+44554-不 要 拖延 时间-don &apos;t delay .-0.2
+44555-不 要 拖延 时间-don &apos;t waste time .-0.2
+44556-不 要 拖延 时间-no delaying .-0.2
+44567-不 要 拖延 时间-don &apos;t hold up the game !-0.2
+44586-比赛 就 要 开始 了-the game is going to start .-0.2
+44860-我 想 要 入学-i want to enter a school .-0.2
+45871-您 喜欢 游泳 吗-do you enjoy swimming ?-0.2
+47616-这 有 什么-that &apos;s nothing special .-0.2
+47947-你 说 什么-what did you say ?-0.2
+48305-什么-what is it ?-0.2
+48399-不 要 耍花招-don &apos;t try any tricks .-0.2
+48457-那 是 什么-what &apos;s that ?-0.2
+48516-又 要 晚 了-we &apos;re going to be late again .-0.2
+48727-我 要 生气 了-i &apos;m losing my temper .-0.2
+48731-据说 他 要 辞职-it &apos;s rumored that he &apos;s going to resign .-0.2
+48747-不 要 说 了-so cut it out .-0.2
+48772-周末 就 要 到 啦-so the weekend is coming !-0.2
+48907-玛丽  我 要 走 了-i &apos;m leaving now , mary .-0.2
+48908-谢谢 您 的 款待-thank you very much for dinner , mike .-0.2
+48909-谢谢 您 的 赏光-thank you for coming .-0.2
+48977-先生  您 可以 检查 一下-you can check it , sir .-0.2
+48978-要 票 吗-do you need a ticket ?-0.2
+48980-很 难 买 呀-they &apos;re hard to come by , aren &apos;t they ?-0.2
+48994-最好 不 要 放-you &apos;d better not .-0.2
+49053-老板 为什么 要 开除 你-why ?-0.2
+49076-见到 您 很 荣幸-it &apos;s a please to meet you . i &apos;m wang li .-0.2
+49185-您 需要 会计 吗-do you have a job for an accountant ?-0.2
+49230-你 想 干 什么-what kind of job do you want ?-0.2
+49232-你 最 喜欢 干 什么-which job do you like best ?-0.2
+49291-您 好  怀特 先生-how do you do , mr. white ?-0.2
+49292-谢谢 您 来 接 我-thank you for coming to meet me .-0.2
+49313-希望 您 能 喜欢-i hope you like it .-0.2
+49325-请 您 稍候  好 吗-would you mind waiting ?-0.2
+49356-我们 要 退货-we want to return these .-0.2
+49494-请 您 这 边 走-would you come this way please ?-0.2
+49505-您 以后 有空 吗-do you have any free time after one o &apos;clock ?-0.2
+49523-您 好  尼斯 先生-how do you do , mrs. ness .-0.2
+49626-您 预约 过 吗-have you made an appointment ?-0.2
+49674-当然 要 接着 干-we &apos;ll certainly go on .-0.2
+49683-我 开会 要 晚 了-i &apos;ll be late for the meeting .-0.2
+49699-噢  不 要 了  谢谢-oh , no we don &apos;t thanks .-0.2
+49780-见到 您 很 高兴-very glad to meet you .-0.2
+49782-见到 您 也 很 高兴-very pleased to meet you , too .-0.2
+49810-是  您 是-yes , and you are .-0.2
+49818-您 是-and you are .-0.2
+49821-是  您 是-yes . and you are .-0.2
+49829-你 的 全名 是 什么-what &apos;s your full name ?-0.2
+49864-您 预约 了 吗-do you have an appointment ?-0.2
+49883-真的 要 走-really ?-0.2
+50368-明天 你 想 干 什么-what are you going to do tomorrow ?-0.2
+50375-你 周末 干 什么-what &apos;re you doing at the weekend ?-0.2
+50401-什么-why ?-0.2
+50409-要 三思而后行-look before you leap .-0.2
+50529-为什么 要 离开-why did you leave ?-0.2
+50560-我 的 职责 是 什么-what would my duties and responsibilities be ?-0.2
+50625-今天 您 有空 吗-are you free anytime today ?-0.2
+50818-要 帮忙 吗-need a hand ?-0.2
+50842-你 在 干 什么-what &apos;re you doing ?-0.2
+50939-谢谢 您-thank you for your kindness .-0.2
+51009-这个 酒 叫 什么-what &apos;s this drink called ?-0.2
+51043-这 没 什么-that &apos;s ok .-0.2
+51193-请 不 要 关门-please don &apos;t close the door .-0.2
+51492-这里 的 规定 是 什么-what are the general regulations then ?-0.2
+51824-您 喜欢 吗-do you like them ?-0.2
+51852-您 真 好-that &apos;s very kind of you .-0.2
+51917-希望 您 再次 光临-hope you &apos;ll come again .-0.2
+51918-祝 您 旅途 愉快-wish you a very pleasant journey .-0.2
+51921-好  我 买 了-ok . i &apos;ll take it .-0.2
+51925-谢谢 您  夫人-thank you , madam .-0.2
+51945-您 觉得 怎么样-how do you feel ?-0.2
+51946-您 穿 几号 的-what size do you wear ?-0.2
+51959-您 觉得 这个 怎么样-what do you think of this one ?-0.2
+51963-旅行 支票 要 复签-traveller &apos;s check need countersigning .-0.2
+52018-给 您 房间 钥匙-here &apos;s your room key .-0.2
+52025-希望 您 住 得 愉快-hope you enjoy your stay .-0.2
+52075-祝 您 旅途 愉快-wish you a nice trip , sir .-0.2
+52079-我 要 退房-check-out , please .-0.2
+52083-祝 您 旅途 愉快-have a pleasant journey home .-0.2
+52085-行李员领 您 去-the porter will show you the way up .-0.2
+52117-您 好-hello .-0.2
+52119-您 好 吗-how are you ?-0.2
+52133-什么-pardon ? / excuse me ?-0.2
+52134-什么-i beg your pardon ?-0.2
+52153-欢迎 您 到 北京 来-welcome to beijing .-0.2
+52160-谢谢 您 的 好意-it &apos;s very kind of you .-0.2
+52162-谢谢 您 打 电话 来-thank you for your call .-0.2
+52193-请 不 要 挂断-don &apos;t hang up , please .-0.2
+52208-里面 有 什么-what did you have in it ?-0.2
+52217-要 多久-for how long ?-0.2
+52239-祝 您 旅途 愉快-have a nice trip .-0.2
+52240-祝 您 好运-good luck .-0.2
+52246-祝 您 回程 愉快-pleasant journey home .-0.2
+52303-您 怎么 了-what &apos;s the matter ?-0.2
+52311-你 要 上浆 吗-do you want starch ?-0.2
+52316-要 洗头 吗-would you like it washed ?-0.2
+52317-要-yes .-0.2
+52320-里面 是 什么-what &apos;s in it ?-0.2
+52328-我 要 寄 封信-i have a letter to post . i &apos;m going to mail a letter .-0.2
+52330-这 封信 要 寄 挂号-i need to register this letter .-0.2

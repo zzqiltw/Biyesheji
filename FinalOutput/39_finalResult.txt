@@ -1,0 +1,1679 @@
+请 问 餐厅 的 营业 时间
+27860-请 问  你 能 告诉 我 餐厅 每 天 的 服务 时间 吗-would you please tell me daily service hours of the dining room ?-0.811
+8512-请 问 营业 时间-what are the restaurant &apos;s hours ?-0.667
+8519-请 问 贵 餐厅 几点 开始 营业-when does the restaurant open , please ?-0.655
+1209-请 问  从 这里 飞往 巴黎 的 确定 时间 要 多久-excuse me . what &apos;s the actual flying time from here to paris ?-0.652
+8524-本 餐厅 的 早 茶 营业 时间 是 上午 7:00-9:00 点-the restaurant is open for the morning tea from 7 : 00 a.m. to 9 : 00 a.m.-0.647
+41160-请 问 贵 餐厅 主理 哪 几 种 不同 的 菜式-could you tell me the different kinds of cuisine you have in this restaurant ?-0.647
+39848-请 问 您 要 订 什么 时间 的 席位-what time would you like your table ?-0.642
+1678-是 的  请 问  迈克 . 杰克逊 先生 订 了 一 张 NC 310 去 北京 的 机票  8 点 10 分 离开 广州  恐怕 这个 时间 对 他 来 讲 太 困难 了-yes , please.mike jackson has a reservation on flight nc 310 to beijing , leaving guangzhou at 8 : 10 . i &apos;m afraid it &apos;ll be difficult for him to make it at that time .-0.64
+39696-对 不 起  先生  现在 我们 这里 的 营业 时间 已 过  请到 玉兰 餐厅 用餐-i &apos;m sorry , sir , but the service hours is over . please have your dinner at the orchid restaurant .-0.635
+2041-请 问 您 的 姓名-your name , please ?-0.5
+2237-请 问 你 的 全 名-your full name , please ?-0.5
+2380-请 问 你 的 姓名-your name , please ?-0.5
+3082-请 问 你 的 姓名-your name , please .-0.5
+3238-请 问 您 的 姓名-your name , please ?-0.5
+3243-请 问 您 的 国籍-what &apos;s your nationality , please ?-0.5
+7971-请 问 您 的 房间号-what is your room number ?-0.5
+8834-请 问 您 的 姓名-may i have your name , sir ?-0.5
+9182-请 问 您 的 姓名-may i have your name , please ?-0.5
+9197-请 问 您 的 姓名-may i have your name , please ?-0.5
+12574-请 问 您 的 姓名-may i have your name , please ?-0.5
+15517-请 问 你 的 名字-your name , please ?-0.5
+20945-请 问 你 的 婚烟 状况-what &apos;s your marital status ?-0.5
+21301-请 问 你 的 姓名-your name , please ?-0.5
+27930-请 问 您 的 房号-your room number , please .-0.5
+29039-请 问 您 的 名字-may i have your name , please ?-0.5
+34454-请 问 您 的 订位 号码-may i have your reservation number ?-0.5
+40063-请 问 您 的 姓名-may i have your name , please ?-0.5
+40332-请 问 您 的 名字-may i have your name , please ?-0.5
+49445-请 问 您 的 号码 是-your phone number , please ?-0.5
+52091-请 问 您 的 姓名-what &apos;s your name , please ?-0.5
+52290-请 问 您 的 名字-your name , please .-0.5
+52312-请 问 你 的 大 名-may i have your name ?-0.5
+5896-请 问 最近 的 邮局 在 哪里-excuse me . where &apos;s the nearest post office , please ?-0.496
+9623-请 问 您 的 朋友 尊姓 大名-what &apos;s your friend &apos;s name , please ?-0.496
+13331-请 问 还 有别 的 点心 吗-are there any other kinds of &quot; dim sum &quot; ?-0.496
+28666-请 问 您 的 房号 是 多少-may i know your room number , please ?-0.496
+30290-请 问 您 的 电话 号码 是-your phone number , please ?-0.496
+30523-请 问 您 的 电话 号码 几号-what is your telephone number ?-0.496
+30754-请 问 您 的 姓名 及 地点-what is your name , and where are you now , please ?-0.496
+32600-请 问 有 直飞 的 航班 吗-is there a non-stop flight available , please ?-0.496
+35508-请 问 行李 的 范围 是 什么-will you please tell me what is the scope of luggage ?-0.496
+49628-请 问 您 的 名字 怎么 念-how do you pronounce your name , please ?-0.496
+51415-请 问 他 的 姓 怎么 拼-what &apos;s the spelling of his family name ?-0.496
+52041-请 问 您 的 姓名 和 房间号-what &apos; s your name and room number , please ?-0.496
+4161-请 问 100 型车 的 租费 是 多少-can you tell me the hire charge for 1100 &apos;s , please ?-0.494
+18066-请 按 我 的 表 对 好 时间-please set your watches by my watch .-0.494
+20979-请 问 你 的 全 名 叫 什么-may i ask your full name ?-0.494
+28332-请 问 您 的 名字 和 护照 号码-your name and passport number , please .-0.494
+28750-请 问 您 的 姓名 和 房间号  先生-may i have your name and room number , please ?-0.494
+28948-请 问 你 的 姓名 和 房间 号码-can i have your name and your room number , please ?-0.494
+29226-请 问 你们 的 传真 号码 是 多少-can i have your fax number ?-0.494
+30861-请 问 您 的 姓名 及 电话 号码-your name and number , please .-0.494
+37449-请 问  有 直达 广州 的 列车 吗-is there any train go straight to guangzhou , please ?-0.494
+38606-劳驾  请 问 最近 的 邮局 在 哪里-excuse me , could you tell me where the nearest post office is ?-0.494
+39635-请 问 您 的 鱼 要 怎样 做-how would you like your fish ?-0.494
+39731-请 问 您 的 宴会 在 什么 厅-may i know which dining hall your banquet is in ?-0.494
+40230-请 问  那 预定 的 桌子 在 哪儿-where &apos;s the table , please ?-0.494
+51410-请 问 是 安鲁 先生 的 住家 吗-is this the andrews residence ?-0.494
+982-请 问  你们 要 看 电影 的 耳机 吗-excuse me . do you want headphones for the movie ?-0.492
+2212-请 问 您 的 姓名  电话 号码 和 地址-please give me your name , phone number and address .-0.492
+6266-请 问  cop 是 干什么 的-pardon ? what &apos;s a cop ?-0.492
+6454-请 问  到 伦敦 的 火车 什么 时候 开-when does the london train leave , please ?-0.492
+6756-请 问  到 伦敦 的 火车 什么 时候 开-when does the london train leave , please ?-0.492
+8635-请 问 怎么 拼写 的-can you spell that , please ?-0.492
+28824-好 的  请 问 您 的 姓名 和 房间号-yes . could i have your name and your room number ?-0.492
+30852-请 问 假日 酒店 的 电话 号码 是 多少-will you please tell me the telephone number of the holiday inn ?-0.492
+30885-请 问 您 的 电话 是 几 号 呢-may i have your number , please ?-0.492
+31411-打扰 一下  请 问 您 的 表几 点 了-excuse me , do you have the time ?-0.492
+32512-请 问  我 在 什么 时间  什么 地点 取票-when and where can i get the tickets , please ?-0.492
+34734-请 问 下 一 班 车 什么 时间 开-when is the next one , please ?-0.492
+37302-请 问 从 巴黎 开来 的 特快 几点 进站-at what time is paris express due in , please ?-0.492
+39729-请 问 您 的 尊姓 大名 和 房间号  先生-may i have your name and room number , sir ?-0.492
+992-对 不 起  请 问 我 的 座位 在 哪里-excuse me , but where &apos;s my seat ?-0.49
+3167-请 问 你 的 VISA 卡 的 号码 是 ——-what &apos;s your card number , please ?-0.49
+4895-请 问 你 的 名字 和 电话 号码 是 多少-could you tell me your name and phone number , please ?-0.49
+6004-请 问 离 这儿 最近 的 饭馆 在 什么 地方-where is the nearest restaurant . please ?-0.49
+7933-请 问 所有 的 费用 都 包括 在内 了 吗-is all the expenses included , please ?-0.49
+8307-先生  请 问 我 可以 知道 你 的 名字 吗-may i have your name , please ?-0.49
+20307-请 问 你们 的 工资 及 其他 待遇 是 什么-what would the salary and benefits be ?-0.49
+21467-请 问 这里 最 好 的 参观 游览处 是 哪里-what are the best places to visit here , please ?-0.49
+26525-请 问 今天 港币 换 人民币 的 汇率 是 多少-could you please tell me the renminbi price of the hong kong dollars today ?-0.49
+26654-是 的  请 问 我 的 存款 还 有 多少-yes , could you tell me my balance ?-0.49
+28013-先生  请 问 您 的 蛋 要 煮 几 分钟-how many minutes would you like us to boil your egg , sir ?-0.49
+30452-好 的  请 问 你 的 电话 号码 是 多少-yes , of course . may i have your number , please ?-0.49
+30845-请 问 你 可以 告诉 我 香港 的 区号 吗-could you tell me the dialing code for hong kong , please ?-0.49
+32498-请 问  乘 快车 到 上海 需要 多 长 时间-by the way , how long will the express take to go to shanghai ?-0.49
+33643-请 问 这 封 快信 的 附加费 是 多少 钱-what &apos;s the surcharge on this express letter , please ?-0.49
+34352-请 问 中国 国际 航空 公司 的 服务台 在 哪里-where &apos;s the air china counter ?-0.49
+36164-请 问  去 火车站 的 票 多少 钱 一 张-how much is a ticket to the railway station , please ?-0.49
+38608-请 问 离 这 最 近 的 加油站 在 哪-please tell me where &apos;s the nearest gas station ?-0.49
+41479-请 问 我 可以 压印 一下 您 的 卡 吗-may i have a print of your card ?-0.49
+46086-请 问 为 滑雪者 准备 的 存 衣柜 在 哪儿-where is the locker for skiers ? please .-0.49
+3952-请 问  我 能 赶上 11:30 的 那 班 火车 吗-excuse me . do you think i can get there in time to catch the 11 : 30 train ?-0.489
+6930-太太  请 问 这 是 到 纽约 火车站 的 地铁 吗-excuse me , ma &apos;am . is this the right subway to go to new york railway station ?-0.489
+10718-请 问 珍珠鸡 是 怎么 做 的-what is the guinea fowl like , please ?-0.489
+10933-请 问 是 哪 个 国家 的-which country do you come from ?-0.489
+11198-请 问 你 要 什么 牌子 的-which brand would you prefer ?-0.489
+11479-请 问 您 要 什么 牌子 的-which brand would you prefer ?-0.489
+12480-请 问 您 喜欢 大厅 的 餐位 还是 包房 的 餐位-would you like a table in the main restaurant or in a private room ?-0.489
+12598-请 问 每 张 台 的 费用 标准 定 在 多少-then how much would you like to spend for each table ?-0.489
+21837-请 问 从 我 的 房间 到 你们 夜总会 怎么 走-now how can i get to the club from my room ?-0.489
+24564-请 问 您 通用 什么 颜色 的-may i know what color you usually wear ?-0.489
+25793-请 问 你 穿 几 号 的-may i ask what size you wear ?-0.489
+27604-请 问 房间 里 水龙头 晨 的 水 可以 喝 吗-could you tell me if the tap water in my room is safe to drink ?-0.489
+27668-劳驾 一下  请 问 这 是 这里 的 工作 人员 吗-excuse me . do you work here ?-0.489
+28668-霍姆 先生  请 问 您 还 有 其他 的 费用 吗-excuse me , mr. home . did you have any extras ?-0.489
+34051-请 问  您 是 从 加拿大 来 的 亨特 先生 吗-excuse me . are you mr. hunt from canada ?-0.489
+34052-请 问  您 是 从 美国 来 的 布布什 女士 吗-excuse me , but aren &apos;t you madam bush from the states ?-0.489
+34140-请 告诉 我 国泰 721 航班 的 到达 时间 好 吗-would you please tell me the arrival time of flight cx 721 today ?-0.489
+38224-请 在 这 一 行上 填上 你 的 预期 停留 时间-please fill in your intended length of stay on this line .-0.489
+39265-先生  请 问 是 要 加冰 的  还是 不 要 冰-with or without ice , please , sir ?-0.489
+1378-劳驾  请 问 您 是 不 是 美国 来 的 理查德·斯图尔特 先生-excuse me , but are you mr. richard stewart from the states ?-0.488
+2577-请 问 你 是 从 哪里 来 的-may i ask where you are from ?-0.488
+6764-请 问 下 一 班 去 维多利亚 的 车 几 点 开-what time &apos;s the next train to victoria . please ?-0.488
+8525-那么 午餐 的 营业 时间 是 几 点-what time is the restaurant open for lunch then ?-0.488
+10941-请 问 哪 两 位 是 吃素 的-who are the vegetarians , please ?-0.488
+11711-请 问 我们 点 的 菜够 5 个 人 吃 了 吗-by the way , have we ordered enough for five people ?-0.488
+12273-请 问 你们 这里 有 什么 吃 的-what do you serve here , please ?-0.488
+13306-请 问 您 还 需要 别 的 吗-and would you like anything else , please ?-0.488
+17199-好 的  请 问 要 多 大号 的-yes . what size , please ?-0.488
+17207-请 问  能 给 我 一 张 滑雪 斜坡 的 图 吗-excuse me , can i have a map of the slopes ?-0.488
+19375-请 给 我 一 两 天 的 时间-just give me a couple of days .-0.488
+26981-请 问 你 介意 把 你 的 名字 签 在 这里 吗-and would you mind signing your name here , please ?-0.488
+27951-我们 马上 派人 去 修  请 问 你 的 房间号 是 多少-we &apos;ll send someone to repair it immediately . what &apos;s your room number , please ?-0.488
+34885-请 问 下 一 班 去 香港 的 列车 什么 时候 开车-would you please tell me when does the next train to hong kong leave ?-0.488
+37297-请 问 下 一 趟 到 伦敦 的 列车 几 点 发车-when is the nest train to london , please ?-0.488
+50570-请 问 你们 何时 对 该 职位 的 聘用 问题 作出 决定-may i ask when i can expect a decision regarding this position ?-0.488
+1608-对 不 起  请 问 您 是 新西兰 来 的 约翰·格林 先生 吗-excuse me , sir , but aren &apos;t you mr. john green from new zealand ?-0.487
+1634-抱歉  打扰 一下  请 问 您 是 纽约 来 的 杰克逊 先生 吗-sorry to interrupt you , but aren &apos;t you mr. jackson from new york ?-0.487
+29215-请 问 我 得 在 6 月 11 日 的 什么 时候 退房-can you tell me what time i have to book out on june 11 ?-0.487
+34072-对 不 起  请 问 您 是 新西兰 来 的 约翰·格林 先生 吗-excuse me , but aren &apos;t you mr. john green from new zealand .-0.487
+39866-先生  请 问 您 的 饮料 是 要 加冰  还是 不 要 加冰-with or without ice , please , sir ?-0.487
+47065-请 告诉 我 您 的 到达 时间 以便 我们 做出 必要 的 安排-could you tell me when you intend to arrive so we can make the necessary arrangements ?-0.487
+1752-请 问 这个 柜台 办理 到 纽约 的 203 航班 的 登机 手续 吗-excuse me , is this the counter for checking in of the flight 203 to new york ?-0.486
+5181-贝克 先生  请 问 您 是 干什么 工作 的-mr. baker , may i know your occupation ?-0.486
+6002-对 不 起 打扰 您  请 问 离 这儿 最近 的 饭馆 在 哪儿-i &apos;m sorry to trouble you , but could you tell me where the nearest restaurant is ?-0.486
+9058-劳驾  小姐  请 问 新 星 餐厅 在 哪里-excuse me , miss . where is the new star dining room ?-0.486
+12551-喂  请 问 是 顺利 园 铁板烧 餐厅 吗-hello . is that the sunny garden barbecue ?-0.486
+23179-能 不 能 请 您 订 在 5 点 以后 的 某 个 时间-could you make it some time after 5 : 00 , please ?-0.486
+24885-请 问  还 有 没 有 便宜 一点 的-have you got a cheaper one , please ?-0.486
+27426-我 想 跟 戈斯 先生 讲话  请 问 他 的 房间 号码 是 多少-i &apos;d like to speak to mr. goss . could you tell me his room number ?-0.486
+28978-女士  请 问 您 什么 时间 入住 本 店-when for , ma &apos;am ?-0.486
+29204-请 问 有 什么 我 可以 效劳 的 吗-can i help you ?-0.486
+37886-请 告诉 我 抵达 洛杉矶 的 时间 好 吗-can you tell me what time we &apos;re arriving in los angeles ?-0.486
+1692-请 问 今晚 有 没 有 晚 一点 的 航班-is there a later flight this evening , please ?-0.485
+30444-我 是 索米 公司 的 哈德 先生  请 问 业务部 的 琼斯 先生 在 吗-this is mr. hudson at sony electronics . i &apos;d like to speak to mr.jones in sales .-0.485
+3118-请 问 你们 有 没 有 二 等 舱 的 位子-do you have a seat available in second class ?-0.484
+10673-请 问 贵 酒店 主理 哪 几 种 不同 的 菜式-could you tell me the different kinds of cuisine you have in this restaurant ?-0.484
+17387-我 是 索米 公司 的 肯尼迪 先生  请 问 建设 问门 的 史密斯 先生 在 吗-this is mr. kennedy of sony electronics calling . may i speak to mr. smith of the plant department ?-0.484
+30491-这里 是 环保 企业 公司  请 问 你 要 我 把 你 的 电话 转给 谁-corporate environment enterprises , how may i direct your call ?-0.484
+983-当然 要 了  请 问 这 飞机 是 直达 洛杉矶 的 吧-we sure do . by the way , this is a direct flight , isn &apos;t it ?-0.483
+28612-请 告诉 我 您 的 衣服 是否 需要熨  水洗 还 是 干洗 以及 您 需要 取回 衣服 的 时间-please tell me whether you need your clothes ironed , washed or dry-cleaned and also what time you want to get them back .-0.483
+32653-请 问 一下  我 从 你们 的 旅游 手册 里 看到 有关 尼加拉瓜 瀑布 巴士 旅游 的 资料-excuse me . i read in your travel brochure about your bus tours to niagara falls .-0.483
+42474-英国 酒馆 的 许可 营业 时间 是 由 法律 严加 限制 的-the hours during which english pubs are allowed to open are strictly controlled by the law .-0.483
+50590-斯图尔特 先生  打扰 您 一下  请 问 我 能 汉 有 和 您 谈谈 我们 的 合同 的 事-excuse me , mr. steward , i wonder if i could talk with you about our contract .-0.483
+50747-我 这儿 是 法克斯波  我 想 请 问 您 的 本 公司 购买 的 传真机 是否 有 其他 问题-hello , i &apos;m calling form faxpro to see if you have had any other problems with the facsimile machine you purchased from us .-0.483
+3048-噢  那 是 我们 飞往 旧金山 的 定期 航班  请 问 您 的 姓名-oh , that &apos;s our regular flight to san francisco . what is your name , please ?-0.482
+8513-自助 火锅 的 营业 时间 是 : 中午 11:30 至 2:00 晚上 5:30 至 8:00-the restaurant hours are from 11 : 30 to 2 : 00 p.m.at noon , and from 5 : 30 to 8 : 00 p.m. in the evening .-0.482
+8682-现在 请 您 告诉 我们 宴会 的 时间 及 您 认为 最 中意 的 地点-now please tell us the time and your favorite place for the party .-0.482
+27205-女士  请 稍等 一下  洛克 女士  找到 了  带 淋浴 和 浴缸 的 双 人 房间  时间 是 从 今天 到 12 日-just a moment , ma &apos;am . here we are , ms. lock . a double room with bath and shower from today to the twentieth .-0.482
+46969-请 开机 查询 包括 道琼 股票 消息 的 电传 视讯 数据库  看 那 公司 自 星期一 起 的 营业 状况 如何-please log on to a telecommunications database containing the dow jones stock information and see how well that company has performed since monday .-0.482
+3102-八月 十五日 我 要 去 洛杉矶  请 问 你们 有 没有 下午 一点 左右 的 飞机-yes , i &apos;d like to go to los angeles on august 15th . do you have any flights leaving around 1 o &apos;clock in the afternoon ?-0.481
+21272-斯图尔特 博士  打扰 您 一下  请 问 我 能 不 能 和 您 谈谈 我 的 论文-excuse me , dr.steward , i wonder if i could talk with you about my paper .-0.481
+31128-请 问 在 几 楼 —— 我 是 指 那 套 两 间 卧室 的 公寓-what floor is it on ? i mean the two-bedroom apartment ?-0.481
+11624-我 现在 可以 点餐 了  但 想 请 问 你 一下  今天 有 没有 主厨 特别 推荐 的 菜-i &apos;m ready to order now . but i &apos;d like to ask – are there any dishes that the chef recommends today ?-0.48
+29884-啊  没关系  陈 先生  如果 您 以后 有 需要  请 随时 打 电话 给 我  谢谢 你 的 时间-oh , all right . mr chen , you may find out you need it in the future , please don &apos;t hesitate to call me . thank you for your time .-0.48
+51594-如果 您 在 阅读 此信 和 所 附 的 简历 后 觉得 我 正 是 你们 所 需要 的 人选  请 拨 简历 上 注明 的 家庭 电话 或 在 上班 时间 拨打 753286  通知 我 什么 时候 您 觉得 方便-if you agree , upon reading this letter and the enclosed resume , that i am the person you need , call me at the home number listed in the resume or at 7543286 during office hours . please let me know when it would be convenient to see you .-0.479
+3107-是 的  请 问 你 要 二 等 舱 或 头等舱-yes , sir . would you like to go tourist class or first class ?-0.476
+3182-好 的  先生 请 问 您 贵 姓  电话 号码 是 多少-yes , sir . can i have your name and number , please ?-0.475
+3266-请 你 到 最近 的 车站 去 付款  请 问 你 贵 姓-please go to the nearest station to pay for the ticket . may i have your name , please ?-0.474
+12279-你们 的 自助 餐厅 什么 时候 营业-what are the business hours for your buffet ?-0.474
+24620-好 的  请 问 什么 时候 送到-all right . when will it reach me ?-0.474
+31082-我 是 索米 公司 的 琼斯 先生  请 问 杰佛瑞 先生 在 吗-this is mr. jones of sony electronics . is mr. jeffries in ?-0.474
+41158-先生  我们 供应迷您型  四分之一 和 半瓶装 的  请 问 您 要 哪 一 种-we sell mini , quarter and half bottles , sir . which would you prefer ?-0.474
+10314-好 的  我们 有  请 问 你们 餐前 喝 鸡尾 酒 呢 还 是 葡萄酒-yes , sir . we have . would you care for a cocktail or wine before the meal ?-0.473
+29329-先生  我们 有 迷你型  四分之一 和 半瓶装 的  请 问 您 要 哪 一 种-we sell mini , quarter and half bottles , sir.which would you prefer ?-0.473
+39894-您 订 了 一 桌 8 人 1,500 人民币 的 酒席  请 问 有 没 有 变化-you have ordered the rmb 1,500 yuan course for eight persons . has there been any change ?-0.473
+16288-有关 太 极 拳 的 事  请 随便 问 吧-please feel free to ask me anything concerning taijiquan .-0.472
+30914-伦敦 的 陈 先生 有 一 通 请 您 付费 的 电话  请 问 您 愿意 付费 吗-this is a collect call for you from mr. chen in london . would you accept the charges ?-0.472
+52553-如果 药房 已经 停止 营业  就 在 橱窗 里 查 一下 在 那 天 延迟 营业 时间 的 药剂师 名单-if the shop is closed look in the window for the list of chemists who are open late on that particular day .-0.472
+17431-我们 会派 车子 去接 您 的  请 问 您 贵 姓-we &apos;ll send a car for you , sir . may i have your name , please ?-0.471
+11942-我们 为 我 的 生日 预订 了 一 张 今晚 的 餐桌  请 问 安排 在 哪里-we &apos;ve reserved a table for my birthday tonight . where is my reserved table , please .-0.47
+19246-好 的 , 请 给 我 一些 时间 计算 数量  或许 我们 可以 完成 交易-well , let me have a little time to work out quantities , then perhaps we can close a deal .-0.47
+3096-给 伯恩 先生 发 一 传真  告诉 他 航班 到 洛杉矶 的 时间  并 请 他 为 我们 代订 旅馆-send a fax to mr bowen about our flight and arrival time at the la . also ask him to make hotel reservations for us .-0.469
+2135-好 的  请 问 大名-certainly . your name , please .-0.467
+51116-现在 是 午餐 时间  让 我 带 您 去 我们 的 自助 餐厅 吧-since this is lunchtime , allow me to take you to our cafeteria .-0.462
+738-请 收下 找 的 钱-please keep the change .-0.333
+1049-请 问  你 是 哪 国人-excuse me , may i know your nationality ?-0.333
+1092-请 问 贵 姓-what &apos;s your name , please ?-0.333
+1884-请 问  夫人-excuse me , ma &apos;am .-0.333
+2098-请 问 您 叫 什么 名字-what &apos;s your name , please ?-0.333
+2103-请 问 票价 是 多少-and what is the fare , please ?-0.333
+2174-请 问 您 叫 什么 名字-may i have you name , please ?-0.333
+2249-请 问 什么 国籍-what &apos;s the nationality , please ?-0.333
+2266-请 问 是 哪 次 航班-which flight , please ?-0.333
+2333-请 问 多少 钱-how much is it ?-0.333
+2342-请 问 票价 多少-how much is the fare ?-0.333
+2346-请 问 大名-your name , please ?-0.333
+2694-请 问  票价 是 多少-i &apos;d like to go and visit the yuyuan garden . how much is the ticket ?-0.333
+2706-请 问 票价 多少-how much is the fare , please ?-0.333
+2750-请 问  你 想去 哪儿-what &apos;s your destination , please ?-0.333
+2801-请 问 票价 多少-what &apos;s the fare , please ?-0.333
+2977-请 问 车费 多少 钱-how much is the fare , please ?-0.333
+3075-请 问 要 哪 种 舱-which class , please ?-0.333
+3189-请 问 行李 限重 是 多少-what &apos;s the baggage allowance , please ?-0.333
+4229-请 问-please .-0.333
+4460-请 问 还 需要 多久-how much longer do we have ?-0.333
+4476-请 问 要 多久-how long will it take ?-0.333
+5002-请 出示 您 的 申报表-will you please show me your declaration form ?-0.333
+5124-请 出示 您 的 护照-show me your passport , please .-0.333
+5137-请 出示 您 的 护照-your passport , please .-0.333
+5370-请 打开 你 的 箱子 行吗-would you please open your suitcases ?-0.333
+5911-请 问-excuse me .-0.333
+5919-请 问 超级 市场 在 哪里-can you tell me where the supermarket is ?-0.333
+6538-请 问 有 什么 规定-will your please tell me the regulations about it ?-0.333
+6555-请 出示 您 的 车票-please show me your ticket .-0.333
+6674-请 问 多少 钱-what &apos;s the fare , please ?-0.333
+6775-请 出示 你们 的 身份 证明-show me your identity cards , please .-0.333
+6796-请 问 票价 是 多少-how much is the fare ?-0.333
+6971-请 问  到 兰开斯特门 怎么 去-how do i get to lancaster gate , please ?-0.333
+6999-请 问 怎么 去 曼哈顿-can you tell me how to get to manhattan ?-0.333
+7066-请 问 吧-go ahead .-0.333
+7072-请 问 吧-please go ahead .-0.333
+7080-请 问 吧-please go ahead .-0.333
+7719-请 享用 您 的 汤-please enjoy your soup .-0.333
+7937-请 问 我 需要 签名 吗-need i sign my name , please ?-0.333
+8147-请 记入 我 的 帐号-put it on my american express .-0.333
+8251-请 问 什么 时候 送来-what time will it be delivered ?-0.333
+8282-请 问 你们 有 几 位-how many are in your party , please ?-0.333
+8286-请 问 您 贵 姓-may i know your name , please ?-0.333
+8348-请 问 您 贵 姓-may i have your name , please ?-0.333
+8369-请 问 先生 贵 姓-may i have your surname , please ?-0.333
+8391-请 问 几 位 呀-for how many guests , please ?-0.333
+8400-请 问 夫人 贵 姓-may i have your name , madam ?-0.333
+8415-请 问 您 贵 姓-may i have your name , please ?-0.333
+8430-请 问 你们 一共 多少 人-how many people will there be in your party ?-0.333
+8435-请 问 宴会 什么 时候 举行-when would you like your party ?-0.333
+8478-请 问 先生 贵 姓-by the way , may i have your name , sir ?-0.333
+8492-请 问 中午 有 火锅 吗-do you have hot pot service at noon ?-0.333
+8498-请 问 您 贵 姓-may i have your surname please ?-0.333
+8502-向 顾客 说明 营业 时间-telling service time to a guest-0.333
+8589-请 问 你们 有 几 位-how many in your party ?-0.333
+8593-请 问 您 贵 姓-may i have your name , please ?-0.333
+8606-请 问 你 叫 什么 名字-may i have your name please , sir ?-0.333
+8629-请 问 有 几 位-for how many people , please ?-0.333
+8633-请 问 您 贵 姓-may i have your name , please ?-0.333
+8650-请 问 您 叫 什么 名字-may i have your name , please ?-0.333
+8701-请 问 您 有 几 位-how many people are there in you party ?-0.333
+8705-请 问 先生 什么 时候 光临-when do we expect you to come , sir ?-0.333
+8726-请 问 一共 多少 人 参加-and how many will there be in you party ?-0.333
+8802-请 问 你们 有 几 位-how many are in your party ?-0.333
+8807-请 问 您 贵 姓-may i have your name , please ?-0.333
+8856-请 问 贵 姓-may i have your name , please ?-0.333
+8873-请 问 有 几 位-how many persons , please .-0.333
+8951-请 问 您 一共 几 位-how many are there in your party , sir ?-0.333
+9033-请 问 有 没有 预订-have you made a reservation with us ?-0.333
+9060-请 问 楼梯 在 哪-where is the stairway , please ?-0.333
+9064-请 问 休息室 在 哪里-could you tell me where the rest room is ?-0.333
+9082-请 问 哪 家 公司-what company are you from , please ?-0.333
+9092-请 问 几 位-how many persons do you have , please ?-0.333
+9101-请 问 先生 贵 姓-may i have your name , please ?-0.333
+9112-请 问 订 了 座 吗-have you had a reservation ?-0.333
+9119-请 问 您 尊姓 大名-what &apos;s your name , please ?-0.333
+9129-请 问 几 位-how many of you , please ?-0.333
+9138-请 问 喝 什么 茶-what tea do you prefer ?-0.333
+9174-请 问 有 几 位-how many persons , please ?-0.333
+9254-请 问 有 几 位-how many persons , please ?-0.333
+9272-请 问 贵 姓-may i have your name , please ?-0.333
+9331-请 问 您 一共 几 位-how many of you , please ?-0.333
+9520-请 问 您 贵 姓-what &apos;s your name , please ?-0.333
+9530-请 问 公用 电话 在 哪里-where is the public telephone , please ?-0.333
+9626-请 问 您 贵 姓-and your name , please ?-0.333
+10304-请 问 喜欢 什么-which do you prefer ?-0.333
+10443-请 问 几 位-how many persons are you , please ?-0.333
+10612-请 问 要 喝 点 什么-would you like something to drink ?-0.333
+10617-推荐 餐厅 的 风味 菜-16 . recommending the specials in the restaurant-0.333
+10657-请 问 有 什么 蔬菜-what vegetables will you have ?-0.333
+10690-请 问 有 什么 素菜-what kind of vegetables do you have ?-0.333
+10694-请 问 要 什么 汤-what soup would you prefer ?-0.333
+10697-请 问 喝 点 什么 酒-anything to drink ?-0.333
+10865-请 问 还 什么 需要 吗-could i serve you anything else ?-0.333
+11095-请 享用 您 的 早餐-please enjoy your breakfast .-0.333
+11269-请 问 你们 几 位-how many are there of you ?-0.333
+11309-请 问 要 什么 甜点-what would you like for dessert ?-0.333
+11534-请 问 一共 有 几 位-how many persons , please ?-0.333
+11562-请 问 这些 是 什么-what are these , please ?-0.333
+11569-请 问 这些 是 什么-what are these , please ?-0.333
+11771-请 问 一共 有 几 位-how many people are there in your party ?-0.333
+11806-请 问  你们 想 吃 什么-what will you have , please ?-0.333
+11869-请 问  您 几 位-how many , please ?-0.333
+12286-现在 是 营业 时间-it is the business time now .-0.333
+12434-请 问 您 尊姓 大名-can i have your name ?-0.333
+12476-请 问 有 几 位-how many people are there in your party ?-0.333
+12478-请 问 几点钟 光临-when do we expect you to come , sir ?-0.333
+12496-请 问 有 几 位-for how many persons , please ?-0.333
+12500-请 问 您 贵 姓-may i have your name . please ?-0.333
+12502-请 问 几点钟 光临-mr. forester . when do we expect you to come ?-0.333
+12545-请 问 贵 姓-may i have your name , please ?-0.333
+12588-请 问 宴会 什么 时候 举行-when would you like your banquet ?-0.333
+12590-请 问 一共 有 多少 人-how many people will there be in your party ?-0.333
+12764-请 问 是 琼 吗-is it joan , please ?-0.333
+13162-请 问 点 些 什么-may i help you ?-0.333
+13223-请 问 您 要 什么-can i take your order , please ?-0.333
+13247-请 问 你们 一共 几 位-how many are there in your party ?-0.333
+13292-请 问 点 些 什么-may i help you ?-0.333
+13321-请 问 开 几 位 茶-how many teas would you care to have ?-0.333
+13328-请 问 这些 是 什么-what &apos;re these , please ?-0.333
+15520-请 问 多少 钱-how much are they , please ?-0.333
+17466-请 问 您 是 哪 位-whom shall i say is calling ?-0.333
+19208-请 问 贵 姓-may i have your name , please ?-0.333
+20298-请 问-please go ahead .-0.333
+20358-请 问 你们 需要 零工 吗-i was wondering whether you needed any part-timers .-0.333
+20977-请 问 你 叫 什么 名字-may i have your name ?-0.333
+21011-请 问 吧-please go ahead .-0.333
+21674-请 问 票价 多少 钱-how much is it ?-0.333
+23989-请 问 三星 商店 在 哪里-by the way , where is tristar ?-0.333
+24147-请 问 多少 钱-how much , please ?-0.333
+24173-请 拿出 你 的 退税单-your tax-refund form , please .-0.333
+24395-请 问 您 穿 几号-may i ask what size you wear ?-0.333
+24546-请 问 您 腰围 多少-how much do you measure around the waist ?-0.333
+24797-请 问 这个 有 没有 特价-excuse me . is this on special ?-0.333
+24815-请 问  您 想 买 什么-yes ? how can i help you ?-0.333
+26351-请 问 什么 事-how can i help you-0.333
+26403-请 做 单排扣 的-please make it single-breasted .-0.333
+26433-请 做 单排扣 的-please make it single-breasted .-0.333
+26569-请 出示 您 的 号牌-your number plate , please .-0.333
+26726-请 问 你 有 什么 事-what can i do for you ?-0.333
+26818-请 问 是 多少 钱-what &apos;s the rate , please ?-0.333
+26962-请 问 今晚 有空 房间 吗-i wonder whether you have any vacancies for tonight .-0.333
+26976-请 问 你 叫 什么-may i have your name , please ?-0.333
+27073-请 问 您 贵 姓-what &apos;s your name , sir ?-0.333
+27129-请 出示 您 的 护照-may i have your passport please ?-0.333
+27203-请 问 您 贵 姓-your name , please ?-0.333
+27281-请 问 在 哪里 用 早餐-where can i have breakfast ?-0.333
+27533-请 问 您 贵 姓-what name is it , please ?-0.333
+28075-请 享用 您 的 食物-please enjoy your meal .-0.333
+28095-请 问 贵 姓-may i have you name , lease ?-0.333
+28982-请 问 您 贵 姓-what &apos;s your name , please ?-0.333
+29128-请 问 尊姓 大名-may i have your name , please ?-0.333
+29350-请 享用 您 的 咖啡-please enjoy your coffee .-0.333
+29866-请 问 你 是 谁-may i ask who &apos;s calling ?-0.333
+30234-请 问 您 是 哪 位-may i ask who &apos;s calling ?-0.333
+30245-请 问 布朗 先生 在 吗-is brown here , please ?-0.333
+30311-请 问 艾丽斯 在 吗-is alice there , please ?-0.333
+30364-请 问  我 可以 留话 吗-may i leave a message , please ?-0.333
+30398-请 问 您 哪 位-who is speaking , please ?-0.333
+30500-请 问 你 是 哪 位-may i ask who &apos;s calling ?-0.333
+30540-请 问 贵 姓-may i have your name ?-0.333
+30559-请 问 是 谁 找 他-may i ask who is calling ?-0.333
+31092-请 问 您 是 哪 位-may i ask who &apos;s calling ?-0.333
+31208-请 问 租期 多 长-how long is the lease ?-0.333
+32446-请 问 贵 姓-may i have your name ?-0.333
+32563-请 问 贵 姓-could i have your last name ?-0.333
+32814-请 问 飞机 什么 时候 起飞-what time does it leave ?-0.333
+33599-请 问 邮资 是 多少-how much is the postage , please ?-0.333
+33908-请 问 是 什么 错误-what &apos;s the mistake ?-0.333
+34351-请 问 行李 什么 时候 到-when can i get it back ?-0.333
+34466-请 问 贵 姓 大名-your name , please .-0.333
+34512-请 问 办事处 在 哪里-where is the counter , please ?-0.333
+35104-请 问 休息室 在 哪儿-may i know where the rest-hall is ?-0.333
+35219-请 问 有 什么 事-what can i do for you ?-0.333
+35301-请 拿好 你们 的 车票-please take care of your tickets .-0.333
+35476-请 问 要 付 多少 钱-how much please ?-0.333
+35498-请 打开 您 的 手提箱-open your suitcase , please !-0.333
+35761-请 出示 您 的 身份证-show me your identity card , please .-0.333
+35762-请 出示 您 的 护照-show me your passport , please .-0.333
+36888-请 问 现在 是 什么 时候-what time is it please ?-0.333
+37096-请 问 .-excuse me .-0.333
+37125-请 问  卧铺车厢 在 哪里-can you tell me where the sleeping car is ?-0.333
+37830-请 问  洗手 间 在 哪儿-where is the washroom , please ?-0.333
+37949-请 问 飞机 什么 时候 起飞-may i know the departure time ?-0.333
+38153-请 出示 你 的 护照-show me your passport , please .-0.333
+38193-请 出示 你 的 护照-please show your passport .-0.333
+38237-请 拿出 您 的 护照-your passport , please .-0.333
+38378-请 出示 您 的 护照-passport , please .-0.333
+38386-请 出示 您 的 防疫证-show me your vaccination certificate , please .-0.333
+38394-请 出示 你带 的 外币-please show me your foreign notes and bills .-0.333
+38401-请 检查 我 的 行李-please examine my luggage .-0.333
+38417-请 出示 您 的 申报表-please show your declaration form .-0.333
+38547-请 把 我 的 信用卡 作废-i &apos;d like to have them reissued .-0.333
+38609-请 问 人民 广场 怎么 走-would you like to direct me to the people &apos;s square ?-0.333
+38610-请 问 胜利 宾馆 怎么 走-how can i get to the victory hotel ?-0.333
+38611-请 问 银行街 怎么 走-would you please tell me where &apos;s the banking street ?-0.333
+38612-请 问 教堂 怎么样-could you tell me the way to the church ?-0.333
+38614-请 问 这个 地方 怎么 走-would you please tell me how can i get to this address ?-0.333
+38616-请 问 中心 市场 怎么 走-would you mind telling me the way to the central market ?-0.333
+38619-请 问 耶鲁 大学 怎么 走-could you tell me where &apos;s the yale university ?-0.333
+38778-请 问 去 地铁 怎么 走-can you tell me way to the subway ?-0.333
+38779-请 问 这个 地址 在 哪儿-how can i find this address ?-0.333
+38780-请 问 去 博物馆 怎么 走-can you direct me to the museum ?-0.333
+38912-请 问 火车站 在 哪儿-could you tell me where the railway station is ?-0.333
+38949-请 问 去 礼堂 怎么 走-can you tell me the way to the auditorium , please ?-0.333
+38955-请 问 咖啡厅 在 什么 地方-where &apos;s the coffee shop , please ?-0.333
+38960-请 问 去 电话亭 怎么 走-which way is the phone booth , please ?-0.333
+39031-请 问 你 叫 什么 名字-what &apos;s your name please ?-0.333
+39629-请 问 你们 一共 几 位-how many people are there in your party ?-0.333
+39631-请 问 要 开几 位 茶-how many teas would you like to order ?-0.333
+39927-请 问 有 没 有 变更-has there been any change ?-0.333
+39938-请 问 你们 有 几 位-for how many people , please ?-0.333
+39987-请 问 有 几 位-for how many persons , please ?-0.333
+39988-请 问 有 几 位-how many people are there in your party ?-0.333
+39989-请 问 有 几 位-how many of you may we expect in you party ?-0.333
+39992-请 问 几点钟 光临-at what time can we expect you ?-0.333
+39993-请 问 几点钟 光临-when would you like to take the table ?-0.333
+39994-请 问 先生 几 点钟 光临-when do we expect you to come , sir ?-0.333
+40002-请 问 有 什么 变更 吗-has there been any change ?-0.333
+40046-请 以 李楠 的 名义 订餐-please book it under the name of li nan .-0.333
+40259-请 问 有 几 位-how many persons , please ?-0.333
+40752-请 问 开胃菜 要 什么-what do you want for your appetizer , please ?-0.333
+40884-请 问 有 几 位 客人-for how many guests , please ?-0.333
+41136-请 问 什么 时候 送去-what time will it be delivered ?-0.333
+41439-请 问 您 饭前 饮酒 吗-would you like a drink before your meal ?-0.333
+43438-请 问 篮球场 在 哪儿-can you direct me to the basketball court ?-0.333
+43442-请 原谅 我 的 迟到-excuse me for being late .-0.333
+44145-没有 明确 的 时间-there is no definite playing time .-0.333
+44375-没有 明确 的 比赛 时间-there is no definite playing time .-0.333
+48778-请 问 几 点 了-what time is it , please ?-0.333
+49486-请 问 贵 姓 大名-may i have your name please ?-0.333
+49735-请 问  你 是 珍妮 吗-excuse me , are you jane ?-0.333
+50877-请 接受 我 的 祝福-please accept my best wishes !-0.333
+51180-请 拿 A4 的 吧-a4 please .-0.333
+51402-请 问 找 哪 一 位-may i help you ?-0.333
+51403-请 问 贵 姓-may i ask who is calling , please ?-0.333
+51413-请 问 有 何 贵干-may i help you ?-0.333
+51437-请 找 半导体部 的 佐藤礼子 小姐-please ask for miss reiko sato in the semiconductors department .-0.333
+51871-请 问 是 多少 钱-how much is it , please ?-0.333
+52106-请 问 尊姓 大名-may i have your name ?-0.333
+52123-请 问 尊姓 大名-may i have your name , please-0.333
+52168-请 问 你 是 谁-who &apos;s calling , please .-0.333
+52169-请 问 有 何 贵干-in what regard are you calling ?-0.333
+52176-请 问 你 是 哪 位-may i ask who i am talking to ?-0.333
+52177-请 问 您 是 哪 位-who &apos;s calling , please ?-0.333
+52178-请 问 您 是 哪 位-may i have your name , please ?-0.333
+52179-请 问 你 是 谁-who &apos;s calling , please ?-0.333
+52186-请 问 您 是 哪 位-who &apos;s speaking , please ?-0.333
+52187-请 问 您 是 哪 位-may i ask who &apos;s calling , please ?-0.333
+52194-请 问 有 什么 事-may i ask what it &apos;s about ?-0.333
+52200-请 问 公用 电话 在 哪里-where &apos;s a public phone ?-0.333
+52213-请 问 几 点 了-what time , please ?-0.333
+52277-请 问 贵 姓-may i ask who &apos;s calling ?-0.333
+52278-请 问 你 是 谁-may i know who &apos;s calling ?-0.333
+52279-请 问 你 是 谁-who &apos;s speaking , please ?-0.333
+52280-请 问 你 是 谁-who &apos;s this calling , please ?-0.333
+816-请 问 可否 给 我 一 杯水-can i have a glass of water , please ?-0.331
+1166-小姐  请 问 我们 什么 时候 着陆-excuse me , miss . when will we land ?-0.331
+1254-小姐  请 问 我们 什么 时候 降落-excuse me , miss . when will we land ?-0.331
+1339-请 问 你 到 日本 做 什么-what do you do in japan , if i may ask ?-0.331
+1477-请 把 您 的 行李卡 给 我-give me your baggage check , please .-0.331
+1709-请 问  您 乘坐 哪 次 航班-which flight are you taking ?-0.331
+1754-请 出示 您 的 机票 和 护照-may i have your ticket and passport , please ?-0.331
+2079-请 问 飞机 都 什么 时候 起飞-may i inquire about the departure time ?-0.331
+3178-请 问 往返 票 价格 是 多少-what &apos;s the price for the return ticket , please ?-0.331
+4301-请 出示 您 的 护照 和 驾驶证-may i have your passport and driving license ?-0.331
+5267-请 出示 您 的 护照 好 吗-may i see your passport , please ?-0.331
+5689-请 问 我 这 是 在 哪里-where am i ?-0.331
+5796-请 问到 最近 的 医院 怎么 走-can you show the way to the nearest hospital ?-0.331
+5827-请 问 什么 地方 卖 女士 用品-where do you sell women &apos;s furnishings ?-0.331
+6169-请 问 在 什么 地方 取 行李-could you tell me where to get my luggage ?-0.331
+6613-请 问 陶瓷 器皿 柜台 在 哪儿-where is the porcelain vessel counter , please ?-0.331
+7010-请 问 怎么 去 第 70 大街-how do we get to the 70th street , please ?-0.331
+7235-请 问  “ 黄皮书 ” 是 什么-excuse me , what &apos;s &quot; yellow paper &quot; ?-0.331
+7236-请 问  “ 黄皮书 ” 是 什么-李小姐  现在你可以去办旅行黄皮书了-0.331
+7815-请 出示 你 的 身份证 或 护照-your identification card or passport please !-0.331
+8242-请 问 有 什么 吩咐  布朗 先生-what can i do for you , mr. brown ?-0.331
+8411-请 问 先生 请 几 位 客人-how many people will you invite ?-0.331
+8820-请 问 您 叫 什么 名字  先生-may i have your name , sir , please ?-0.331
+8821-请 以 杰克逊 先生 的 名字 预订-please book it under the name of mr. jackson .-0.331
+9548-请 问 您 点 哪 种 汤-and what would you like to order for the soup ?-0.331
+10704-请 问 还 要 点 什么 吗-anything else do you like to order ?-0.331
+11337-这 家 餐厅 的 东西 很 好吃-they serve good food in this restaurant .-0.331
+11539-请 问 诸位 喜欢 哪 一 种-which do you prefer ?-0.331
+12452-请 问 是 必治妥 制药 公司 吗-is that industry bristol , please ?-0.331
+13001-请 问 这个 座位 有 人 吗-is the seat taken , please ?-0.331
+13235-我们 没有 出售 酒类 的 营业 执照-we &apos;re not licensed to sell alcohol . we have only soft drinks .-0.331
+16127-请 问  去 工人 体育馆 怎么 走-excuse me , could you tell me how to get to the worker &apos;s gymnasium ?-0.331
+17732-请 问 你 是 哪 一 位-who &apos;s speaking , please ?-0.331
+26782-请 把 你 的 账号 告诉 我-your account number , please .-0.331
+27438-请 问 您 是 哪 一 位-may i know who &apos;s calling , please ?-0.331
+27627-请 告诉 我 你 的 房间 号码-may i have your room number , please ?-0.331
+28155-请 问 您 要 点 什么 菜-may i have your order please ?-0.331
+28769-请 问 您 是 付现金 还是 记账-will that be cash or a charge ?-0.331
+28958-请 问 你们 收 旅行 支票 吗-i wonder if you accept traveller &apos;s checks .-0.331
+29309-请 问 我们 几 点 送 早餐-at what time may we serve breakfast ?-0.331
+29400-请 问 是 639 号 房 吗-is that room # 639 , please ?-0.331
+29771-喂  请 问 杰克逊 先生 在 吗-hello . may i speak to mr. jackson ?-0.331
+30355-请 问 你 是 那 一 位-who &apos;s calling please ?-0.331
+30567-请 问 你 是 哪 一 位-who is calling , please ?-0.331
+30608-请 告诉 我 你 的 电话 号码-may i have your telephone number ?-0.331
+30614-请 告诉 我 你 的 大 名-may i have your name ?-0.331
+30972-请 告诉 我 你 的 电话 号码-may i have your number ?-0.331
+31004-请 问 您 房间 号码 是 几号-your room number , please ?-0.331
+31124-请 问  您 是 史密斯 夫人 吗-excuse me , are you mrs. smith ?-0.331
+33120-请 问 你们 洗衣房 何时 开  关-could you please tell me when your laundry opens and closes ?-0.331
+33588-请 问 这里 可以 寄 包裹 吗-excuse me . can i send a parcel here ?-0.331
+34079-请 问 英航 112 班机 何时 到达-will i inquire about the arrival of ba flight no.112 ?-0.331
+35131-请 拿 我 的 手提箱 和 旅行包-my suitcase and traveling bag , please .-0.331
+35566-请 给 我 看您 的 行李 票-show me your luggage ticket , please .-0.331
+35741-请 问 车票 分 哪 几 种-can you tell me how many kinds of train tickets in china ?-0.331
+37132-请 问 4 号 车厢 在 哪里-may i know where the car number four is ?-0.331
+37305-请 问 我们 在 哪儿 托运 行李-where do we handle our luggage , please ?-0.331
+37306-请 把 我 的 行李 运往 上海-i want my luggage labeled for shanghai .-0.331
+37545-请 向前 走到 车厢 的 端 部-please go ahead to the end of the coach .-0.331
+38060-请 把 您 的 包 打开 一下-would you mind opening your bad ?-0.331
+38774-请 问 去 动物园 有 近路 吗-is there a shortcut i can take to the zoo ?-0.331
+38846-请 问 希尔顿 大 饭店 在 哪里-where is the hilton hotel , please ?-0.331
+38999-我 想 延长 我 的 居留 时间-i would like to extend my stay .-0.331
+39587-请 问 订 了 座 没有  女士-do you have a reservation , madam ?-0.331
+40012-请 以 史密斯 先生 的 名义 订餐-please book it under the name of mr. smith .-0.331
+40051-请 给 我们 靠窗 的 桌 位-we &apos;d like a table near the window , please .-0.331
+40064-我 可以 问 您 的 姓名 吗-can i have the name , please ?-0.331
+40357-请 在 我 的 咖啡 里 加点糖-please add some sugar in my coffee .-0.331
+40396-请 随便 挑配 胃口 的 吃 吧-please help yourself to suit your own taste .-0.331
+40609-这 当然 算是 餐厅 的 小小 敬意-with our compliments , of course .-0.331
+42059-这 家 餐厅 有 营业 执照 吗-does this restaurant have a license ?-0.331
+42060-“ 请 问 点 什么 菜  ”-&quot; can i take your order please ? &quot;-0.331
+49332-请 留下 您 的 名片  好 吗-would you please leave your business card ?-0.331
+52076-请 告诉 我 你 的 房间 号码-your room number , please .-0.331
+25-顺便 问 一下  我 的 车票 怎么 办-by the way , how about my ticket ?-0.329
+433-顺便 问 一下  我们 什么 时间 到 堪萨斯-and by the way , what time will we get to kansas ?-0.329
+698-顺便 问 一下  我们 什么 时间 到 盐湖城-and by the way , what time will we get to salt lake city ?-0.329
+1623-请 问 你们 准备 在 此 逗留 多久-how long do you intend to stay ?-0.329
+1708-请 问  机场 什么 时候 开始 检票 登机-excuse me . what is the checking-in time here at the airport ?-0.329
+2405-请 告诉 我 飞到 拉斯维加斯 要 多少 时间-would you tell me the flying time to las vegas ?-0.329
+2541-请 问  我 可以 坐 这个 座位 吗-excuse me , can i take this seat ?-0.329
+2667-请 问  我 该 怎样 去 林肯 公园-could you tell me how to get to the lincoln park ?-0.329
+2854-请 问 我 可以 在 哪儿 搭 巴士-where can i take a bus ?-0.329
+3021-请 让 我 看看 你 的 驾驶 执照-let me see your driver &apos;s license , please .-0.329
+5314-请 出示 您 的 护照 及 体验 证书-your passport and your health certificate , please .-0.329
+6162-请 问 去 预售票处 怎么 走 最 好-will you please tell me the best way to get to the ticket reservation office ?-0.329
+6833-请 问 可否 告诉 我 售票处 在 哪儿-excuse me . can you tell me where the ticket office is ?-0.329
+7901-请 把 我 的 账单 拿来  好 吗-will you bring the bill , please ?-0.329
+7922-请 把 我 的 账单 拿来  好 吗-can i have my bill , please ?-0.329
+8019-请 把 我 的 账单 拿来 可以 吗-can i have my bill , please ?-0.329
+8148-请 把 我们 的 帐单 拿来 好 吗-will you bring us the bill , please ?-0.329
+8350-格雷戈里 夫人  请 问 一共 几 位 呀-ms. gregory . how many of you may we expect in your party ?-0.329
+8766-喂  请 问 是 箭牌 口香糖 公司 吗-hello . is there wrigley company , please ?-0.329
+9901-请 告诉 我 您 的 姓名 好 吗-may i have your name , please ?-0.329
+10649-请 问 决定 了 点 什么 菜 吗-have you decided what you &apos;d like , sir ?-0.329
+13308-请 问 您 要 些 什么 食物 呢-what would you like for your food ?-0.329
+17464-喂  请 接贵 公司 的 行销 主任  PaulaWaltzon-hello , i would like to talk with paula waltzon , your marketing director , please .-0.329
+17665-请 问 您 是 哪 一 位 呀-may i ask who &apos;s calling ?-0.329
+20676-顺便 问 一下  我们 的 赚头 是 多少-by the way , what &apos;s the room for mark-up ?-0.329
+21223-这 是 娱乐 和 休闲 的 好 时间-it &apos;s a time for fun and relaxation .-0.329
+23534-请 让 我 看看 天然 的 珍珠 项链-show me the natural pearls , please .-0.329
+24432-请 给 我 您 的 地址 好 吗-may i have your address , please ?-0.329
+24622-请 告诉 我 您 的 地址 好 吗-may i have your address , please ?-0.329
+24665-请 问  我 能 订购 这 本 书-excuse me , can i order this book ?-0.329
+26082-你 好  请 问 托马斯·萧 先生 在 吗-hello , is mr. thomas show here ?-0.329
+26554-顺便 问 一下  今天 的 兑换率 是 多少-by the way , what &apos;s the exchange rate today ?-0.329
+26761-请 把 您 的 支票 的 给 我-give me your cheque please .-0.329
+26838-请 把 你 的 姓名 写 在 这里-please write your name here .-0.329
+26841-这个 空白处 请 填上 您 的 地址  好-in this blank please write down your address . ok .-0.329
+27253-请 找 5678 号 房 的 雷诺·米尔顿 先生-mr. renault milton , in room 5678 , please .-0.329
+27992-先生  请 问 您 要 几 客 凤梨汁-how many orders of pineapple juice would you like , sir ?-0.329
+28038-因为 现在 是 叫 晚餐 的 颠峰 时间-because this is our peak time for dinner orders .-0.329
+28607-打扰 了  请 问 您 有脏 衣服 吗-excuse me . have you any dirty laundry ?-0.329
+28630-请 告诉 我 您 的 名字 和 房间号-could i have your name and room number , please ?-0.329
+28680-请 问 我 可以 用 信用卡 付账 吗-i wonder if i can pay by credit card .-0.329
+28781-请 记住 将 房间 的 钥匙 交给 接待员-please remember to turn in your room key to the receptionist .-0.329
+29325-当然 可以  请 问 您 想 喝 什么-certainly , sir.what would you like ?-0.329
+29334-先生  请 问 您 需要 几 个 玻璃杯-how many glasses will you need , sir ?-0.329
+29338-请 问 是 不 是 客房 服务 部-is that room service ?-0.329
+30409-请 问 我 可以 找 梅宝 讲话 吗-could i talk to mabel , please ?-0.329
+30589-请 告诉 我 东京 的 号码 好 吗-may i have the number in tokyo ?-0.329
+30594-请 告诉 我 你 的 电话 号码 吗-may i have your telephone number ?-0.329
+30667-请 告诉 你 的 大名 和 房间 号码-your name and room number , please .-0.329
+30831-请 告诉 我 你 的 号码 好 吗-may i have your number , please ?-0.329
+31400-请 告诉 你 的 名字 好 吗  先生-may i have your name , sir ?-0.329
+32631-请 留下 您 的 名字 及 信用卡 号码-may i have your names and your credit card number ?-0.329
+32805-喂  请 问 是 哪 一 位 啊-hello , who is speaking , please ?-0.329
+34106-请 走 这边  我们 的 汽车 在 那儿-please come this way . our car is parked over there .-0.329
+34375-请 告诉 我 您 的 姓名 和 电话-please tell me your name and telephone number .-0.329
+34797-请 问  我 可以 坐 这个 座位 吗-excuse me , can i take this seat ?-0.329
+35463-请 你 看看 我 的 行李 是否 超重-will you please see if i have any excess luggage ?-0.329
+35614-劳驾  请 问 在 哪儿 买 手工 艺品-excuse me , would you please tell me the place where handicraft products are sold ?-0.329
+37106-请 把 您 的 车票 给 我 看一下-show me your ticket , please .-0.329
+37556-请 到 车厢 那 头 的 厕所 去-please go to the toilet at the other end of the coach .-0.329
+37938-请 将 你 的 手表 拨快 一 小时-put your watch ahead one hour .-0.329
+38170-请 问 我 可以 从 哪儿 通过 海关-would you please tell me where can i go through the customs ?-0.329
+38209-请 跟 我 到 旁边 的 房间 里来-please follow me to the next hall .-0.329
+38990-请 告诉 我 最近 的 车站 在 哪里-tell me the closest station , please .-0.329
+39469-请 马 我们 的 帐单 拿来  好 吗-will you bring us the bill , please ?-0.329
+39483-请 到 门口 的 收银处 付款  好 吗-could you pay at the cashier &apos;s desk at the entrance , please ?-0.329
+40026-请 以 华 先生 的 名义 顶餐 .-please book it under the name of mr ． watson .-0.329
+40039-请 尽量 让 我们 的 座位 靠近 窗户-please put me as close as possible to the window .-0.329
+41440-请 问 第一 道 菜 您 要 什么-what would you like for starters ?-0.329
+41619-请 给 我 的 牛排 来 点 酱油-please bring me steak with soy sauce .-0.329
+41647-先生  请 问 您 要 点 什么 菜-excuse me , sir . are you ready to order now ?-0.329
+42218-请 坐 在 我 的 右边 好 吗-will you sit on my right ?-0.329
+47052-请 问  现在 我 需要 做 笔记 吗-excuse me , sir . should we jot down some notes ?-0.329
+47263-打扰 一下  请 问 我们 经理 在 哪儿-excuse me , where &apos;s the manager please ?-0.329
+49241-请 告诉 我 你 的 一些 个人 经历-would you please tell me some of your personal experience ?-0.329
+49629-请 问 你 找 他 有 什么 事-may i ask what you wish to see him about ?-0.329
+49630-请 问 您 找 他 有 什么 事-may i tell him what you wish to see him about ?-0.329
+49815-请 告诉 我 您 的 姓名 可以 吗-can you tell me your name , please ?-0.329
+50977-请 向 杰克 转达 我 的 新年 祝愿-and give jack my best wishes for the new year !-0.329
+51049-打扰 一下  请 问 哪位 是 史密斯 先生-excuse me , who &apos;s mr. smith ?-0.329
+51426-可否 请 问 您 需要 它 做 什么-could i ask what you need it for ?-0.329
+322-顺便 问 一下  车票 的 有效期 是 几 天-by the way , how long is the ticket valid ?-0.327
+1273-请 给 我 来 点 喝 的 好 吗-could you get me something to drink , please ?-0.327
+1853-请 把 您 的 行李 放 在 秤 台上-please put your baggage on the scale .-0.327
+1902-先生  请 把 您 的 行李 放 在 这儿-please put your suitcase here , sir .-0.327
+1943-请 留下 您 目前 的 地址 和 电话 号码-please give us the name and number of the place you are staying at .-0.327
+2485-请 把 你 的 手提箱 放 在 秤 上-please put your suitcase on the scale .-0.327
+3046-请 把 您 的 班次 告诉 我  好 吗-may i have your flight number , please ?-0.327
+4254-请 给 我 你 的 证件  驾驶证 和 信用卡-and i &apos;ll need your passport , driver &apos;s license and credit card .-0.327
+4357-请 载 我 到 名片 上 的 这个 地址-please take me to the address on the card .-0.327
+4969-请 把 你 的 提包 放 在 柜台 上-put your suitcase on the counter , please .-0.327
+5378-请 出示 你 的 机票  护照 和 健康 证明-may i see your ticket , passport and health certificate , please ?-0.327
+5586-请 问 去 伍斯特 大街 是 这个 方向 吗-is it the right direction to wooster street ?-0.327
+5882-请 问 一下  我 在 那里 可以 买到 领带-excuse me . where can i buy a tie ?-0.327
+6468-请 问  哪 一 节 是 4 号 车厢-could you tell me which is coach no. 4 ?-0.327
+6525-请 你 称 一下 我 的 行李 好 吗-will you please weigh my luggage ?-0.327
+6718-请 收下 您 的 车票 和 找回 的 钱-your ticket and change , please .-0.327
+6918-对 不 起  请 问 哪里 可以 买 票-excuse me.where can i buy a ticket ?-0.327
+7096-请 把 你 的 名字 再 说 一 遍-your name again , please ?-0.327
+7355-请 给 我 来掺 柠檬 的 威士忌 酒 吧-whisky sour , please .-0.327
+8012-谢谢  请 您 把 自己 的 房间号 也 写上-thank you . could you please put down your room number , as well ?-0.327
+8108-请 给 我 看看 您 的 帐单 好 吗-may i see your bill , please ?-0.327
+8192-请 给 我 看看 您 的 帐单 好 吗-may i see your bill , please ?-0.327
+8246-请 问 您 要 流行 早餐 还是 欧式 早餐-would you like a continental breakfast ?-0.327
+8429-我们 打算 选用 花园 餐厅 的 满园 春 包房-we &apos;d like man yuan chun in the garden restaurant .-0.327
+8617-那 好  先生  请 问 您 叫 什么 名字-that &apos;ll be all right , sir . what name , please ?-0.327
+8739-琼 小姐  请 问 宴会 订 在 什么 标准-miss joan , how much would you like your banquet at ?-0.327
+8956-我 能 问 一下 您 的 姓名 吗  先生-may i have your name , sir ?-0.327
+9294-请 问 还 有 没 有 人 要 来-may i ask if anyone is joining you ?-0.327
+9891-请 告诉 我 您 的 房间 号码 好 吗-may i have your room number , please ?-0.327
+11290-请 这 边走  你 的 桌子 在 窗子 旁边-this way , please . your table is near the window .-0.327
+11358-请 问 您 要 小圆 面包 还 是 吐司-would you prefer rolls or toast ?-0.327
+20902-请 再 说 一下 主要 的 内容 好 吗-would you please repeat some of the main points ?-0.327
+24041-请 将 那 双 深棕色 的 拿给 我 看-show me the dark brown ones , please .-0.327
+26499-先生  请 把 您 的 护照 给 我 看看-would you please show me your passport , sir ?-0.327
+26535-请 给 我 300 元 的 10 元 钞-can i have ten-yuan notes for 300 yuan ?-0.327
+26592-请 在 这里 写下 你 的 名字 及 住址-please put your name and address here .-0.327
+27288-请 问 我 可以 多 住 一 晚上 吗-excuse me.could i extend my bed for one more night , please ?-0.327
+27442-请 告诉 我 您 的 朋友 的 全 名-your friend &apos;s full name , please .-0.327
+29085-请 在 这里 签上 您 的 名字 好 吗-will you please sign your name here ?-0.327
+29142-请 问 你们 今天 晚上 还 有空 房间 吗-do you have any vacancies tonight ?-0.327
+29186-请 重复 一下 您 说 的 名字  好 吗-can you repeat the name , please ?-0.327
+30091-请 告诉 我 你 的 名字 和 电话 号码-can i have your name and phone number ?-0.327
+30102-索米 公司 , 请 问 有 什么 事 吗-sony electronics . may i help you ?-0.327
+30641-请 告诉 我 你 的 大名 和 电话 号码-may i have your name and telephone number ?-0.327
+30881-请 告诉 我 香港 的 电话 号码  好 吗-may i have the telephone number in hong kong please ?-0.327
+30908-请 告诉 我 您 的 信用卡 号码  好 吗-may i have your credit card number , please ?-0.327
+31676-请 问 你 想 我 看些 什么 好 呢-what do you think i should see ?-0.327
+32841-请 你 别 忘 了 我 的 帆布 裤子-don &apos;t forget my ducks , please .-0.327
+33666-请 问 这 包裹 寄 法国 要 多少 钱-could you tell me how much this parcel to france is ?-0.327
+34074-打扰 一下  请 问 您 是 罗伯特 先生 吗-sorry to interrupt you , but aren &apos;t you mr. robert ?-0.327
+34275-请 在 你 的 手提 行李 上 贴上 标签-please put on these tags on your hand luggage .-0.327
+34738-请 问 去 火车站 在 哪里 乘 公共 汽车-where can i get a bus to the railway station ?-0.327
+35444-请 给 我 你 的 联络 地址 好 吗-may i have your address ?-0.327
+35492-请 写 下 你 的 名字  地址 和 国籍-please put down your name. address and nationality .-0.327
+35784-请 收下 您 的 车票 和 找回 的 钱-your ticket and change , please .-0.327
+35785-请 给 一 张 去 北京 的 特快 车票-one express ticket for beijing , please .-0.327
+37267-请 你 谈谈 那里 的 气候 情况 好 吗-will you please tell me something about the climate there ?-0.327
+37288-游览 苏州  杭州 的 最 好 时间 是 春天-it is better to visit hangzhou and suzhou in spring .-0.327
+37326-请 把 您 的 上衣 挂 在 衣帽钩 上-hang your coat on the coat-hook please .-0.327
+38057-请 让 我 看一下 您 的 护照 和 签证-show me your passport and visa , please .-0.327
+38157-请 把 你 的 金属 物品 物到 输送带 上-please put all your metal belongings on the convey-er belt .-0.327
+38204-请 打开 你 的 手提箱  我 将 立即 检查-please open your suitcase , i &apos;ll check it immediately .-0.327
+38308-请 让 我 看 一下 你 的 申报单 好吗-let me see your customs declaration form , please .-0.327
+38385-请 让 我 看一下 您 的 护照 和 签证-may i have a look at your passport and visa ?-0.327
+38914-请 告诉 我 到 火车站 的 路  好 吗-will you please show me the way to the railway station ?-0.327
+39065-请 在 这儿 签上 你 的 姓名 好 吗-will you please sign your name here ?-0.327
+39582-请 重复 一下 您 点 的 菜  好 吗-could you repeat the order , please ?-0.327
+40093-请 到 门口 的 出纳 柜台 付款  好 吗-could you pay at the cashier &apos;s desk at the entrance , please ?-0.327
+40417-请 再 舀一匙 汤 到 我 的 盘子 里-please put another spoonful of broth on my plate .-0.327
+41133-请 问 您 要 美式 早餐 还是 欧式 早餐-would you like a american breakfast or a continental breakfast ?-0.327
+41645-女士  请 问 决定 点 什么 菜 了 吗-have you decided on something ma &apos;am ?-0.327
+42050-这 家 餐厅 是 很 棒 的 娱乐 场所-that restaurant is a great place to entertain .-0.327
+49536-请 把 您 的 工具 放 这个 区域 内-please leave your tools in this area .-0.327
+49807-请 把 您 的 姓名 告诉 我 好 吗-could you give me our name , please ?-0.327
+49951-请 问 你 对 这个 问题 持 什么 立场-would you mind telling me your position on the problem ?-0.327
+51080-请 告诉 我 销售部 负责人 的 名字 好 吗-would you please tell me the name of the person in charge of the sales department ?-0.327
+51112-请 联络 野 本 先生 的 秘书 哈瑞 女士-please ask for mr. nomoto &apos;s secretary , ms. hara .-0.327
+51208-请 把 我 的 椅子 拿 进来  好 吗-would you bring a chair in for me , please ?-0.327
+51260-请 报贵 公司 最新 产品 的 英镑 价格 .-please let us have your prices in sterling for your latest production .-0.327
+52064-请 问 可以 在 这里 存放 贵重 物品 吗-can i deposit valuables here ?-0.327
+880-小姐  请 问 我 该 把 包儿 放 在 哪儿-sorry , stewardess . where shall i put my bags ?-0.326
+919-当然  请 让 我 看看 您 的 登机证 好 吗-certainly . may i see your boarding pass , please ?-0.326
+1812-请 把 你 的 行李 放 在 这 秤 上-please put your baggage on this scale .-0.326
+2226-要 的  可是 请 不 要 订 的 太 早-yes , but not too early , please .-0.326
+2799-请 问 还 有 没 有 人 要 买 票-any more fares , please ?-0.326
+3194-请 问 从 机场 该 怎样 到 市中心 去 呢-could you tell me how to get from the airport to the center , please ?-0.326
+5402-请 加 一 英镑 的 优质 汽油 并 加满 机油-a pound &apos;s worth of super , and top up the oil , please .-0.326
+5993-对 不 起  请 问 这 附近 有 银行 吗-excuse me , is there a bank near here ?-0.326
+8506-顾客 ； 请 问 贵 店 设 自助 火锅 吗-do you have self-service hot pot , please ?-0.326
+11083-请 问 您 要 吐司 还 是 小 圆 面包-would you prefer toast or rolls ?-0.326
+11300-请 告诉 我们  你们 今天 的 特色 餐 是 什么-could you tell us your specials today ?-0.326
+11751-请 问 您 要 哪 种 果汁  西柚汁 还是 菠萝汁-which kind of juice would you prefer , grapefruit or pineapple ?-0.326
+11753-请 问 您 要 吐司 还 是 小 圆 面包-would you prefer toast or rolls ?-0.326
+17718-请 告诉 我 你 的 姓名  地址 和 电话 号码-can i have your full name and phone number ?-0.326
+22665-请 问 你 可以 给 我 配 这个 药方 吗-could you make up this prescription for me , please ?-0.326
+23420-顺便 问 一 句  您 的 儿子 多 大 了-by the way , how old is your son ?-0.326
+25523-不过  先生  请 看看 这些 领带 的 质量  设计  颜色-but sir , look at quality , the design , and the coloring .-0.326
+26530-请 把 您 的 护照 给 我 看一下  好 吗-will you please show me your passport ?-0.326
+26566-请 按 这 位 职员 说 的 填写 外汇 兑换单-please fill in the exchange menu as the clerk tells you .-0.326
+27347-请 等一会  我 去 看看 是否 的 适合 的 房间-please wait a moment , i will have to check it there &apos;s a room available .-0.326
+27395-我们 请 客人 用 客房 的 电话 打 越洋 电话-we ask our guests to use the guest room phones for overseas calls .-0.326
+27436-请 问 我 能 给 他 留 个 言 吗-could you take a message for him , please ?-0.326
+28212-请 问 您 要 哪 种果 汗 菠萝汁 还是 橙汁-which kind of juice would you prefer , pineapple or orange ?-0.326
+28220-请 问 您 要 吐司 还 是 小 圆 面包-would you prefer toast or rolls ?-0.326
+28871-喂  请 问 最 晚 什么 时候 要 结账 退房-hello , when is check-out time , please .-0.326
+29088-您 能 告诉 我 每 天 的 服务 时间 吗-would you please tell me the daily service hours ?-0.326
+29832-请 代 我 向 你 的 妻子 和 孩子 问好-please give my regards to your wife and children .-0.326
+30032-请 让 他 明早 8:30 左右 腾出 时间 好 吗-could you ask mr graber to be free around 8 : 30 tomorrow morning ?-0.326
+31257-请 跟 我 说说 那 房间 的 情况  好 吗-will you tell me what the room is like , please ?-0.326
+32581-完成 一 趟 那样 的 旅行 需 花 多少 时间-how many hours does it take to complete that tour ?-0.326
+32827-请 您 将 同行者 的 姓名 告诉 我  好 吗-coulee you give me the names of the people you &apos;ll be traveling with ?-0.326
+33486-请 问  我 能 领 一 张 发电报 表格 吗-may i have a telegraph form , please ?-0.326
+33545-另外 一 封 请 您 投进 外面 的 邮箱 里-you can put the other one in the mailbox outside .-0.326
+33694-请 把 它 放 在 那 边 的 秤 上-please put it on the scale there .-0.326
+34039-请 把 这 行李 搬到 美国 航空 的 登记 柜台-this is going to the american air check-in counter .-0.326
+34073-对 不 起  请 问 您 是 王 先生 吗-excuse me , but are you mr. wang ?-0.326
+34277-请 将 你 的 所有 行李 放 在 磅秤 上-please put all your luggage on the scales .-0.326
+35438-请 让 我 看看 你 的 机票 和 行李 签-let me see your ticket and claim tag , please .-0.326
+35449-请 购买 你 所 需要 的 衣服 及 其他 物品-please buy the clothes and other things that you need .-0.326
+35519-请 让 我 看看 您 托运 货物 的 出口 许可证-please show me the export permit for the goods you want to check .-0.326
+35541-请 你 看看 我 的 行李 有 多重  好 吗-will you please see what is the weight of my luggage ?-0.326
+35563-请 问 托运 这个 箱子 到 广州 要 多少 钱-would you tell me how much it is for this suitcase to be checked to guangzhou ?-0.326
+35565-请 你 看 一下  我 的 行李 到 了 没有-will you please see whether my luggage has arrived ?-0.326
+35723-请 给 我 两 张 到 圣地亚哥 的 头等舱 机票-two first class to san diego , please .-0.326
+35726-请 给 我 两 张 到 圣地亚哥 的 特快 车票-two first class to san diego , please .-0.326
+35776-请 给 我 一 张 到 天津 的 软座 票-i want a soft-seat ticket for tianjin , please .-0.326
+37836-请 问 怎样 放 椅子 才 会 更 舒服 一些-would you please tell me how can i put my chair more comfortable ?-0.326
+38120-请 你 过来 认点一 下 你 的 东西 好 吗-would you mind coming over to identify your things ?-0.326
+38389-请 让 看 一下 您 的 护照 和 外国人 登记表-your passport and the form for registration of foreigners , please .-0.326
+38615-请 问 去 机场 走 这 条 路 对 吗-is this the right road to go to the airport ?-0.326
+38776-很 抱歉 麻烦 你  请 问 附近 有 旅馆 吗-sorry to trouble you , but is there a hotel near here ?-0.326
+39002-请 把 你 的 注册 证明书 给 我 看好 吗-will you show me your enrollment certificate , please ?-0.326
+39023-请 把 我 的 申请 交给 有关 当局 好 吗-would you please forward my application to the authorities concerned ?-0.326
+39254-如果 你 要 抽烟  请 移到 那边 的 桌子 去-if you &apos;d like to smoke , please move over to one of those tables .-0.326
+39550-请 在 帐单 上 签上 你 的 名字 和 房间号-please sign your name and room number here on the bill .-0.326
+39726-我 可以 问 一下 您 的 姓名 和 房间号 吗-may i also have your name and room number , please ?-0.326
+39939-请 给 我们 安排 张尽量 靠近 窗户 的 桌 位-put us as close as possible to the window , please .-0.326
+41651-请 重复 一 次 您 点 的 菜  好 吗-could you repeat the order , please ?-0.326
+49910-一 周 倒 是 蛮好 的  可是 没有 时间 呀-a week would be better but we can &apos;t afford the time .-0.326
+818-我 想 请 问 有 什么 可治 头痛  我 有点 晕机-i wonder if you have anything for headache . i &apos;m feeling kind of air-sick .-0.325
+1161-打扰 了  从 这儿 到 纽约 的 实际 飞行 时间 是 多少-excuse , what &apos;s the actual flying time from here to new york ?-0.325
+1330-对 不 起  现在 伦敦 的 当地 时间 是 几 点 呢-excuse me , do you know the local time in london now ?-0.325
+1732-下 一 位  请 让 我 看看 你 的 机票 和 护照-next in line , please may i see your ticket and passport , please .-0.325
+1789-请 给 我们 无烟区 的 座位-non-smoking , please .-0.325
+1790-请 给 我们 一 个 靠 窗 的 座位  好 吗-and could we have one window seat , please ?-0.325
+2091-请 别 忘 了 带 您 的 有效 旅行 证件 来 买票-and please do not forget to bring a valid travel document with you when you buy the tickets .-0.325
+2128-请 告诉 我 您 的 姓名 和 电话 号码 好 吗-may i have your name and telephone number , please ?-0.325
+2199-请 查 一 查 255 航班 什么 时候 到达  是 当地 时间-would you check what &apos;s the arrival time of flight no.255 , local time ?-0.325
+2309-请 给 我 来 1 张 到 底特律 的 往返 票-let me have a round trip ticket to detroit , please .-0.325
+2314-请 您 告诉 我 您 的 姓名 和 电话 号码 好 吗-may i have your name and telephone number , please ?-0.325
+2373-请 给 我 一 张 飞往 伦敦 的 下 一 班 机票-one ticket to london for the next flight , please .-0.325
+2408-请 告诉 我 你 的 名字-your name , please .-0.325
+2661-先生  请 问 车费 是 多少-how much is the fare , sir ?-0.325
+3051-是 的  什么 时间 起飞-oh , yes . what about the time for departure ?-0.325
+5349-按 你 的 申报单 检查 你 的 行李 要 花 一点 时间-it will take a little time to examine your luggage and check it with your form .-0.325
+7599-请 把 酒 钱 记 在 我 的 帐上 好 吗-could you put it one my tab , please ?-0.325
+7893-请 再 告诉 我 一下 您 的 房间 号码  好 吗-what &apos;s your room number again , please ?-0.325
+7938-是 的  请 在 这 张 表上 填上 您 的 全 名-yes , please write down your full name on the form .-0.325
+8011-请 您 用 楷体 签下 您 的 全 名 好 吗-would you mind writing your full name in printed words ?-0.325
+8047-对 不 起  先生  请 把 您 的 房间号 也 一起 写上-sorry , sir , please write your room number , too .-0.325
+8631-请 安排 个 安静 的 地方-we would like a quiet table , please .-0.325
+8785-先生 请 问 您 贵 姓-what name , pleases ?-0.325
+8847-我 想 知道 贵 餐厅 的 早 茶 什么 时候 开始-i &apos;d like to know when the morning tea begins in your restaurant ?-0.325
+9035-那么 请 问 几 位-so how many guests are there in your party-0.325
+9069-劳驾  请 问 电话 在 哪儿-excuse me , where is the telephone , please ?-0.325
+9216-让 我 查 一 查  请 问 你 叫 什么 名字-let me check the reservation list . can i have your name , please .-0.325
+9546-此外 请 在 每 张 餐桌 的 中央 放 一 件 装饰品-and please have a centerpiece for every table .-0.325
+9553-请 给 我 雪乐 的 薄荷烟-i &apos;d like salem menthol , please .-0.325
+9593-夫人  请 问 有 何 贵干-yes , madam . what can i do for you ?-0.325
+10592-请 给 我 没有 甜味 的-dry , please .-0.325
+10626-许多 食客 都 喜欢 吃 我们 餐厅 的 这 道 菜-so many customers like it in our restaurant .-0.325
+10966-晚安  请 问 几 位-good evening . how many ?-0.325
+11075-请 问 您 要 哪 一 种 果汁  葡萄柚 还是 柳丁汁-which kind of juice would you prefer , grapefruit or orange ?-0.325
+11163-请 给 我 核桃 的-i &apos;ll take the walnut , please .-0.325
+11454-请 给 我 草莓味 的-strawberry , please .-0.325
+11548-贵 餐厅 的 招牌粥 是 什么-what &apos;s your specialty ?-0.325
+11891-我 还 得 说 你们 餐厅 的 服务 是 一流 的-i &apos;ll have to say service in your hotel is excellent .-0.325
+12093-要  请 用 煮 的-yes , boiled , please .-0.325
+12277-顺便 问 一下  你们 宾馆 有 自助 餐厅 或 快餐厅 吗-by the way , is there a buffet or a snack bar in your hotel ?-0.325
+12380-请 给 我 来 老式 的-give me the old fashioned .-0.325
+12840-请 给 我 浓 的-strong , please .-0.325
+13226-请 给 我 来 大 的-large , please .-0.325
+13227-请 问 您 要 不 要 来 一 块 炸 鸡-would you care for a piece of fried chicken ?-0.325
+13479-接着 你 想 问 它们 之间 的 区别 是 什么  对 吗-and next you want to ask what the difference between them is , am i right ?-0.325
+15977-拿 过来 了  请 问 什么 时候 可以 知道 检查 结果-here it is . may i know when i will be informed of the result ?-0.325
+16040-我 能 问 你 几 个 有关 奥运会 的 问题 吗-can i ask you something about the olympic games ?-0.325
+17024-另外 我 想 问 一下  奥运会 的 拳击赛 有 多少 个 回合-by the way , how many rounds are there in an olympic boxing bout ?-0.325
+17983-这个 问题 问 的 好-a good question .-0.325
+18240-谢谢  占用 您 的 时间 了-we thank you for your time .-0.325
+20584-你 好  我 是 琼斯  请 问 布莱克 先生 在 吗-hello , my name is jones , i &apos;m looking for mr. black .-0.325
+21183-行 了  请 稍候  你 的 图书 证 马上 就 好 了-please wait a minute , your new library cared will be ready in no time .-0.325
+21422-顺便 问 一下  您 知道 很多 关于 怎样 种花 的 知识 吗-by the way , do you know much about how to grow flowers ?-0.325
+21511-请 您 给 我 讲 迪斯尼 乐园 的 情况 好 吗-can you tell me something about disneyland ?-0.325
+21747-我 一 买到 票  就 通知 你 演出 的 准确 时间-i &apos;ll let you know the exact time for the performance as soon as i get the tickets .-0.325
+21919-服务员  请 问 我 可以 同 那 位 女士 照张 合影 吗-waiter , could i have a picture taken with that young lady .-0.325
+22094-请 问 你们 收 哪 一 种 货币  是 美元 还是 人民币-by the way , which kind of money do you accept , us dollars or renminbi ?-0.325
+25159-我们 是 请 店 里 最 好 的 师傅 做 的-we give them to our best hands to be made .-0.325
+25227-请 在 这个 单子 上 写下 你 的 名字 和 地址-please write your name and address on this slip .-0.325
+25386-不过 请 在 微热 的 肥皂水 里 漂洗  不 要 拧搓-but please wash it in lukewarm soapy water and rinse well . don &apos;t rub or wring it .-0.325
+25707-顺便 问 一下  上面 的 照片 是 由 什么 胶卷 拍 的-by the way , with what brand were those pictures above taken ?-0.325
+26541-打搅 一下  请 把 今天 美元 的 兑换率 告诉 我 好 吗-excuse me.would you please tell me the exchange rate for us dollar ?-0.325
+26757-请 您 在 存款 样单 上 填好 您 的 姓名  地址-please sign your name and write your address on this signature specimen card .-0.325
+26846-请 在 这 下面 签名  其他 的 由 我 来 填-please sign at the bottom . i &apos;ll fill out the rest for you .-0.325
+26989-请 稍候  哦  是 的-just a moment , please . oh , yes .-0.325
+27551-请 稍候  我 查看 一下 那 几 天 的 房间 情况-please wait a minute . i &apos;ll check the room availability for those days .-0.325
+27892-请 问  你 可以 派 人 上来 帮 我 洗衣 吗-could you send someone up for my laundry , please ?-0.325
+28088-先生  我 可以 受理 您 的 点菜  但 得 花 一点 时间-i can take your order , sir , but it will take some time .-0.325
+28172-请 帮 我 带 一些 万宝路 的 香烟 来 好 吗-could you bring me some marlboro , please ?-0.325
+28181-请 好好 享用 您 的 午餐-please enjoy your meal .-0.325
+28261-请 问 我 可以 把 贵重 物品 寄 在 这里 吗-can i deposit valuables here ?-0.325
+28754-请 记 在 我 的 账上-add it to my account , please .-0.325
+28865-当然 好  请 告诉 我 您 的 大名 和 房间 号码 吗-sure , may i have your name and room number , please ?-0.325
+28981-请 稍等 一下 女士  对 了  我们 这 段 时间 有 房间-just a moment , ma &apos;am . yes , we have a vacancy for that period .-0.325
+29197-请 尽快 确认 并 交纳 40 美元 的 保证金  好 吗-would you let us have confirmation of the reservation and a deposit of $ 40 as soon as possible ?-0.325
+29221-先生  请 问 您 贵 姓-can i have your name , sir ?-0.325
+29308-太太  我们 昨晚 收到 您 的 预约卡  但是 没有 注明 服务 时间-we received your reservation card last night , ma &apos;am , but the service time was not marked .-0.325
+30166-对 不 起  请 问 你 真的 找 克里 . 尤曼斯 吗-excuse me , but are you sure that you &apos;re calling kerry youmans ?-0.325
+30336-请 告诉 他 从 美国 来 的 史密斯 打 了 电话-please tell him smith form the u.s. called .-0.325
+30798-请 把 你 的 姓名 及 房间 号码 告诉 我 好 吗-would you give me your and room number ?-0.325
+31021-史密斯 先生  今天 的 某 个 时间 我 想 与 你 谈谈-mr. smith , i want to talk with you sometime today .-0.325
+31022-回来 时 请 与 我 联系  我 的 电话 是 2823016-please call back when you &apos;re back . my phone number is 2823016 .-0.325
+33253-请 你 在 那 边 的 沙发 上 等等 好 吗-would you please wait at the sofa over there ?-0.325
+33439-在 那 之前  请 先 告诉 我 你 的 名字 和 国籍-before that , give me your name and nationality , please .-0.325
+33509-请 问 发 这 封 礼仪 电报 到 英国 多少 钱-how much is this greeting telegram to the uk , please ?-0.325
+33812-顺便 问 一下  邮寄 包裹 的 体积 和 重量 有 什么 规定-by the way , what is the size and weight limit for mailing a package ?-0.325
+34428-请 把 我 列入 7 号 的 候机 名单  好 吗-can you put me on the waiting list for the seventh ?-0.325
+34929-请 告诉 我  广州 和 西安 之间 的 距离 是 多少-may i know the distance between guangzhou and xi &apos;an ?-0.325
+35035-请 你 告诉 我 沿途 风景 名胜 的 情况 好 吗-will you please tell me something about the scenic spots along the route ?-0.325
+35167-请 买 好 第 K 次 特快 的 旅客 赶快 上车-passengers who have got the ticket for express number k please get on the train at once .-0.325
+35597-请 拿 三 张 去 悉尼 的 单程 车票  头 等 车厢-three one way tickets to sydney , first - class , please .-0.325
+35697-请 给 两 张 9:30 直达 巴尔的摩 的 一 等 车票-two first class on the 9 : 30 non-stop train to baltimore , please .-0.325
+35765-请 给 两 张 明天 16 次 到 北京 的 软卧 车票-two soft-berth tickets for beijing on express no. 16 tomorrow , please .-0.325
+37183-请 在 下车 之前 检查 自己 的 行李 物品 有 无 遗忘-please check to be sure you have your belongings before you getting off .-0.325
+37324-请 把 你们 的 手提箱 和 手提包 放 在 行李 架上-please put your suitcases and handbags on the rack .-0.325
+37371-请 打开 包房 里 的 空调器-turn on the air-conditioner in the compartment , please .-0.325
+37396-我 如何 度过 车上 的 时间-how shall i spend the time on the train ?-0.325
+37681-请 你 去 看看 我 点 的 菜 好 了 没有-will you go and see if my order is ready ?-0.325
+37867-所有 的 航班  无论 国内 还是 国际 的  都 用 当地 时间-all flights , national or international , operate on local time .-0.325
+37965-请 你 给 我 拿点 治疗晕 飞机 的 药来 好 吗-could you bring me some medicine for air sickness ?-0.325
+38225-请 在 你 的 出境 申报 表上 写上 你 的 地址-please write your address on your embarkation card .-0.325
+38299-如果 他们 问 我 旅行 的 目的 该 怎么 说 呢-what should i say if they inquire about my purpose ?-0.325
+38418-请 给 我 看看 您 入境 地带 进来 的 贵重 物品-please show me the valuable articles you brought in .-0.325
+38605-劳驾  请 问 我 在 哪 可以 乘车 去 州立 大学-excuse me , where can i get the bus to the state university ?-0.325
+38613-对 不 起  请 问 这个 地址 离 这 有 多远-excuse me , how far is this address from here ?-0.325
+38842-请 你 告诉 我 去 格兰特 旅馆 的 路 好 吗-could you show me the way to the grand hotel ?-0.325
+38935-请 给 我 画 张 去 车站 的 简图 好 吗-would you draw me a map of how to get to the station ?-0.325
+39967-请 给 我 订 一 张 四月 一日 的 8 人 餐桌-please book me a table for 8 persons for april 1 st .-0.325
+40260-请 安排 两 人 的 桌子-a table for two , please .-0.325
+40271-非常 抱歉 耽搁 您 的 时间-we are very sorry for the delay .-0.325
+40561-是 本 餐厅 奉送 的-it &apos;s on the house .-0.325
+41391-请 给 我 同样 的-the same for me , please .-0.325
+41585-请 品尝 一下 烤蟹  这 是 我们 的 厨师 的 杰作-please try the baked crab , it &apos;s the cooker &apos;s delight .-0.325
+41820-在 像 那样 的 餐厅 里  合理 的 小费 该 给 多少-what &apos;s a reasonable tipping rate in a restaurant like that ?-0.325
+42934-铁人 三 项 的 各 项 之间 是 没有 休息 时间 的-there are no intervals between the three events of triathlon .-0.325
+47494-请 接受 我 真诚 的 慰问-you have my sincere condolences .-0.325
+47500-请 允许 我 对 你们 的 成功 表示 最 热烈 的 祝贺-allow me to offer my warmest congratulations on your success !-0.325
+47840-约翰  请 问 一下 23 路 公共 汽车 去 九州 饭店 吗-excuse me , john , does the no. 23 bus go to holiday inn ?-0.325
+48186-请 允许 我 对 您 的 成功 表示 衷心 的 祝贺-allow me to express my heartiest congratulations on your success .-0.325
+49825-先生  请 问 贵 姓-who shall i say is calling , sir ?-0.325
+50671-请 代本 公司 为 附表 上 所 列 的 商品 投保-please hold us covered on the goods listed on the attached sheet .-0.325
+50682-请 尽力 加快 信用证 的 开立  以便 我们 能 顺利 执行 订单-please do your utmost to expedite the covering l / c so that we may execute the order smoothly .-0.325
+50941-请 接受 我 诚挚 的 悼念-please accept my sincere condolences .-0.325
+50967-圣诞节 要 到 了  请 向 他 转达 我 的 圣诞 问候-christmas is coming . please send my christmas greetings to him .-0.325
+51153-敬 请 注意 未付 的 钱-we must draw your attention to your outstanding money .-0.325
+51257-请 放心 , 贵方 提供 的 资料 我方 一定 严格 保密 .-please be assured that we will keep any information .-0.325
+51408-请 您 替 我 转给 会计科 的 加藤 先生 好 吗-would you please connect me to mr. kato in the accounting section ?-0.325
+51877-请 给 我 看看 别 的-show me some others , please .-0.325
+540-一定 要 很 长 的 时间 吧-it must take me a long time .-0.324
+730-您 有 足够 的 时间 来 吃饭-there will be enough time for you to take dinner .-0.324
+935-请 让 我 看看 您 的 登机证-your boarding pass , please .-0.324
+1200-到 纽约 的 飞行 时间 有 多久-how long is the flight to new york .-0.324
+1284-请 问  我 在 这儿 转机 到 巴黎  是 在 这儿 检票 吗-excuse me , i &apos;m transferring to pairs here . is this the right counter to check in ?-0.324
+1290-请 帮 我 订 一 张 最 早 的 飞往 旧金山 的 联运 航班-please put me on the earliest possible connecting flight to san francisco .-0.324
+1324-请 问  我 在 这儿 转机 到 伦敦  是 在 这儿 检票 吗-excuse me , i &apos;m transferring to london here . is this the right counter to check in at ?-0.324
+2117-请 给 我 经济 客舱 的 机位-economy , please .-0.324
+2186-请 帮 我 订 一 张 最 早 的 飞往 纽约 的 联运 航班-please put me on the earliest possible connecting flight to new york .-0.324
+2356-是 的  请 给 我 一 张 到 巴黎 的 来回 经济舱 机票-yes , one round-trip economy ticket , please .-0.324
+2547-请 让 我 看一下 您 的 票-your ticket , please .-0.324
+2903-我 是 刚 来 这里  熟悉 这里 的 情况 还 要 花 些 时间-i &apos;m new in town . it takes time to get to know this area .-0.324
+2958-对 不 起  请 问 我 在 这儿 可以 乘车 去 美术馆 吗-excuse me , is this where i can catch a bus to the art gallery ?-0.324
+3159-请 您 告诉 我 贵 姓 及 大名 的 头 一 个 字母-may i have your last last name and first initial , please ?-0.324
+4697-你 估计 堵 的 时间 会长 吗-do you think the jam will last long ?-0.324
+5260-如果 他们 问 我 此 行 的 目的  我 该 怎么 说 好 呢-what should i say my purpose is ?-0.324
+6543-请 让 我 看看 您 的 车票-please show me your ticket .-0.324
+6620-请 放 在 一 边  再 拿 些 好 的 茶具 来 看看-put it aside and show me a good tea set .-0.324
+7225-要 等 那么 长 的 时间 吗-does one have to wait as long as all that ?-0.324
+7402-请 给 我们 带 甜味 的 苦艾酒-italian vermouth , please .-0.324
+8523-贵 餐厅 的 早 茶 几点 开始-when is the restaurant open for the morning tea ?-0.324
+8553-请 记 在 约翰逊 先生 的 名下-please book it under the name of johnson .-0.324
+8563-对 不 起  小姐  本 餐厅 所有 的 台 都 已 预订 了-i &apos;m sorry , miss . all the tables have already been booked in our restaurant .-0.324
+8754-请 备好 一些 有名 的 广东 水果  象 香蕉 呀  芒果 呀  菠萝 等等-please prepare some famous guangdong fruit , such as bananas , mangos , pineapples and so on .-0.324
+9191-非常 抱歉 耽搁 了 您 的 时间-we &apos;re very sorry for the delay .-0.324
+9370-非常 抱歉 耽搁 了 您 的 时间-we are very sorry for the delay .-0.324
+9471-请 不 要 动 我 的 菜-please stay away form my plate !-0.324
+9609-嗯  请 您 写下 您 的 姓名  地址 以及 电话 号码  好 吗-well , would you write down your name , address , and telephone number ? i &apos;ll inform the security department to take care of it .-0.324
+10478-不 客气  请 稍等  您 点 的 菜 马上 送到  祝 您 胃口 好-my pleasure , sir . just a little while , your order will be ready very soon. please enjoy your lunch .-0.324
+10742-我 还 要 赶 开往 深圳 的 火车  只有 30 分钟 时间 吃饭-i can have only 30minutes having my dinner in order to catch the train leaving for shenzhen .-0.324
+11966-顺便 问 一 问  史密斯 先生  我 能 知道 您 的 年龄 吗-by the way , may i know your age , mr. smith ?-0.324
+12313-请 您 在 倒 以前 先 拉开 咖啡壶 的 黑色 塞子  好 吗-could you pull out the black stopper of the pot before you pour , please ?-0.324
+14533-你 知道 C 队 对 D 队 的 棒球赛 什么 时间 开始 吗-do you know when the baseball match between team c and team d will begin ?-0.324
+16286-陈  我 可以 问 你 一些 关于 太 极 拳 的 问题 吗-chen , would you mind answering some questions about taijiquan ?-0.324
+17756-请 你 告诉 我 它 的 型式  数量  发票 号码 和 船名 好 吗-would you mind telling me the type , quantity , invoice number , and ship name ?-0.324
+18063-请 在 4:30 下楼  我们 的 汽车 会 在 宾馆 的 大厅 前 等候-please come downstairs at 4 : 30 p.m.and our coach will be awaiting you in front of the hotel hall .-0.324
+18388-请 原谅 我们 未 能 对 你们 的 询价 作出 更 积极 的 反应-please accept my apologies for our inability to be more responsive to your enquiry .-0.324
+18497-这 次 请 您 来 想 谈谈 长臂 采 煤机 的 进口 问题-the purpose of inviting you to come here is to discuss the purchase of some long wall coal cutters .-0.324
+18912-请 你 把 中国 的 包销 协议 再 给 我 讲 详细 一点-please tell me a bit more about exclusive sales arrangements in china .-0.324
+19374-现在  张 先生  请 你 告诉 我  重新 改换 图案 的 颜色 需要 多久-now , tell me , mr. chang , how long will it take to get the design re-colored ?-0.324
+19710-对 了  顺便 问 一下  你方 对 交货 时间 有 什么 具体 要求 吗-by the way , do you have any specific requirements for the delivery time ?-0.324
+20199-对 不 起  能 给 我 讲讲 你 的 工作 时间 表 吗-excuse me , can you tell me something about your work schedule ?-0.324
+20433-对 不 起  打扰 一下  请 问 这个 办公室 有 位 泰勒 先生 吗-well , sorry to interrupt , but is there a mr. taylor in this office ?-0.324
+21049-只是 我 想 请 你 和 你 的 太太 出来 吃 一 餐饭-but i was thinking of asking you and your wife to go out for dinner .-0.324
+21345-请 帮 我 把 独木舟 搬 下来  我们 的 探险 就 要 开始 了-help me to take down the canoe , and our exploring is beginning .-0.324
+23201-请 您 把 挂 在 那 边 的 那件 给 我 看看  行吗-could you show me that one hanging over there ?-0.324
+23354-请 给 我 看看 上海 产 的-show me the razor blades turned out in shanghai .-0.324
+23777-这里 刚 卖 一 周 的 时间-it &apos;s been on sale just for one week .-0.324
+24302-请 您 把 挂 在 那 边 的 那件 给 我 看看  行吗-could you please show me the one hanging over there ?-0.324
+25244-请 接受 我们 最 诚挚 的 歉意-well , please accept our sincere apologies .-0.324
+26008-我 先 得 换 些 钱  请 问 外汇 总 换台 在 什么 地方-and i have to change some money first . where &apos;s the foreign exchange desk ?-0.324
+26116-请 慢慢 挑选 您 最 喜欢 的-please take your time to choose your favorite .-0.324
+26126-请 告诉 我 你 要 的 尺寸-now tell me the sizes , please .-0.324
+26348-请 接受 我们 最 诚挚 的 歉意-please accept my sincere apologies .-0.324
+26587-请 给 我 10 元 或 100 元 面额 的  还 要 一些 零票-give me 10 or 100 yuan notes , and some small change , please .-0.324
+26630-请 给 我 1 镑 票面 的-pound notes , please .-0.324
+26717-请 给 我 10 元 或 100 元 面额 的  还 要 一些 零票-give me-10- or 100-yuan notes , and some small change , please .-0.324
+26910-当然 可以  请 问 房价 是 多少-certainly.how much is the room , please ?-0.324
+26936-顺便 问 一下  什么 时间 结账 退房-by the way , what &apos;s the checkout time here ?-0.324
+27178-汉斯 先生  请 稍 等 一会儿  是 的  您 在 这儿 预订 了 房间-just a minute , please , mr. hans . yes , we have your reservations here .-0.324
+27335-是 您 该 退房 的 时间 了-it &apos;s your checking out time .-0.324
+27374-真 抱歉  请 到 我们 旅馆 的 外币 兑换 柜台 去 换 一下-i &apos;m sorry about this , please go to the foreign exchange counter of my hotel to change it .-0.324
+27939-请 放 在 你们 房间 的 外面-please leave them outside your room .-0.324
+28263-请 把 你 的 物品 放 在 这个 封袋 里  然后 封 起来-please put your articles in this envelope and seal it .-0.324
+28598-我 想 了解 洗衣 服务 的 时间-i &apos;d like to know your laundry service hours .-0.324
+28672-先生  希望 您 在 我们 饭店 的 这 段 时间 过 得 愉快-i hope you enjoyed your stay , sir .-0.324
+28721-豪斯 先生  请 稍等 一下  请 问 您 打 过 长途 电话 没有-i &apos;ll be right with you , mr. house . have you made any long distance calls , please ?-0.324
+28755-明天 早上 我 要 去 伦敦  请 把 我 的 账结 到 明天 早晨-tomorrow morning i will leave for london , so please add up my charges through tomorrow morning .-0.324
+28939-行 啊  我们 可以 为 您 保管  请 问 您 有 几 件 行李-yes , we &apos;ll keep it for you . how many pieces of luggage do you have ?-0.324
+29343-请 您 在 倒 以前 先 拉开 咖啡 的 黑色 塞子  好 吗-could you pull out the black stopper of the pot before you pour , please ?-0.324
+29489-圣诞节 就 要 到 了  请 向 她 转达 我 的 圣诞 祝福-christmas is almost here.please send my christmas greetings to her .-0.324
+29547-顺便 问 一 声  你 见 过 我们 的 经理 琼斯 先生 了 吗-by the way , have you seen mr. jones , our manager ?-0.324
+30112-请 你 再 告诉 我 你 的 名字 和 怎样 跟 你 联络-could i have your name once again , and could you please tell me how i can reach you ?-0.324
+30901-有 三 分钟 的 时间 可以 通话-you can speak for three minutes , sir .-0.324
+31176-我 想 请 你 预付 200 美元 租金 外加 50 美元 的 损毁 抵押金-i need two hundred dollars rent in advance plus a fifty dollar breakage deposit .-0.324
+31231-请 问  我 在 外面 看到 布告  你们 仍 有 公寓 出租 吗-excuse me . i just saw the sign outside . do you still have the apartment for rent ?-0.324
+33087-是 的  请 上 中等 的 样子-yes , medium starch , please .-0.324
+34358-请 给 我 订 一 张 去 纽约 的 711 航班 的 头等舱 座位-please book me one first class seat on aal flight 711 to new york ?-0.324
+34416-我 想 问 一下 从 伦敦 飞来 的 983 航班 是否 准点 到达-can i have some information whether the flight no.983 from london will arrive on time ?-0.324
+35576-挑夫  请 把 我 的 这些 包裹 搬运 到 出租 汽车站 好 吗-porter ! would you please take these bags to the taxi station for me , please ?-0.324
+35589-请 买 一 张 去 华盛顿 的 头 等 车厢 的 儿童 往返 票-a first - class child return ticket to washington , please .-0.324
+35595-请 给 我 三 张 下午 7 点 去 伦敦 的 往返 票-please give me three return tickets for london at 7 p. m .-0.324
+35656-请 告诉 我 在 哪儿 能 买到 去 亚特兰大 的 火车票  好 吗-can you tell me where i can get a ticket for the train to atlanta ?-0.324
+35663-劳驾 一下  请 告诉 我 到 南京 的 火车 在 哪 个 站台-excuse me . can you tell me from which platform the train for nanjing leaves ?-0.324
+36048-他 问 他 的 朋友  “ 你 觉得 我 的 新 房车 怎么样  ”-&quot; how do you like my new saloon car ? &quot; he asked his friend .-0.324
+36627-先生  请 告诉 我 你 的 地址-please tell me your address , sir .-0.324
+36783-花 更 短 的 时间 到达 那儿-it takes much shorter time to get there .-0.324
+37093-请 让 我 看一下 您 的 票-ticket , please .-0.324
+37922-请 引导 我 到 我 的 座位-please show me to my seat .-0.324
+38236-我 现在 还 不 知道 我 的 预期 停留 时间 是 多 长-i don &apos;t know my intended length of stay .-0.324
+38392-请 用 印刷体 写 您 的 姓-please write your surname in block letters .-0.324
+38488-请 问 我 是否 能 在 这里 搭 公共 汽车 到 动物园 去 呢-would you please tell me if this is where i can catch a bus to the zoo ?-0.324
+38759-请 告诉 我 法国 航空 公司 最近 的 办事处 在 哪里 好 吗-will you tell me where the nearest office of air france is ?-0.324
+38856-对 不 起  请 问 您 能 告诉 我 到 车站 怎么 走 吗-excuse me , please . could you tell me the way to the station ?-0.324
+39110-请 问  我 要 到 海滨 去  乘 这 辆 车 可以 吗-i &apos;m going to the beach . is this the right bus , please ?-0.324
+39747-请 您 核对 一下 您 的 账单-please have a check on your bill .-0.324
+40384-请 随便 挑 你 喜欢 的 吃-help yourself to anything you like .-0.324
+41541-请 来 两 杯 加奶 的 咖啡-two coffees with cream , please .-0.324
+41678-侍应生 会 来 问 你 想要 吸烟 的 还 是 不 吸烟 的 位子-the hostess will ask if you prefer to sit in an area where smoking is allowed or not .-0.324
+41978-她 问 她 母亲 : “ 你 在 哪里 买 的 竹笋 ”-&quot; where did you buy the bamboo shoots ? &quot; she asked her mother .-0.324
+42376-大家 赶 着 吃午饭  因为 他们 只有 一 小时 左右 的 午饭 时间-people rush for lunch , because they only have an hour or so .-0.324
+47498-请 接受 我 最 衷心 的 祝愿-please accept my sincere congratulations .-0.324
+47512-你 一直 很 努力  请 允许 我 为 你 的 提升 表示 祝贺-you &apos;ve been working hard . may i offer you my congratulations on your promotion ?-0.324
+48676-彼得  为什么 不 把 我们 的 喝 咖啡 时间 改 到 10 点-peter , why not change our coffee break to 10 o &apos;clock ?-0.324
+49484-抱歉 让 您 久 等 了  请 问 您 找 哪 一 位-i &apos;m sorry to have kept you waiting , is there anyone in particular you would like to see ?-0.324
+49532-请 您 用 您 觉得 最 舒服 的 方式 坐 在 这 垫子 上-please sit on this cushion in whatever way you find most comfortable .-0.324
+51086-请 您 把 我 的 话 转经 您们 的 顾客 服务 部 好 吗-would you please transfer my call to your customer service department ?-0.324
+51425-请 稍等  我 问 一下 小野 田 先生 看 那 资料 在 不 在-just a moment , please . let me check with mr. onoda to see if that information is available .-0.324
+51684-谢谢 各位 今晚 给 我 的 时间-thank you for your time tonight .-0.324
+764-是 的  到 海口 要 多 长 时间-yes . how long does it take to get to haikou ?-0.323
+1163-你 能 告诉 我 到达 的 时间 吗-can you tell me what time we arrive ?-0.323
+1394-大家 请 注意 了  我 来 给 大家 介绍 一下 我们 的 地陪 导游  余 小姐-attention , folks . let me introduce our local guide , miss yu , to you .-0.323
+1680-请 等 一下  我 查 一下  女士  你 说 的 是 迈克 . 杰克逊 先生 吗-just one moment while i check , madam . mr. mike jackson , you said ?-0.323
+1720-我 想 问 一下 从 伦敦 飞来 的 第 331 号 航班 是否 准点 到达-yes . can i have some information whether the flight no.331 from london will arrive on time ?-0.323
+2126-好 的  能否 请 你 也 把 我 列 在 5 日 的 候补 名单 上-yes , please.can you also put me on the waiting list for the 5th ?-0.323
+2162-请 帮 查看 一下 5 日 下午 离开 北京 飞往 纽约 的 其他 航班  行吗-could you check other flights leaving beijing for new york in the afternoon of the 5th , please ?-0.323
+3113-谢谢 你  请 至少 在 起飞 前 三十 分钟 到 迈阿密 机场 我们 的 服务台 那里-thank you , sir . please come to our counter at the miami airport at least 30 minutes before departure time .-0.323
+3181-请 安排 个 吸烟区 靠 窗 的 座位-can you arrange a window seat in a smoking section , please ?-0.323
+4650-我 的 意思 是  还 需要 多少 时间-i mean , &quot; how much more time will it take ? &quot;-0.323
+4671-我 的 意思 是  还 需要 多少 时间-i mean , how much more time will it take ?-0.323
+5361-请 呆 会儿 把 你 的 种痘 证书 给 那 边 柜台 的 人 看-please show your vaccination certificate at the counter over there later .-0.323
+6186-对 不 起  请 问 莫特街 怎么 走-excuse me . how do i get to mott street , please ?-0.323
+6310-喔  请 告诉 我 最 快 的 路-oh , please tell me the fastest way .-0.323
+6481-火车 从 第七 月 台 出发  请 拿好 自己 的 票  我们 要 出示 车票-the train will leave from platform 7 , please take care of your tickets , we will have to produce our tickets .-0.323
+6638-特快 的 大约 能 节省 多 长 时间-how much time would i save if i took the express ?-0.323
+6894-顺便 问 一下  你 能 给 我 讲 点 有关 铁路 上 退票 的 规则 吗-by the way , would you please tell me the regulations about refund of train tickets ?-0.323
+8534-不过 本 餐厅 营业 至 晚上 10 点-but the restaurant is open until 10 : 00 p.m.-0.323
+8684-没有 问题  请 替 我 向 您 的 女儿 转达 我 对 她 生日 的 祝贺-sure . please remember me to your daughter on her happy birthday .-0.323
+8774-我 想 问 一下 您 预订 的 8:30 的 4 人 台 有 什么 变化 吗-you have booked a table for four at 8 : 30 . has there been any change ?-0.323
+8876-嗯  请 给 我 靠 窗 的 座位-well , by the window , please .-0.323
+9075-对 不 起  请 问 医务所 在 哪里-i &apos;m sorry , but could you tell me where the clinic is ?-0.323
+9565-对 不 起  请 问 哪里 有 电话-excuse me , where is the telephone ?-0.323
+9855-抱歉 耽搁 了  请 享用 您 的 午餐-we &apos;re very sorry for the delay.please enjoy your lunch .-0.323
+10141-对 不 起  请 问 男用 在 哪儿-excuse me , could you tell me where the men &apos;s room is ?-0.323
+10801-请 问 您 要 哪 一 种 色拉 作料  法式  千岛 还 是 油 醋 作料-which kind of salad dressing would you prefer , french , thousand island or oil and vinegar ?-0.323
+11285-请 帮 我们 预订 一下  今晚 七点钟 的-please make a reservation for seven tonight .-0.323
+11960-给 您 一 支 圆珠笔 和 一 张 纸  请 把 您 要点 的 菜记 下来-and here is a ball pen and a slip of paper . please note down your orders .-0.323
+12360-请 给 我 三 四 分 熟 的-i &apos;ll have it medium rare , please .-0.323
+12361-请 问 您 要 哪 一 种 沙拉 佐料  法式  千岛 还是 由 醋 佐料 呢-which kind of salad dressing would you prefer , french , thousand island or oil and vinegar ?-0.323
+13324-我们 有 红 茶  绿 茶  乌龙茶  普洱茶 和 菊花茶  请 问 喜欢 哪 一 种-we serve black tea , green tea , oolong tea , puer tea and chrysanthemum tea . which do you prefer ?-0.323
+14180-两 个 半场  每 半 场 30 分钟  中间 有 10 分钟 的 休息 时间-two halves of thirty minutes , and there is a ten-minute interval .-0.323
+16126-在 4 号 楼 的 一 楼  服务 时间 从早 7 点半 至 晚 11 点半-it &apos;s on the first floor of building no. 4 , it &apos;s service hours from 07 : 30 to 23 : 30 .-0.323
+17463-先生  请 慢慢 来  我 可以 等 的-take your time , sir . i cam wait .-0.323
+18059-请 喝 杯 茶  稍等 一下  我 打 电话 给 这些 人 联系 一下 时间-please have a cup of tea while you &apos;re waiting . meanwhile , i &apos;ll call up these people and make a schedule .-0.323
+18742-因为 我们 对 客户 的 喜好 作出 反应 的 时间 也 变得 极为 有限 了-because the time we have to respond to our clients &apos; tastes has also become unbearably limited .-0.323
+18839-你 真的 想 等 那么 长 的 时间-do you want to wait that long ?-0.323
+19435-史密斯 先生  汤姆森 先生  请 让 我 介绍 一下 我们 科 的 科长 林 先生-mr. smith , mr. thompson , may i introduce to you mr. lin , our section chief ?-0.323
+20644-请 让 我 向 你 说明 我们 的 产品 如何 帮助 了 其它 商店 促进 生意-please let me show you how our product has done just that for other stores .-0.323
+20710-请 别 介意 我 直 说  如果 您 要 好 的 质量  就 得 付出 代价-no offense , but if you want good quality , you have to pay for it .-0.323
+23792-谢谢  请 拿 一 台 日本产 的 录像机-yes , thank you . please show me a video made in japan .-0.323
+24019-对 不 起  请 问 女装部 在 哪儿-excuse me . where is the ladies &apos; dress section ?-0.323
+24301-请 给 我 挑 深灰色 或 黑色 的-deep grey or black , please .-0.323
+24552-请 稍候  我 去 看看 我们 的 存货-please wait a moment . i &apos;ll go and check our stock .-0.323
+24718-请 您 在 这 张 纸条 上 写下 您 的 姓名 和 地址 好 吗-can you write down your name and address on this slip ?-0.323
+25149-请 不 要 拿 太 贵 的 东西-nothing too expensive , please .-0.323
+26539-请 收好 兑换单  再 把 未 用完 的 人民币 换成 港元 可能 用 得 着-please take care of the exchange memo . you may need it for converting your unspent renminbi back into hong kong dollars .-0.323
+28897-当然 可以  先生  请 您 告诉 我 您 的 姓名 和 房间 号码 好 吗-of course , sir . may i know your name and room number , please ?-0.323
+29287-我们 能 不 能 把 我们 的 约 会 时间 换 到 下 周 早些时候-i wonder if we could change the time of our appointment to sometime early next week .-0.323
+30945-是  能否 请 你 拼出 她 的 姓-that &apos;s ah . could you spell the last name , please ?-0.323
+31422-你 能 告诉 我 准确 的 时间 吗-can you tell me the exact time ?-0.323
+32781-我 来 是 想 谈谈 贵国 的 旅程 安排  您 能 腾出 点儿 时间 吗-well , i &apos;ve come to talk about the itinerary for your trip . can you spare me some time ?-0.323
+33182-我 想 问 一 问  您 用 什么 种类 的 洗发水  您 不 介意 吧-do you mind if i ask you what kind of shampoo you use ?-0.323
+33330-不  请 多 剪掉 一些  我 喜欢 把 上下 的 头发 都 剪 得 短短 的-no . you can cut quite a bit off . i like it to be very short all over .-0.323
+33636-请 写上 你 的 名字  住址  内容物  收件 者 的 名字 和 住址  以及 价钱-your name and address , the contents , the receiver &apos;s name and address , and prices .-0.323
+34285-请 注意  飞往 纽约 的 美国 航空 公司 111 航班 一在在 8 号 登机口 登机-may i have your attention please , aa flight 111 to new york is now boarding at gate 8 .-0.323
+34303-请 你 把 行李 放 在 柜台 上  请 把 你 的 机票 给 我-will you put your luggage on the counter ? and your ticket , please .-0.323
+34575-请 向 尊 夫人 转达 我 的 问候-kindly give my regards to your wife .-0.323
+35046-请 告诉 我 上海 到 厦门 的 距离-may i know the distance between shanghai and xiamen ?-0.323
+35360-请 告诉 我 到 医院 去 的 路-please show me the way to the hospital .-0.323
+35858-请 注意  9 点 34 分 去 铁泊城 的 快车 停 在 6 号 站台-station announcer : attention , please . the 9 : 34 tiptown express is now standing at platform 6 .-0.323
+36265-请 给 我 看 一下 租费 的 单据-please show me a list of your rates .-0.323
+37285-游览 哈尔滨 的 最 好 时间 是 冬季-the best time for visiting harbin is in winter .-0.323
+37397-您 能 愉快 地 度过 车上 的 时间-you can spend the time on the train in a pleasant way .-0.323
+37522-请 你 告诉 我 火车 退票 的 规定-will you please tell me the regulations about refund of train ticket ?-0.323
+37665-请 给 我们 来 些 松脆 的 烤面包-let us have some nice crisp toast , please .-0.323
+37931-请 让 我 看 一下 你 的 登机证-may i see your boarding pass , please ?-0.323
+37950-中国 民航 123 号 班机 的 起飞 时间 是 当地 时间 9 点 35 分-the take-off time for caac flight 123 is 0935 hours local time .-0.323
+37981-旅客们 请 注意  英国 航空 公司 去 日内瓦 的 554 班机 就 要 起飞 了-attention , please . flight b.a. 554 to geneva is departing now .-0.323
+37998-旅客们 请 注意  从 卡拉奇 起飞 的 KL 208 班机 由于 机器 故障 而 误点-attention , please , flight kl 208 from karachi is overdue because of engine trouble .-0.323
+38451-请 让 行李员 小心 搬运 我 的 箱子-please tell the porter to be careful about my suitcase .-0.323
+38951-请 你 告诉 我们 去 餐厅 怎么 走-could you direct us to the restaurant ?-0.323
+39024-办理 我 的 签证 需 多 长 时间-how long will it take for my visa to be acted upon ?-0.323
+39025-劳驾  帮 个 忙  请 在 我们 离境 规定 时间 内 给 我们 办好 签证-could you please do me a favor-----please get our visas ready before the time of departure .-0.323
+39553-请 你们 尽快 地 送到 我 的 房间-and would you please bring them to my room as soon as possible .-0.323
+39831-我们 接受 最后 点菜 的 时间 是 9:30-we take last orders at 9 : 30 .-0.323
+40066-对 不 起  我们 餐厅 星期一 不 营业-i &apos;m sorry , we &apos; re not open on mondays .-0.323
+40170-请 找 一 张 5 人 的 餐桌-a table for 5 people , please .-0.323
+41220-请 你 告诉 我 哪里 有 价钱 公道 而 菜 又 好 的 餐馆 好 吗-can you show me a restaurant where they serve good food at reasonable prices ?-0.323
+41573-这 是 我们 餐厅 最 好 的 菜-it &apos;s the best of our kitchen .-0.323
+42079-服务生  请 给 我 把 干净 的 汤匙-waiter , please bring me a clean spoon .-0.323
+42120-承蒙 盛情 邀请  请 接受 我们 的 谢意-please accept our thanks for your kind invitation .-0.323
+42960-我 听说 的 : “ 回合 ” 是 指 球 往返 回击 的 那 一些 时间-by &quot; rally , &quot; i mean the period of time when the ball is in play .-0.323
+45275-我们 有 足够 的 时间 可以 看 赛跑-so we &apos;ve got plenty of time to watch the races .-0.323
+48327-我 希望 同意 你 的 观点  但是 弹性 工作 时间 只 对 部分 工作 适合-i wish i could agree with you , but it &apos;s only suitable for some jobs .-0.323
+48851-哦  想 问 你 的 事 我 想 起来 了  杰克逊 先生 来 电话 了 吗-oh , i know that i meant to ask you , has mr. jackson called yet ?-0.323
+49441-好 的  请 告诉 他 我 对 早上 发 过来 的 电传 有 几点 感到 不满-yes , please tell him in the telex he sent me there are a few points i &apos;m not happy about .-0.323
+49477-我 告诉 你 会面 的 时间 了 吗-did i tell you our meeting time ?-0.323
+49503-请 告诉 我 您 的 大名 和 电话 号码  他 可以 事后 跟 您 联络-give me your name and telephone number so that he can contact you later .-0.323
+49545-请 您 和 您 的 随行 往 这儿 走  我 带 您 到 董事长 办公室-if you and your party would come this way , i &apos;ll take you to the president &apos;s office .-0.323
+49654-我 不 再 占用 你 的 时间 了-i won &apos;t take any more of your time .-0.323
+50985-请 向 威廉姆斯 夫人 转达 我 的 问候-please send my greetings to mrs. williams .-0.323
+51103-请 告诉 我 您 订货 的 大概 日 期限  让 购 项目 和 付款 方式-please give me the approximate date you made the order , the items ordered and how payment was made .-0.323
+51411-午安  这里 是 波内勒 电子 工业  我 想 请 问 您 是否 要 出席 电阻器 会议-good afternoon , i &apos;m calling from bonelle electronics to inquire as to whether you will attend the resistors conference or not .-0.323
+837-请 把 随身 行李 放 在 上面 的 行李柜里-please stow your carry-on baggage in the overhead compartment .-0.322
+1537-请 允许 我 作 自我 介绍  我 叫 王海  是 你们 的 全程 陪同  我 来自 中国 国际 旅行社-allow me to introduce myself to you , my name is wang hai , i &apos;m your national guide from china international travel service .-0.322
+1541-这 是 旅行社 徽章  请 别 上 ； 这 是 有 旅行团 标志 的 帽子  请 戴上-here are the badges of our travel service for everybody , please pin them on and here are the caps of our travel service , please put them on .-0.322
+1967-请 给 我 看 一 看 你 的 机票-show me your ticket , please .-0.322
+2484-请 给 我 一 张 靠 窗 的 座位-a window seat , please .-0.322
+2602-我 是 刚 来 这里  了解 熟悉 这里 的 情况 要 花 些 时间 的  现在 我 去 市区-i &apos;m new in town . it takes time to get to know this area . i want to go downtown .-0.322
+3072-你 有 足够 的 时间 通过 移民局 和 海关-you &apos;ll have enough time to go through the immigration and the customs .-0.322
+4194-我 想 恐怕 要 花 一 倍 的 时间-i &apos;m afraid it &apos;ll take about double .-0.322
+6218-请 你 为 我 在 这 张 纸 上 画 一 幅 简单 的 路线图 好 吗-would you mind drawing me a little map on this piece of paper ?-0.322
+7274-请 给 我 三 张 到 迈阿密 的 票-three tickets to miami , please .-0.322
+7468-请 再 来 一 杯 下 冰块 的  先生-i have another on ice ready for you , sir .-0.322
+7880-我们 没有 吃 炸 牡蛎  我们 请 您 把 炸 牡蛎 收 回去 了 的  记得 吗-we didn &apos;t have fried oysters . do you remember i asked you to take them back ?-0.322
+7999-打搅 几 位 一下  请 问 哪位 先生 付账-excuse me , may i know who is paying , please ?-0.322
+9918-请 把 清理 费用 的 帐单 寄给 我们  我们 会 把 钱 退还 给 您  好 吗-could you send us the cleaning bill and we will refund the cost to you ?-0.322
+11640-请 安排 一 张 三 人 用餐 的 桌子-a table for three , please .-0.322
+11801-哦  对 了  酸 菜 鱼 是 本 餐厅 的 招牌 菜 之一  不过 有 占 点 辣-by the way , the fish with chinese sauerkraut is one of the specialties of the house . but it &apos;s a bit hot .-0.322
+12185-不 用 了  谢谢  我们 的 时间 不 多-no , thanks , we don &apos;t have much time .-0.322
+12458-早安  我 是 希尔顿 饭店 意大利 餐厅 的 史迪夫-good morning.this is steve of the hilton hotel , la pizzeria restaurant speaking .-0.322
+13204-我 是 附近 一 家 公司 的 新 职员  我们 中午 只有 一 小时 的 休息 时间-i &apos;m a new employee at a nearby company . we have only one hour &apos;s break at noon .-0.322
+15747-顺便 问 一下  告诉 我 您 将来 的 打算  在 今后 的 5 年 中 您 将 做 什么-by the way , tell me about your future . what will you be doing in five years &apos; time ?-0.322
+17690-我 问 了 好几 家  可是 他们 说 那 是 旧型 的  只 能 去 原 制造商 买-yes , several . but they told me that since it &apos;s an old model , only the manufacturer sells spate parts .-0.322
+19755-不过 请 您 放心  我们 不 会 失信 的-anyhow , you may rest assured that we &apos;ll not go back on our words .-0.322
+20067-请 代劳  我们 的 机票 订下 星期二 的  也 就 是 结束 谈判 后 的 第一 天-and would you please see that our plane tickets are booked for tuesday , the day after we wind up our talks .-0.322
+22092-请 问 你们 要 怎样 结账  是 三 人 合 起来 结账 呢 还 是 分开 结-how would you like to have your bill , a bill for three of you or a bill for each ?-0.322
+22108-请 稍 请  这 是 你们 的 发票 和 找 回来 的 12 元 6 角 钱-just a moment , please . here is the invoice and change , twelve yuan and six jiao .-0.322
+22905-不  她 应该 休息 大约 一 星期 的 时间-no . she should rest for about a week .-0.322
+24162-顺便 问 一下  我 不 是 欧盟 国家 的 居民  我 听说 可以 在 海关 取回 所 付 税款-by the way , i &apos;m not a european union resident . i &apos;m told we can get back the duty paid .-0.322
+26864-您 可以 按 您 想 醒来 的 时间 设置-you can set it for the time you want to wake up .-0.322
+26902-请 你 告诉 我 如何 打 电话 给 住 在 市区 的 一 个 朋友 好 吗-and could you tell me how to call a friend of mine living downtown ?-0.322
+27048-请 给 我 看 一下 您 的 护照 并 请 您 把 护照 号码 写 在 这儿-also please show me your passport and write the number of it here .-0.322
+29303-我们 会 在 您 要求 的 时间 送 过去-we will deliver your order at your requested time .-0.322
+29480-请 向 他 转达 我 最 美好 的 祝愿-please convey my best wishes to him .-0.322
+30600-打完 电话 请 你 告诉 我 时间 和 费用-could you tell me the time and charges after this call ?-0.322
+31970-无论 是 什么样 的 天气  在 一 天 中 任何 一 段 时间  它们 总是 那么 吸引人-they are attractive in all kinds of weather , and at all times of the day .-0.322
+32268-恩  这个 星期五 我 请 朋友 过来 吃 晚饭  不 知道 你 有 没 有 时间 一 道 来-well , i &apos;m having several friends over for dinner this friday , and i was wondering if you have the time to join us .-0.322
+32451-请 过来  有 人 会 给 您 看病 的-please come on over and someone will see you .-0.322
+32797-整个 旅程 需要 半 个 月  希望 大家 的 身体 都 能 吃得消 这么 长 时间 的 旅程-the whole trip will last half a month . i hope everybody in your group will be physically fit for this long trip .-0.322
+33684-请 给 我 三 张 25 分 的 邮票-three twenty-five cent stamps , please .-0.322
+34019-请 到 过 镜 柜台 拿往 悉尼 的 登机证-please get your boarding pass for sydney at the transit counter .-0.322
+34574-请 向 你 全 家 转达 我 的 问候-give my best regards to your family .-0.322
+34984-请 告诉 我 北京 和 上海 之间 的 距离-may i know the distance between beijing and shanghai ?-0.322
+34990-但是 请 您 注意 从 北京 到 上海 的 直达 特别 快车 在 徐州  南京  苏州 不 停车-but mind you that the express train from beijing to shanghai does not stop at xuzhou , nanjing and suzhou cities .-0.322
+35715-请 给 我 一 张 去 纽约 的 单程票-a one-way ticket to new york , please .-0.322
+36165-请 给 我 两 张 去 动物园 的 票-tow to the zoo , please .-0.322
+37401-请 给 我 拿 些 最 新 的 画报-give me some recent pictorials , please .-0.322
+39133-乘 地铁 较 合适 的 时间 是 什么 时候-what is a suitable time to take a subway ?-0.322
+39581-请 把 您 的 房号 写下  以便 您 点 的 菜 能 及时 送到 房间 去  好吗-could you please put down your room number so that your order can be delivered to your room promptly ?-0.322
+39969-请 给 我 一 个 靠边 上 的 座位-please give me a side seat .-0.322
+40120-请 安排 一 张 两 人 用 的 餐桌-a table for two , please .-0.322
+40208-请 安排 一 张 四 人 用餐 的 桌子-a table for four , please .-0.322
+40241-请 在 休息室 等候  我们 会 叫 您 的-please wait in the lounges . we &apos;ll give you a call .-0.322
+42188-我 很 渴  请 给 我 半品脱 的 啤酒-i &apos;m rather thirsty. bring me half a pint of beer , please .-0.322
+42822-射击 运动员 的 个人 基本 素质 包括 射击 的 精确性  平衡  注意力 集中  协调  心理 稳定 和 时间 感觉-basic individual qualities include shooting accuracy , balance , concentration , coordination , good nerves and a sense of timing .-0.322
+42921-计时赛 关键 是 要 达到 尽可能 的 速度  并 尽可能 长 时间 地 保持 最 快 速度-the key to the time trial is to reach maximum speed as quickly as possible and hold it for as long as possible .-0.322
+43324-请 告诉 我 怎样 可以 买到 棒球赛 的 票-can you tell me how i can get tickets for a baseball game ?-0.322
+45037-如果 你 问 我 多少 是 合理 的  恐怕 我 得 说 还 不 到 这个 数字 的 一半-if you asked me what is in the ballpark , i am afraid i have to say it is not half as much .-0.322
+49475-我 有 一 个 主意 : 请 把 你 要 说 的 用 传真 发 过来 好 吗-well , i have an idea . could you fax your message to us ?-0.322
+49580-请 把 您 的 夹克 给 我  您 和 大岳 先生 谈话 时  我 来 替 您 弄干-please give me your jacket and i &apos;ll dry it off for you while you &apos;re taking to mr. otake .-0.322
+51101-请 告诉 我 您 的 电话 号码  我 看 怎么 办  然后 马上 给 您 回 电话-please give me your telephone number and i &apos;ll see what can be done and call you right back .-0.322
+51264-请 贵 公司 说明 最 早 的 交货期 , 付款 条件 , 定期 购买 的 折扣 .-will you please state your earliest delivery date , your terms of payment , and discounts for regular purchases ?-0.322
+51784-请 大家 和 我 一起 来 恭贺 “ 人道主义 服务 奖 ” 的 得奖人 王 苏珊 女士-so please join with me in congratulation this year &apos;s recipient of our humanitarian service award , susan wang .-0.322
+124-我们 有 足够 的 时间 找 旅馆 并 睡 个 好觉-we &apos;ll have enough time to find a hotel and have a sound sleep .-0.321
+522-能否 请 您 告诉 我 沿途 一些 风景点 的 情况-will you please tell me something about scenic spots on the way .-0.321
+1333-这样 的 话 我们 到达 的 时间 是 早晨 了-that means it will be early morning when we arrive .-0.321
+1542-我 想 各位 经过 从 美国 到 中国 的 这 一 段长 时间 旅行 之后  都 希望 好好 休息 一下-i expect after such a long trip from the united states to china , you &apos;d like to have a good rest .-0.321
+1548-大家 请 往前 看  就 可以 看到 著名 的 黄鹤楼-please look straight ahead , we can see the famous yellow crane tower .-0.321
+1610-请 允许 我 自我 介绍 一下  我 叫 赵兵  是 合肥市 进出口 办公室 的 主任  我 特意 到 机场 迎候 您-allow me to introduce myself . i &apos;m zhaobing , director of hefei municipal import and export office . and i am here just to meet you .-0.321
+1657-请 大家 把 行李 放 在 这里  行李员人 管 行李 的-please put your luggage here . the luggage man will take care of it .-0.321
+2183-有  太太  您 已 重新 确认 12 月 23 日 飞往 伦敦 的 916 航班 机票  离开 纽约 的 时间 为 下午 2:00-yes , madam . you are reconfirmed on flight no. 916 for london , leaving new york at 2 : 00 p.m. on december 23 .-0.321
+5031-顺便 问 一 句  我 得 纳 多少 钱 的 税-by the way , how much do i have to pay ?-0.321
+5234-如果 他 对 每 个 人 都 多 问 一 句  你 想想 工作 时间 要 多 长 才 够-well , just think how much longer his job would take if he asked one more question to each person .-0.321
+6432-好  请 为 我 预订 一 个 本 周六 的 座位-fine.please reserve me a seat for this saturday .-0.321
+7160-和 许多 申请 签证 的 其他 人 用 的 时间 相比  实际上 你 等 的 时间 并不 算 很 长-actually , that &apos;s not very long , compared with the time it took many other visa-appliers .-0.321
+7947-可以  请 您 在 支票 上 签上 您 的 名字-that &apos;s ok.please write your name on the check .-0.321
+8440-最近 许多 客人 在 那里 举行 婚礼 宴会  不过 这 间 餐厅 比 其它 较 小 的 餐厅 收费 略 高 一些-recently , many guests held wedding parties , but it is a bit more expensive than the smaller ones .-0.321
+8536-本 餐厅 接受 最后 点菜 时间 是 晚上 9 点半-our last order for dinner is at 9 : 30 p.m.-0.321
+8546-您 可以 告诉 我 您 想 预订 的 时间 吗-but could you tell me the time you &apos;d like to have for your dinner ?-0.321
+8656-不过 已经 有 许多 人 预订  我 无法 保证 一切 都 能 满足  请 相信 我们 会 尽力 的  戴维斯 先生-we have already received many bookings and though i cannot guarantee anything , please be assured that we &apos;ll try our best , mr. davis .-0.321
+8708-顺便 告诉 您  本 酒家 的 早茶 时间 是 从 7 点 至 9 点  这 是 全 天 最 旺 的 时间-it &apos;s in the blue sky room . by the way , the morning tea in our restaurant is from seven a.m. to nine a.m. it is the busiest hours of the day .-0.321
+8901-晚上 好  请 安排 一 张 两 个 人 的 桌子-good evening . a table for two , please .-0.321
+9104-请 在 休息室 稍候  我 会 叫 您 的 名子-would you wait in the lounge until i call your name ?-0.321
+9466-在 餐厅 的 另 一 边  我 带 你 去-it &apos;s on to other side of the restaurant , i &apos;ll show you .-0.321
+9478-对 不 起  先生  请 您 把伞 和 提箱 放到 餐厅 外面 或者 交给 我 替 您 保管 好 吗-excuse me , sir . do you mind putting these outside the restaurant or giving them to me and i &apos;ll certainly take good care of them ?-0.321
+9654-下 次 我 请 您 吃 她 做 的 烤肉-next time i &apos;ll invite you to enjoy her barbecue .-0.321
+9732-请 稍候  我 去 拿 您 所 点 的 菜-just a minute , and i &apos;ll get your order for you .-0.321
+12454-可 不 可以 请 销售部 的 马克斯 先生 听 电话-may i speak to mr.marcus of the sales department , please ?-0.321
+12970-请 不 要 特地 为 我 做 什么 吃 的-please don &apos;t cook anything specially for me .-0.321
+13081-大多数 人 只有 半 小时 到 一 小时 的 时间 吃午饭-most people only have a half an hour to one hour for lunch .-0.321
+15877-顺便 问 一下  是 哪 两 个 队 的 比赛-by the way , who &apos;s playing ?-0.321
+16329-我 觉得 重要 的 是 每 天 我 能 抽出 一定 时间 不 去 想 别 的 事情  全神贯注 练 一会 香功-i think what matters is that every day i can set aside a certain period of concentrating and thinking about nothing else at all .-0.321
+16334-不 难  香功 不同于 其他 气功 的 就 是 它 很 容易 学  你 几乎 可以 在 任何 地方  任何 时间 练习 香功-no , unlike other qigong exercises , it &apos;s very easy to start . you can start practice anywhere and anytime .-0.321
+16929-早上 好  约翰  人们 常 说 锻炼 身体 的 最佳 时间 是 早晨  要 我 说  你 也 挺 早 的-good morning , john . you &apos;re also early . people often say that morning is the best time of a day for physical exercises .-0.321
+18305-我 用 不 着 这么 长 的 时间 就 可以 决定-i don &apos;t need that long to make up my mind .-0.321
+20397-请 告诉 他 我 带来 了 他 要 的 文件-please tell him i brought the documents he requested .-0.321
+20445-能否 请 您 简短 地谈 一下 贵 公司 的 背景-could you tell me a little about your background ?-0.321
+20543-我们 还 空 了 几 个 下午  以便 在 洽谈 的 间隙 时间 让 您 到 青岛 的 各 处 看 一下-and we have left some afternoons free for you to see the sights of qingdao between talks .-0.321
+21629-嗯  我 和 太太 在 这里 的 这 段 时间 是 想 看睦 演出  所 听 摇滚 音乐会 不 是 很 好 吗-well , my wife and i do want to see something while we &apos;re here , so why not a rock concert ?-0.321
+21892-小姐  请 往 这里 走  到 我们 的 令 人 感到 亲切 的 休息 酒吧 去  喝 一 杯 餐前 鸡尾酒-this way , miss , to our intimate lounge bar for a pre-dinner cocktail .-0.321
+23175-我 想 预约 下 星期 做 定期 检查 的 时间-yes i &apos;d like to make an appointment for a regular check-up next week .-0.321
+23288-请 看  这 是 展于虔 的 名画 “ 游春 图 ” 的 仿制品  展于虔 是 隋朝 一 位 伟大 的 画家-look , this an imitation of the famous painting &quot; spring outing &quot; by zhan zhqian , who was a great artist of the sui dynasty .-0.321
+23322-另外  请 给 我 几 把 上面 没有 画儿 的 扇子-besides , give me some fans without paintings on them , please .-0.321
+23372-请 看 这 块 香皂  是 “ 力士 ” 牌 的  具有 柔和 的 肌肤 调理剂  很 受 青年人 的 喜欢-look at this piece , please . it is &quot; lux &quot; brand with gentle skin conditioners . it is popular with young people .-0.321
+24920-不 够 长  请 拿 一 个 大 点 的-it is not long enough . bring me a larger size , please .-0.321
+25014-请 等 一下  这 只 包 也许 是 你 的 吧-just a moment , please . is this handbag yours , by any chance ?-0.321
+25397-噢  对 不 起  我 改变 主意 了  请 给 我 拿 7 号 的 吧  我 想 脚尖 留 些 空隙 为好-oh , sorry boy . i &apos;ve changed my mind . please bring me a size 7 , i want a little space left in the tip .-0.321
+27295-对 不 起  我 想 请 你 保管 我 的 护照-excuse me , but i want you to keep my passport .-0.321
+27794-我们 来自于 纽约  我们 不 能 掌握 好 这里 的 时间-we come from new york and we can &apos;t use the time here .-0.321
+27796-中国 的 时间 比 美国 西海岸 的 时间 提前 十六 小时  或者说 比 东部 标准 时间 提前 十三 个 小时-beijing time is 16 hours ahead of west coast time in the united states or 13 hours ahead of eastern standard time .-0.321
+28670-我 是 想 问 一下  您 有 没有 接受 过 客房 用餐 服务  洗衣 服务 或 其他 的 类似 服务-i mean to ask you if you have ordered room service , laundry service , and such kind of things .-0.321
+30698-但是 很 抱歉  我 不 能 告诉 你 确定 的 时间-but i &apos;m sorry , i can &apos;t tell you exactly what time .-0.321
+30833-讲完 电话  请 让 我 知道 时间 和 费用 好 吗-will you let me know the time and charges after the call ?-0.321
+31123-我 不 想 在 路 上 花 太 多 的 时间-i don &apos;t want to spend too much time on the way .-0.321
+31249-我 想 请 你 预付 200 元 租金 外加 50 元 的 损毁 押金  你 搬出 时 这 笔 押金会 退给 你-i need two hundred dollars rent in advance plus a fifty dollar breakage deposit back when you move out .-0.321
+32439-我 想 请 教 几 个 有关 计划 的 问题-i &apos;ve got some questions to ask you about the plan .-0.321
+32607-好 的  那么 请 给 我 1 张 去 旧金山 的 机票 和 1 张 从 旧金山 到 纽约 的 机票-good . then , please book me 1 ticket to san francisco and 1 from san francisco to new york .-0.321
+33451-但是 你 只有 五 分钟 的 时间  他们 下午 五点 关门-but you have only 5 minutes to go . they close at 5 o &apos;clock in the evening .-0.321
+34154-这里 飞 纽约 大约 要 花 十五 小时 的 时间-the flight will cost you about 15 hours from here to new york .-0.321
+34193-呀  我们 还 有 整整 一 小时 的 时间 呢-well , we have one whole hour left .-0.321
+34852-到 多伦多 的 列车 多 长 时间 开 一 趟-how often does the train to toronto run ?-0.321
+35288-我们 有 足够 的 时间 找 个 宾馆 好好 睡一觉-we &apos;ll have enough time to find a hotel and have a sound sleep .-0.321
+35575-请 让 我 看 一 看 您 的 证件 并 签上 名字  然后 您 就 可以 取走 您 的 行李 了-please show me your identification and sign your name , then you may take your luggage away .-0.321
+35600-慢 车 运行 的 时间 是 快车 的 两 倍-the local takes twice as much time as the express .-0.321
+36704-请 快 一点  我 要 赶 下午 8 点 的 飞机-be quickly please , i &apos;ll have to catch the 8 p.m. flight .-0.321
+37284-游览 承德 的 最 好 时间 是 五月 到 十月-the best time for visiting chengde is from may to october .-0.321
+37590-到站 台上 散步 或 购买 物品 的 旅客  请 不 要 把 您 的 行李 物品 让 不 相识 的 人 看管-anyone who wants to go out for a walk and go shopping on the platform , please don &apos;t have your luggage looked after by some strangers .-0.321
+37986-女士们 先生们  请 注意  欢迎 你们 乘坐 我们 的 班机-attention , please . welcome on board , ladies and gentlemen .-0.321
+39142-请 给 我 一 张 到 牛津 广场 的 票-one for oxford circus , please .-0.321
+39356-恐怕 我 没有 足够 的 时间 等 这 道 菜-i &apos;m afraid i don &apos;t have enough time to wait for the next crab .-0.321
+40037-许多 桌 位 已经 订 出去 了  尽管 我 不 能 向 你 保证  但 请 相信 我 会 尽力而为 的  戴维斯 先生-we have already received many bookings and though i cannot guarantee anything , please be assured that we &apos;ll try our best , mr.davis.-0.321
+40055-请 在 8 点 准备 两 个 人 的 座位-a table for two at eight , please .-0.321
+40121-请 为 我 订 一 张 五 人 用 的 餐桌-please book me a table for five people .-0.321
+40237-请 这 边 来  我 领 您 去 预定 的 桌子-if you &apos;ll come this way , i &apos;ll show you to your table .-0.321
+40886-请 这 边走  我 领 您 去 预定 的 桌子-come this way , please . i &apos;ll show you to your table .-0.321
+41174-顺便 问 一 句  这 调味料 是 用 什么 做 的-by the way , what &apos;s this seasoning made from ?-0.321
+41358-晚饭 很 不错  请 向 厨师 转达 我 的 赞誉-this is a delicious dinner , my compliments to the chef .-0.321
+42845-神枪手 不仅 要 有 敏锐 的 眼力  还 要 具有 在 选择 时间 和 协调 动作 方面 的 非凡 判断力-a good marksman is one who , in addition to having keen eyesight , has on extraordinary sense of timing and coordination .-0.321
+42925-个人 追逐赛 是 一 种 速度  战略 和 勇气 的 比赛  车手们 不但 要 相互 比赛  也 要 与 时间 比赛-individual pursuit is a contest of speed , tactics and nerve with cyclists racing both each other and the clock .-0.321
+45191-他 以 创 纪录 的 时间 跑 完 200 米-he ran the 200 meters in record time .-0.321
+45627-他 以 创 纪录 的 时间 跑 完 400 米-he ran the 400 meters in record time .-0.321
+45653-他 以 创 记录 的 时间 跑 完 100 米 .-he had a lead of 2 meters in record time .-0.321
+46668-一 场 一流 的 比赛 要 持续 长 达 三 天 的 时间  每 天 下午 要 打上 六 个 小时-a first-class match lasts for up to three days , with six hours &apos; play on each afternoon .-0.321
+48878-事情 很 急  不 会 占用 你 太 多 的 时间-it &apos;s urgent and it won &apos;t take long .-0.321
+49170-请 填妥 这 应征 表格  并 连同 所 需 文件 于 星期四 前 交来  我们 的 地址 在 第一 页 的 上方-please fill this application form out and return it to us with the necessary documents by thursday . our address is at the top of the first page .-0.321
+49501-请 告诉 我 您 的 大 名  公司 名称 和 您 的 业务 性质  我 看 他 现在 有 没 有空-please give your name , company and the nature of your business and i &apos;ll see if he &apos;s available .-0.321
+50654-你 能 确认 一下  开会 的 时间 是 早上 十点 吗-can you confirm that the meeting is at 10 : 00 a. m ?-0.321
+50673-请 注意 做到 上述 货物 必须 在 9 月 15 日 装出  保险 必须 按 发票 金额 的 150% 投保 一切 险-please see to it that the above-mentioned goods should be shipped before the 15th september and that shipment should be covered for 150 % of invoice value against all risks .-0.321
+50905-恭 喜 你  请 接受 我 最 衷心 的 祝愿-congratulations , and all my best wishes !-0.321
+51071-请 告诉 我们 有关 他们 速记 和 打字 的 能力-please give me information on their shorthand , stenography , and typing abilities .-0.321
+51176-抱歉  但是 其他 的 时间 对 我们 不 太 方便-i &apos;m sorry , but any other time would be inconvenient for us .-0.321
+51454-请 稍等  我 看 一下 他 下 周 的 行程表-one moment , please . let me check his schedule for next week .-0.321
+312-那么 我 可以 把 候车 的 时间 用 来 在 那里 观光 游览-then i can spend my waiting time in sightseeing there .-0.32
+2612-我们 的 车票 45 美分  转车 票 10 美分  请 给 刚好 的 车费-forty-five cents , 10 cents extra for a transfer . exact fare please .-0.32
+2921-我们 的 车票 45 美分  转车 票 10 美分  请 给 刚好 的 车费-forty-five cents , 10 cents extra for a transfer . exact fare , please .-0.32
+3186-请 稍 等 一会儿  您 好  赵 先生  我 已经 为 您 订 好 了 5 月 5 日 星期五 上午 11:05 飞往 东京 的 往返 票-hold on the line , please . hello , mr. zhao , i &apos;ve booked your return ticket for tokyo leaving at 11 : 05 a.m. on friday may 5 .-0.32
+3250-随 您 方便  可是 您 不 能 晚于 飞机 起飞 前 两 小时 来 取票  并且 请 别 忘 了 带 您 的 护照 来-just as you like . but you must come and fetch it not later than 2 hours before the departure time , and don &apos;t forget to bring your passport with you , please .-0.32
+3956-如果 走 不 那么 拥挤 的 路 的话  倒 可以 节省 10 分钟 甚至 更 多 的 时间  但 您 得 多 付 些 钱-if i take a less heavy route , it will save us 10 or more minutes , but you &apos;ll have to pay more .-0.32
+3998-如果 是 走马观花 地 看看 的话  一 周 的 时间 够 了-if you just want to have a rough look , a week is ok .-0.32
+5699-对 不 起  我 想 问 一下 去 艺术 博物馆 最 便捷 的 路-excuse me.please tell me the best way to the art museum .-0.32
+6989-我 是 在 尼兰站 7:30 乘 的 车  我 想 那 是 一 个 糟糕 的 乘车 时间  车 进站 了  我 是 被 后面 的 人流 挤 进去 的-i was down at the lilan station at 7 : 30 , i guess that was a bad time to travel.when a train pulled in i was simply swept in by the rush of people from behind .-0.32
+7566-请 您 喝 好  您 有 什么 吩咐 我 会 随时 来 的-enjoy yourself . i &apos;ll be with you if you have any instructions .-0.32
+7755-我们 中午 的 时间 是 不 多 的  不过 我们 点 一 份 玉米 汤-we don &apos;t have much time this time of the day . but we &apos;d like a corn soup .-0.32
+8422-请 务必 在 此 时间 之间 来  否则 不 能 保证 有 空位-you &apos;d better come before this , or i cannot guarantee your table is available .-0.32
+8567-是 的  这 就 是 为什么 我们 选择 贵 餐厅 的 原因-yes , that is why we choose to eat at your restaurant .-0.32
+8761-那么 您 订 的 是 2 桌 18 位 的 宴席  2000 元 的 标准  包括 酒水  水果  时间 是 明晚 7:30  对 吗-so a banquet of two tables for eighteen at two-thousand yuan including drinks and fruit , at 7 : 30 tomorrow evening . is that right ?-0.32
+9170-是 的  我 记得 总共 10 位  我 确信  请 这 边走  是 一 间 单独 隔开 的 饭厅  可以 看到 美丽 的 景色-yes , i remember . a party of ten , i believe . this way , please . it &apos;s a private dining room with a beautiful view .-0.32
+9487-我们 餐厅 信誉 一直 很 好  同 顾客 的 关系 十分 融洽-our restaurant always remains a good reputation-we have a good clientele here .-0.32
+10370-请 把 菜单 递给 我  我 看看 上面 有 什么 好吃 的 食物-please pass me the menu . i &apos;ll see if there is something nice on the menu .-0.32
+12982-你 从来 没有 问 过 我 和 杰克 喜欢 吃 怎么 做 的 鸡蛋-you &apos;ve never asked jack or me how we &apos;d like our eggs done .-0.32
+15421-能 问 一下 你 是 如 何去何 从 估计 球 会 形势 的 吗-can i ask you what you think about the club &apos;s situation ?-0.32
+15438-以后 呢  请 你 相信  新 的 问题 又 将 出现  因为 一旦 进入 乙级  你 还 想 进 甲 级  那么 我们 又 回到 原地-and then , believe you me , the big problems start , because once you &apos;re in the second division you want to go in the first division , and the we &apos;re back where we started .-0.32
+16248-若 有 什么 问题  请 及时 与 我 联络  这 是 我 的 名片-so if you have any questions or problems , please contact me at any time . here is my name card .-0.32
+16705-她 说 她 至少 需要 一 年 的 时间 来 决定 今后 的 去向-she said she needed at least one year before deciding what she is going to do next .-0.32
+16757-她 说 她 至少 需要 一 年 的 时间 来 决定 今后 的 去向-she said she needed at least one year before deciding what she is going to do next .-0.32
+17268-他们 能 判断 出 是否 是 劣马  你 可以 通过 马跑 的 样子 看出 它 能否 奔跑  或者 还是 再 需要 一 段 时间-they can tell if an animal is backward , and you can see by the way it works at home whether or not it &apos;s ready to run , or whether it needs a bit more time .-0.32
+17508-请 告诉 我  当 货物 在 目的地 发生 破损 时 收货人 该 办 的 手续-tell me the procedure that a consignee should follow , when damage to the goods occurs at destination .-0.32
+18016-好吧  因为 我们 还 有 一 家 厂子 要 看  请 考虑 一下 李 先生 的 出价  胡 先生  如 你 有 兴趣  我们 再 回来-well , as we have one more factory to visit , please think about mr. li &apos;s bid , mr. ho . we &apos;ll come back if you are interested .-0.32
+18401-然而 已 有 相当 长 的 一 段 时间 里 曾脂 市场 坚挺  澳大利亚 市场 散装 曾脂 一 吨 的 时价 在 303 美元 左右-however , the tallow market has been quite strong for sometime and the prevailing price in the australian market is around us $ 303 / mt for bulk tallow .-0.32
+18799-能 不 能 请 你 保证 在 我们 开 的 远期 信用证 到期 的 时候  你 向 我们 采购 的 累计 总值 应该 同 我们 的 信用证 总值 一样-would you please also guarantee that by the time our issuance l / c is due , the accumulative value of your purchase from us will be the same as that of our l / c.-0.32
+20165-请 现在 拿给 我  我 一直 在 等 一些 重要 的 资料-please bring it to me now , i have been waiting for some important information .-0.32
+20507-他 现在 住 在 海天 大酒店  正 等待 着 外贸 公司 的 一 个 部门 经理 徐先生 来 商谈 他 访问 的 时间 安排 计划-he is staying at the haitian hotel and expecting mr. xu , a department manager of the cooperation to talk about the schedule for his business visit .-0.32
+20527-您 知道 我 的 逗留 时间 很 紧  我 愿意 多 看 一 看 这 座 美丽 的 城市  我 发现 它 很 像 我 的 家乡 温哥华-you know my schedule is very tight , but i &apos;d like to see more of this beautiful city , for i find that it is much like vancouver , my hometown .-0.32
+20761-请 原谅 我 的 直率  我 认为 你 的 报价 有点 过 高  与 其他 的 产地  例如 日本  巴基斯坦 以及 印度 相比 不 太 有利-please excuse my speaking candidly . i would tend to argue that the price you &apos;ve given is a bit on the high side . it compares very unfavourably with those of other origins , japan , pakistan and india , for instance .-0.32
+20874-我 将 请 我们 的 银行 开出 保兑  不 可 撤销 的 信用证 来 支付 定单 和 从 青岛 到 温哥华 的 运输 费用 .-i &apos;ll make arrangements with our band to open a confirmed , irrevocable l / c to cover our orders and shipment from qingdao to vancouver .-0.32
+21060-大家 请 注意  参观 时间 为 4 小时  我们 5:30 在 剧场 集合  可以 吗-attention , please . the time of sightseeing is 4 hours . we will meet at the theatre at 5 : 30 . is that ok ?-0.32
+21239-遗憾 的 是 我们 今天 没有 充足 的 时间 去 参观 了-it &apos;s pity we &apos;ve not got enough time to visit it today .-0.32
+22353-加州 南部 明媚 的 阳光  宜人 的 气候 使 我 在 那里 的 多数 时间 都 充满 欢乐  使 好莱坞 成 了 拍摄 电影 的 理想 场所-the constant sunshine and mild climate of southern california made most of my time happy and made hollywood an ideal place for shooting pictures .-0.32
+23180-抱歉  除了 最后 一 个 6 点 的 时间 以外  都 被 订 满 了-i &apos;m sorry , but we &apos;re all booked up except for the last appointment at 6 : 00 .-0.32
+23630-我 非常 乐意  请 告诉 我 她 戴 多 大 号码 的-yes , with pleasure . please tell me what size she wears ?-0.32
+23830-请 等 一下  我 就 给 你 拿 个 新 的 来-i &apos;ll bring you a new one . please wait .-0.32
+25022-请 到 那边 柜台 付款  然后 回来 拿 你 买 的 东西-please pay the cashier over there and then come back to get your purchase .-0.32
+25108-谢谢 你 抽出 宝贵 的 时间  祝 你 有 愉快 的 一 天-thank you for time ! have a great day !-0.32
+26571-这 是 钱 和 兑换单  请 保留 兑换单  以后 会 有用 的-here are your money and exchange memo.please keep the memo . it may come in handy later on .-0.32
+26974-噢  请 等 一下  我们 有 一 间 带 浴室 的 单人房-well , just a moment , please . we &apos;ve got a single room with bath .-0.32
+29448-你 看 我们 能 不 能 把 见面 的 时间 换 到 明天-i wonder if we could change the time of the meeting to tomorrow .-0.32
+29774-我 是 威廉·凯勒  今天 我 就 要 回 台北 了  我 是 打 电话 来 谢谢 你 的 帮忙  尤其是 你 花 了 那么 多 时间 陪 我-this is william keller . i &apos;m returning to taipei today , and i call to thank you for all your help and , in particular , for all the time that you &apos;ve spent on me during my stay here .-0.32
+30109-请 你 给 他们 一 封 信 或 电报  说明 你们 要 的 型式  种类  尤其是 需要 电镀 程度  厚度 和 光洁度  还 有 尺寸  等级  数量  用途 及 寄送 期限-would you please send them a letter or telex , stating the type and specification ; and specifically , temper , grade , coating weight , and surface finish ? you should also state dimension and grade , quantity , use and delivery deadline .-0.32
+30337-等 他 回来  请 回电 给 我  他 知道 我 的 号码-when he come back , call me back please . he knows my number .-0.32
+30691-我们 会 在 你们 的 时间 四点钟 左右 再 给 他 打 电话-we &apos;ll try to call him around four o &apos;clock your time .-0.32
+30924-好  对 了  我 想 在 通话 后  知道 通话 的 时间 与 费用-yes . by the way , i &apos;d like to know the time and charges after the call .-0.32
+31506-我 喜欢 独自 旅游  这样 会 有 充分 的 时间 在 一 个 地方 逗留-i prefer traveling alone and having a lot of time to linger in one place .-0.32
+33962-我 感到 不 舒服  请 给 我 些 治 晕船 的 药丸-i don &apos;t feel well.please get me some sea-sick pills .-0.32
+34491-还有  办理 乘机 手续 的 时间 在 起飞 前 一 小时 左右-one more thing : check-in time is an hour or so before take-off .-0.32
+34833-但是  我们 必须 8 点 前 出发  以便 有 足够 的 时间 买 车票-but we must start out before 8 next wednesday so that we can have enough time to buy the tickets .-0.32
+35593-请 给 我 订 一 张 头 等 车厢 靠 窗 的 车票-please book me a first - class , window seat .-0.32
+35851-火车 要 到 10 点 20 分 才 离开  我们 的 时间 还 很 宽裕-the train doesn &apos;t leave until 10 : 20 . we have plenty of time to spare .-0.32
+37293-请 向 左 拐  一直 往 前 走  你 会 发现 餐车 的-please turn to left , go straight ahead , you &apos;ll find the restaurant car .-0.32
+37587-你们 有 足够 的 时间 买 点 在 火车 上 所 需 的 东西-you have enough time to buy things you need in the train .-0.32
+37742-我们 可以 问 一下 服务员 是 不 是 可以 换到 在一起 的 空座-we can ask the stewardess if we can move to 2 empty seats together .-0.32
+38158-请 从 这个 门 走 过去  然后 再 取 你 的 东西-please go through the gate and collect your belongings .-0.32
+38956-径直 走  穿过 自助 餐厅 和 餐馆  您 会 看到 它 是 正对着 您 的-go straight through the cafeteria and restaurant and you &apos;ll find it just in front of you .-0.32
+39697-对 不 起  先生  今晚 此 餐厅 有 宴会 任务  请 到 其它 餐厅 用餐-i &apos;m sorry , sir , but there &apos;s a banquet in this dining hall . would you please go to the other restaurants ?-0.32
+40339-请 给 我们 找 一 张 两 人 用 饭 的 桌子-a table for two , please .-0.32
+41155-我们 会 在 您 要求 的 时间 把 点 的 菜 送去-we will deliver your order at your requested time .-0.32
+41734-首先  请 允许 我 向 你们 表达 我 最 热烈 的 欢迎-first of all , allow me to extend to you my warmest welcome .-0.32
+42070-这 家 餐厅 供应 很多 种 乳酪  包括 带 蓝 纹 的 乳酪-the restaurant offers many types of cheese , including blue cheese .-0.32
+42462-水 与 茶叶 接触 时 水 的 最低 温度 是 将 沸未沸 的 温度 , 在 此 温度 下  泡 茶 的 时间 需要 6~7 分钟-minimum temperature of the water when it is in contact with tea leaves is simmering , and at this temperature the time required to steep tea is 6 to 7 minutes .-0.32
+42551-学生 自助 餐厅 与 校外 同 类 餐厅 不同 的 还 有 它 的 收费 方式  其 收费 方法 与 学费 和 其它们 学校 费用 一样-another thing that makes a students &apos; cafeteria different from one out of the campus is the way of payment . dining charges are payable in the same manner as tuition and other fees .-0.32
+45514-直 到 最近 人们 才 留意 到 这个 隐蔽 的 宝地  它 以 友善 服务  排队 时间 短 以及 古老 欧洲 特有 的 风韵 而 著称-until recently , the town was one of those hidden gems , unknown to most , with friendly service , short lines , and old world charm .-0.32
+45618-在 赛跑 的 大部分 时间 里 运动员们 都 彼此 咬 得 很 紧-the runners made a tight group for the most of the race .-0.32
+45621-她 的 获胜 时间 同 威尔玛 的 世界 记录 只 差 0.05 秒-her winning time was 0.05 outside the would mark of wilma .-0.32
+46103-马 和 骑手 在 尽量 短 的 时间 内 跨过 了 一 系列 障碍物-the horse and the rider jumped a series of obstacles in as short a t1me as possible .-0.32
+46374-刘易斯 大部分 的 训练 时间 都 花 在 了 在 跑道 上 练习 助跑 上-much of lewis &apos; practice time was spent in simply striding down the runway .-0.32
+46392-在 一 次 完整 的 跳远 中  他 在 空中 只 能 停留 短暂 但 却 狂野 的 1.5 秒  压根儿 不 会 有 时间 去 想 自己 该 干什么-during his brief but wild 1.5 second trip through the air on a full-fledged long jump attempt , there would be no time to think about what he was supposed to be doing .-0.32
+46685-大多数 的 赛马 比赛 都 在 工作日 和 工作 时间 里 举行-their horse racing mainly takes place on working days and during working hours .-0.32
+47170-为什么 不 把 我们 喝 咖啡 的 时间 改 到 10 点-why not change our coffee break to 10 o &apos;clock ?-0.32
+49438-好 的  我 是 简  请 告诉 他 我 有 两 张 今晚 音乐会 的 票  晚上 6 点 我 在 剧院 门前 等 他-yes . this is jane . please tell him that i &apos;ve got two tickets for the concert tonight . and i &apos;ll meet him at 6 o &apos;clock at the theater .-0.32
+49496-对 不 起  琼斯 先生  今天 你 比 约定 的 时间 早 到 些-i &apos;m sorry , mr. jones , you &apos;re a little bit early for your appointment today .-0.32
+49530-请 把 鞋 脱 在 这儿  您 可以 穿 我们 为 您 准备 的 拖鞋-please leave your shoes here and you can use these slippers i &apos;ve prepared for you .-0.32
+49542-我们 老板 想 知道 您 要 花 多久 的 时间 来 修理-the boss would like to know how long it will take you to make the repairs .-0.32
+50484-谢谢  我 很 乐意 参加  请 重复 一下 时间 和 地点  可以 吗-thanks . i &apos;ll be delighted to come , but will you repeat the time and the place , please ?-0.32
+50536-你 觉得 在 大学 期间 花 在 课外 活动 上 的 时间 值得 吗-do you think that your extracurricular activities while in college were worth the time you devoted to tern ?-0.32
+50667-请 代 我方 对 价值 9000 美元 的 水查 投保 单独 海损 险 及 偷窃 提货 不 着 险  保险费 记 在 销货 清单 上-kindly effect the insurance w. a. and t. p. n. d. for $ 9000 on fruit , on behalf of us , charging the premium in the account sales .-0.32
+51150-敬 请 注意 本 公司 9 月 6 日 对 贵方 8 月 的 订单 所 提出 的  总额 7500 镑 的 结算 清单-may we draw your attention to our statement dated september 6th for the total amount of stg 7500 covering your orders for august ?-0.32
+51306-除 对 这 项 产品 予以 报盘 外  请 再 寄 其他 产品 的 货样-apart from offering this item , please send us samples of other products .-0.32
+51597-我 家 离 贵 公司 只有 十五 分钟 的 自行车 路程  我 只有 晚上 才 在 宇宙 公司 上班  所以  我 能 在 您 上班 时间 与 您 见面-my home is just fifteen minutes &apos; bicycle ride from your office . i can see you any time during your regular office hours , since i work evenings with space company .-0.32
+51649-我 真 希望 我 能 有 更 多 的 时间 与 他们 在一起-i only wish i had more time to be with them .-0.32
+52396-这 种 服务 项目 的 金额 是 固定 的  但是 你 不 必 为 用 于 找 此 人 所 花 的 时间 而 付 钱-a fixed charge is made for the service , but you do not pay for the time taken to find the person .-0.32
+52414-会 后 我们 将 统计 托运 行李 的 件数  请 明早 7:30 前 将 要 托运 的 行李 放 在 房间 外  行李员会 将 它们 收集 好-we will do the checked luggage your rooms by 7 : 30 tomorrow morning , the bellman will collect them .-0.32
+52552-过 了 正常 营业 时间 后 还 能够 从 某些 药剂师 那里 买到 急用 药品-it is possible to obtain emergency medicines from certain chemists after normal shopping hours .-0.32
+38-请   我们 的 座位 是 9 号 和 10 号  太 好 了  我们 有 个 靠 窗 的 座位-please . our seats are no. 9 and it &apos;s nice that we &apos;ve got a window seat .-0.319
+241-到达 您 的 目的地 乘 特快 客车 比 乘 直 快 客车 要 少 花 些 时间-it takes you less time to get to your destination by express passenger train than by fast through passenger train .-0.319
+1626-我们 有 足够 的 时间 洽淡 生意  在 谈 生意 的 间隙  如果 你们 愿意  我们 可以 安排 你们 游览-we &apos;ll have enough time for our business talks . and between talks , we &apos;ll arrange some sightseeing for you , if you wish .-0.319
+1715-那样 的话  请 准备 男女队 机票 和 登机牌  在 候机室 里 等 20 分钟  您 会 听到 广播 的-in that case , please get your ticket and boarding card ready . just wait in the terminal for twenty more minutes . you &apos;ll hear the announcement .-0.319
+2377-起飞 的 时间 是 当地 时间 13 点 45 分  你 在 格林威治 时间 15 点 50 分 到达 伦敦-the departure time is 13 : 45 hours local time , and you arrive in london at 15 : 50 hours g.m.t.-0.319
+3162-我 为 您 预约 的 102 班机  由 芝加哥 起飞 的 时间 是 12 日  10 点 15 分  从 迈阿密 的 回程 是 209 班机  起飞 时间 是 14 日  12 点 30 分-you &apos;re booked on flight 102 to miami , leaving chicago at 10 : 15 a.m. on the 12th ; and returning from miami on flight 209 at 12 : 30 p.m. on the 14th .-0.319
+3999-但 要 真正 地 理解 的话  就 得 几 个 朋甚至 几 年 的 时间  到  这 就 是 西安 喜来登 大酒店-but to truly understand them , you &apos;ll have to stay months or years .. here we are . shearton xi &apos;an hotel .-0.319
+6947-避开 高峰 时间  也 就 是 上午 7 点 到 9 点  下午 3 点 到 6 点半 的 时间  因为 高峰 时间 扒手 最 多  而且 在 高峰 时间 坐车 也 不 容易 找到 座位-try to avoid the rush hour , 7 : 00-9 : 00 a.m. and 3 : 00-6 : 30 p.m. since peak hours are prime time for pickpockets . and you might not get a seat easily during the peak hours .-0.319
+7227-可是 如果 我 也 要 等 这么 长 的 时间  那么 在 我 到达 伦敦 之前  这个 学期 早 就 开学 了-but if also have to wait for such a long time , the term will have started long before i get to london .-0.319
+7633-请 稍候  让 我 查 一 查   很 抱歉  先生  我 刚才 查过  这 菜 是 您 点 的-well , just a moment , i &apos;ll check . sorry , sir .-0.319
+8029-填 在 这儿  在 支票 的 背面  同时 请 您 的 姓名 用 楷体 填写  然后 我 填 金额-here , on the back of the check . and write your name above here in printed words . then i &apos;ll fill in the amount .-0.319
+8051-请 您 把 钥匙 交给 我  我 可以 叫 客房部 的 保安员 代劳  或者 我 也 可以 给 总 服务台 打 电话  请 他们 按照 您 登记 的 姓名 去 核对 房号-please give me the key and i can ask the house detective to do that , or i can phone the main desk and they can also check your room number by your name .-0.319
+9964-噢  这 会儿 正 是 用餐 的 时间  我们 最好 打 电话 订 一 张 饭桌-oh , it &apos;s dinner time now. we &apos;d better phone to book a table .-0.319
+10458-谢谢 您 的 推荐  但是 我 吃饭 的 时间 不 多  因此  我 不 点 它 了-thank you for your recommendation.but i haven &apos;t much time to eat.so , i won &apos;t take it .-0.319
+12988-要是 你 或者 杰克 是 从 长城 那 一 边 远道 而 来 的  我 也 会 这么 问 你们 的-if you or jack had come all the way from the other side of the great wall , i might have asked you , too .-0.319
+14156-弧线 大 的 曲线 虽然 全 中率 很 高  但 技术 难度 较 大  短 时间 内 不 容易 掌握-although curves of big arc lines are higher in rate of hit its level of difficulty in techniques is higher and it is not easy to command in a short time .-0.319
+18137-这儿 有 一 张 市区 地图  餐厅 和 俱乐部 名单  和 一 张 中文 常用语 的 说法-here are a map of the city , a list of restaurants and clubs , and a list of common expressions in mandarin chinese .-0.319
+18654-九月 二十日  如果 我们 八月 二十日 交货 的话  你 还 有 一 个 月 的 时间 呢-september 20 . you &apos;ll still have one month if we deliver the goods by august 20 .-0.319
+18741-但 在 这 几 年 里  你 经常 要求 我们 在 两 个 月  甚至 更 短 的 时间 内 交货-but in the past few years , you &apos;ve often asked us to deliver in two months , or even sooner .-0.319
+19296-如果 您 乐意 的话  我 想 请 您 过目 一下 这 一 套 新 的 设计图-i &apos;d like you to look through this new set of drawings , if you please .-0.319
+21032-我 想 问 一 问 你 能 不 能 来 我 办公室 商量 一下 新 项目 的 事-i &apos;m wondering if you &apos;d like to come to my office to discuss new project .-0.319
+24227-谢谢  顺便 问 一 句  我 想 买 些 新疆 地毯 作 纪念  你 知道 哪儿 有 卖 的 吗-thank you . by the way , i &apos;m trying to find xinjian uygur autonomous region carpet for souvenirs .-0.319
+26003-但 三 小时 后 我 就 要 上 飞机 了  恐怕 我 没有 足够 的 时间 买 东西 了-but i &apos;ll catch my plane in three hours . i &apos;m afraid i haven &apos;t got enough time to do the shopping .-0.319
+26759-这 是 您 的 支票簿 和 存款 薄  请 您 在 存款 薄 上 填好 您 存钱 的 数额-here are your cheque-book and paying-in book , please fill the amount of your deposit in the paying-in book .-0.319
+27053-请 把 它 给 楼层 服务员 看 一下  她 会 替 您 安排 好 其他 事宜 的-please show it to the floor attendant . she will arrange the rest for you .-0.319
+27219-顺便 告诉 您 一下  今晚 7:00 到 8:00 中国 外馆 将 搞 一 个 叫 “ 幸福 时光 ” 的 活动  您 在 这 段 时间 到 那里 去 吃饭 的话  可以 享受 一定 的 打折 优惠-by the way , there &apos;ll be a happy hour in the chinese restaurant from seven to eight this evening . fating there at that hour , you can enjoy a favorable discount .-0.319
+27512-你 要 是 走到 这个 大厅 的 那 一 头  然后 向 右 拐  你 就 会 找到 餐厅 的-if you go to the other end of this lounge and turn to the right , you &apos;ll find it .-0.319
+28735-我 把 账单 更 正 一下  豪斯 先生  请 看 一下 还 有 没 有 什么 错 了 的-let me make a correction of it . mr. house , please go over it to see if there &apos;s anything wrong .-0.319
+30280-好 的  我 是 简  请 告诉 他 我 有 两 张 今晚 音乐会 的 票-yes.this is jane.please tell him that i &apos;ve got two tickets for the concert tonight .-0.319
+31589-们只 来 得 及 去斯尼 乐园 和 宇宙 影城  因为 我们 只有 一 天 半 的 时间-i &apos;m afraid we have time only for disneyland and the universal studios , as we only have one and half days .-0.319
+31654-我 认为 你 没有 足够 的 时间 周游 全 中国  我 建议 你 选择 一 两 处 胜地-i don &apos;t think you will have enough time to travel all around china . i suggest you should choose one or two famous scenic spots .-0.319
+37395-为了 愉快 地 度过 车上 的 时间  旅客们 可以 阅读 报刊  杂志  看 画报  欣赏 音乐  玩 扑克 或 下棋-in order to pass the time on the train in a pleasant way , passengers can read newspapers and magazines , look at pictorials , enjoy music , play cards or chess .-0.319
+37865-要是 乘 飞机  注意 要 早些 到 机场  以便 有 足够 的 时间 办理 登机 手续-when traveling by air , make sure that you arrive at the airport early enough to allow check-in time .-0.319
+39357-今晚 9 点 我 请 送 餐 服务部 给 您 奉送 一 份 夜宵  还 有 您 喜欢 吃 的 毛蟹-i shall ask the room service to serve you a snack at 9 : 30 tonight , and you &apos;ll have your favorite hairy crab .-0.319
+39921-我们 已经 为 您 准备 好 预定 的 菜肴  所以  必须 请 您 付十 人份 的 费用-we have already prepared your meal for the reserved number of 10 guests , and we will have to charge you for that number .-0.319
+41484-很 对 不 起  如果 您 不 介意 我 为 您 换 点别 的  这 是 本 餐厅 赠送 的-i &apos;m very sorry . i &apos;ll give you something else if you don &apos;t mind . that will be on the house .-0.319
+42544-由于 在 自助 餐厅 人们 自己 为 自己 服务  并且  吃完 饭后 还 要 自己 清理 掉 桌子 上 的 饭菜 和 餐具  自己 把 垃圾 倒 进 垃圾箱 里  所以  自助 餐厅 里 一般 不 收 小费-tips are generally not required at cafeterias where you serve yourself and you are expected to clear your own table of dishes and utensils , and discard your trash in the garbage cans .-0.319
+42547-学生们 进 校园 内 的 自助 餐厅 时 必须 出示 他们 的 有效 饭卡 ； 而且  如 若 餐厅 人员  学生 经理 或 收银员 提出 要 查看 你 的 学生证 或 其它 证件 时  你 也 同样 必须 合作-students entering the cafeterias on the campus are required to present their own valid meal cards . student i.d.cards and any other identification must be presented if requested by dining hall staff , student manages , or checkers .-0.319
+43199-当 你 ” slam ” 时  球 停留 在 你 手 中 的 时间 较 长-your hand stays with the ball more than you slam .-0.319
+43245-按照 老 的 排球 记分 规则  比赛 时间 从 一 个 小时 到 四 个 小时 不 等-under the old scoring system in volleyball , the length of a match could vary from 1 hour to 4 hours .-0.319
+43536-当 你 去 买 东西 时  请 给 我 买上 一 本 关于 篮球 的 书-please get me a basketball book when you go shopping .-0.319
+44049-近年 来  一 个 新 的 规定 要求 一 个 队 必须 设法 在 短 时间 内 投篮 : 大学队 为 35 秒  国际 比赛 为 30 秒  美元 职业 比赛 为 24 秒-in recent times , a new rule requires a team to try to score within a brief time : 35 seconds in the collegiate game , 30 seconds in international play , and 24 seconds in american professional play .-0.319
+44236-伤病 使 施特菲 在职 1998 年 的 大部分 时间 无法 上场 比赛  可 她 不久 于 1999 年 重返 巴黎  捧 得 了 法国 公开赛 冠军 奖杯  接着 又 向 温布尔登 进军  而 在 那里 只有 林达塞·达文波特 才 能 阻止 她 第 8 次 夺冠-after injuries kept her off the courts for much of 1998 , steffi returned triumphantly to paris to become the 1999 french open champion and to wimbledon where only lindsay davenport could stop her from winning her eighth wimbledon title .-0.319
+45464-鲍伯·比蒙 在 墨西哥 创下 了 29 英尺 2.5 英寸 的 非凡 跑远 记录  这 是 田径 项目 上 保持 时间 最 长 的 记录  直 到 1991 年 在 东京  迈克·鲍威尔 才 以 29 英尺 4.5 英寸 的 惊人 成绩 打破 该 记录-bob beamon legendary jump of 29-2 1 / 2 in mexico was the longest-standing record in track and field until 1991 when mike powell made history in tokyo with a 29-4 1 / 2 jump .-0.319
+45470-当 伊丽莎白 女王 二 世 宣布 21 届 奥运会 开幕 时  蒙特利尔 已经 花费 了 惊人 的 12 亿 美元  这个 沉重 的 债务 在 赛后 很 长 的 一 段 时间 内 都 没有 还 清-when queen elizabeth ii declared open the games of the xxith olympiad , montreal had already spent a staggering ＄ 1.2 billion , a debt that would linger on well after their conclusion .-0.319
+46378-卡尔 在 他 的 步伐 上 花 了 无数 的 时间  哪怕 是 在 极 高 的 速度 下 他 也 能 自动 地 在 自己 想要 的 那 一 点 准确 地 起跳-carl spent countless hours working on his stride so that even at high speed he could almost automatically jump at precisely the spot he wanted .-0.319
+47114-喂  鲍勃  我 把 我们 人面 的 时间 改动 一下 会 给 你 造成 不便 吗-hello , bob , will it bother you if i change the time of our meeting ?-0.319
+50002-要么 是 他们 疯 了  要么 是 我们 不 懂 艺术  因为 我们 经商 的 时间 太 长 了-either they &apos;re crazy or we can &apos;t understand art because we &apos;ve been engaged in business management too long .-0.319
+50601-库克 先生 在 约定 的 时间 不 能 见 您 了  你们 定 在 1 点 45 分 怎么样-mr. cook won &apos;t be able to see you at the time suggested . could you make it a quarter to two ?-0.319
+50622-我 觉得 今天 早晨 不 行  不 知道 是 不 是 可以 把 会面 的 时间 安排 到 明天 下午-i don &apos;t think i can manage this morning . i wonder if we could alter the time of meeting to tomorrow afternoon .-0.319
+51598-在 审阅 我 的 简历 后  您 对 我 的 工作 可能 有些 问题 要 问  对 我 作为 管理者 的 一些 技能 可能 希望 进一步 了解  那 就 尽管 拨打 简历 上 注明 的 电话 号码  或 与 证明人 取得 联系-after you review my resume , you may have questions about my career , or you may need further information about my career , or you may need further information about my skills as an administrator . please feel free to call me at the number listed on my resume to obtain any further information or the names and numbers of my references .-0.319
+51678-请 各位 不 要 误会 我 今晚 在 此 的 意思  残疾 人士 并不 是 在 寻求 慈善 或是 施舍  他们 寻求 的 是 机会  是 一 个 在 正常 雇用 程序 中 从 未 被 考虑 进去 的 选择 余地-please don &apos;t misunderstand my meaning here tonight.disabled persons aren &apos;t looking for charity , for a handout.they are looking for opportunity , for an alternative to not even being considered for regular employment .-0.319
+51703-跑步 不论是 对人 还是 对 狗  都 是 极 佳 的 保持 身材 的 方法  由于 距离 此 项 比赛 还 有 近 两 个 月 的 时间  大家 都 足够 的 时间 来 练习-running is a great way to get into shape for you and your dog.as there are nearly two months before the race , everyone has plenty of time to practice .-0.319
+51761-我们 都 为 乔治·史蒂文森 最 近 的 去世 而 悲伤  在 今天 的 聚会 中  我 要 花 些 时间 来 追忆 一下 这 位 了不起 的 人 和 他 对 本 组织 及 我们 整个 社会 的 贡献-we are all saddened by the recent passing of george stephenson.at tonight &apos;s meeting , i want to take time out to remember this great man and his contributions to this organization and to our entire society .-0.319
+52393-A . D.C . 是 “ 通知 通话 时间 和 须 付 金额 ” 的 字母 缩写  表示 当 通话 结束 时  接线员 回 电话 告诉 你 通话 用 了 多少 时间 及 须 付 多少 金额-a.d.c. which stands for ‘ advise duration and charge &apos; , means that when the call is finished the operator rings you back to tell you how long the call was and how much it cost .-0.319
+52401-如果 你 想 合租 一 套 公寓  请 在 晚报 “ 公寓 出租 ” 专栏 上 找 这样 的 广告  如 : 第四 位 女子  合住 汉普斯特德 独 套 公寓  电话 : 01 — 1342343 晚上-if you want to share a flat , look in the ‘ flats to let &apos; column of an evening paper for advertisements like : 4th girl shr.s / c h &apos;stead flt.01-134 2343 evenings .-0.319
+19105-我 无权 同意 这样 大 幅度 的 削价  请 你 等 我 一  二 天  好 吗  我 要 等 国内 总公司 的 答复-well , i &apos;m not authorized to agree to such a big reduction . would you mind waiting a day or two until i get a reply from the home office ?-0.318
+19467-当然 罗  既然 你 已 说 得 这么 吸引 人  我 完全 赞成  不过  我们 是否 能 保证 有 充足 的 时间 来 谈判-sure , i &apos;m all for it now that you &apos;ve got me interested . but is there any way of ensuring we &apos;ll have enough time for our talks ?-0.318
+24286-中国 的 吧  我 想 买 一 瓶 作 纪念 礼物 送给 我 的 女 朋友  请 给 我 拿 一 种 高 质量 的 看看-chinese , please . i want to get i bottle for my girlfriend as a souvenir . please show me something of good quality .-0.318
+26041-美国 产 的 吧  我 想 买 一 瓶 作 纪念 礼物 送给 我 的 女 朋友  请 给 我 拿 一 种 高 质量 的 看看-american , please . i want to get one bottle for my girlfriend as a souvenir gift . please show me something of good quality .-0.318
+27089-您 预订 的 时间 是 晚上 五时 到达  但 现在 已 接近 午夜 12 点 了  所以 我们 已 把 您 的 预约 取消-you had planned to arrive about five tonight , but it is near midnight now , so we canceled your reservations .-0.318
+35523-如果 您 不 要 声明 您 的 行李 价格  请 您 在 您 在 行李 票 上 写明 这 一 点  并且 签上 您 的 姓名-if you don &apos;t want to declare the value of your luggage , please make it clear in your luggage ticket and sign your name .-0.318
+39195-不管 开车 所 化 的 时间 和 实际 距离 是 多少  对 伦敦 警区 范围 之内 的 任何 旅程  包括 往返于 伦敦 机场 的 旅程  司机 必须 按照 仪表 上 所 指示 的 车资 收费-drivers must charge the metered fare for all journeys within the london police districts , regardless of duration and distance , and including journeys to and from london airport .-0.318
+41685-如果 人家 请 你 去 饭店  你 就 不 用 担心 费用 问题  如果 不 是 邀请  每 人 付 自己 的 饭钱-if you have been invited to a restaurant , you don &apos;t have to worry about the cost . otherwise , you pay for your own meal .-0.318
+42461-用 88 ℃ 水泡 需要 5 分钟 的 时间 才 能 使 茶 的 浓度 相当于 用 93 ℃水泡 3 分钟 得到 的 浓度-a steeping period of 5 minutes with water at 88 ℃ is required to give tea of the same strength as that steeped 3 minutes at a temperature of 93 ℃ .-0.318
+42550-比如  一旦 就 餐者 离开 了 餐厅  那么 在 此 顿 饭 期间  就 不 可 再次 进入 ； 食物  玻璃杯 和 其它 餐厅 用品 不 得 拿 离 餐厅 ； 学生们 在 用餐 期间 要 对 其他 用 餐者 和 餐厅 人员 彬彬 有礼 ； 禁止 插队  禁止 一切 危及 其他 就 餐者 安全 的 行为  光脚 等 衣冠不整 者 也 禁止 入内 ； 此外  酒精 饮料 和 毒品 不 得 带入  服用 过 酒精 和 毒品 的 人 将 被 请出 餐厅-for example , once diners leave the dining hall , they will not be allowed to re-enter during that meal . no food , glass or other dining services &apos; property may be removed from the dining hall . it is expected that students will be courteous to fellow students and dining hall personnel while in it . you are not allowed to break the line . any action that jeopardizes the safety of other students is prohibited . no student if barefooted will be permitted to enter the dining hall . moreover , alcoholic beverages and drugs are not permitted there.people under the influence of alcohol or drug will be required to leave .-0.318
+45108-在 奥运会 夺冠 的 一 年 后  高桥 尚 予 在 柏林 马拉松赛 中 成为 以 不 到 2 小时 20 分 的 时间 跑 完 马拉松 比赛 的 第一 位 女性  将 世界 纪录 减少 了 近 一 分钟  创立 了 2 小时 19 分 46 秒 的 世界 最 好 的 成绩-a year after her olympic triumph , naoko takahashi became the first woman to run a marathon in less than 2 hours , 20 minutes and lowered the world best by nearly a minute in the berlin marathon . takahashi finished in a world-best time of 2 : 19.46 .-0.318
+46566-最后 的 冲刺 是 如此 有力 使 卡尔 的 时间 定格 为 9.99 秒  比 第二 名 格拉迪 快 了 0.2 秒 ； 格拉迪 则 把 加拿大 选手 本·约翰逊 挤掉  而 夺得 银牌-carl finished to strongly that his time of 9.99 was.2 of a second faster than the second-place graddy , who had held off canada &apos;s ben johnson for the silver medal .-0.318
+46727-体育 在 学校 生活 中 也 占有 举足轻重 的 地位  学校 每 周 都 专门 留有 半天 时间  用 于 校 与 校 之间 的 比赛 活动 ； 此外  像 赛马  足球  板球  网球 和 赛车 一 类 的 运动 也 同样 吸引 着 众多 的 观众-sport also plays an important part in school life , where a half-day a week is usually set aside for inter-school competitions . spectator sports like horse-racing , football , cricket , tennis and car-racing draw big crowds .-0.318
+49595-既然 这个 术语 对 这 次 讨论 蛮 重要 的  可否 请 您 在 我 翻译 您 的话 以前  先 说明 一下 它 的 意思-since it seems important to this discussion , could you explain what it means before i translate what you said ?-0.318
+51613-我 是 个 律师  大部分 的 时间 也 都 和 律师 为伍  他们 一般 来说 也 都 是 好 人  不过 能 再度 和 农民 相处  使 我 有点 像 回到 家里 一样-i am a lawyer , and i spend a lot of my time now with lawyers , who are generally fine people , but to spend time with farmers again is a little like coming home .-0.318
+51677-对 各位 的 公司 来说  雇用 残疾 人士 一定 是 有利 无害 的  虽然 残疾 人士 不 可 否认 地 有 一些 生理 上 的 限制 —— 或许 这 位 必须 坐 轮椅  那 位 必须 柱 着 拐杖 行走  或许 另 一 位 无法 好好 使用 其 一 只  甚至 两 只 手臂  但是 不论 这个 残疾者 面对 着 的 是 何 种 生理 障碍  请 放心  这 种 障碍 一定 会 被 其他 方面 的 发展 所 克服-you will certainly benefit in your respective companies by hiring the disabled or handicapped persons.a disabled person undeniably has some physical limitations-maybe this person is confined to a wheelchair , maybe that person has to use crutches to move around , maybe another doesn &apos;t have full use of one or both of his arms.but whatever physical handicap confronts the disabled worker , you rest assured , it is overcome by development in other areas .-0.318
+51682-因此 下 一 次 若 有 残疾 人士 到 贵 公司 申请 工作  请 各位 花点 时间  认真 地 考量 一下 这个 人-next time , a disabled person is applying for a job at your company , take the time to consider this person seriously .-0.318
+51705-艾德 布朗 目前 正 向 本地 工商 企业 请求 捐赠 摸彩 奖品  我 知道 其中 还 会 包括 免费 的 的 兽医 服务  以及 某些 上 好 餐厅 招待 的 免费 晚餐  还 要 加上 许多 其他 的 惊喜 在内 ； 比赛 进行 中 我们 也 会 对 与 赛者 提供 饮用水 和 水果-ed brown is soliciting donations from local businesses for door prizes and i understand these will include some free veterinarian services , as well as free dinners at some fine restaurants , plus lots of other surprises.at the race , we will also have water and fruit for the runners .-0.318
+51709-这个 活动 我们 需要 大家 的 支持  因此 请 大家 想想 看 你 能 贡献 什么 尽力  然后 在 今晚 会议 结束 后 到 这 张 桌子 前面 来  在 不同 的 工作 项目 下 签名  同时 请 拿 一些 传单 回家  在 上班  上 学时 以及 在 自 家 附近 散发-we need everyone &apos;s support for this , so think about what you can contribute and after tonight &apos;s meeting is adjourned , come to this table to sign up for the various tasks and also take home a handful of fliers to pass out at your work , school and neighborhood .-0.318
+51788-著作权法 可 在 一定 的 时间 内  通常 是 数年  保护 创意  产品 或 出版物 免受 未 经 授权 的 使用  人们 只有 在 获得 著作权 所有人 的 许可 下  才 能 使用 著作权 之 物-copyright laws protect an idea , a product , or a publication from use by unauthorized people for a specified length of time , usually several years.people can only use copyrighted material if they obtain permission from the holders of the copyright .-0.318
+52588-简单 的 发型 可以 省去 女士们 护理 头发 的 时间  也 不 用 每 星期 去 见 发型师 两 次  而 仍 可 保持 出众 的 仪表-easy styling gave women freedom from slavish time-consuming hairdos and twice weekly visits to the hairdresser .-0.318
+17610-英国人 对 “ 海洋 运输 货物 险 ” 只 理解 为 海运 中 的 意外 风险  诸如 船舶 碰撞  搁浅  起火  海水 侵入 船舱 等  换 句 话 说  投保 “ 一切 海洋 运输 货物 险 ”  其 损失 的 赔偿 只 限于 因 海上 灾难 和 海运 意外 事故 所 引起 的 损失  而 保 “ 一切险 ” 在 全部 承保期 内 的 任何 时间  不论 海上 或 陆上 所 产生 的 意外 事故  其 全部 损失 都 予以 赔偿  在 这个 意义 上  “ 一切 海洋 运输 货物 险 ” 比 “ 一切险 ” 所 承保 的 责任 范围 更为 有限-the english understand by &quot; marine risks &quot; only risks incident to transport by sea , such as collision , stranding , fire , penetration of sea water into the holds of the ships , etc. in other words , under &quot; all marine risks &quot; recoverable loss will only be confined to those arising from perils of the sea and maritime accidents only . the &quot; all risks &quot; coverage will admit all losses occurring at any time throughout the whole currency of the coverage , irrespective of whether they are caused by accidents at sea or on land . in this sense , &quot; all marine risks &quot; provides a more limited cover than &quot; all risks &quot; .-0.317
+51624-在 我国 土地 竞争 已经 变得 越来越 严重  我们 必须 接受 城市 和 工业 护张 至 传统 农用地 的 需要  不过 我们 必须 对 这 种 扩张 予以 限制  并且 制定 合理 的 赔偿 原则  以便 在 土地 被 征用 时 使用 ； 水土 保持 措施 必须 开始 实施  就 像 做 例行 工作 那样 ； 政府 必须 以 资助 研究 和 鼓励 适当 耕作 技术 的 方法 来 帮助 农民 ； 我国 的 国内 农产品 市场 开放 给 外国 生产者  是 工业 方面 贸易 不 平衡 所 导致 的 不幸 结果  农民 因 工业 的 成就 而 受到 了 惩罚  我们 的 政府 应 坚持 在 外国 开放 互惠 市场 以便 我国 农产品 外销 ； 政府 的 各 项 补贴 和平 稳 价格 的 计划  应 遵循 一 套 有 系统 及 定期 的 检查 措施  以 确保 这些 计划 能 确实 帮助 农民  而 非 仅 让 少数 人 不 事 生产 就 能 致富  如果 某 一 计划 推行 不当  则 其 财源 就 应以 更 好 的 方式 被 使用  我 知道 各位 有 很多 问题 要 问 我  因此 我 将 结束 我 的 谈话  开始 实质性 的 讨论-competition for lands is becoming more serious in our country . we have to accept the need of cities and industry to expand onto traditional farming lands . however , we must set limits on this expansion and establish fair compensation guidelines to use when land is appropriated . soil conservation practices must begin to be implemented as a routine matter . the government must help the farmer by sponsoring research and encouraging proper cultivation techniques . the opening of the domestic agricultural markets to foreign producers has been an unfortunate consequence of the trade imbalance in the industrial sector . farmers are being penalized for industry &apos;s exports . government subsidies and price stabilization programs should be subject to a systematic and periodic review to ensure that the programs are really helping the farmer and not just allowing a few to get rich without producing anything . if a program is not functioning properly , then those financial resources questions now for me , so i &apos;ll conclude my speech and we can begin a substantive discussion .-0.317
+51665-在 一 年 以前  我们 怎么 也 想 不 到 会 在 这么 短 的 时间 内 进展 如此 之 大  但是 我们 终于 等 一 到 第一 年 年尾 了  而 这 又 是 多少 奇妙 的 一 年 呀  现在 就 让 我 来 回顾 一下 我们 在 第一 年 的 各 项 成就 吧-never could we have imagined a year ago that we would have come so far in so short a time.but here we are at the end of year one , and what a fantastic year it has been.let me review our achievements in the first year .-0.317
+51719-各位 也 可以 因为 能 参加 这 次 竞赛 而 骄傲  能 在 自己 的 能力 和 训练 都 达到 颠峰 时期 和 同辈 的 选手 分 个 高下  是 一 项 值得 庆贺 的 成就  而 在 这儿 的 每 一 个 人  就 其 本身 而 言 都 是 胜利者  能够 在 今天 站 在 这里 即 意味 着 你 已经 花 了 好几 个 月 的 长 时间 在 做 严格 的 训练 和 比赛  以 建立 起 自身 的 体能 和 耐力  或许 在 你们 致力于 运动 时  可能 已经 牺牲 了 许多 休闲 娱乐 时间  而今  “ 表现 自我 ”  “ 拿出 你 的 看家 本领 ” 的 机会 已经 来临  我 知道 在 下 星期 我们 将 会 欣赏 到 运动 神技 杰出 的 表出-you can be proud of having made it to this competition.to compete with your peers at the peak of your ability and training , is a worthwhile accomplishment , and everyone here is a winner in their own right.to be here today means that you have spent long hours for many months in serious training and competition to builds your strength and stamina.you have sacrificed some more leisurely pursuits perhaps in your dedication to your sport.now is your chance to &apos; do your stuff &apos; , to &apos; give it your best shot &apos; .and i know that we will all be rewarded with a brilliant display of athletic prowess over the next week .-0.317
+1117-是 的  把 时间 调回 好几 个 小时-yes , putting the time several hours back .-0.316
+3996-一 周 的 时间 够 吗-is a week &apos;s time enough ?-0.316
+4662-我 的 时间 很 紧迫-i &apos;m really pressed for time .-0.316
+5106-好 的  请 吧-yes , please .-0.316
+5742-我 想 到 劳动 公园 去  请 问 怎么 走法-i &apos;m trying to find my way to labor park . can you tell me how to get there ?-0.316
+5922-哦  请 你 问 一下-oh , would you , please ?-0.316
+6682-什么 时间 的-for what time ?-0.316
+6916-打扰 您 的 时间  真 是 谢谢  警察 先生-thanks very much for your time , officer .-0.316
+7288-好 的  请 倒-yes , please .-0.316
+7381-我们 的 营业 牌照 条例 非常 严格-our licensing . laws are quite strict .-0.316
+7940-打扰 一下  请 问 哪位 付账-excuse me , may i know who is paying , please ?-0.316
+8520-本 餐厅 7 点 开始 营业-the restaurant opens at 7 : 00 a.m.-0.316
+8531-晚餐 营业 时间 最 长  从 下午 5:00 至 晚上 10:00-the dinner hours last longest . it &apos;s from 5 : 00 p.m. to 10 : 00 p.m.-0.316
+8569-成都 餐厅 供应 地道 的 川菜-chengdu restaurant serves good sichuan style food .-0.316
+8767-是 的  请 讲-speaking . may i help you ?-0.316
+9027-一 找到 空座 我 会 立即 请 您 入座 的-i &apos;ll have you seated as soon as we get a free table .-0.316
+9943-耽误 您 的 时间 了  真 对 不 起-we &apos;re very sorry for the delay .-0.316
+10596-好 的  请 稍候-yes . just a moment .-0.316
+11370-好 的  请 稍等-good , please wait a moment .-0.316
+17696-好 的  请-yes , please .-0.316
+19248-好 的  请 拿-yes , please do .-0.316
+20619-好 的  请 说-sure , go ahead .-0.316
+25061-好 的  请 带路-alright . please lead the way .-0.316
+27513-餐厅 的 门对 着 纪念品 商店 ； 你 一定 会 找到 的-the door faces the souvenir store ; you won &apos;t miss it .-0.316
+27534-预订 的 是 什么 时间 的-and when was it for ?-0.316
+28390-不 会 的  请 坐-no , please take a seat .-0.316
+28839-是 的  请 结账-yes , please .-0.316
+31198-好 的  请 吧-ok.go ahead .-0.316
+33221-是 的  请 吧-yes , please .-0.316
+35853-行车 的 时间 最近 更改 了-the time has been changed recently .-0.316
+36140-城市 的 上班 时间 必须 错开  以 缓和 交通 拥挤 的 状况-city business hours have to be staggered to relieve traffic congestion .-0.316
+36628-我们 的 司机 什么 时间 去接 你-when should our driver pick you up ?-0.316
+37692-时间 是 足够 的-there is enough time .-0.316
+37694-吃饭 的 时间 足够 了-there &apos;ll be enough time for you to have dinner .-0.316
+40329-如果 您 愿意  可以 在 酒吧 坐坐  有 了 桌子 我们 会 去 请 您 的-you can sit in the bar if you like and we &apos;ll call you when we have a table .-0.316
+41205-我们 的 营业 牌照 条例 非常 严格-our licensing laws are quite strict .-0.316
+41294-你们 的 餐厅 有 什么 菜系-what kind of cuisine do you have in your dining-room ?-0.316
+42263-今天 余下 的 时间 你 打算 做 什么-what have you got planned the rest of the day ?-0.316
+42475-营业 时间 在 全 国 各 地 不 相同  星期一 到 星期六 大致 是 从 上午 11:00 到 下午 2:30  再 从 下午 6:00 到 晚上 10:30 或 11:00  星期天 大致 从 中午 12:00 到 下午 2:00  再 从 晚上 7:00 到 10:30-times vary in different parts of the country , but are approximately from 11a.m. to 2.30 p.m. and from 6 p.m to 10.30 p.m or 11 p.m on weekdays , and from 12 noon to 2 p.m and from 7.00 to 10.30 p.m on sundays .-0.316
+42527-午餐 的 时间 通常 是 1 点钟  晚餐 大约 在 晚上 7:30  如果 在 罗马  晚餐 可能 会 更 晚 一点-lunch is around usually at one o &apos;clock , and dinner around 7 : 30 p.m. it may be later in rome .-0.316
+42986-没有 确定 的 时间  一局 比赛 是  首先 得 21 分 者 胜-there is no definite playing time . a game is won by the first player to reach twenty-one points .-0.316
+43363-剩下 的 时间 不 多 了  我们 必须 打 全球 紧逼-as there is little time left , we must play full court press .-0.316
+43520-剩下 的 时间 不 多 了  我们 必须 打 全 场 紧逼-there is little time left , we must play full court press .-0.316
+44346-营业 时间 是 几 点-when are you open ?-0.316
+47271-好 的  请 讲-ok , go ahead .-0.316
+49266-我们 的 午休 时间 是 12 点 到 1 点-we have lunch break from 12 : 00 to 1 : 00 .-0.316
+49516-如果 您们 有 什么 问题  请 别 客气 尽管 问-if you have any questions , please don &apos;t hesitate to ask .-0.316
+50562-我 的 工作 时间 是 怎么 安排 的-what will my hours be ?-0.316
+9434-很 好 的 餐厅  不 是 吗-this is a nice restaurant , isn &apos;t it ?-0.315
+9439-世界 著名 的 餐厅 我 都 知道-i know all the great restaurants in the would .-0.315
+9473-午餐 时间  餐厅 里 挤满 了 人-it &apos;s dinner time . the restaurant is full of people .-0.315
+33035-代我 向 你 的 父母 问 好-remember me to your parents .-0.315
+39949-订 个 其他 时间 的  好 吗-would you like to make a reservation for some other time ?-0.315
+47547-约翰  我 做 的 项目  请 过目-john , have a look at my project .-0.315
+1398-如果 有 什么 特别 的 要求  请 告诉 我-if you have any special request , p1ease let me know .-0.314
+1421-德克尔 先生  这么 长 时间 的 飞行  累 吗-it was a long flight . are you tired , mr. decker ?-0.314
+4018-好 的  请 填写 这 份 申请书 好 吗-well . would you write down this application , please ?-0.314
+4491-我 赶 时间  请 问到 广东 迎宾馆 要 多久-i &apos;m in a hurry . how long will it take to get to the guangdong guest house ?-0.314
+4594-是 的  请 你 开 冷气 好 吗-yes , could you please turn on the air conditioner ?-0.314
+5506-你 有 时间 的 话 一定 来 串门儿-do drop in when you have time .-0.314
+5855-这 是 你 买 的 东西  收据 请 拿好-here is your purchase . please keep your receipt .-0.314
+8763-宴席 设 在 一 楼 的 南山 餐厅-the banquet will be in the nan shan dining room on the first floor .-0.314
+10899-如果 你们 想要 额外 的 菜  请 告诉 我-if you would like any additional dishes , please call me .-0.314
+10962-你 知道 附近 有 什么 好 的 餐厅 吗-do you know any good restaurants around here ?-0.314
+16152-经过 这么 长 时间 的 艰苦 训练  你 当之无愧-after the hard training of such a long time , you deserve it .-0.314
+24233-好 的  请 稍等  我 拿给 您 看-yes , sir . just a moment . i &apos;ll show you .-0.314
+25275-我 会 拿亲 的 给 您  请 等 一下-i &apos;ll bring you a new one . please wait .-0.314
+25654-这 是 您 的 帐单  请 去 收银台 付款-here is your bill . please pay at the cashier &apos;s desk .-0.314
+26451-好 的  请 过 3 天 再 来-ok.please come again in three days .-0.314
+28827-这 是 您 的 帐单  请 核对 一下-here is your hill . please check it .-0.314
+29381-这个 时间 咖啡厅 及 餐厅 都 有 早餐 供应-the coffee shop and the restaurant serve breakfast at this time .-0.314
+31399-是 的  请 给 我 留 一 本-yes please reserve one for me .-0.314
+33756-可以 的  请 你 改填 那 份 表格-yes , then fill out that form instead .-0.314
+34640-到 了 那里 的 时候  请 提醒 我 一下-please remind me when we get there .-0.314
+34644-到 了 使馆 的 时候  请 告诉 我 一下-could you put me off at the embassy ?-0.314
+35529-是 的  请 把 车票 给 我 看看-yes . it is . please show me your ticket .-0.314
+38355-是 的  请 接着 到 海关 办理 手续-yes , please go on to the customs next .-0.314
+40086-谢谢 您 在 本 餐厅 用餐  请 再度 光临-thank you for dining with us . please come again .-0.314
+42385-这 是 城里 最 好 的 自助 餐厅-this is the best cafeteria in town .-0.314
+1668-7 月 20 日 还 有 空位  时间 是 一样 的-there is one available on 20 july.the time is the same .-0.313
+3132-好 的  请 不 要 挂断  我 查 一下 电脑-certainly . could you hold the line for a few minutes while i check our computer ?-0.313
+4170-火车站  我 想 赶 九点钟 的 火车  请 快点 好 吗-the railway station . i want to catch the train of 9 o &apos;clock . would you hurry up , please ?-0.313
+4630-我 在 赶 时间  请 你 开快 一点 好 吗-i &apos;m in a hurry . can you please drive a little faster ?-0.313
+8526-午餐 时间 是 从 上午 的 11:00 至 下午 的 2:00-the restaurant is open for lunch from 11 : 00 a.m. to 2 : 00 p.m.-0.313
+10300-我 的 牛肉 请 给 我 烤 得 适 中 些-i &apos;d like mine medium , please .-0.313
+11703-我们 也 想来 道 猪 肉类 的 菜  请 推荐 一下-we &apos;d like a pork dish , too . what do you suggest ?-0.313
+16289-你 打 了 这么 长 时间 的 太极拳  感觉 如何-how do you feel after doing it for so long ?-0.313
+18151-如果 有 需要 我 帮忙 的 地方  请 直 说-if there &apos;s anything i can do to help , please let me know .-0.313
+21454-我们 到 了 那里 的 时候  请 提醒 我 一下-please call my attention when we are there .-0.313
+21907-是 这样 的  先生  请 让 我 向 您 说 清楚-yes , let me finish what i am going to say .-0.313
+25294-是 的  请 您 给 我 示范 一下 它 如何 动-yes . let me see how it works , will you ?-0.313
+27113-谢谢 你  这 是 你 的 护照  请 填写 酒店 登记表-thank you . here is your passport and please fill in this hotel registration form .-0.313
+27566-这 是 您 的 房间  1015 号  您 先 请-here &apos;s your room 1015 . after you .-0.313
+27575-如果 需要 的 帮助  请 您 给 服务台 打 电话 .-if you need any assistance , please call the desk .-0.313
+27718-我们 有 各 种 类型 的 名片  请 看 样品-we have various kinds of name cards.please look at the samples .-0.313
+28715-李 女士  这 是 您 的 账单  请 在 收银台 付账-you bill is ready , ms. li . would you step over to the cashier to pay ?-0.313
+30461-好 的  请 她 打 电话 给 约翰 . 史密斯-yes , please ask her to call john smith .-0.313
+31867-例如 迪斯尼 旅馆 的 自助 餐店 和 餐厅 都 可以 用餐-cafeteria , for example , and the good restaurant of disneyland hotel are available .-0.313
+34641-到 了 那 个 站 的 时候  请 叫 我 一下-please let me know when we get to the stop .-0.313
+34646-需要 换乘 5 路 车 的 乘客  请 在 这里 下车-those who need a transfer to the number 5 bus please get off here .-0.313
+35112-我 可以 看管 您 的 行李  但 请 尽快 回来-i &apos;ll take care of your luggage , but please be back as soon as possible .-0.313
+35375-我 根本 想 不 起来 是 什么 时间 丢失 的-i simply can &apos;t remember the time i lost it .-0.313
+36549-你 能 告诉 我 几 家 不错 的 餐厅 吗-could you tell me the name of some good restaurants ?-0.313
+37637-如果 你 有 习惯性 不 吃 的 东西  请 告诉 我-if there is any thing you don &apos;t take as a habit , please tell me .-0.313
+40731-我们 想 吃 点 本地 的 特色菜  请 推荐 一些-we &apos;d like to have some local specialties . can you make a few suggestions ?-0.313
+42367-要 花 多 长 时间 到达 卖 食品 的 柜台 呢-how long will it take to reach the buffet ?-0.313
+49841-如果 有 什么 要 帮忙 的  请 跟 我 说-well , if there &apos;s anything i can do for you , just ask me .-0.313
+51152-兹附寄 贵方 所 订 货物 的 结算 清单  请 查收-enclosed please find a statement of your account for the goods ordered .-0.313
+1390-我 想 诸位 坐 了 这么 长 时间 的 飞机  一定 很 累 了-i suppose you must be rather tired after the long flight .-0.312
+3011-到 了 我们 要 下车 的 第 19 街 时  请 您 告诉 我-and can you let me know when we should be getting off at 19th avenue ?-0.312
+3175-5 月 5 日 星期五  要 张 回程 时间 不 固定 的 往返 票-i want to leave on friday may 5 and i want an open return ticket .-0.312
+6064-我 在 找 一 家 叫 “ 托斯尼尼 ” 的 意大利 餐厅-i &apos;ll looking for an italian restaurant named toscanini .-0.312
+7222-谢谢 你 在 这 半 年 时间 里 给 我 的 帮助-thank you for your help during the last six months .-0.312
+7239-如果 你 还 有 什么 其他 的 问题  就 问 李 小姐-if you have any other questions , just ask miss li .-0.312
+7342-我 去 给 你们 取些 新鲜 的 小吃 来  请 等 一下-i &apos;ll get a fresh supply . one minute , please .-0.312
+8438-这 是 一 间 新 装修 的 餐厅  配有 红地毯 和 金色 窗帘-this is a newly decorated dining room , with a red carpet and a golden curtain .-0.312
+8690-我 赶 时间  我 准备 乘 8 点 的 火车 去 深圳-yes , i &apos;m in a hurry , for i &apos;m going to take the 8 o &apos; clock train for shenzhen .-0.312
+8790-今天 是 他们 的 30 周年 结婚 纪念日  请 在 桌 上 放些 玫瑰-it &apos;s their thirtieth wedding anniversary , so please arrange to have some roses on the table .-0.312
+9084-噢  贵 公司 的 聚餐 设 在 3 楼 的 百花 餐厅-oh , it is in the hundred flowers dining hall on the third floor .-0.312
+9095-所有 4 人 位 的 台 都 坐满 了  请 等候 空位  好 吗-i &apos;m afraid all our tables for four are taken . would you mind waiting until one is free ?-0.312
+9180-如果 您 赶 时间 的话  我们 在 大厅 的 咖啡厅 也 有 早餐 供应-if you are in a hurry , we also serve breakfast at the coffee shop on the lobby floor .-0.312
+9747-是 的  请 先 看 一下 这 份 虾  这 是 陈 虾-yes , have a look at the shrimp . it &apos;s stale .-0.312
+11189-夫人 要 香槟 鸡尾酒  您 要 没有 甜味 的 雪莉酒  请 稍 等 一会儿-a champagne cocktail for madam and a dry sherry for you . just a moment , please .-0.312
+11196-好 的  请 给 我 太太 一 杯 格兰玛娜  我 要 一 杯 白兰地-yes , a grand marnier for my wife and i &apos;ll have a brandy , please .-0.312
+12196-这 是 我 这么 长 时间 吃 过 的 最 好 的 饭-it &apos;s the most delicious dinner i have had for a long time .-0.312
+14071-这 可能 是 在 对 打中 花费 时间 最 短 的 一 次 了-and the shortest rally possible .-0.312
+15043-这 是 你 应 得 的  现在  我 要 请 你 吃 顿 庆功宴-you deserve it . now i &apos;ll buy you a victory lunch .-0.312
+16139-顺便 问 一 声  请 告诉 我 该 在 哪 一 站 下车-by the way , could you tell me at which stop should i get off ?-0.312
+16624-我 也 是 练 了 很 长 时间 才 学会 踩水 的-actually i practiced for a long time before i could .-0.312
+17067-有趣 是 有趣  但 比赛 时间 太 短  不 能 维持 我 的 兴趣-interesting as it is , it doesn &apos;t last long enough to maintain my interest .-0.312
+19211-我 带 您 到 他 的 办公室 去  请 跟 我 来-i &apos;ll show you to his office . please follow me .-0.312
+19688-这 是 我们 是 新 的 商品 目录 及 样品  请 看 一下 吧-here is our latest catalogue and samples . please have a look .-0.312
+20398-他 要 我 带 您 到 他 的 办公室  请 往 这 边 走-he asked me to show you to his office . this way , please .-0.312
+20917-我 是 微软 公司 的 史迪芬 . 李  我们 经理 想 请 您 吃饭-this is steven lee , from microsoft.our manager would like to invite you to dinner .-0.312
+21691-我们 的 座位 是 E15 和 E16  请 你 带 我们 去 好 吗-our seats are e15 and e16 . could you take us to these seats ?-0.312
+22695-顺便 问 一 声  请 认为 治 晒斑 用 什么 药 好 呢-by the way , what do you suggest for sunburn ?-0.312
+22749-好 的  还 您 的 驾照  请 您 在 这里 签 个 名-okay . here &apos;s your driver &apos;s license , and i &apos;ll just need your signature right there .-0.312
+23939-我 给 您 拿 双 小 一 码 的 来  请 试穿 一下 吧-i &apos;ll show you shoes of a size smaller . try them on , please .-0.312
+24514-42 号 的 如何  请 拿 着  让 我 帮 你 试一试-how about size 42 . here you are , let me help you try the jacket on .-0.312
+25602-谢谢 您  这 是 您 的 护照  兑换 证书 和 美元  请 点 一下-thank you . here is your passport , memo and american money . please double-check them .-0.312
+25822-这 是 找 给 您 的 钱  请 检查 一下  看 是否 对-here is your change . please check if it &apos;s correct .-0.312
+27304-好 的  先生  等一下  我 可以 请 你 在 这里 签名 吗-okay , sir . just a moment . may i have your signature here ?-0.312
+27309-我 是 5015 房间 的 沃特罗伯特  请 派 个人 帮 搬 行李-i &apos;m water robert in room 5015 . please send the porter to help me with my luggage .-0.312
+29776-如果 以后 有 什么 要 我 帮忙 的 地方  请 务必 通知 我-if there &apos;s anything that i can help you with in the future , please let me know .-0.312
+33800-这 是 找 你 的 钱  请 等 一下  还 有 挂号 信 回执-here is your change . please wait for your receipt of the registered mail .-0.312
+34069-我们 的 车停 在 那 边 的 停车场  请 走 这 边-our car is over there in the parking lot . this way , please .-0.312
+34276-好 了  这 是 你 的 登机证  请 去 6 号 登机口-ok , there is your boarding pass , gate 6 please .-0.312
+34645-到 首都 体育馆 的 乘客  在 一下 站 下来  请 做好 准备-those going to the capital stadium please get ready to get off at the next stop .-0.312
+37887-我们 会 准时 降落  当地 时间 是 三 日 的 八时 三十分-we &apos;ll land on time , the local time will be eight thirty on the third .-0.312
+38720-我 的 车 抛锚 了  可以 请 人 立刻 来 修理 吗-my car has broken down . could someone come right away and check it ?-0.312
+39686-抱歉  我们 餐馆 没有 一 人 的 份菜  请 照 菜单点 菜 好 吗-i &apos;m afraid we have no courses for one person . could you order from the a la carte menu , please ?-0.312
+39971-我 叫 詹姆斯  我 想 今晚 在 你 的 餐厅 里 用餐-my name is james , i want to have dinner in your restaurant tonight .-0.312
+40704-我们 恐怕 没有 一 人 份 的 套餐  请 照 菜单点 菜 好 吗-i &apos;m afraid we have no courses for one person . could you order from the a la carte menu , please ?-0.312
+41168-我们 恐怕 没有 单 人份 的 和 菜  请 照 菜单点 菜 好 吗-i &apos;m afraid we have no courses for one person . could you order from the a la carte menu , please ?-0.312
+41705-这 是 我 很 长 时间 来 最 好玩 的 一 次-this is the most fun i &apos;ve had for a long time .-0.312
+42160-我 想 喝 点 凉 的  请 给 我 一 杯 桔子汁-i &apos;d like something cool . a glass of orange juice , please .-0.312
+43492-当 医生 和 队长 来 的 时候 请 告诉 我 一 声-please let me know when the doctor and the captain arrive .-0.312
+46875-万一 无法 前来 的话  我 下 周会 找 个 时间 来 见 您 的-if by chance i can &apos;t make it , i &apos;ll see you sometime next week .-0.312
+48462-下 次 你 拿 我 的 东西 前 请 先 打 一 声 招呼-please ask when you take my things next time .-0.312
+49399-如果 是 进道 公司 的 史密斯 先生  请 告诉 他 我 外出 了-if it &apos;s mr. smith of jindo company , please tell him i &apos;m out .-0.312
+49534-我 料想 这儿 的 事物 比 贵国 要 多 些  但 请 多 包函-i suppose things are a little bit more crowded here than in you country , but please bear with us .-0.312
+51314-如果 你们 不 反对 我们 的 建议  就 请 填上 这 份 表格-if you have no objections to our proposal , please fill in this form .-0.312
+151-我 真 不 知 怎么 表示 我 的 感激 之 情  请 你 收下 吧-i really don &apos;t know how to express my thanks .-0.311
+408-如果 有 人 持 这 张 票 去 坐 你 的 座位  请 告诉 我们-please inform us if there is anyone who is going to take your place with the ticket .-0.311
+1470-等 了 一 段 时间 后  大家 都 拿到 了 自己 的 行李  只有 洛伊丝·汤普森 小姐 没有 取到 行李-after some time , all have got their baggage except miss lois thompson .-0.311
+4157-好 的  现在 是 上午 10:30  请 您 于 4 月 17 日 上午 10:30 前 把 车 还 回-all right . it &apos;s 10 : 30 a.m. now , so you &apos;re supposed to return the car by 10 : 30 on april 17th .-0.311
+5482-哦  您 应 找 个 时间 到 我 家 来 看看  见见 我 的 太太-oh , you must come over and see us sometime . i &apos;d like you to meet my wife .-0.311
+8561-你 好  我 想 订 一 张 今晚 的 6 人 位 的 台  请 你 安排 一下  好 吗-hello . i &apos;d like to book a table for six this evening . can you arrange it for me ?-0.311
+8620-是 的  今天 是 他们 结婚 三十 周年 纪念日  请 在 桌 上 放些 玫瑰花-that &apos;s right . it &apos;s their thirtieth wedding anniversary , so please arrange to have some roses on the table .-0.311
+8743-贵 酒店 的 海鲜 很 出名  请 帮 我 准备 一些 新鲜 的蟹  虾  贝  好 吗-your restaurant is famous for sea food . can you prepare some fresh crabs , shrimps , shells and the like for us ?-0.311
+9078-我 领 您 去 医务 所 吧  挺 不 好找 的  请 这 边走  当心-i &apos;ll show you the way to the clinic . it &apos;s rather complicated . this way , please . be careful .-0.311
+9207-一 个 导游 和 他 的 旅游团 到 一 家 餐厅  服务员 接待 了 他们 导游 为 客人 安排 坐位-a tour guide and his tour group go to a restaurant . a waiter attends them . the tour guide seats his guests .-0.311
+9218-是 的  有 中国 国际 旅行社 的 预订  是 玫瑰 餐厅  我 让 服务员 带 你们 去-yes , a reservation through china international travel service . that &apos;s rose dinning room . i &apos;ll ask a waitress to show you the way .-0.311
+9829-我 想 把 点 的 菜 换 一下  请 给 我 换 一 份 火腿 排骨 吧-i &apos;d like to change the order . bring me ham steak instead .-0.311
+10523-好 的  请 多 给 我 几 张 纸巾 和 一些 甜酸 酱 及 胡椒  好 吗-that &apos;s fine . could you give me some more napkins and some sweet-and-sour and pepper , too ?-0.311
+11477-好 的  请 给 我 朋友 一 杯 茴香 甜酒  给 我 一 杯 白兰地-yes , an anisette for my friend and a brandy for myself .-0.311
+13109-是 的  人们 喜欢 在 自助 餐厅 吃饭  它 比 其他 餐厅 更 快 更 便宜-yes . people like to eat at a cafeteria . it &apos;s cheaper and quicker than other restaurants .-0.311
+18111-对 了  我 外边 停 着 一 部 车子  是 来接 您 到 饭店 的  请 这 边走-and now , i have a car waiting outside to take you to your hotel . right this way , please .-0.311
+19849-或许 我们 应 很 快 地 回顾 一下 我们 前 一 段 时间 的 工作-perhaps we need a quick review of what we &apos;ve gone through so far .-0.311
+20035-是 啊  我 正 想 提出 这 一 建议  我们 想用点 时间 讨论 一下 白天 谈判 的 情况-oh , sure , that &apos;s what i wanted to suggest . we &apos;d have to compare notes on what we &apos;ve discussed during the day .-0.311
+20468-斯蒂纳 先生  格雷勃 先生 要 我 带 您 到 他 的 办公室  请 这 边走-mr. steiner , mr. grabber asked me to show you to his office . would you come this way , please-0.311
+21395-我们 还 有 一些 时间  你 想 在 回 旅馆 的 路 上 买 点 东西 吗-okay , we still have some time . would you like to do some shopping on our way back to the hotel ?-0.311
+22857-可是  任何 人 只要 长 时间 不 活动 都 会 在 第一 次 锻炼 以后 感到 肌肉 酸疼 的-but anyone has sore muscles when he exercises for the first time after a long break .-0.311
+23635-黑 的 和 深褐色 的  请 把 两 种 都 拿给 我  我 挑 一 种-black and dark brown . show me the two kinds , please .-0.311
+27596-我 是 1212 号 房间 的 肯尼迪 先生  我 有些 衣服 要洗  可 不 可以 请 人 来 拿-this is mr. kennedy in room 1212 . i &apos;d like to have some clothes cleaned . could you send someone to pick them up ?-0.311
+29889-今天 我 是 来 观光 旅游 的  请 向 我 推荐 些 历史 名胜 和 自然 景德镇观-today i &apos;m here for sightseeing . will you recommend me some places of historic interest and scenic beauty ?-0.311
+31045-我 明天 下午 三点 左右 去 看 他  如果 有 什么 要 我 帮忙 的  请 告诉 我 一 声-i think i &apos;ll visit him around 3 o &apos;clock tomorrow afternoon . if there &apos;s anything i can do to help , please let me know .-0.311
+31954-我 经常 在 周末 爬 白云山  当 我 有 时间 的 时候 我 就 去 周边 的 城市-i often climb the baiyun mountain at the weekends , and when i have time , i visit a nearby city .-0.311
+32662-住 在 假期 饭店  是 三星级 的  有 两 个 餐厅 和 一 个 游泳池-you &apos;ll be staying at holiday inn . it &apos;s a three-star hotel with two restaurants and swimming pool .-0.311
+34432-乘坐 泛美 航空 公司 飞往 迈阿密 的 301 次 航班 的 旅客  请 准备 在 3 号 登机口 登机-pan american airlines flight 301 to miami is now ready for boarding at gate 3 .-0.311
+35103-到 广州 去 的 旅客 请 上 自动 扶梯  到 二 楼 贵宾 候车室 休息-passengers for guangzhou , please step on the escalator and take a rest in the guests &apos; waiting-room on the first floor .-0.311
+36169-如果 你 要 在 这儿 呆 一 段 一 时间  那 是 很 合算 的-that &apos;s a big saving if you &apos;re going to stay here for some time .-0.311
+40108-它们 恐怕 不 在 本 餐厅  请 打到 2157 分机 失物 招领 部 好 吗-i &apos;m afraid that they were not found in the restaurant . could you call the lost and found department on extension 2157 , please ?-0.311
+40651-您 点 的 蛋 恐怕 不 包括 在 餐券 内  请 分开 付 钱 好 吗-i &apos;m afraid that your order of eggs is not covered by this voucher . could you pay for them separately , please ?-0.311
+42545-在 大多数 的 自助 餐厅  人们 都 要 排队  通常 一边 走 一边 从 柜台处 挑选 食品-in most cafeterias , you stand in line . as you walk along , you select items available at a counter .-0.311
+43246-这 种 比赛 时间 的 不定 因素 使 新闻 媒体  特别是 电视  不 太 愿意 报道 它-the variance in time caused great reluctance on the part of the media , especially tv , to cover the event .-0.311
+44756-他们 确实 花 了 些 时间 每 天 练习  速度 和 技术 都 有 了 很 大 的 提高-they did spend quite some time practicing every day . they &apos;ve improved greatly their speed and tactics .-0.311
+45084-在 业余 时间 里  他 是 一 个 悠然 自得 的 加利福尼亚 少年  热爱 冲浪 和 网 上 冲浪-in his free time , he is a laid-back california surfer of both waves and the internet .-0.311
+45091-在 网球史 上  她 是 包括 男子 在内 所有 选手 中 排名 世界 第一 时间 最 长 的-she ranked no.1 for longer than any other player in history , man or woman .-0.311
+48860-哦  趁 我 还 没 忘记 的 时候 问 一下  你 把 信 给 吉姆 了 吗-oh , before i forget , did you give the letter to jim ?-0.311
+49569-关于 您 的 问题  我 本身 不 太 清楚  所以 我们 问 西田 先生 看 他 是否 能 告诉 我们-in regard to your question , i &apos;m not exactly sure myself , so let &apos;s ask mr. nishida if he can tell us .-0.311
+50687-您 方 9087 号 定单 项下 的 货物 已 备妥 待运多 时  故 请 您 方务必 立即 开出 信用证-as the goods against your order no. 9087 have been ready for shipment for quite some time , it is imperative that you take immediate action to have the covering l / c established as soon as possible .-0.311
+51249-如 需 有关 本 公司 财务 状况 的 任何 资料 , 请 向 中国 国际 商业 银行 查询 .-if you require any information about our financial standing , we would refer you to international commercial bank of china .-0.311
+51312-如果 有关 规格  条款 及 其 了 事项 需要 我方 说明 的  请 告知 我方  不 必 犹豫-please do not hesitate to let us know if there is anything regarding specifications , terms and other things you wish us to clarify .-0.311
+51626-非常 感谢 各位 今天 给 我 这个 时间  您 的 未来 将 会 因此 而 改变-thank you very much for your time today , it can change our future tomorrow .-0.311
+52419-如果 您 托运 的 行李 超重  请 准备 好 超重费  这 家 航空 公司 对 行李 超重 管理 相当 严格-if your checked luggage is overweight , please be prepared to pay for the overweight as the airline is quite strict on overweight luggage .-0.311
+2159-这 次 航班 恐怕 已 订 满 了  但 我 可以 查看 一下 有 没 有 取消 预订 的  请 您 稍等 一下-i &apos;m afraid that flight is fully booked . but i &apos;ll just check to see if there have been any cancellations . just a moment , please .-0.31
+8243-情况 是 这样 : 我 要 在 房间 等 一 个 来自 加拿大 的 国际 长途 电话  不 到 餐厅 去 了-the situation is this : i &apos;m waiting for an international call from canada and not going to the restaurant .-0.31
+9621-你 好  我 准备 和 朋友 一道 在 贵 酒楼 共 进 午餐 的  不 巧 我 不 能 准时 赴约  我 留下话  他 来 后 请 告诉 他 好 吗-hello , i plan to dinner with my friend in your restaurant . but i &apos;m afraid i have to be delayed . could you give him a message when he arrives ?-0.31
+15330-但 我 不 知道 找 谁 来 当 我 的 伙伴  我 会 问 迈克尔 要 不 要 参加  然后 我们 可以 来 个 混合 双打  好 吗-but i don &apos;t know who i could ask to be my partner . i &apos;ll ask michael , then we can have a mixed doubles game . all right ?-0.31
+17754-我们 今天 早上 刚 收到 你们 寄来 的 的 马口 铁皮  如期 寄到  可是 打开 时 却 发现 经 生锈  不 能 用 了  所以 我们 特地 想 问 清楚 一下-we &apos;ve just received a delivery of your tin plate this morning . but we found it had already begun to rust . it &apos;s unusable , so we would like to ask you for an explanation .-0.31
+20064-顺便 提 一 句  林 先生  你 能否 为 我们 介绍 一 个 好 的 饭庄  我们 也 想请 请 你们-by the way , mr. lin , can you recommend a good restaurant ? we &apos;d like to give dinner for you too .-0.31
+21251-它 在 相当 长 段 时间 都 是 世界 上 最高 的 建筑物  后来 才 被 帝国 大厦 等 摩天 大楼 超过 了-for years it remained the tallest man-made structure on earth , until such skyscrapers as the empire building surpassed it .-0.31
+22769-另外  最好 放 在 阴凉 干燥 处 保存  要是 时间 长 了  出现 了 棉花状 的 沉淀物  服用 前 您 得 将 它 摇均匀-besides , you &apos;d better store it in a cool , dark and dry place . if any cotton-like precipitation appears after long storage , you will have to shake the bottle before taking it .-0.31
+25598-这 是 两 张 500 元 的 支票  我 想 足够 买 这 块 地毯 的  多余 的 请 给 我 换成 美元-here are two 500-yuan checks . i think it &apos;s enough to pay for the rug and i &apos;d like to change the rest into american dollars .-0.31
+31741-也 要 抽出点 时间 来 游览 一 个 附近 的 国家 公园  了解 一下 澳大利亚 灌木  如果 天气 热 的话  您 还 可以 带 上游 泳装 去 蹦迪 海滩-also try to take time out to visit one of the nearby national parks for a taste of the australian bush , and if it &apos;s hot take your swimsuit and towel to bondi beach .-0.31
+32693-导游 : 颐和园 分 三 部分 : 举行 政治 活动 的 大殿  居住区 和 宗教 建筑区  我们 先 上 山  请 这 边走-the summer palace is divided into three sections : the halls for political activities , the living quarters and religious buildings . let &apos;s go up the hills first . this way , please .-0.31
+39206-如果 你 找 这样 的 房子 有 困难 的话  就 问问 当地 的 店主  或者 你 正巧 碰上 邮递员 的话  那 问 他 就 更 好 了-if you have difficulty in finding such a house , try asking the local shopkeepers or , better still , the postman , if you are lucky enough to see him .-0.31
+41807-可以  您 可以 用 餐券 付钱 给 客房 服务部  但是 如果 您 点 的 菜 超过 餐券 的 总值 时  请 付 差额 好 吗-yes , you may use a meal voucher for room service , but if your order exceeds the value of the voucher , could you pay the difference , please ?-0.31
+42405-在 此 保持 时间 内  绿叶 中 的 酶催化 了 一些 成分 的 氧化 作用  这些 氧化 作用 的 结果 使得 颜色  味道 和 香气 发生 了 变化-during this holding period enzymes in the green leaf catalyze the oxidation of constituents which results in changes in color , taste , and aroma .-0.31
+42537-由于 美国 是 多 种 民族 的 国家  所以  在 那里 的 大 城市  你 几乎 可以 找到 各 种 品味 的 餐厅-as america is home to so many different nationalities , one can find almost any kind of restaurant in all the large cities .-0.31
+42546-在 正常 吃饭 时间  自助 餐厅 里 总是 熙熙攘攘  但 如果 你 能 提前 或 推迟 一点 去 的话  就 能 很 容易 找到 座位-at normal mealtimes , cafeterias are crowded with people . you can usually get a seat without waiting too long if you eat a little early or a little late .-0.31
+42548-任何 拒绝 出示 学生证 的 人 都 将 被 看作 是 非 学生 闯入者 而 被 拒之门 外  或 被 要求 离开 餐厅-an individual who refuses to show a student i.d. card will be considered a non-student and a trespasser and will be denied entrance and be told to leave the premises .-0.31
+44239-在 经过 了 长 时间 低迷 后  安德烈·阿加西 在 千禧年 开始 时 达到 事业 的 顶峰  在 澳大利亚 公开赛 中 荣 获 男子 单打 冠军  证实 了 他 在 世界 网坛 的 霸主 位置-after a long period during which his career was in the doldrums , andre agassi started the new millennium right on top of his game with a success in the men &apos;s singles in the australian open championship , confirming his position at the top of the world rankings .-0.31
+46766-然后 组委会 主席 发表 一 简短 的 欢迎辞  随后 奥委会 主席 发表 另 一 简短 的 演讲 并 由 他 请 国家 元首 宣布 奥运会 开幕-the president of the organizing committee then delivers a brief speech of welcome , followed by another brief speech from the president of the ioc , who asks the chief of state to proclaim the games open .-0.31
+51558-张红梅 是 我 系 即将 毕业 的 学生  她 请 我 为 她 写 封 推荐信  我 很 乐意 向 你们 推荐-miss zhang hongmei , a graduating student in our department , has asked me to write a reference letter for him , and i &apos;m happy to do so .-0.31
+51700-谢谢 各位 今晚 给 我 这 段 时间  对于 你们 将 要 给予 的 帮助  也 在 此 先 表 谢意-thank you for your time tonight and thank you for the help , i know that will be forthcoming .-0.31
+52489-一 到 赛马 时间  许多 人 停下 手头 的 工作  通过 电视 观看 比赛  或是 打开 收音机 收听 比赛 实况  了解 谁 是 胜利者-when it is time for the race , many people stop working and watch the race on television , or listen to it on the radio to see who wins .-0.31
+8474-让 我 重复 一下 刚才 您 所 说 的 : 下 周二 晚上 7:30 在 喜 盈门 举行 婚礼 宴会 ； 35 位 客人 ； 餐厅 需 特别 装饰 ； 三 台 宴席  每 台 1,500 元 ； 需要 饮料  水果 和 停车场-i &apos;ll repeat what you &apos;ve told me : a wedding party at xi yin men at 7 : 30 next tuesday evening ; thirty-five guests ; special decoration of the room ; banquet of three tables at one thousand and five hundred a table ; drinks ; fruit ; parking space .-0.309
+20961-另一方面 我 业余 时间 就 喜欢 独自 呆 着  想想 我 的 公司 和 工作  想想 我 的 过去  现在 的 和 将来  想想 我 的 成功 和 失败  想 想 国内外 的 发展 和 政治 形势  想想 我 想想 的 任何 事情  这时  我 是 内向 的-on the other hand , in my spare time i prefer to be alone , thinking about my work and organization , my past , present and future , my failure and success , chinese and foreign development and political situation , or anything i &apos;d like to . at this time i &apos;d rather call myself introverted .-0.309
+45098-恐怖 分子 劫特 了 11 名 以色列 运动员 作为 人质  时间 长 达 21 小时  由于 政治 谈判 的 最终 失败  在 当地 的 一 个 机场 爆发 了 一 场 生死 枪战  全 世界 上 民 眼睁睁 地 看 着 所 发生 的 这 一切  吓呆 了-while the world looked on , transfixed , the terrorists held 11 israeli athletes hostage for 21 tense hours until political bungling resulted in a deadly firefight at a local airport .-0.309
+49535-我 知道 我 对 回教 不 太 熟悉  所以 如果 有 什么 您 信仰 上 不 能 接受 的 事  或 您 停留 期间 宗教 上 的 需要  有 我 可以 效劳 的 地方  请 尽管 告诉 我-i &apos;m afraid i &apos;m not very familiar with the islamic religion , so i would be very grateful if you could tell me if anything is unacceptable to your faith , or if there is anything i could do to help you fulfill your religious requirements during your stay .-0.309
+90-好 的  请 把 钱 给 我-ok . please give me the money .-0.308
+868-是 的  请 您 帮忙-yes , please .-0.308
+1068-只要 你 有 时间 和 金钱  是 值得 这样 做 的-yes , when you happen to have the time and money for it .-0.308
+1430-我们 的 车 在 这儿  请 上车-here is our car . please get in .-0.308
+1663-我们 的 车 在 机场 外面  请 跟 我 来-our bus is outside the airport , please follow me .-0.308
+4500-要 转弯 的 时候  请 告诉 我-let me know when to turn .-0.308
+6790-好 的  请 稍 等 片刻-ok , one moment , please .-0.308
+7079-如果 可以 的 话 我 想 问 几 个 问题-and here are a few questions i &apos;d like to ask if i may .-0.308
+7524-好 的  先生  请 慢慢 看吧-certainly , sir . please take your time .-0.308
+7564-感谢 您 的 服务  请 收下 这 点 小意思-please keep it for your service .-0.308
+9037-好 的  这 边 请-certainly .-0.308
+9209-晚上 好  要 一 间 有 2 张 桌子  每 张 桌子 可 坐 下 8 个 人 的 餐厅-good evening . we want a dinning room with two tables , each table for eight .-0.308
+10302-我 的 请 烤 得 透 一点-i like it well-dome .-0.308
+10415-您 的 桌子 已经 安排 好 了  这 边 请-your tables are ready , this way please .-0.308
+10441-好 的  请 稍 等-ok.just a moment , please .-0.308
+11455-好 的  先生  请 稍候-certainly , sir . just a moment , please .-0.308
+12265-好 的  请 搬 一 张 来-oh , good . please .-0.308
+12317-好 的  请 放 吧-yes , please do .-0.308
+13088-上学 的 小孩子 往往 带 三 明治  水果 和 小 糕点  或 在 学校 自助 餐厅 吃-kids in school take sandwiches , fruit and cookies along with them or eat in school cafeterias .-0.308
+17388-好 的  我 帮 你 接  请 稍候-yes , i &apos;ll connect your call to mr. smith . hold on , please .-0.308
+17444-噢  是 的  请 进来 好 吗-oh , yes . step inside , will you ?-0.308
+26474-是 的  请 换上 吧-yes , please do .-0.308
+26501-您 的 护照 号码 与 您 表上 所 填 不 相符  请 更 正 一下-i &apos;m afraid that your passport number doesn &apos;t agree with that on the form . would you please put it right ?-0.308
+27322-枫林街 的 “ 红 玫瑰 ” 餐厅 很 有名-the red rose restaurant in maple road is very famous .-0.308
+27496-要 的  请 叫 我 吧-yes , please .-0.308
+28619-我 什么 时间 可以 取回 我 的 衣服-when can i have my laundry back ?-0.308
+29725-我们 以后 找 时间 去 动物园 和 公园 吧  毕竟 这 事 是 可以 推迟 的-we &apos;ll go to the zoo and the park another time . after all , we can put that off .-0.308
+30766-好 的  请 不 要 挂机-ok . please hold the line .-0.308
+33113-是 的  领口 请 上 得 重 一点-yes , heavy starch on the collar , please .-0.308
+33228-好 的  请 坐 这里-yes . please take a seat here .-0.308
+33924-是 的  请 在 这儿 等-yes , please .-0.308
+34015-在 船 上 有 一 个 标准 的 餐厅-there &apos;s a standard restaurant on the ship .-0.308
+34026-好 的  请 递给 我-o.k , pass it to me , please ?-0.308
+35371-您 记得 什么 时间 丢失 的 吗-do you remember the time you lost it ?-0.308
+35811-您 的 男孩 身高 已经 超过 一 米 一 了  请 买 小孩 客票-your boy is already over 1.1 meters in height , please buy a child &apos;s ticket .-0.308
+36547-我 想 去 花费 不 大 的 餐厅-i would like to go to an inexpensive restaurant .-0.308
+36548-你 想 去 什么样 的 餐厅-what kind of restaurants do you like ?-0.308
+36760-要 转弯 的 时候  请 告诉 我-let me know when to turn .-0.308
+37212-到 C 的 旅客 请 准备 下车-passengers to c , please get ready to be off .-0.308
+37221-到 D 的 旅客 请 下车-passengers to d , please get off the train .-0.308
+37472-没有 上车 的 旅客  请 赶快 上车-the passenger who has not got on the train be quick , please .-0.308
+37529-车 上 的 水 很 有限  请 节约 用水-please don &apos;t waste water on the train . it is quite limited .-0.308
+37863-时间 紧张 的 人 喜欢 坐 飞机-air travel is popular for people who are pressed for time .-0.308
+37881-好 的  请 稍 等-yes , just a moment , please .-0.308
+38276-是 的  请 准备 好 吧-yes.get them ready .-0.308
+38705-提 问题 的 时候 尽量 不 要 反复 问-in asking directions , try not to have it repeated more than once .-0.308
+39518-好 的  请 稍 等-yes , one moment , please .-0.308
+39541-可以 的  请 在 此 签名-sure . may i have your signature here ?-0.308
+39608-您 要 订 什么 时间 的 席位-for what time do you want your table ?-0.308
+39751-您 出去 的 时候 请 到 收款台 付账-please pay the cashier as you go out .-0.308
+39902-您 的 桌 已经 准备 好 了  请 入座-your table is ready now. please be seated .-0.308
+39905-本 店 不 卖 寿司  但是 三 楼 有 一 家 卖 寿司 的 餐厅-we don &apos;t serve &quot; sushi &quot; here but there is a &quot; sushi &quot; restaurant on the third floor .-0.308
+41132-好 的  先生  请 说-certainly , sir . go ahead , please .-0.308
+41260-服务员  我们 时间 很 紧  请 快点 上菜-waiter . we are in a hurry . please rush our orders .-0.308
+42119-有 机会 的 时候  请 一定 再 来-do come back again whenever you can .-0.308
+47711-好 的  谢谢  请 拿 清 咖啡-yes , thanks , black , please .-0.308
+48325-工作 时间 应该 是 弹性 的-working hours should be flexible .-0.308
+52335-然而  帕瓦诺蒂 依然 抽出 时间 来 帮助 有 抱负 的 艺术家-yet pavarotti also makes time for aspiring artists .-0.308

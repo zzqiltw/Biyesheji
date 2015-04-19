@@ -1,0 +1,71 @@
+满意
+13656-满意-yes .-1.0
+7858-非常 满意-excellent .-0.975
+11637-很 满意-very good .-0.975
+25846-我 很 满意-i &apos;m satisfied with this bottle .-0.967
+7857-吃 得 满意 吗-did you enjoy your dinner ?-0.962
+13640-这下 法国人 满意 了 吗-did this please the french ?-0.96
+24968-你 会 满意 的  先生-you &apos;ll be satisfied , sir .-0.96
+33393-现在 请 看看  满意 吗-now , please have a look . is that satisfactory ?-0.96
+39515-您 吃 得 满意 吗-did you enjoy your dinner ?-0.96
+9755-我 担保 您 会 满意 的-i &apos;m sure we &apos;ll satisfy you .-0.958
+20311-我们 对 你 条件 很 满意-we &apos;re very satisfied with your qualifications .-0.958
+25724-这个 你 应该 满意 了 吧-this one may give you every satisfaction .-0.958
+29807-您 觉得 满意 我们 非常 高兴-i &apos;m very glad you &apos;re enjoying it .-0.958
+39411-女士  您 吃 得 满意 吗-did you enjoy your dinner , ma &apos;am ?-0.958
+39616-您 觉得 饭菜 都 满意 吗-have you found everything satisfactory ?-0.958
+39981-我们 将 尽力 使 您 满意-we will try our best to satisfy you .-0.958
+7798-我 愿 您 今晚 吃 得 满意-i hope you enjoyed your dinner .-0.957
+11636-这 一 餐 您 还 满意 吗-was the meal satisfactory ?-0.957
+23863-只要 妻子 满意  价格 我 不 在乎-i don &apos;t care about price as long as it is pleasant to my wife &apos;s eyes .-0.957
+39359-请 慢 用  祝 您 用餐 满意-please take your time and enjoy yourself .-0.957
+48473-你们 疏忽 大意 我 很 不 满意-i &apos;m not at all pleased by your negligence .-0.957
+7799-谢谢  先生  我 愿 您 今晚 吃 得 满意-thank you for your excellent service .-0.956
+11898-希望 你们 会 觉得 日本 料理 很 满意 的-i hope you will find japanese cuisine quite satisfactory .-0.956
+17894-那儿 的 客户 对 我们 的 产品 很 满意-our end-users are satisfied with our products .-0.956
+18907-我 对 草案 的 其它 部分 非常 满意-i &apos;m perfectly happy with the rest of the draft .-0.956
+19195-如果 满意 的话  我们 可以 考虑 进一步 的 订单-if satisfactory we may consider further orders .-0.956
+19447-很 高兴 你们 对 旅馆 的 工作 感到 满意-i &apos;m glad you find the hotel service satisfactory .-0.956
+20656-如果 满意 的话  我们 可以 考虑 进一步 的 订单-if satisfactory , we may consider further orders .-0.956
+20684-我 想  你 会 发现 它 令 人 满意-i think you would find it satisfactory .-0.956
+23940-嗯  这 双 相当 满意  我 就 买下 了-mm . they are quite satisfactory to me . i &apos;ll take them .-0.956
+25885-非常 感谢  我 很 满意 你 的 服务-yes , thank you very much . i &apos;m very satisfied with your services .-0.956
+34101-我们 希望 你们 对 此 次 逗留 感到 满意-we hope you &apos;ll find your stay here satisfactory .-0.956
+34102-我 想 信 我 一定 会 满意 的-i &apos;m sure i will .-0.956
+41466-我 不 知道 您 是否 对 一切 都 满意-i wonder if everything is to your satisfaction .-0.956
+43588-我 对 你 今天 的 背切 配合 非常 满意-i am very satisfied with your &quot; blind pig &quot; today .-0.956
+43618-我 对 你 的 原地 投篮 是 满意 的-i am pleased with your set shot .-0.956
+50762-我 相信 您 会 满意 我们 的 产品 的-i &apos;m sure you &apos;ll be satisfied with our product .-0.956
+22251-这 出 戏 一点 也 不 能 让 人 满意-on the whole , the play isn &apos;t satisfactory at all .-0.955
+40573-我 对 我 所 受到 的 对待 很 不 满意-i &apos;m very upset at the way i have been treated .-0.955
+48454-不论 我 说 什么 做 什么  他 都 不 满意-he &apos;s never satisfied with anything i say or do .-0.955
+50748-我 想 知道 您 对 我们 的 修理 结果 是否 满意-i would like to know whether you found the repairs done to be satisfactory or not .-0.955
+13655-你 对 中国 运动员 在 奥运会 上 所 取得 的 成绩 满意 吗-are you satisfied with chinese players &apos; achievements in the olympic games ?-0.954
+18412-是 的  我们 过去 的 业务 往来 总是 满意 的  很 好-yes , it &apos;s good that our past record has always been satisfactory .-0.954
+18864-假如 你 对 协议 感到 满意  我们 就 在 那 天 下午 签字-if you fink the agreement satisfactory , we can sign it in the same afternoon .-0.954
+20804-徐先生  我 对 我们 以前 的 几 次 购买 的 洽谈 感到 非常 满意-mr. xu , i am quite satisfied with our previous talks concerning the silks .-0.954
+25087-那 就 好 了  知道 顾客 满意 我 就 最 高兴 的 了-good . i &apos;m always happy to hear about a satisfied customer .-0.954
+50554-你 所 选 的 这个 行业 有 什么 不 令 人 满意 的 吗-what are the disadvantages of your chosen field ?-0.954
+1627-太 好 了  我 得 说 没有 比 这 更 令 我们 满意 的 事 了-wonderful ! nothing would please us more .-0.953
+9667-很 高兴 您 感到 满意  不过 我们 的 工作 还 有 什么 需要 改进 的 吗-we &apos;re glad to know that you are satisfied with it . but is there anything we should do to improve our work ?-0.953
+12223-我 相信 全新 的 外观 会 更 吸引 顾客 的 注意  优良 的 质量 则 会 让 他们 满意-i believe the new look will make the customers notice them more , and the high quality will keep them happy .-0.953
+17641-我 衷心 希望  你们 两 位 将 把 这 件 事 解决 好  双方 都 感到 满意-i sincerely hope that you gentlemen will settle the matter to our mutual satisfaction .-0.953
+17991-一旦 你 对 设计 满意 了  只要 按 一下 这个键  设计 就 会 被 自动 打印 出来  成为 纸样-once you are happy with the design , just click this button and the design will be automatically printed out to make the patterns .-0.953
+18689-首 选  我 想 再次 强调  我们 对 你们 产品 的 质量 总体 上 是 满意 的-first , i want to re-emphasize that on the whole we &apos;ve been satisfied with the quality of your products .-0.953
+20443-在 我们 公司  质量 管理 是 非常 重要 的 事 ； 我们 必须 让 顾客 满意-at our company , quality control is very important . we want to keep customers happy .-0.953
+24949-我 今天 上午 为 太太 买 了 一 条 围巾  可是 她 不 太 满意-i bought a scarf for my wife this morning , but she isn &apos;t satisfied with it .-0.953
+45906-他 非常 满意 地 完成 了 5 个 规定 动作 和 6 个 自选 动作-he has finished the 5 required dives and 6 optional dives quite satisfactorily .-0.953
+49344-我们 对 这 批货 很 不 满意  它 比 原定 时间 晚 了 三 周-we were unhappy about the delivery last time . it was there weeks behind schedule .-0.953
+49572-我 希望 您们 此 行 都 满意 愉快  而且 有 机会 再 来 看 我们-i hope you have all enjoyed your visit and come to see us again sometime .-0.953
+8737-南山厅 是 新近 装修 的 豪华厅  虽然 不 大  但 足以 容纳 18 位 客人  我 想 你们 一定 会 满意 的-this dining-room is a deluxe one which is newly decorated and well equipped . it &apos;s only a bit small , but spacious enough for eighteen people . i think it &apos;ll be satisfactory .-0.952
+9843-我们 不 想 再 给 自己 找 麻烦 了  不过 我 要 对 你 说 你们 饭店 在 令 客人 满意 方面 需要 改进 的 地方 可 不少-we don &apos;t want to put ourselves in trouble . but i &apos;d like to say it leaves mush room to make guests satisfied .-0.952
+13756-这 并不 令 委员会 满意  他 便 因此 而 被 取消 了 比赛 资格  并 被 勒令 在 1 小时 内 离开 奥运村-this did not satisfy the commission . and watson was disqualified and was given an hour to leave the olympic village .-0.952
+18503-是 的  我们 对 你方 机器 的 生产 效率 还 满意  但是 我们 的 外汇 比较 紧张  我们 必须 根据 我们 的 财力 状况 来 安排 购买-yes , we are satisfied with the efficiency of your cutters , but being short of foreign exchange , we must plan our purchases according to our means .-0.952
+19385-设计 都 不错  如果 颜色 能 再 重新 设计  而 结果 令 人 满意 的话  我 可能 会 订购 几 种 的-the designs are good . i &apos;ll probably take up several if the change in colors turns out satisfactory .-0.952
+19584-好吧  鉴于 我们 双方 都 对上 一 项 合同 表示 满意  我 能否 建议 把 它 作为 新 合同 的 基础-well , as we both have expressed satisfaction at our previous contract , may i suggest that it be the basis of the new contract ?-0.952
+28393-是 的  总的来说  我们 非常 喜欢 你们 的 旅店  但是 仅有 的 一 件 事 不 太 满意  那 就 是 我 房间 的 冰箱 坏 了-on the whole , we like your hotel very much except that the fridge in my room doesn &apos;t work .-0.952
+36020-如果 你 对 司机 满意  也 可以 多 给 一点  如果 不 满意  也 可以 少 给 一点  主要 看 你 认为 司机 服务 好坏-if you like the service , you leave a little more . if not , you leave a little less . it depends on how good a job you think the driver is doing .-0.952
+51590-倘若 该 信使 您 相信 我 有 能力 令 您 满意  我 将 很 高兴 能 有 机会 和 您 面谈  以便 您 对 我 的 个人 素质 作 进一步 了解-if my application has convinced you of my ability to satisfy you , i should welcome the opportunity to talk with you , so that you may judge my personal qualifications further .-0.952
+11024-不过 我们 饭店 烹制 小 牛肉 的 方法 与众不同  我 担保 您 吃 过 之后 定会 十分 满意 的  而且  同烹 好 的 小 牛肉 一同 上桌 的 还 有 好几 种 调味品  这 会 使 牛肉 更加 美味 适口 的-but we cook beef in a special way in our hotel . i &apos;m sure you &apos;ll certainly be quite satisfied with it . besides , we serve the beef with a few seasonings together . that &apos;ll make it very delicious .-0.951
+46617-现在  四 枚 金牌 是 人 的 了  更 让 人主 满意 足 的 是  他 以 接力 项目 中 的 一 个 新 世界 记录 为 他 追逐 杰西·欧文斯 的 传奇 画 了 完美 的 句号-the four gold medals were now his , and it was especially satisfying to cap his pursuit of the jesse owen &apos;s legend with a world - record time in the relay .-0.951
+51738-在 准备 今晚 的 演说 时  我 想起 了 一 位 在 我 所 认识 的 人 之 中表 出 最 杰出  同时 也 是 这里 最 成功 的 销售员  我们 之中 只有 从事 这 一 行 很 久 的 人才 会 记得 约翰逊·史密斯 先生  我 认为 此 人 之所以 会 成功  要 归因于 一些 重要 观念 : 首先  史密斯 先生 的 毅力 相当 惊人  他 会 全方位 地 开展 工作  他 会 努力 地 全面 了解 买主 的 需求 并 提供 他们 最 合意 的 货品  他 对 客户 个别 的 关怀 和 照顾 使 客户们 了解 到  他 所 关切 的 是 客户 的 福利 与 满意  而 非 仅 是 做 买卖 而已-in preparing my remarks for tonight , i began to reflect on one of the finest people i &apos;ve ever know and one of the most successful salesman ever to work here.only the ones of us who have been around for a long time will remember mr. johnson smith . i think this man &apos;s remarkable success can be attributed to some important ideas.first , mr. smith &apos;s perseverance was amazing.he would work all the angles , he would strive to understand the buyer &apos;s needs in great detail and offer them exactly what they were seeking his personal attention and interest showed that this concern was for their welfare and satisfaction , not just making a sale .-0.95

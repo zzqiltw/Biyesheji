@@ -1,0 +1,430 @@
+总共 4 位  请 这 边走
+9170-是 的  我 记得 总共 10 位  我 确信  请 这 边走  是 一 间 单独 隔开 的 饭厅  可以 看到 美丽 的 景色-yes , i remember . a party of ten , i believe . this way , please . it &apos;s a private dining room with a beautiful view .-0.802
+916-请 这 边走-this way , please .-0.5
+923-请 这 边走-please come this way .-0.5
+1633-让 我们 走吧  请 这 边走-let &apos;s go . this way please .-0.5
+7494-请 这 边走-this way , please .-0.5
+8339-请 这 边走-this way , please .-0.5
+8904-请 这 边走-yes . this way , please .-0.5
+8995-请 这 边走-this way , please .-0.5
+9244-请 这 边走-please come this way .-0.5
+9249-请 这 边走-this way , please .-0.5
+9304-有的  先生  请 这 边走-yes , sir . this way , please .-0.5
+9369-请 这 边走-this way , please .-0.5
+10877-请 这 边走-this way , please .-0.5
+11404-请 这 边走-this way , please .-0.5
+11949-请 这 边走-please come this way .-0.5
+12291-请 这 边走-please come this way .-0.5
+17927-请 这 边走-this way , please .-0.5
+24394-请 这 边走-this way , please .-0.5
+25184-请 这 边走-come this way , please .-0.5
+25790-请 这 边走-this way , please .-0.5
+26885-请 这 边走-this way , please .-0.5
+31162-请 这 边走-this way , please .-0.5
+31238-请 这 边走-come this way , please .-0.5
+40283-请 这 边走-would you come this way , please ?-0.5
+51927-请 这 边走-this way , please .-0.5
+27557-您 可以 乘 电梯 去 十楼  请 这 边走-you can take the elevator to the 10the floor . this way , please .-0.492
+26030-我 去 替 您 叫 一 辆  请 这 边走-i &apos;m going to get one for you . this way , please .-0.49
+9161-不 必 客气  请 这 边走  你们 一共 有 多少 人-don &apos;t mention it . this way , please . how many people please ?-0.489
+49331-我们 经理 正 在 他 办公室 等 您  请 这 边走-our manager is waiting for you in his office . would you come this way , please ?-0.489
+9095-所有 4 人 位 的 台 都 坐满 了  请 等候 空位  好 吗-i &apos;m afraid all our tables for four are taken . would you mind waiting until one is free ?-0.486
+9078-我 领 您 去 医务 所 吧  挺 不 好找 的  请 这 边走  当心-i &apos;ll show you the way to the clinic . it &apos;s rather complicated . this way , please . be careful .-0.485
+20468-斯蒂纳 先生  格雷勃 先生 要 我 带 您 到 他 的 办公室  请 这 边走-mr. steiner , mr. grabber asked me to show you to his office . would you come this way , please-0.485
+7429-请 这 边走  好 吗-would you like to come this way ?-0.483
+18111-对 了  我 外边 停 着 一 部 车子  是 来接 您 到 饭店 的  请 这 边走-and now , i have a car waiting outside to take you to your hotel . right this way , please .-0.483
+32693-导游 : 颐和园 分 三 部分 : 举行 政治 活动 的 大殿  居住区 和 宗教 建筑区  我们 先 上 山  请 这 边走-the summer palace is divided into three sections : the halls for political activities , the living quarters and religious buildings . let &apos;s go up the hills first . this way , please .-0.482
+10936-我们 为 你们 安排 了 三 张 餐桌  台号 是 3  4  5 . 每 桌 9 位  请 每 顿 饭 都 在 这里 用餐-we &apos;re arranged three tables for you . they &apos;re no. 3 , no. 4 and no.5.nine people for each table , please sit at the same tables every meal .-0.481
+51677-对 各位 的 公司 来说  雇用 残疾 人士 一定 是 有利 无害 的  虽然 残疾 人士 不 可 否认 地 有 一些 生理 上 的 限制 —— 或许 这 位 必须 坐 轮椅  那 位 必须 柱 着 拐杖 行走  或许 另 一 位 无法 好好 使用 其 一 只  甚至 两 只 手臂  但是 不论 这个 残疾者 面对 着 的 是 何 种 生理 障碍  请 放心  这 种 障碍 一定 会 被 其他 方面 的 发展 所 克服-you will certainly benefit in your respective companies by hiring the disabled or handicapped persons.a disabled person undeniably has some physical limitations-maybe this person is confined to a wheelchair , maybe that person has to use crutches to move around , maybe another doesn &apos;t have full use of one or both of his arms.but whatever physical handicap confronts the disabled worker , you rest assured , it is overcome by development in other areas .-0.477
+8991-请 这 边走  这 张 桌子 吗-this way , please . is this table all right ?-0.475
+11290-请 这 边走  你 的 桌子 在 窗子 旁边-this way , please . your table is near the window .-0.475
+25316-请 这 边走  我 很 高兴 让 您 看看-this way , please . i would be happy to show you around .-0.475
+40886-请 这 边走  我 领 您 去 预定 的 桌子-come this way , please . i &apos;ll show you to your table .-0.475
+11876-请 您 几 位 这 边 走-would you like to come this way , please ?-0.474
+26566-请 按 这 位 职员 说 的 填写 外汇 兑换单-please fill in the exchange menu as the clerk tells you .-0.472
+23288-请 看  这 是 展于虔 的 名画 “ 游春 图 ” 的 仿制品  展于虔 是 隋朝 一 位 伟大 的 画家-look , this an imitation of the famous painting &quot; spring outing &quot; by zhan zhqian , who was a great artist of the sui dynasty .-0.469
+8392-4 位-we have four persons .-0.333
+9243-总共 四 位-a party of four .-0.333
+9248-总共 十 位  我 确信-a party of ten , i believe .-0.333
+37608-请 这 儿坐-sit down here , please .-0.333
+40053-总共 几 位 呢-how many , sir ?-0.333
+1418-您 说 得 很 对  请 走 这 边-i quite agree with you . this way , please .-0.327
+7564-感谢 您 的 服务  请 收下 这 点 小意思-please keep it for your service .-0.327
+7862-我 就 拿来  请 稍等 会儿  这 是 账单-i &apos;ll make it out . just a moment , please . here is your bill .-0.327
+7999-打搅 几 位 一下  请 问 哪位 先生 付账-excuse me , may i know who is paying , please ?-0.327
+5993-对 不 起  请 问 这 附近 有 银行 吗-excuse me , is there a bank near here ?-0.326
+983-当然 要 了  请 问 这 飞机 是 直达 洛杉矶 的 吧-we sure do . by the way , this is a direct flight , isn &apos;t it ?-0.325
+1027-我 是 一 位 商人  但 这 次 来 是 为了 旅游-i &apos;m a businessman but i came as a tourist .-0.325
+1517-大家 取到 行李 后  请 放 在 这 几 辆 手推车 上-when you pick up your luggage , please put it on these carts .-0.325
+1732-下 一 位  请 让 我 看看 你 的 机票 和 护照-next in line , please may i see your ticket and passport , please .-0.325
+2709-对  请 往 里 边走-that &apos;s right . move along , please .-0.325
+8939-请 走 这 边-this way , please .-0.325
+9123-请 这 边 来-this way , please .-0.325
+9145-请 这 边 来-come along this way , sir .-0.325
+9257-请 走 这 边-come this way , please .-0.325
+9381-十分 感谢  女士们  办妥 了  请 跟 我 这 边 走-thank you very much.hello , ladies . it &apos;s done.come this way , please .-0.325
+11774-请 这 边 来-come this way , please .-0.325
+20402-海瑞斯 先生 正 在 第一 会议室 等 您  请 走 这 边-mr. harris is waiting for you in conference room # 1 , this way , please .-0.325
+21086-请 走 这 边-this way , please .-0.325
+22099-总共 387 元 4 角-it &apos;s three hundred eighty-seven yuan and four jiao altogether .-0.325
+23838-先生  请 走 这 边-step this way , sir . good day .-0.325
+24893-请 拿 这 双-please take out this one for me .-0.325
+25282-这 边走  先生-step this way , sir .-0.325
+26930-请 填好 这 张登记表-please fill out this registration form .-0.325
+27209-请 填写 这 张登记表-would you fill out this registration form , please ?-0.325
+33177-请 这 边 坐-please sit down here .-0.325
+34069-我们 的 车停 在 那 边 的 停车场  请 走 这 边-our car is over there in the parking lot . this way , please .-0.325
+38613-对 不 起  请 问 这个 地址 离 这 有 多远-excuse me , how far is this address from here ?-0.325
+39991-总共 有 12 位-there will be twelve altogether .-0.325
+52052-请 走 这 边-step this way , please .-0.325
+9030-请 随 我 到 这 边 来-would you come this way , please ?-0.324
+14267-路易斯 在 4 号 位 扣斜 线球-luis smashes crosscourt at position 4 .-0.324
+14353-路易斯 在 4 号 位 扣斜 线球-luis smashes crosscourt at position 4 .-0.324
+16248-若 有 什么 问题  请 及时 与 我 联络  这 是 我 的 名片-so if you have any questions or problems , please contact me at any time . here is my name card .-0.324
+20325-请 你 填写 一下 这 张 表-please fill in this form .-0.324
+20353-请 先 填 一下 这 张 表-please fill in this form first .-0.324
+20398-他 要 我 带 您 到 他 的 办公室  请 往 这 边 走-he asked me to show you to his office . this way , please .-0.324
+27164-请 你 填 一下 这 张 表-could you fill in this form , please ?-0.324
+32561-请 给 我 订 这 一 班-can you book me on that one , please ?-0.324
+43585-当 你 见到 姚立峰 时  请 将 这 本 篮球 书 交给 他-please give this basketball book to yao li feng when you see him .-0.324
+51314-如果 你们 不 反对 我们 的 建议  就 请 填上 这 份 表格-if you have no objections to our proposal , please fill in this form .-0.324
+1461-别 客气  请 让 我 帮 您 提 行李  请 跟 我 这 边 走-you are welcome . and please let me carry the bags for you . follow me this way , please .-0.323
+4023-明白 了  请 您 填好 这 张 表格-yes , i see.please fill out this form .-0.323
+9379-如果 一 位 太太 和 她 女儿 与 你们 共用 这 张 桌子  你们 介意 吗-do you mind if a lady and her daughter share this table with you ?-0.323
+9759-请 您 再 尝 一下 这 份 虾-please try the shrimp this time .-0.323
+13417-另外  中央台 将 在 下午 4 点 至 6 点 现场 直播 这 场 比赛-by the way , the cctv will show the game live on channel 8 between 4 : 00 to 6 : 00 pm .-0.323
+19296-如果 您 乐意 的话  我 想 请 您 过目 一下 这 一 套 新 的 设计图-i &apos;d like you to look through this new set of drawings , if you please .-0.323
+24665-请 问  我 能 订购 这 本 书-excuse me , can i order this book ?-0.323
+39102-请 告诉 我 如何 填写 这 张 表格-please show me how to fill in this from .-0.323
+49097-请 不 要 碰 我  这 是 办公室-please don &apos;t touch me . this is the office .-0.323
+1541-这 是 旅行社 徽章  请 别 上 ； 这 是 有 旅行团 标志 的 帽子  请 戴上-here are the badges of our travel service for everybody , please pin them on and here are the caps of our travel service , please put them on .-0.322
+1615-赵 先生  这 位 是 本斯 先生  这 位 是 琼斯 女士  都 是 我 的 同事-mr. zhao , this is mr. burns and this is ms. jones . both are my colleagues .-0.322
+4018-好 的  请 填写 这 份 申请书 好 吗-well . would you write down this application , please ?-0.322
+8573-请 别 挂线  我 这 就 替 您 接通-hold the line , please . i &apos;ll get you through .-0.322
+9036-我们 要 一 张 4 人 位 的 台-we need a table for four .-0.322
+17641-我 衷心 希望  你们 两 位 将 把 这 件 事 解决 好  双方 都 感到 满意-i sincerely hope that you gentlemen will settle the matter to our mutual satisfaction .-0.322
+27047-请 您 填 一下 这 张 登记表 好 吗-would you please fill out this form ?-0.322
+27126-请 您 填 一下 这 张 表 好 吗-would you please fill out this form first ?-0.322
+46276-用 另 一 位 选手 的 话 说  比 曼 “ 毁 了 这 场 比赛 ”-in the words of a competitor , beamon had &quot; destroyed the event . &quot;-0.322
+1269-能 请 你 帮 我 填 这 两 张 表 吗-could you please help me to fill out the two forms ?-0.321
+1812-请 把 你 的 行李 放 在 这 秤 上-please put your baggage on this scale .-0.321
+8561-你 好  我 想 订 一 张 今晚 的 6 人 位 的 台  请 你 安排 一下  好 吗-hello . i &apos;d like to book a table for six this evening . can you arrange it for me ?-0.321
+9093-4 位  我们 要 一 张 4 人 位 的 台-four . we like a table for four .-0.321
+10632-哦  对 了  我 向 您 四 位 特意 推荐 尝 一 尝 这 道 煎 腰子  口味 真的 很 香 哪-and i particularly advise you four people to taste the sautéed kidney . it &apos;s really delicious .-0.321
+20232-请 您 填 一 填 这 张 表格  好 吗-would you please fill in this form ?-0.321
+22693-请 你 给 我 配 这 张 处方 好 吗-could you make up this prescription for me , please ?-0.321
+23675-我们 店 一 星期 前 刚 进 了 一 批 货  卖 得 快  请 稍等  噢  这 只 剩下 一 盒 啦-we stocked some one week ago . it is sold well . wait a minute , please ! oh , there is only one pack left .-0.321
+26601-请 帮 我 兑现 这 张 旅行 支票 好 吗-could you please cash this traveler &apos;s check for me ?-0.321
+26979-现在 请 你 填 一下 这 份 登记表  好 吗-now would you fill in this registration form , please ?-0.321
+27668-劳驾 一下  请 问 这 是 这里 的 工作 人员 吗-excuse me . do you work here ?-0.321
+29892-请 帮 我 在 这 张 地图 上 找出 天安门 广场-please locate the tian &apos;anmen square for me on the map .-0.321
+38615-请 问 去 机场 走 这 条 路 对 吗-is this the right road to go to the airport ?-0.321
+39743-请 放心  我们 一定 会 调查 处理 这 件 事-please be assured that we will look into the matter .-0.321
+40037-许多 桌 位 已经 订 出去 了  尽管 我 不 能 向 你 保证  但 请 相信 我 会 尽力而为 的  戴维斯 先生-we have already received many bookings and though i cannot guarantee anything , please be assured that we &apos;ll try our best , mr.davis.-0.321
+40112-请 在 十五 分钟 内 过来 这 边 好 吗-could you come here in 15 minutes , please ?-0.321
+41585-请 品尝 一下 烤蟹  这 是 我们 的 厨师 的 杰作-please try the baked crab , it &apos;s the cooker &apos;s delight .-0.321
+50164-请 允许 我 在 这 件 事 上 有 不同 意见-i beg to differ with you on this matter . there won &apos;t be any problem with the ownership .-0.321
+52419-如果 您 托运 的 行李 超重  请 准备 好 超重费  这 家 航空 公司 对 行李 超重 管理 相当 严格-if your checked luggage is overweight , please be prepared to pay for the overweight as the airline is quite strict on overweight luggage .-0.321
+7938-是 的  请 在 这 张 表上 填上 您 的 全 名-yes , please write down your full name on the form .-0.32
+9747-是 的  请 先 看 一下 这 份 虾  这 是 陈 虾-yes , have a look at the shrimp . it &apos;s stale .-0.32
+19104-请 仔细 考虑 一下  我们 衷心 希望 这 次 谈判 能 圆满 成功-do think it over , please . we sincerely hope our discussion will come to a success .-0.32
+24666-那 就 请 填 一下 这 份 订单  然后 把 它 交给 我-please fill out this form and then give it back to me .-0.32
+27226-李 先生 从 他 的 公文包 里 取出 两 封 信  他 的 一 位 在 中国 的 朋友 说 这 两 封 信 很 急-from his briefcase , mr li takes out two letter which a friend of him in china told him were urgent .-0.32
+28981-请 稍等 一下 女士  对 了  我们 这 段 时间 有 房间-just a moment , ma &apos;am . yes , we have a vacancy for that period .-0.32
+29697-我 想 请 你 帮 我 提 一下 这 几 个 手提包-i &apos;d like some help carrying these bags .-0.32
+34569-请 允许 我 向 你 赠送 这 一 小 礼品 留作 纪念-allow me to present you with this little present as a souvenir .-0.32
+35523-如果 您 不 要 声明 您 的 行李 价格  请 您 在 您 在 行李 票 上 写明 这 一 点  并且 签上 您 的 姓名-if you don &apos;t want to declare the value of your luggage , please make it clear in your luggage ticket and sign your name .-0.32
+37746-请 您 帮 我 把 这 行 李放 上行 李柜 好 不 好-would you put this in the overhead bin for me ?-0.32
+39110-请 问  我 要 到 海滨 去  乘 这 辆 车 可以 吗-i &apos;m going to the beach . is this the right bus , please ?-0.32
+46641-” 这 位 天才 运动员 还 在 不停 地 追逐 传奇 人物 —— 而 在 这 追逐 的 同时  他 自己 也 成为 了 一 个 传奇 人物-this talented athlete is still chasing legends-and is well on his way to becoming a legend himself !-0.32
+49532-请 您 用 您 觉得 最 舒服 的 方式 坐 在 这 垫子 上-please sit on this cushion in whatever way you find most comfortable .-0.32
+52337-维克多·雨果 求 爱 之初  女方 父母 因 不满 这 位 年轻 作家  不 让 女儿 和 他 交往  甚至 扣 他 的 信件  弄 得 这 对 恋人 一时 不知所措-the parents of victor hugo &apos;s sweetheart disapproved of the young author and forbade their daughter his company . even his mail was stopped and the pair were at their wits &apos; ends .-0.32
+6218-请 你 为 我 在 这 张 纸 上 画 一 幅 简单 的 路线图 好 吗-would you mind drawing me a little map on this piece of paper ?-0.319
+7633-请 稍候  让 我 查 一 查   很 抱歉  先生  我 刚才 查过  这 菜 是 您 点 的-well , just a moment , i &apos;ll check . sorry , sir .-0.319
+22108-请 稍 请  这 是 你们 的 发票 和 找 回来 的 12 元 6 角 钱-just a moment , please . here is the invoice and change , twelve yuan and six jiao .-0.319
+31249-我 想 请 你 预付 200 元 租金 外加 50 元 的 损毁 押金  你 搬出 时 这 笔 押金会 退给 你-i need two hundred dollars rent in advance plus a fifty dollar breakage deposit back when you move out .-0.319
+34057-这 位 是 公关部 经理 唐 天宇 女士  这 位 是 从 伦敦 来 的 琼·斯特朗 女士-this is ms. tang tianyu , director of public relations division and this is ms. joan strong from london .-0.319
+45355-一 位 加拿大 的 编导 说  这 对 选手 中 此 轻松 地 完成 该 动作 实在 是 令 人 叹为 观止-one canadian choreographer said it was breathtaking to see how easily the pair performed the element .-0.319
+45518-由于 4 × 10 公里 接力 是 唯一 一 个 参赛 选手 之间 肩并肩 互相 竞争 的 滑雪 项目  因此 只有 在 这 项 比赛 中 才 有 希望 出现 一 个 精彩 的 冲刺 动作-since the 4 × 10 kilometer relay is the only skiing event in which the participants actually race against each other , it is also the only event which has the potential for a truly exciting finish .-0.319
+46736-其中  澳大利亚式 橄榄球 在 澳洲 6 个 州 中 的 4 个 州 里 都 是 一 项 主要 的 运动  这 种 运动 以 18 个 人 为 一边  在 辽阔 的 椭圆形 场上 进行  具有 快速  开放 和 粗暴 的 特点-australian rules , a fast , open and rugged game , played with 18 men a side on a large oval field , is the chief code in four of the six states .-0.319
+51654-担任 会长 给 了 我 一 个 和 每 一 位 同仁 共事 的 机会  我 认为 这 是 我 在 过去 一 年 中 所 得到 的 最 大 的 个人 回报-serving as your president gave me the opportunity to work with everyone here , and i count that one of the greatest personal rewards i received during the last year .-0.319
+25688-三十二 位 的  看看 应用 在 这 电脑 里 的 图示法 的 种类  图表  曲线图 或者 经 例图  您 都 可以 电脑 里 运用自如-it &apos;s 32 bit . and look at the variety of graphics that can be applied to the computer . charts , graphs or scales , you can do it all in this computer .-0.318
+51671-这 份 杂志 之所以 会 有 今天  在场 的 每 一 位 都 功不可没  这 是 个 特殊 的 团体  能 身为 大家 协力 创造 光荣 中 的 一 分子  我 感到 很 骄傲 ； 今天 行走 于 各位 之间  和 各位 谈话  倾听 各位 的 构想  我 能 觉察 到 大家 在 讨论 新 构想 和 未来 走向 时 所 展现 的 兴奋 之 情  这 使 我 深 受 感动-this is a special group of people and i &apos;m proud to be a part of what you have helped create.walking among you today , talking and listening , i am struck at the feeling of excitement i can sense in the new ideas and directions i hear being discussed .-0.318
+51709-这个 活动 我们 需要 大家 的 支持  因此 请 大家 想想 看 你 能 贡献 什么 尽力  然后 在 今晚 会议 结束 后 到 这 张 桌子 前面 来  在 不同 的 工作 项目 下 签名  同时 请 拿 一些 传单 回家  在 上班  上 学时 以及 在 自 家 附近 散发-we need everyone &apos;s support for this , so think about what you can contribute and after tonight &apos;s meeting is adjourned , come to this table to sign up for the various tasks and also take home a handful of fliers to pass out at your work , school and neighborhood .-0.318
+51778-本 奖项 今年 系 由 一 位 女士 获得  这 位 女士 一直 是 她 周围 人们 的 “ 力量 之 塔 ”  身为 政府 社会 工作员 的 她  一直 不断 地 帮助 清寒 的 家庭 自力更生  她 拜访 受 扶助 的 当事人  和 他们 讨论 所 面临 的 情况 和 问题  并 努力 解决 最 大 的 困难  以便 有 些 家庭 成员 能 外出 工作 赚 钱 养家-our award goes to a woman who has been a tower of strength to all who are around her.as a government social worker , she helps the very poorest families try to get on their feet.she visits the homes of her clients , discusses their situation and problems , and works to resolve the worst problems , so that some of the family members can begin to work outside the home to support the family .-0.318
+51738-在 准备 今晚 的 演说 时  我 想起 了 一 位 在 我 所 认识 的 人 之 中表 出 最 杰出  同时 也 是 这里 最 成功 的 销售员  我们 之中 只有 从事 这 一 行 很 久 的 人才 会 记得 约翰逊·史密斯 先生  我 认为 此 人 之所以 会 成功  要 归因于 一些 重要 观念 : 首先  史密斯 先生 的 毅力 相当 惊人  他 会 全方位 地 开展 工作  他 会 努力 地 全面 了解 买主 的 需求 并 提供 他们 最 合意 的 货品  他 对 客户 个别 的 关怀 和 照顾 使 客户们 了解 到  他 所 关切 的 是 客户 的 福利 与 满意  而 非 仅 是 做 买卖 而已-in preparing my remarks for tonight , i began to reflect on one of the finest people i &apos;ve ever know and one of the most successful salesman ever to work here.only the ones of us who have been around for a long time will remember mr. johnson smith . i think this man &apos;s remarkable success can be attributed to some important ideas.first , mr. smith &apos;s perseverance was amazing.he would work all the angles , he would strive to understand the buyer &apos;s needs in great detail and offer them exactly what they were seeking his personal attention and interest showed that this concern was for their welfare and satisfaction , not just making a sale .-0.317
+332-请 往 这 边 走-this way , please .-0.316
+852-请 往 这 边 来-this way , please .-0.316
+1225-请 您 看看 这 份 价目表  然后 再 告诉 我 您 要 什么 好 吗-would you refer to this price list , please ? and then give me your order .-0.316
+1276-请 看 一下 这 张 价格表  然后 您 再 告诉 我 您 要 什么-please refer to this price list and give me your order .-0.316
+1875-请 填好 这 张 表  签 个 名字-please fill out this form and sign in .-0.316
+5105-请 您 把 这 只 箱子 打开 检查 一下 好 吗-would you please open this suitcase for examination ?-0.316
+5321-请 把 这 张 表 填上-now will you please fill this form out ?-0.316
+5689-请 问 我 这 是 在 哪里-where am i ?-0.316
+5908-请 走到 这 条 街 尾-please go to the end of this street .-0.316
+5976-请 您 在 这 张 纸上 给 我 画 个 路线图 好 吗-would you mind drawing me a little map on this piece of paper ?-0.316
+6930-太太  请 问 这 是 到 纽约 火车站 的 地铁 吗-excuse me , ma &apos;am . is this the right subway to go to new york railway station ?-0.316
+7252-请 您 填好 这 张 卡片-will you please fill out this card ?-0.316
+7319-请 这 边 走  这里 行吗  女士们  先生们-this way , please . will this do , ladies and gentlemen-0.316
+7347-请 这 边 走 好 吗-would you like to come this way ?-0.316
+7863-请 解释 一下 这 项 是 什么-would you please explain this entry to me ?-0.316
+7987-请 在 这 签名 好 吗-could you sign your name , please ?-0.316
+8099-请 在 这 张 餐券 上 签名  好 吗-could you sign the voucher here , please ?-0.316
+8889-这 边 请-this way , please .-0.316
+8970-你们 总共 有 几 位-how many people are there in your party ?-0.316
+9048-这 边 请-this way , please .-0.316
+9200-这 边 请-this way please .-0.316
+9284-请 从 这 边 走-would you please come this way ?-0.316
+9300-这 边 请-come this way , please .-0.316
+12680-这 位 是 爱丽丝·维克伯特-here is alice wickbert .-0.316
+12683-请 往 这 边 走  把 外套 交给 我 好 吗-this way , please . may i have your coat ?-0.316
+18602-这 请 你 放心-you bet .-0.316
+21374-请 看 这 块 阶石-look at this ramp .-0.316
+22781-请 往 这 边 走-come this way , please .-0.316
+23206-请 到 这 边 来-step this way , please .-0.316
+23372-请 看 这 块 香皂  是 “ 力士 ” 牌 的  具有 柔和 的 肌肤 调理剂  很 受 青年人 的 喜欢-look at this piece , please . it is &quot; lux &quot; brand with gentle skin conditioners . it is popular with young people .-0.316
+23620-请 把 这 张 单子 填写 一下-please fill in this form .-0.316
+24098-这 边 请-this way , please !-0.316
+24272-请 到 这 边 来  好 吗-will you just step this way , please ?-0.316
+24306-请 到 这 边 来-step this way , please .-0.316
+24660-请 到 这 边 来-would you come over here , please .-0.316
+24718-请 您 在 这 张 纸条 上 写下 您 的 姓名 和 地址 好 吗-can you write down your name and address on this slip ?-0.316
+24915-从 这 边走  我 拿 些 存货 给 您 看-if you come this way , i &apos;ll show you some of our stock .-0.316
+25014-请 等 一下  这 只 包 也许 是 你 的 吧-just a moment , please . is this handbag yours , by any chance ?-0.316
+25259-有的  请 到 这 边 来-yes , we do . please come over here .-0.316
+25703-请 你 到 这 边 陈列柜 看看 好 吗-will you kindly step over here to this showcase ?-0.316
+26378-请 把 这 条 短 裙 改 一 改 可以 吗-could i have this skirt altered , please ?-0.316
+26401-请 你 用 这 块 厚 呢子 给 我 做 件 大 衣 好 吗-would you make me an overcoat out of this heavy woolen cloth ?-0.316
+26533-请 在 这 份 兑换单 上 签字  行吗-please sign your name on this memo , will you ?-0.316
+26663-请 你 填好 这 张 取款单-please fill out this savings withdrawal form .-0.316
+26691-请 把 这 张 汇票 兑换 一下-can i have this money order cashed , please ?-0.316
+26725-请 先 把 这 张 单子 填上-please fill in this slip first .-0.316
+26744-请 您 填写 这 份 表格  好 吗-would you please fill in this from ?-0.316
+26785-请 填好 这 份 表格-please fill out this form .-0.316
+26834-请 填写 这 张 登记卡-could you please fill out this card , please ?-0.316
+26846-请 在 这 下面 签名  其他 的 由 我 来 填-please sign at the bottom . i &apos;ll fill out the rest for you .-0.316
+26931-请 在 这 份 表格 上 签字 好 吗-would you sign this register ?-0.316
+26992-请 你 填写 这 张 登记卡 好 吗-would you fill out this registration card ?-0.316
+27020-请 填好 这 张 表格-please fill out this from .-0.316
+28603-请 填 一下 这 张 洗衣 表 好 吗-could you fill out the laundry form ?-0.316
+30002-请 你们 填 这 张 表 好 吗-would you please fill out this form ?-0.316
+32329-请 到 我们 这 间 戏院 订票  早上 十一点半 至 晚上 六点半 在 预售处 预售-please come and get tickets for reserved seats at this theater . tickets are sold at the advance sales window between 11 : 30 in the morning and 6 : 30 in the evening .-0.316
+32940-这 位 是 李康-here is kang li .-0.316
+33297-请 这 儿 坐  好 吗-will you sit here , please ?-0.316
+33509-请 问 发 这 封 礼仪 电报 到 英国 多少 钱-how much is this greeting telegram to the uk , please ?-0.316
+33516-请 填 一下 这 份 电报表-please fill in this form .-0.316
+33551-请 填 写好 这 张 表格-please fill in this form .-0.316
+33635-请 你 填写 这 份 关税 申报单 好 吗-will you fill out this customs declaration form ?-0.316
+33643-请 问 这 封 快信 的 附加费 是 多少 钱-what &apos;s the surcharge on this express letter , please ?-0.316
+33666-请 问 这 包裹 寄 法国 要 多少 钱-could you tell me how much this parcel to france is ?-0.316
+33710-请 填好 这 张 表格-please fill out this form .-0.316
+33762-请 先 填 这 份 表格-fill out this application form first .-0.316
+34039-请 把 这 行李 搬到 美国 航空 的 登记 柜台-this is going to the american air check-in counter .-0.316
+34042-请 你 把 这 张 支票 换成 美金-can you change this into dollars , please ?-0.316
+35186-请 你 代发 这 份 电报 好 吗-will you please send out this telegram ?-0.316
+35446-请 填写 这 份 表格-please fill out this form .-0.316
+36686-请 把 这 件 行李 放进 汽车 行李箱 .-can you please put this suitcase in the trunk ?-0.316
+38223-请 填 一下 这 张 表-please fill out this form .-0.316
+38224-请 在 这 一 行上 填上 你 的 预期 停留 时间-please fill in your intended length of stay on this line .-0.316
+38317-请 填入 这 张 表内-please fill in this form .-0.316
+38390-请 填好 这 张 表格-please fill in this form .-0.316
+38608-请 问 离 这 最 近 的 加油站 在 哪-please tell me where &apos;s the nearest gas station ?-0.316
+39064-请 把 这 张 申请表 填好-please fill in this application form .-0.316
+39438-这 次 我 请 你-it &apos;s my time to treat you .-0.316
+39489-请 在 这 张 餐券 上 签名  好 吗-could you sign the voucher here , please ?-0.316
+39574-请 往 这 边 来-come this way , please .-0.316
+39869-先生  请 往 这 边 走-would you care to step this way , gentleman ?-0.316
+40107-请 在 这 边 签名  好 吗-could you sign here , please ?-0.316
+40127-先生  总共 有 几 位-how many persons are there in your party , sir ?-0.316
+40237-请 这 边 来  我 领 您 去 预定 的 桌子-if you &apos;ll come this way , i &apos;ll show you to your table .-0.316
+40287-请 这 边 走 好 吗-would you step this way , please .-0.316
+40301-请 走 这 边 好 吗-would you step this way , please ?-0.316
+40317-这 边 请-please step this way .-0.316
+45051-这 两 位 总统 候选人 旗鼓相当-the two candidates were neck and neck in the presidential race .-0.316
+49170-请 填妥 这 应征 表格  并 连同 所 需 文件 于 星期四 前 交来  我们 的 地址 在 第一 页 的 上方-please fill this application form out and return it to us with the necessary documents by thursday . our address is at the top of the first page .-0.316
+49494-请 您 这 边 走-would you come this way please ?-0.316
+52022-请 往 这 边 走-this way , please .-0.316
+52031-请 填好 这 份 表格-fill our the form , please .-0.316
+5851-这 是 帐单  请 到 收银台 付款-here is your bill . please pay the cashier .-0.315
+8411-请 问 先生 请 几 位 客人-how many people will you invite ?-0.315
+8877-我 带 您 入坐  这 边 请-i &apos;ll show you to your table . this way , please .-0.315
+9275-我 带 您 入座  这 边 请-i &apos;ll show you to your table . this way , please .-0.315
+12999-我 带 您 入座  这 边 请-i &apos;ll show you to your table . this way , please .-0.315
+37132-请 问 4 号 车厢 在 哪里-may i know where the car number four is ?-0.315
+41233-这 就 是  请 到 柜台 付账-here you are , please pay the bill at the cashier &apos;s desk .-0.315
+9190-先生  现在 有 位子 了  这 边 请-we have a table for you now , sir . this way , please .-0.314
+10052-这 是 300 元  零 钱 请 你 留下-here &apos;s three hundred yuan . please keep the change .-0.314
+10941-请 问 哪 两 位 是 吃素 的-who are the vegetarians , please ?-0.314
+10942-是 这 位 女士 和 那位 先生  谢谢-they &apos;re this lady and that gentleman , thank you .-0.314
+13866-也 包括 你 这 位 前 世界 冠军-including you , the former world champion .-0.314
+25654-这 是 您 的 帐单  请 去 收银台 付款-here is your bill . please pay at the cashier &apos;s desk .-0.314
+25655-这 是 发票 和 保修单  请 保管 好-here are the invoice and guarantee . please keep them carefully .-0.314
+26667-这 是 港币 现金  请 检查 清楚 再 离开-here is the cash in hong kong dollars . please check them before you leave .-0.314
+28827-这 是 您 的 帐单  请 核对 一下-here is your hill . please check it .-0.314
+31191-这 是 租约  请 在 这儿 和 这儿 签字-here is your lease.please sing here and here .-0.314
+42900-接着 这 8 位 选手 为 奖牌 而 战-all eight then compete in the medal round .-0.314
+49792-埃伦·安德森  这 位 是 杰克·麦克尼尔  市场部 的 经理-ellen anderson , this is jack mcneil , director of the marketing department .-0.314
+4938-这 是 我 送给 家乡 一 位 亲戚 的 礼物-it is a gift for my relative in my hometown .-0.313
+8966-这 是 菜单  我 几 分钟 后 回来 请 您 点菜-here are the menus . i &apos;ll come back in a few minutes and take your order .-0.313
+9226-这 是 大 衣架  请 把 衣服 挂 在 这儿-this is the coat rack , you can leave your coats here .-0.313
+10415-您 的 桌子 已经 安排 好 了  这 边 请-your tables are ready , this way please .-0.313
+13536-盗贼 潜进 这 位 体操 运动员 同父母 共 住 的 房子-the thief broke into the house the gymnast shares with her parents .-0.313
+18039-大卫  我 给 你 介绍 一下 我 的 这 位 朋友-david , i &apos;d like you to meet a friend of mine .-0.313
+18127-我 是 LeoBurns  这 两 位 是 BobO'Connor 和 GordonWeaver .-this is bob o &apos;connor , and this is gordon weaver .-0.313
+27113-谢谢 你  这 是 你 的 护照  请 填写 酒店 登记表-thank you . here is your passport and please fill in this hotel registration form .-0.313
+28715-李 女士  这 是 您 的 账单  请 在 收银台 付账-you bill is ready , ms. li . would you step over to the cashier to pay ?-0.313
+30519-请 转告 他 有 位 布莱克 先生 打 过 电话 来-just tell him there was a call from mr. black .-0.313
+34784-请 那 位 先生 往 旁边 站站  他 挡住 通道 了-ask that gentleman to step aside , he is blocking the aisle .-0.313
+40341-我 不 喜欢 这 张 桌子  请 另外 找 一 张-i don &apos;t care for this table . show me another , please .-0.313
+44268-我 想 试试 冲浪  可以 请 一 位 指导 老师 吗-i &apos;d like to try doing some wind surfing . can i ask for an instructor ?-0.313
+48031-这 两 位 小姐 都 是 这个 职位 的 候选人-the two young ladies are candidates for the position .-0.313
+49642-总裁 先生  这 位 是 我 的 助手 达夫 先生-mr. president , this is my assistant , mr. duff .-0.313
+49785-李 先生  这 位 是 保罗·史密斯  国际 商务 公司 的 代且-mr. lee , this is paul smith , a representative of the international business company .-0.313
+15043-这 是 你 应 得 的  现在  我 要 请 你 吃 顿 庆功宴-you deserve it . now i &apos;ll buy you a victory lunch .-0.312
+19502-我们 这 次 采用 公开 开标  到时候 请 投标人 参加  监视 开标-yes , tender-opening is done publicly this time , all the bidders shall be invited to join us to supervise the opening .-0.312
+19688-这 是 我们 是 新 的 商品 目录 及 样品  请 看 一下 吧-here is our latest catalogue and samples . please have a look .-0.312
+19801-对  我 是 上月 在 华盛顿 特区 见到 这 位 王 先生 的-right . i met this mr. wang last month in washington , d.c.-0.312
+20024-我们 想 趁 这 次 机会 请 你们 尝 一 尝 北京 烤鸭-we think you &apos;d like to taste some beijing duck while you &apos;re in beijing .-0.312
+20433-对 不 起  打扰 一下  请 问 这个 办公室 有 位 泰勒 先生 吗-well , sorry to interrupt , but is there a mr. taylor in this office ?-0.312
+21919-服务员  请 问 我 可以 同 那 位 女士 照张 合影 吗-waiter , could i have a picture taken with that young lady .-0.312
+24758-这 是 地址  请 寄到 这个 地址  给 你 钱  400 元-this is the address . please mail it to this address and this is the money , 400 yuan .-0.312
+25348-这 是 日本 一 位 著名 的 画家 一 个 世纪 前 画 的-it was painted by a famous japanese painter a century ago .-0.312
+25602-谢谢 您  这 是 您 的 护照  兑换 证书 和 美元  请 点 一下-thank you . here is your passport , memo and american money . please double-check them .-0.312
+25822-这 是 找 给 您 的 钱  请 检查 一下  看 是否 对-here is your change . please check if it &apos;s correct .-0.312
+26571-这 是 钱 和 兑换单  请 保留 兑换单  以后 会 有用 的-here are your money and exchange memo.please keep the memo . it may come in handy later on .-0.312
+33800-这 是 找 你 的 钱  请 等 一下  还 有 挂号 信 回执-here is your change . please wait for your receipt of the registered mail .-0.312
+34249-我 不 能 错过 这 班 飞机  请 让 我 和 经理 谈谈-i can &apos;t miss this flight . let me talk to the manager , please .-0.312
+34276-好 了  这 是 你 的 登机证  请 去 6 号 登机口-ok , there is your boarding pass , gate 6 please .-0.312
+34988-这 次 列车 经过 4 个 省  河北  山东  安徽 和 江苏-the train passes through four provinces , namely , hebei , shandong , anhui and jiangsu .-0.312
+35050-这 次 列车 经过 4 个 省  江苏  浙江  江西 和 福建-the train passes through four provinces , namely jiangsu , zhejiang , jiangxi and fijian .-0.312
+35089-这 次 列车 经过 4 个 省  江苏  安徽  河南 和 陕西-the train passes through four provinces , they are jiangsu , anhui , henan and shanxi .-0.312
+36144-这 场 事故 是 由于 一 位 司机 想要 抢道 而 引起 的-the accident was caused by the driver who tried to cut in .-0.312
+40846-这 把 勺 不 太 干净  请 给 我 换 一 把-this spoon was not properly cleaned . bring another one , please .-0.312
+43217-连击 的 意思 就 是 这 颗 球 在 同队 里 连打 4 次-overtime is when one team touches the ball four times .-0.312
+44963-如 检验 呈 阴性 反应  这 位 运动员 就 是 ” 清白 的 ”-if the test is negative , the athlete is &quot; clean &quot; .-0.312
+49484-抱歉 让 您 久 等 了  请 问 您 找 哪 一 位-i &apos;m sorry to have kept you waiting , is there anyone in particular you would like to see ?-0.312
+51075-从 现在 起 到 年底 请 您们 给 我们 提供 一 位 总机 接线员-we would like you to provide us with a switchboard operator from now until the end of the year .-0.312
+51384-我 从 没 求 过 你 什么  所以 这 次 请 你 帮帮 我-i &apos;ve never asked you anything before , so please .-0.312
+408-如果 有 人 持 这 张 票 去 坐 你 的 座位  请 告诉 我们-please inform us if there is anyone who is going to take your place with the ticket .-0.311
+1359-他 想 这 位 年轻人 就 是 他们 要 接 的 杜威 先生  因此 就 朝 他 走去-he believes that the young man is mr. dewey , the man they are supposed to meet , so he walks up to him .-0.311
+4157-好 的  现在 是 上午 10:30  请 您 于 4 月 17 日 上午 10:30 前 把 车 还 回-all right . it &apos;s 10 : 30 a.m. now , so you &apos;re supposed to return the car by 10 : 30 on april 17th .-0.311
+7303-是 的  这 位 女士 要 一 杯 曼哈顿 酒  我 要 一 杯 马丁尼-yes , i think so . this lady will have a manhattan and i &apos;ll have a martini .-0.311
+9055-这 是 菜单  请 先 看看 菜单  决定 点 什么 菜  我 去 安排 一 个 服务员 过来-here &apos;s the menu . you may look at the menu first and decide what you like to have . i &apos;m going to have one waitress to serve you .-0.311
+13068-哇  跟 你 这 位 有钱 的 绅士 一 道 吃饭 真 是 太 好 了-my , it &apos;s nice to lunch with such a prosperous gentleman .-0.311
+15161-詹妮弗·卡普里亚蒂 这 位 网坛 新秀  在 美国 网球 公开赛 开 的 第一 场 球 就 输 了-jennifer capriati , the new tennis star , lost in the opening set at us open .-0.311
+18849-根据 这 项 合同  要 为 机器 总共 支付 254300 美元  同 李 先生 最初 的 出价 非常 接近-according to the contract , the total payment for the machines is $ 254,300 , very close to mr. li &apos;s original bid .-0.311
+18882-如果 你 同意 这 点 的话  能否 请 你 在 协议 中 作出 相应 修改-if you agree to this , would you please revise the agreement accordingly ?-0.311
+19023-假如 油 确实 找到 了  这 位 外国 投资者 就 有 优先权 来 开发 这个 油田-if oil is found , the foreign investor will be given priority in the actual exploitation of the oil field .-0.311
+20465-我 这 就 向 他 通报 您 到 了  请 先 坐 一下  稍候  他 马上 就 来-if you care to take a seat , he &apos;ll be with you soon .-0.311
+21060-大家 请 注意  参观 时间 为 4 小时  我们 5:30 在 剧场 集合  可以 吗-attention , please . the time of sightseeing is 4 hours . we will meet at the theatre at 5 : 30 . is that ok ?-0.311
+26759-这 是 您 的 支票簿 和 存款 薄  请 您 在 存款 薄 上 填好 您 存钱 的 数额-here are your cheque-book and paying-in book , please fill the amount of your deposit in the paying-in book .-0.311
+28951-这 是 你 的 帐单  3 个 晚上 的 费用 加上 餐费  总共 是 1100 元  对 吗-here is your bill . the rate for 3 nights and the meals are 1100 yuan altogether . is that right ?-0.311
+37314-这 只 箱子 应 放 在 行李架 上  请 你 帮 我 递 一下 好 吗-this suitcase should go on the rack . could you give me a hand ?-0.311
+39646-我 想 厨房 应该 会 做 这 道 菜  我 去 问问 他  请 等 一下-i think the chef should be able to make this . i &apos;ll check with him . just a minute , please .-0.311
+40703-我 想 厨师 应该 会 做 这 道 菜  我 问问 他 看  请 等 一下-i think the chef should be able to make this . i &apos;ll check with him . just a moment , please .-0.311
+45164-这 也 是 理所当然 的  因为 他们 今年 有 两 位 铅球 运动员 投过 了 21 米 大关-as they should , because they have two shot putters over the 21 meter mark this year-0.311
+50759-我们 希望 下 次 您 需要 这 种 协助 时  请 再 打 电话 给 我们-we hope the next time you need this kind of assistance , you will call us again .-0.311
+51306-除 对 这 项 产品 予以 报盘 外  请 再 寄 其他 产品 的 货样-apart from offering this item , please send us samples of other products .-0.311
+52402-这 是 说  征求 第四 位 女子 合住 汉普斯特德 独 套 公寓  晚上 电话 联系-this means that a fourth girl is required to share a self-contained flat in hampstead , and that enquires should be made by telephone in the evenings .-0.311
+2159-这 次 航班 恐怕 已 订 满 了  但 我 可以 查看 一下 有 没 有 取消 预订 的  请 您 稍等 一下-i &apos;m afraid that flight is fully booked . but i &apos;ll just check to see if there have been any cancellations . just a moment , please .-0.31
+20956-我 曾经 在 周末 做些 公司 促销 活动 的 推销 ； 这 一 年 来  我 一直 在 当 五 位 中学生 的 家教  给 他们 辅导 英语-on weekends i served some companies as a salesperson in their sales promoting campaign , and i &apos;ve been the tutor of five middle school students to help them with their english in the past one year .-0.31
+22191-据 我 所 知  这 乐队 主要 是 由 我们 学校 的 学生 组成 的  不过  乐队 指挥 是 一 位 职业 音乐家-the band , as i know , is mostly made up of students of our school , but the conductor is a professional musician .-0.31
+25598-这 是 两 张 500 元 的 支票  我 想 足够 买 这 块 地毯 的  多余 的 请 给 我 换成 美元-here are two 500-yuan checks . i think it &apos;s enough to pay for the rug and i &apos;d like to change the rest into american dollars .-0.31
+27659-好 的  这 是 三明治  这 是 咖啡  三明治 3 美元  咖啡 2 美元  共 5 美元  服务费 10%  总共 加 起来 是 5.5 美元-yes , sir here ate your sandwiches and your coffee . the sandwiches are 3 dollars and the coffee is 2 dollars . that comes to 5 dollars .-0.31
+44093-要 说 发球  截击 空中球  反手 和 正手 击落 地球  高压球  挑 高球  超身球 等 基本 技术  她 是 这 位 运动员 中 最 好 的-when it comes to such basic skills as serving , volleying , backhand and forehand ground strokes , the smash , the lob and passing shots , she is the best among the four players .-0.31
+45073-8 月 15 日  这 位 弗吉尼亚 大学 三 年级 后卫 是 入选 美国 世界 大学生 运动会 篮球队 赴 中国 北京 参赛 的 12 名 幸运儿 之一-on aug . 15 , virginia &apos;s junior guard earned one of 12 coveted spots on the usa basketball world university games team and was preparing to travel to beijing , china , to begin competition .-0.31
+45082-当 你 得知 他 那 身高 6 英尺 10 的 父亲 是 位 篮球 运动员  身高 6 英尺 4 的 母亲 是 前 中国 国家队 队长 时  那 就 不 怎么 令 人 吃惊 了-that &apos;s less surprising when you learn that the father , 6-10 , was a basketball player and the mother , 6-4 , a former captain of the chinese national team .-0.31
+45345-实际上  对 这 位 来自 哈尔滨 的 25 岁 姑娘 来说  四 年 前 她 就 本 可能 拿到 一 块 金牌  当时 在 上 届 长野 奥运会 上 她 与 金牌 失之交臂-in fact , a gold medal would be four years overdue for the 25-year-old from harbin , which is bidding for the 2010 winter olympics , as she all but triumphed at the last games in nagano .-0.31
+46466-这 一 来  他 成 了 自 1886 年 以来 首 位 在 全 国 锦标赛 上 同时 获 跳远 以及 两 项 短跑 冠军 的 美国 运动员-in doing so , he became the first united states &apos; athlete since 1886 to win the long sump and both sprints at a national championship meet .-0.31
+46530-这 八 位 保持 着 各 项 记录 的 短跑 好手 中  仅 有 三 人 能 入围 奥运会 的 100 为 比赛-only three of these eight record-holding sprinters would qualify for the olympic 100 .-0.31
+49595-既然 这个 术语 对 这 次 讨论 蛮 重要 的  可否 请 您 在 我 翻译 您 的话 以前  先 说明 一下 它 的 意思-since it seems important to this discussion , could you explain what it means before i translate what you said ?-0.31
+46222-当然  这 并不 意味 着 美国队 是 最 好 的 队  在 随后 的 一 场 比赛 中 他们 输给 了 智利队  智利队 又 输给 了 西班牙队  西班牙队 最终 取得 第 4 名  乌拉圭队 夺得 冠军-this , of course , did not mean that the u.s. team was the best in the world . the united states lost to chile in its next game . then the chilean team lost to spain , and spain finished fourth in the final result . uruguay won the cup .-0.309
+51761-我们 都 为 乔治·史蒂文森 最 近 的 去世 而 悲伤  在 今天 的 聚会 中  我 要 花 些 时间 来 追忆 一下 这 位 了不起 的 人 和 他 对 本 组织 及 我们 整个 社会 的 贡献-we are all saddened by the recent passing of george stephenson.at tonight &apos;s meeting , i want to take time out to remember this great man and his contributions to this organization and to our entire society .-0.309
+51780-要 日复一日 地 访视 社会 上 最 穷苦  最 受 忽视 的 人  她 所 面对 的 并不 是 容易 的 工作  但是 这 位 了不起 的 女性 不但 做到 了  还 做 的 更 多-it &apos;s a difficult job to face , day after day , visiting the poorest , most neglected people in our society.but this remarkable woman does this and more .-0.309
+52401-如果 你 想 合租 一 套 公寓  请 在 晚报 “ 公寓 出租 ” 专栏 上 找 这样 的 广告  如 : 第四 位 女子  合住 汉普斯特德 独 套 公寓  电话 : 01 — 1342343 晚上-if you want to share a flat , look in the ‘ flats to let &apos; column of an evening paper for advertisements like : 4th girl shr.s / c h &apos;stead flt.01-134 2343 evenings .-0.309
+2782-这 站 过 了 还 有 4 站-it &apos;s four stops after this one .-0.308
+5855-这 是 你 买 的 东西  收据 请 拿好-here is your purchase . please keep your receipt .-0.308
+6468-请 问  哪 一 节 是 4 号 车厢-could you tell me which is coach no. 4 ?-0.308
+6470-这 是 4 号 车厢 吗-is this coach no. 4 ?-0.308
+6477-女士们  先生们  这 就 是 火车站 了  请 排好队-ladies and gentlemen , this is the railway station . please be in a line .-0.308
+8282-请 问 你们 有 几 位-how many are in your party , please ?-0.308
+8350-格雷戈里 夫人  请 问 一共 几 位 呀-ms. gregory . how many of you may we expect in your party ?-0.308
+8391-请 问 几 位 呀-for how many guests , please ?-0.308
+8409-我 准备 请 几 个 香港 朋友 吃饭  你 能 帮 我 留 个 位 吗-i &apos;m inviting some of my hong kong friends for a dinner . can you reserve a table for us ?-0.308
+8589-请 问 你们 有 几 位-how many in your party ?-0.308
+8629-请 问 有 几 位-for how many people , please ?-0.308
+8701-请 问 您 有 几 位-how many people are there in you party ?-0.308
+8802-请 问 你们 有 几 位-how many are in your party ?-0.308
+8873-请 问 有 几 位-how many persons , please .-0.308
+8951-请 问 您 一共 几 位-how many are there in your party , sir ?-0.308
+8960-女士们  先生们  这 边 请-this way , ladies and gentlemen .-0.308
+8979-请 给 我们 一 张 桌 位  好 吗-may we have a table , please ?-0.308
+9035-那么 请 问 几 位-so how many guests are there in your party-0.308
+9037-好 的  这 边 请-certainly .-0.308
+9092-请 问 几 位-how many persons do you have , please ?-0.308
+9129-请 问 几 位-how many of you , please ?-0.308
+9174-请 问 有 几 位-how many persons , please ?-0.308
+9254-请 问 有 几 位-how many persons , please ?-0.308
+9331-请 问 您 一共 几 位-how many of you , please ?-0.308
+10443-请 问 几 位-how many persons are you , please ?-0.308
+10482-有  先生  这 边 请-yes , sir . this way , please .-0.308
+10966-晚安  请 问 几 位-good evening . how many ?-0.308
+11269-请 问 你们 几 位-how many are there of you ?-0.308
+11534-请 问 一共 有 几 位-how many persons , please ?-0.308
+11771-请 问 一共 有 几 位-how many people are there in your party ?-0.308
+11869-请 问  您 几 位-how many , please ?-0.308
+11955-史密斯 先生  这 是 主人 位-this is the host seat , mr. smith .-0.308
+12476-请 问 有 几 位-how many people are there in your party ?-0.308
+12496-请 问 有 几 位-for how many persons , please ?-0.308
+13247-请 问 你们 一共 几 位-how many are there in your party ?-0.308
+13321-请 问 开 几 位 茶-how many teas would you care to have ?-0.308
+13322-请 开 两 位-just two , please .-0.308
+13537-这 位 体操 运动员 叫 什么 名字-what &apos;s the name of the gymnast ?-0.308
+17466-请 问 您 是 哪 位-whom shall i say is calling ?-0.308
+17665-请 问 您 是 哪 一 位 呀-may i ask who &apos;s calling ?-0.308
+17732-请 问 你 是 哪 一 位-who &apos;s speaking , please ?-0.308
+18497-这 次 请 您 来 想 谈谈 长臂 采 煤机 的 进口 问题-the purpose of inviting you to come here is to discuss the purchase of some long wall coal cutters .-0.308
+22539-这 位 钢琴 演奏者 棒 极 了-yes.the pianist was marvelous .-0.308
+24427-这 是 给 一 位 朋友 的-it &apos;s a gift for a friend .-0.308
+27438-请 问 您 是 哪 一 位-may i know who &apos;s calling , please ?-0.308
+27566-这 是 您 的 房间  1015 号  您 先 请-here &apos;s your room 1015 . after you .-0.308
+30234-请 问 您 是 哪 位-may i ask who &apos;s calling ?-0.308
+30355-请 问 你 是 那 一 位-who &apos;s calling please ?-0.308
+30398-请 问 您 哪 位-who is speaking , please ?-0.308
+30500-请 问 你 是 哪 位-may i ask who &apos;s calling ?-0.308
+30567-请 问 你 是 哪 一 位-who is calling , please ?-0.308
+31092-请 问 您 是 哪 位-may i ask who &apos;s calling ?-0.308
+31363-听到 这 事 我 很 难过  我 马上 派人 去 请 医生-i &apos;m sorry to hear that . i &apos;ll send for a doctor .-0.308
+32805-喂  请 问 是 哪 一 位 啊-hello , who is speaking , please ?-0.308
+34961-这 次 列车 经过 4 个 省-the train passes through four provinces .-0.308
+38391-这 是 一 张 海关 申报表  请 填写-here is a customs baggage declaration form for you to fill in .-0.308
+39629-请 问 你们 一共 几 位-how many people are there in your party ?-0.308
+39631-请 问 要 开几 位 茶-how many teas would you like to order ?-0.308
+39938-请 问 你们 有 几 位-for how many people , please ?-0.308
+39939-请 给 我们 安排 张尽量 靠近 窗户 的 桌 位-put us as close as possible to the window , please .-0.308
+39987-请 问 有 几 位-for how many persons , please ?-0.308
+39988-请 问 有 几 位-how many people are there in your party ?-0.308
+39989-请 问 有 几 位-how many of you may we expect in you party ?-0.308
+40051-请 给 我们 靠窗 的 桌 位-we &apos;d like a table near the window , please .-0.308
+40073-这 道 菜 很 烫  请 小心-this dish is very hot . please be careful .-0.308
+40259-请 问 有 几 位-how many persons , please ?-0.308
+40884-请 问 有 几 位 客人-for how many guests , please ?-0.308
+42719-这 位 两 度 参加 奥运会 的 体操 好手 参加 星期二 决赛 的 可能性 只有 10%-the two-time olympian has only a 10 % chance of competing in tuesday &apos;s finals .-0.308
+43148-这 位 排球 运动员 在 发球  传球  二 传  扣球 和 拦网 方面 都 很 优秀-this volleyball player is excellent at serving , passing , setting , spiking , and blocking .-0.308
+43360-这 位 左锋 的 长传 和 肩上 投篮 能力 都 差-the left forward is weak in long passes and shoulder shot .-0.308
+43502-这 位 左锋 是 个 神 投手-the left forward is a sharpshooter .-0.308
+43589-这 位 裁判 很 受 大众 欢迎-this referee is very popular with the masses .-0.308
+44610-这 位 18 岁 的 小将 是 左后卫  所以 整场 比赛 她 的 队友 依靠 她 来 对付 对方 的 全 场 紧逼  依靠 她 得 球  进而 组织 反攻  决定 何时 向前 挺进-that 18 year old played left fullback , so her teammates relied on her throughout the game to defend against pressure , win the ball , restart the attack and know when to go forward .-0.308
+45488-这 位 世界 冠军 在 抓举 中 举起 了 162.5 公斤  然后 在 稳 拿 金牌 的 情况 下 又 在 挺举 中 举起 了 195 公斤  创下 了 合计 357.5 公斤 的 新 记录-the world champion hoisted 162.5 kilograms in the snatch , then with gold already his , lifted a record 195 kg in the clean and-jerk , setting a new combined mark of 357.5kg.-0.308
+46278-这 位 美国 运动员 在 空中 飞 了 29 英尺 2.5 英寸  超过 旧 的 世界 纪录 2 英尺-the united states &apos; jumper had sailed 29 feet , 2.5 inches , almost 2 feet beyond the old world record !-0.308
+46286-这 位 毕业于 俄亥俄州立 大学 的 “ 俄亥俄 子弹 ” 曾 是 美国 历史 上 最 耀眼 的 田径 明星-the buckeye bullet from ohio state university had been the greatest track and field star in united states &apos; history .-0.308
+47828-预报 说 这 种 天气 至少 还 要 持续 4 天-the weatherman says it &apos;ll last for four more days at least .-0.308
+49726-布朗 先生  这 位 是 希拉里·史密斯-mr. brown , this is hilary smith .-0.308
+51402-请 问 找 哪 一 位-may i help you ?-0.308
+51680-约翰·史密斯 先生 自幼 患 小儿麻痹症  行动 极为 不便  就算 拄 只 拐杖 也 一样  但是 这 并不 能 阻止 他 成立 并 经营 一 家 成功 的 电脑 软件 公司  其 公司 一 部分 成功 之 道 是 雇佣 几 位 “ 残疾 ” 员工  他们 是 构成 公司 研究 部门 的 骨干 ； 刘玛丽 小 因 一 场 车祸 导致 必须 坐 轮椅 而 被 拒绝 于 台湾 的 大学 教育 门外  然而 她 现在 已 在 加州 一 所 大学 的 研究生院 进修 工商 管理 硕士 的 课程 ； 罗伯特·大卫 先生 目前 任职于 某大 贸易 公司 作 秘书  上司们 对 其 办事 效率 和 勤勉 态度  都 有 深刻 的 印象-john smith had polio as a child and has great trouble moving around , even on crutches.but that didn &apos;t stop john from forming and managing a very successful computer software company.part of john &apos;s successful formula is using several &quot; disabled &quot; employees who form the backbone of his research and development section.mary liu , denied entrance to taiwan &apos;s university system because a car accident left her confined to a wheelchair , is presently in an honor &apos;s master &apos;s program at a large california graduate school , studying business management.robert david works as a secretary for a large trading company and greatly impressed his superiors with this efficiency and industriousness .-0.308
+51706-这个 计划 需要 每 一 个 人 的 帮助 —— 因为 它 在 告知 人们 本会 及 其 工作 宗旨 以及 为 其他 活动 筹款 上  都 极为 重要  而 筹备 这个 活动 还 有 许多 事 待 做 : 苏珊 琼丝 负责 赛跑 事宜  在 比赛 当天 可能 会 需要 多 达 15 人 来 协助 报到 及 人群  交通 的 控制 工作 ； 理奇 艾士登 则 在 当天 负责 服务台 的 人力 调配 工作  他 说 比赛 那 天 他 需要 1~2 人  同时 这 几 个 礼拜 他 还 需要 两 位 美工 来 帮 他 设计 服务台 的 外观 ； 我 则 负责 推广 工作  我 有 两千 份 传单  需要 贴 在 城内 各 处 大家 看到 的 地方-everyone is needed to help on this project-because of its importance in telling people about our society and the work we are trying to do , plus raising money for our other activities.and there is much tot be done to prepare for it.susan jones is in charge of the race itself and will need up to 15 people on race day to help with registration , and crowd and traffic control.rich ashton will man the information booth at the race and says he will need one or two people on the day of the race plus two people with artistic skills to help in him design the booth over the next few weeks . i am in charge of promotion and i have 2000 fliers that need to be posted around town where many people can see them .-0.308
+52176-请 问 你 是 哪 位-may i ask who i am talking to ?-0.308
+52177-请 问 您 是 哪 位-who &apos;s calling , please ?-0.308
+52178-请 问 您 是 哪 位-may i have your name , please ?-0.308
+52186-请 问 您 是 哪 位-who &apos;s speaking , please ?-0.308
+52187-请 问 您 是 哪 位-may i ask who &apos;s calling , please ?-0.308

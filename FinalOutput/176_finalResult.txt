@@ -1,0 +1,1217 @@
+你 什么 时候 回到 家 呢
+31174-你 打算 什么 时候 搬进 来 呢-when do you want to move in ?-0.662
+31247-你 什么 时候 要 搬进 来 呢-when do you want to move in ?-0.662
+20120-好 的  你 什么 时候 可以 开始 呢-good . when can you start ?-0.659
+27873-先生  你 希望 我 什么 时候 整理 房间 呢-when would you like me to do your room , sir ?-0.656
+30520-你 认为 我 什么 时候 再 打来 比较 方便 呢-what time would you suggest that i call him again ?-0.654
+27097-你 什么 时候 可以 给 我 换 普通 豪华 房 呢-when can you change me to a regular deluxe room ?-0.652
+27886-好 的  李 先生  明早 你 希望 我们 什么 时候 叫醒 你 呢-yes , mr.li , at what time would you like us to call you tomorrow morning ?-0.649
+29782-什么 时候 你 才 能 开始 工作 呢-when will you be able to start working again ?-0.638
+1486-什么 时候 到 这儿 呢-when will it arrive here ?-0.5
+3114-我 什么 时候 付 钱 呢-when can i pay for the ticket ?-0.5
+6988-你 什么 时候 乘 的 车-when did you take your trip there ?-0.5
+16155-你 什么 时候 比赛-when will you have a match ?-0.5
+17187-你 什么 时候 回来 的-when did you come back ?-0.5
+17856-您 什么 时候 要 报价单 呢-when do you want their quotations ?-0.5
+29994-什么 时候 呢-when ?-0.5
+30016-你 什么 时候 要-when do you want it ?-0.5
+31407-你 什么 时候 来 拿  先生-when will you come for it , sir ?-0.5
+33046-你 什么 时候 离开-when are you off ?-0.5
+34045-我 什么 时候 回来 好 呢-when should i be back ?-0.5
+36997-你 什么 时候 要 搭车-what time do you need the taxi ?-0.5
+40687-先生  什么 时候 上 沙拉 呢-when shall i bring your salad , sir ?-0.5
+43857-你 什么 时候 打 篮球-when do you play basketball ?-0.5
+43987-你 什么 时候 去 练 篮球-what time do you go to play basketball ?-0.5
+47138-你 什么 时候 回来-when will you be back ?-0.5
+48774-你 什么 时候 出生 的-when were you born , may i ask ?-0.5
+49448-什么 时候 能 回来 呢-when will he be available ?-0.5
+49658-我们 什么 时候 再 谈 呢-when can we discuss it again ?-0.5
+50585-你 什么 时候 方便-well , when will it be good for you ?-0.5
+8302-你 想 什么 时候 要 台  先生-what time would you like your table , sir ?-0.496
+18454-我 什么 时候 来 签 合同 呢-when shall i come to sign the contract ?-0.496
+19486-您 打算 什么 时候 开始 招标 呢-when do you intend to start the invitation to tender ?-0.496
+20315-你 什么 时候 开始 为 我们 工作-when can you start working for us ?-0.496
+20322-我 什么 时候 可以 开始 工作 呢-when can i start the work ?-0.496
+21136-你 对 什么 特别 有 兴趣 呢-what are you especially interested in seeing ?-0.496
+31554-你 什么 时候 从 深圳 回来 的-when did you get back from shenzhen ?-0.496
+43910-你 什么 时候 开始 练习 篮球 的-when did you begin to play basketball ?-0.496
+43976-你 什么 时候 开始 打 篮球 的-when did you begin to play basketball ?-0.496
+46912-您 要 什么 时候 上 茶点 呢-what time would you like refreshments served ?-0.496
+48057-你 什么 时候 养成 了 这个 习惯-when did you form this habit drinking tea ?-0.496
+120-你 知道 火车 什么 时候 到 纽约 吗-do you know when the train is due in new york ?-0.494
+19455-你们 估计 他 什么 时候 能 到 呢-when do you expect him ?-0.494
+20258-您 可以 在 什么 时候 开始 工作 呢-when can you start ?-0.494
+23021-你 从 什么 时候 开始 感到 这样 的-since when have you been feeling like this ?-0.494
+23192-你 看 我 什么 时候 来  八点钟 行吗-what time would you like me to come ? suppose i come at 8 .-0.494
+31569-今年  你 想到 什么 地方 过 暑假 呢-where do you like to go for your summer vacation this year ?-0.494
+31966-今年  你 想到 什么 地方 过 暑假 呢-where do you like to go for your summer vacation this year ?-0.494
+50603-我 什么 时候 可以 去 见 他 呢-when can i see him ?-0.494
+2781-你 能 告诉 我 什么 时候 到 那儿 吗-could you tell me when we get there ?-0.492
+8587-什么 时候 呢  先生-for when , sir ?-0.492
+8800-先生  订 什么 时候 的 呢-for when , sir ?-0.492
+9595-哦  你 什么 时候 在 什么 地方 丢 的-oh , when and where did you lose it ?-0.492
+11521-你 推荐 我们 点 什么 蔬菜 和 汤好 呢-what would you recommend ?-0.492
+13050-你 喜欢 什么 沙拉 呢-and what kind of salad do you like ?-0.492
+19267-你 对 什么 特别 感兴趣 呢-what are you particularly interested in ?-0.492
+21474-你 建议 我们 看些 什么 呢-what do you suggest we see ?-0.492
+21517-你 是 什么 时候 去 的-when did you go there ?-0.492
+24038-你 想要 什么 颜色 的 呢-what color do you have in mind ?-0.492
+24300-你 喜欢 什么 颜色 的 呢-what color do you like ?-0.492
+28189-您 需要 我们 什么 时候 把 您 唤醒 呢-at what time do you like us to wake you up ?-0.492
+29472-你 方便 的 时候 一定 来 我 家 做客-do come to our house when it &apos;s convenient for you .-0.492
+32201-你 认为 什么 时候 方便-when do you think is convenient for you ?-0.492
+32328-什么 地方 什么 时候 订票 呢-where and when can i reserve seats ?-0.492
+32441-你 想 什么 时候 来-what time would you like to come ?-0.492
+37243-你 知道 什么 时候 下车 吗-do you know when we should get off ?-0.492
+41384-你 推荐 的 是 什么 呢-what would you recommend ?-0.492
+42365-你 想 吃 什么 呢-what are you going to have ?-0.492
+47156-你 觉得 什么 时候 可能-when do you think it &apos;s possible ?-0.492
+47425-你 在 读 什么 呢-what &apos;re you reading now ?-0.492
+47492-你 什么 时候 去 参加 你 岳母 的 葬礼-when are you going to attend your mother-in-law &apos;s funeral ?-0.492
+48662-你 有 什么 建议 呢-and about do you suggest ?-0.492
+50435-你 有 什么 建议 呢-what do you suggest ?-0.492
+50559-你 什么 时候 可以 在 我们 公司 开始 上班-when could you start work here ?-0.492
+51394-你 担心 什么 呢-what are you worried about ?-0.492
+33840-你 能 告诉 我 电报 什么 时候 能 到 吗-could you tell me when the telegram will get there ?-0.49
+39061-你 是 什么 时候 送来 你 的 申请 文件 的-when did you send your application documents ?-0.49
+50542-你 是 什么 时候 选定 你 大学 的 专业 的-when did you choose your college major ?-0.49
+3298-那么 你 写 什么 不 进去 呢-why don &apos;t you just go in , then ?-0.489
+10834-你 看 这个 菜 该 配 什么 蔬菜 一起 吃 呢-what vegetables do you recommend to go with ?-0.489
+11306-你 的 牛排 配 什么 菜 呢-what would you like to go with your steak ?-0.489
+11998-那么 你 建议 点 什么 好 呢-what do you recommend then ?-0.489
+15890-你 想 在 什么 时候 打 高尔夫球-when do you want to play golf ?-0.489
+17313-你 觉得 我 什么 时候 来 好-when do you think i should come ?-0.489
+17336-你 看 我 什么 时候 飞 过来-when do you think we should fly over ?-0.489
+18644-下面 你 建议 我们 谈 什么 呢-now what do you suggest we work on next ?-0.489
+30696-你 知道 他 什么 时候 回来 吗-do you know when he &apos;ll be back ?-0.489
+31273-行  你 愿意 什么 时候 来 都行-yes , any time you like .-0.489
+33364-你 今天 想 剪 什么 样子 呢-how do you like your haircut today ?-0.489
+34135-10 点钟 去 墨西哥城 的 飞机 什么 时候 能 到达 呢-what about the arrival time of 10 a.m. flight to mexico city ?-0.489
+34709-你 知道 车 什么 时候 开 吗-do you know when the bus leaves ?-0.489
+35605-你 认为 我 应 买 件 什么 东西 作为 纪念 呢-what article do you think i should get as a souvenir ?-0.489
+40306-什么 时候 会 有 空 位子 呢-when can we get a table ?-0.489
+43890-你 星期日 下午 什么 时候 练习 篮球-when do you play basketball on sunday afternoon ?-0.489
+50796-这个 项目 你 什么 时候 能 做完-when will you finish the project ?-0.489
+8225-好吧  什么 时候 给 您 送去 呢  您 住 几 号 房间-all right . when do you want it and your room number ?-0.488
+12388-给 你 叫 点 什么 喝 的 呢-what can i get you to drink ?-0.488
+12868-那么  您 什么 时候 能 来 和 我们 一起 吃 晚饭 呢-then , when can we expect you for dinner ?-0.488
+14500-你 知道 棒球 比赛 什么 时候 开始 吗-do you know when the baseball match will begin ?-0.488
+26297-你 在 百货 公司 的 什么 确切 地方 用 过 护照 呢-where exactly did you use your passport in the store ?-0.488
+29373-您 是 什么 时候 把 预约卡 挂 在 门 上 的 呢-at what time did you leave the card on your door ?-0.488
+48544-那么 你们 约 好 什么 时候 见面 呢-so what time did you make it ?-0.488
+50225-你 觉得 我们 该 做 些 什么 呢-what do you think we should do ?-0.488
+50587-你 看 我 今天 上午 什么 时候 可以 见 一 见 院长-do you think i could see the president sometime this morning ?-0.488
+28406-您 是 什么 时候 把 预订 卡 挂 在 门 上 的 呢-at what time did you leave the card on your door ?-0.487
+11791-好 的  那么 你 给 我们 推荐 什么 呢-good . your recommendations ?-0.486
+14447-场地 上 的 那 一 个 队 什么 时候 能 有 机会 打球 呢-when does the team in the field get a chance to bat the ball ?-0.486
+15272-那 第一 次 全 英 羽毛球 锦标赛 是 在 什么 时候 举行 的 呢-when were the first all-england championships held then ?-0.486
+21569-今天 你 准备 带 我们 到 什么 名胜 古 变去 看 一 看 呢-what places of interest are you going to show us today ?-0.486
+31676-请 问 你 想 我 看些 什么 好 呢-what do you think i should see ?-0.486
+45862-你 游 得 真 好  什么 时候 学 的-you &apos;re a good swimmer.when did you learn ?-0.486
+50512-如果 我们 聘用 你  你 什么 时候 能 上班-if we decided to offer you the job , when could you start ?-0.486
+14680-或者 说 你 理想 中 的 球员 是 什么 样子 呢-or what &apos;s your ideal sort of player ?-0.484
+15862-凯西  你 有 没有 参加 过 学校 的 什么 运动队 呢-did you join any sports teams in school , kathy ?-0.484
+22707-顺便 问 一 声  日炙 你 说 用 什么 药 呢-by the way , what do you suggest for sunburn ?-0.484
+3809-你 上 次 是 什么 时候-when was your last visit ?-0.483
+8317-我 知道 了  什么 时候 呢-i see . what time ?-0.483
+11465-那么 你 认为 我们 点 的 鱼 配 什么 酒 好 呢-then that do you think would go well with our fish ?-0.483
+21195-除了 侦探 小说 外  你 通常 还 借 些 什么 书 呢-what kind of books do you usually borrow besides those ?-0.483
+28121-什么 时候 叫 你  先生-at what time do you want me to call you up , sir ?-0.483
+30440-你 看 我 什么 时候 来-what time do you think i should come ?-0.483
+32290-听 起来 不错  什么 时候 呢-that sounds very nice . when will it be ?-0.483
+37862-如果 你 想 同 陌生人 打招呼  不 要 用 头衔 称呼 他  什么 时候 都 可以 说 “ 借光 ”-if you want to get someones attention , do not attempt to address a stranger by title ; it is always appropriate to say &quot; excuse me . &quot;-0.483
+47870-能 为 你 做 什么 呢-what can i do for you ?-0.483
+47894-辛迪  你 在 想 什么 呢-what &apos;s in your mind , cindy ?-0.483
+48718-我 什么 时候 交给 你-when do you want it ?-0.483
+27884-我 能 为 你 做 什么 呢-what can i do for you ?-0.482
+28850-我 可以 为 你 做 什么 呢-what can i do for you ?-0.482
+32389-听 起来 真 不错  什么 时候 呢-that sounds very nice . when will it be ?-0.482
+34828-没 问题  你 想 什么 时候 走-no problem.when do you plan to go ?-0.482
+4632-你 乘坐 的 航班 是 什么 时候 的-but what time is your flight ?-0.481
+19911-哈罗  布莱克 先生  你 来 得 正 是 时候  我们 刚 把 本 公司 的 最新 产品  印制 在 这 份 漂亮 的 新 目录 上 呢-hello , mr. black . you &apos;ve come at a good time . we &apos;ve just got our latest products all nicely set out in this new catalog .-0.481
+20157-你 上 一 次 加薪 是 什么 时候-when was the last time you got a raise ?-0.481
+32012-谢谢 你  我 乘坐 的 航班 什么 时候 起飞-thank you. what is the departure time of my flight ?-0.481
+14673-那么  在 一 场 比赛 中 你 做 些 什么 呢-so what do you do in a game ?-0.48
+14973-那 可 真 是 有趣  嗯  你 想 了解 什么 呢-that &apos;s interesting , well , what do you want to know about it ?-0.48
+14996-那 可 真 有趣  嗯  你 想 了解 什么 呢-that &apos;s interesting , well , what do you want to know about it ?-0.48
+45273-可是 别 忘 了 你 要 跳高  什么 时候 开始-but don &apos;t forget you &apos;ll have high jump . when will that begin ?-0.48
+50221-好 长 时间 没 见 你 了  忙 什么 呢-i haven &apos;t seen you for ages . what have you been doing ?-0.48
+29647-我 想 去 我 姐姐 家  你 呢-i thought about going to my sister &apos;s . how about you ?-0.479
+51709-这个 活动 我们 需要 大家 的 支持  因此 请 大家 想想 看 你 能 贡献 什么 尽力  然后 在 今晚 会议 结束 后 到 这 张 桌子 前面 来  在 不同 的 工作 项目 下 签名  同时 请 拿 一些 传单 回家  在 上班  上 学时 以及 在 自 家 附近 散发-we need everyone &apos;s support for this , so think about what you can contribute and after tonight &apos;s meeting is adjourned , come to this table to sign up for the various tasks and also take home a handful of fliers to pass out at your work , school and neighborhood .-0.478
+16915-小心 他 什么 时候 把 你 也 给 掷出 去 了-then mind that he throws you out sometime .-0.476
+36508-你 两 家 厂 生产 什么-what do your two factories produce ?-0.475
+50584-凯勒 先生  我 这个 星期 什么 时候 到 办公室 去 拜访 你 行吗-mr. keller , may i call at your office sometime this week ?-0.474
+30344-她 跟 我 说 这个 时候 她 会 在 家  你 知道 她 去 哪儿 了 吗-she told me she would be home by this time.do you know where she went ?-0.473
+34762-什么 时候 下车  请 你 告诉 我 一下 好 吗-will you please tell me when i must alight ?-0.472
+19045-嗯  李 先生  你 能 不 能 告诉 我  假如 我们 要 在 中国 建立 一 家 制造 公司  要 办成 这 件 事  最 好 的 办法 是 什么-now mr. li , could you tell me , if we are to set up a manufacturing company in china , what would be the best way to go about it ?-0.47
+19047-一 家 完全 由 我们 自己 拥有 的 公司 的 利弊 是 什么 呢-what would be the advantages and disadvantages of a company completely of our own ?-0.47
+15438-以后 呢  请 你 相信  新 的 问题 又 将 出现  因为 一旦 进入 乙级  你 还 想 进 甲 级  那么 我们 又 回到 原地-and then , believe you me , the big problems start , because once you &apos;re in the second division you want to go in the first division , and the we &apos;re back where we started .-0.469
+701-餐车 什么 时候 开饭-when does the dining car open for dinner ?-0.333
+1095-你 的 尊姓 大名 呢-and yours ?-0.333
+1350-你 呢-how about you ?-0.333
+2008-我 什么 时候 能 拿票-when can i get my tickets ?-0.333
+2574-你 要 去 哪里 呢-where are you going ?-0.333
+3290-我们 什么 时候 出发-when shall we leave ?-0.333
+3623-你 自己 呢-how about yourself ?-0.333
+4307-我 什么 时候 可以 开走-when can i pick the car up ?-0.333
+4755-什么 时候 要  太太-what time do you need cab , ma &apos;am ?-0.333
+4822-您 什么 时候 要 搭车-what time do you need the taxi-0.333
+4863-您 什么 时候 要 搭车-when do you want the taxi ?-0.333
+5239-你 呢-what about you ?-0.333
+6014-帮 什么 忙 呢-what can i do for you ?-0.333
+6391-我 什么 时候 可以 取-when can i get it back ?-0.333
+7259-我们 什么 时间 可以 登船 呢-when do we board ?-0.333
+7417-点 什么 来 配 牛排 呢-and with your steak ?-0.333
+8459-需要 什么 饮料 呢-what drinks do you like to have ?-0.333
+8462-要 什么 水果 呢-and how about fruit ?-0.333
+8601-今晚 什么 时候 开门-what time do you open this evening ?-0.333
+8849-那么 什么 时候 结束-and when does it close ?-0.333
+11009-你 呢-and you ?-0.333
+11811-喝 什么 酒 呢-what about drinks ?-0.333
+12226-我 什么 时候 可以 看到 球拍-when will i see the rackets ?-0.333
+12398-你 呢-how about you ?-0.333
+12565-您 什么 时候 来-at what time can we expect you ?-0.333
+13395-你 呢-how about you ?-0.333
+13658-你 呢-how about you ?-0.333
+13704-你 呢-and you ?-0.333
+13733-你 呢-and you ?-0.333
+14123-你 呢-how about yourself ?-0.333
+14509-你 呢-what about you ?-0.333
+14542-你 呢-what about you ?-0.333
+14683-你 呢-what about you ?-0.333
+14686-你 怎么 努力 呢-how do you work ?-0.333
+15072-什么 时候 可以 用-what time is available ?-0.333
+15121-你 呢-what about you ?-0.333
+15510-什么 时候 开始-what time does the football game ?-0.333
+15679-比赛 什么 时候 进行-when will the match be played ?-0.333
+15767-你 那 口子 呢-what about your better half ?-0.333
+15941-你 呢-and you ?-0.333
+16269-你 呢-what about you ?-0.333
+16616-你 呢-and you ?-0.333
+17088-你 怎么 会 输 了 呢-why were you defeated ?-0.333
+17205-这儿 什么 时候 下班-what time does this shop close ?-0.333
+17409-我 什么 时候 会 过来-and when can we expect you ?-0.333
+17741-你们 什么 时候 派 报 啊-when can you get the paper delivered ?-0.333
+17783-你 呢-and you ?-0.333
+18201-我 什么 时候 来 签 合同-when shall i come to sign the contract ?-0.333
+18326-你 的 意见 呢-what would you suggest ?-0.333
+19197-你 认为 如何 呢-how do you think about it ?-0.333
+20318-什么 时候 可以 开始 工作-when can i start ?-0.333
+20332-我 什么 时候 可以 来 上班-when can i come to work ?-0.333
+20375-你 呢-how about you ?-0.333
+20964-你们 什么 时候 可以 作出 决定-when can you make a decision ?-0.333
+20987-什么 时候 毕业 的-when ?-0.333
+21274-什么 时候-when is good ?-0.333
+21630-音乐会 什么 时候 开始-what time does it begin ?-0.333
+21678-那 什么 时候 结束-and what time will it be over ?-0.333
+21843-你们 什么 时候 开门-and at what time do you open ?-0.333
+22527-你 为什么 不 喜欢 呢-why don &apos;t you like it ?-0.333
+22551-你 呢-how about you ?-0.333
+22608-你 呢-t.how about you ?-0.333
+22807-什么 时候 说 的-when did he say that ?-0.333
+22825-什么 时候 开始 痛 的-when did you first notice the pain ?-0.333
+24675-你 呢-what about you ?-0.333
+25308-在 什么 地方 下车 呢-where should i get off , please ?-0.333
+25658-保修单 什么 时候 过期-when will the guarantee expire ?-0.333
+26129-什么 时候 能 做好-when will it be ready ?-0.333
+26384-我 什么 时候 可以 来 取-when can i come to pick it up ?-0.333
+26388-您 什么 时候 来 取-when would you like to pick it up ?-0.333
+26427-什么 时候 可以 试穿-when will it be ready for trying on ?-0.333
+26461-什么 时候 能 修好-when will it be ready ?-0.333
+26478-什么 时候 能 修好-when will it be ready ?-0.333
+27406-你 要 不 要 留话 呢-shall i take a message for you ?-0.333
+28040-你 认为 哪里 好 呢-where do you recommend ?-0.333
+28767-您 什么 时候 将 离 店-when are you checking out ?-0.333
+29144-你 想要 什么样 的 房间 呢-what kind of room would you like ?-0.333
+29213-订 什么 时候 的-for what date ?-0.333
+29415-你 呢-how about you ?-0.333
+29656-你 呢-and how are you ?-0.333
+29671-你 呢-and how are you ?-0.333
+29685-你 呢-and you ?-0.333
+29736-你 呢-and you ?-0.333
+29978-你 的 西装 呢-what &apos;s the matter with your suit ?-0.333
+30062-他 什么 时候 会 回来-when do you expect him back ?-0.333
+30551-他 什么 时候 回来-when will he be back ?-0.333
+30687-什么 时候 开 完-when will it be finished ?-0.333
+30726-他 什么 时候 来-when will be come in ?-0.333
+31106-什么 时候 举行 婚礼-when do you celebrate the wedding ?-0.333
+31182-我们 什么 时候 可以 搬 过来-when can we move it ?-0.333
+31321-我们 什么 时候 可以 搬进 来-when can we move in ?-0.333
+31882-博物馆 什么 时候 向 公众 开放-when is it open ?-0.333
+32063-什么 时候-from when ?-0.333
+32155-你 呢-how are you ?-0.333
+32202-随便 什么 时候  我 在 休假-any time . i &apos;m on vacation .-0.333
+32213-什么 时候 开始-what time does it start ?-0.333
+32248-什么 时候-when is it ?-0.333
+33583-汇票 什么 时候 到达 香港-what time will the draft reach hong kong ?-0.333
+34020-我们 什么 时候 可以 开始 登机-what time can we start boarding ?-0.333
+34132-飞机 什么 时候 起飞-when does the plane take off ?-0.333
+34133-飞机 什么 时候 可以 到达 纽约-when will the flight arrive at new york ?-0.333
+34143-我 什么 时候 应该 到达 机场-when should i get to the airport ?-0.333
+34191-飞机 什么 时候 离 港-what &apos;s the departure time ?-0.333
+34252-我们 什么 时候 去办 登机 手续-what time shall we check in ?-0.333
+34258-我们 什么 时候 办 登机 手续-when shall we check in ?-0.333
+34364-我 什么 时候 来 拿票-when can i come to collect tickets ?-0.333
+34536-什么 时候 我 得到 那里-what time do i have to get there ?-0.333
+34711-什么 时候 能到 博物馆-when will it get to the museum ?-0.333
+34820-汽车 什么 时候 走-when will the bus leave ?-0.333
+34821-什么 时候 到 终点站-when will it get to the terminal ?-0.333
+35190-电报 什么 时候 能 到-when will the telegram get there ?-0.333
+35442-我 什么 时候 可以 拿 回来-when can i get it back ?-0.333
+35661-火车 什么 时候 到 芝加哥-when is the train due in chicago ?-0.333
+35696-列车 什么 时候 到达-when does it arrive ?-0.333
+35791-什么 时候 到达 那里-what time do i get there ?-0.333
+36005-我们 什么 时候 出发-when shall we start out ?-0.333
+36594-你 自己 呢-and yourself ?-0.333
+36999-您 什么 时候 要 搭车-when do you want the taxi ?-0.333
+37001-我们 什么 时候 去接 您-at what time should we pick you up ?-0.333
+37604-我们 什么 时候 到 杭州-what time will we get to hangzhou ?-0.333
+37890-什么 时候 供应 餐点-what time will the have a meal served ?-0.333
+37915-我们 什么 时候 起飞-when shall we take off ?-0.333
+38031-晚饭 什么 时候 开始-when will dinner be served ?-0.333
+38046-有 什么 饮料 呢-what kind of soft drinks do you have ?-0.333
+38342-你 的 健康 证明书 呢-and your health certificate .-0.333
+40019-什么 时候  先生-for what time , sir ?-0.333
+40045-什么 时候-for what time ?-0.333
+40058-什么 时间 呢-for what time ?-0.333
+40104-您 什么 时候 可以 过来 拿-when will you be able to collect it ?-0.333
+40827-什么 时候 开始 供应 早餐-what time do you start serving breakfast ?-0.333
+41317-要 什么 甜食 呢-what would you like for dessert ?-0.333
+41944-我们 什么 时候 回去-when shall we go back ?-0.333
+43177-什么 时候 由 对方 发球-when does service pass to the other team ?-0.333
+43888-篮球赛 什么 时候 开始-when does the basketball match begin ?-0.333
+44655-比赛 什么 时候 开始-when will it start ?-0.333
+44980-什么 时候 进行 半决赛-when is the semifinal ?-0.333
+45253-你 参加 哪 项 比赛 呢-which event are you going to take part in ? which event are you going to enter for ?-0.333
+45807-游泳池 什么 时候 开门 / 关门-when does the pool open / close ?-0.333
+45816-什么 时候 涨潮-what time is the high tide ?-0.333
+46070-你 想去 哪里 溜冰 呢-where would you like to go for skating ?-0.333
+46981-什么 时候 您 最 方便-when is the most convenient for you ?-0.333
+47069-飞机 什么 时候 到-and when does your flight arrive ?-0.333
+47176-你 建议 我 怎么 做 呢-what do you suggest ?-0.333
+47644-你 怎么 这么 有 把握 呢-how can you be so sure ?-0.333
+47915-你 怎么 这么 说 呢-how can you say that ?-0.333
+47970-展览 什么 时候 开始-when are we going to have the show ?-0.333
+48003-你 怎么 知道 呢-how do you know ?-0.333
+48020-你 看 呢-what do you think ?-0.333
+48100-你 怎么 忍心 杀 狗 呢-how could you have the heart to kill a dog ?-0.333
+48197-你 怎么 那么 说 呢-you can &apos;t say that !-0.333
+48245-你 现在 该 怎么 办 呢-what &apos;re you supposed to do now ?-0.333
+48326-你 说 呢-don &apos;t you think so ?-0.333
+48372-你 说 谁 呢-who are you talking about ?-0.333
+48380-什么 时候 剧 的-when was it painted ?-0.333
+48557-你 怎么 能 这样 肯定 呢-how can you be so sure ?-0.333
+48685-你 建议 我 怎么 做 呢-what would you suggest ?-0.333
+48841-他 什么 时候 来 电话 了-when did he ring me ?-0.333
+48892-你 什么 意思-what do you mean ?-0.333
+48906-那 什么 时候 开-when will it be held then ?-0.333
+48950-什么 时候 开始 的-when did you learn ?-0.333
+49189-我 什么 时候 开始 工作-when do i start work ?-0.333
+49380-他 什么 时候 回来-when will he be available ?-0.333
+49879-明天 什么 时候 见面-when shall we meet tomorrow ?-0.333
+50105-你 什么 意思-what do you mean ?-0.333
+50510-你 为什么 决定 辞职 呢-why did you decide to leave ?-0.333
+50591-什么 时候-when ?-0.333
+50627-你 什么 时间 方便-what time would be good for you ?-0.333
+50775-什么 时候 走 的-when did they leave ?-0.333
+50782-你 为什么 不 相信 我 呢-why don &apos;t you believe me ?-0.333
+50998-宴会 什么 时候 开始-when will the dinner start ?-0.333
+51868-什么 时候 开始-what time does it begin ?-0.333
+52175-他 什么 时候 会 回来-when is he expected to be back ?-0.333
+52216-什么 时候-for when ?-0.333
+52221-什么 时候 开始-when does it start ?-0.333
+52224-我们 什么 时候 出发-when shall we start our journey ?-0.333
+52255-什么 时候 开始-when will it begin ?-0.333
+52258-什么 时候-what time ?-0.333
+52299-什么 时候 开始 痛 的-when did the pain start ?-0.333
+2469-你 有 什么 东西 经 申报 吗-do you have anything to declare ?-0.331
+2862-你 要 去 哪 一 家 旅馆-which hotel are you going to ?-0.331
+3127-这 班 什么 时候 会 到 旧金山-what time does it arrive in san francisco ?-0.331
+4943-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.331
+4952-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.331
+4956-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.331
+4991-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.331
+5036-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.331
+5342-你 有 什么 东西 要 申报 吗-do you have anything to declare ?-0.331
+5368-你 有 什么 要 申报 的 吗-do you have anything to declare ?-0.331
+7337-先生  要 什么 牌子 的 啤酒 呢-any special brand , sir ?-0.331
+8565-那么 你 推荐 哪 间 餐厅 呢-well , where do you suggest ?-0.331
+9437-你 如何 找到 这 家 餐馆 的-how did you find out about this restaurant ?-0.331
+11435-你 有 什么 可 推荐 的 吗-bur what would you recommend ?-0.331
+12839-你 喝 浓 茶 还是 淡茶 呢-do you take your tea strong or weak ?-0.331
+17982-那 你 为什么 要 卖 机器 呢-then why do you want to sell your machines ?-0.331
+19151-那 你 为什么 要 卖 机器 呢-then why do you want to sell your machines ?-0.331
+20092-好  你 希望 什么样 的 工资 呢-good ! what salary do you expect ?-0.331
+23013-是 什么 时候 起 感到 这样 的-since when have you been feeling like this ?-0.331
+23016-你 想 我 该 怎么 办 呢-what do you think i should do ?-0.331
+23024-你 认为 我 该 怎么 办 呢-what do think i should do ?-0.331
+23390-你 想 推荐 哪 一 种 呢-which one would you like to recommend ?-0.331
+25155-大卫  你 为什么 不 试穿 看看 呢-why don &apos;t you put it on , david ?-0.331
+27899-那么  我 什么 时候 可以 取回 衣服-now , when can i have my laundry back ?-0.331
+29504-贝基  你 瞧  隔壁 有 家 理发馆-look , becky ! there is a hairdresser next door to it .-0.331
+31281-你 有 什么 好 主意 吗  汤姆-do you have helpful ideas , tom ?-0.331
+31509-你 有 什么 好 的 建议 吗-have you got anything special in mind ?-0.331
+31964-你 为什么 要 选择 海 边 呢-why do you choose the seaside ?-0.331
+32635-你 看  现在 是 节假日 期间 呢-well , it is the holiday season .-0.331
+34469-你 的 班次 和 出发 日期 呢-what is your flight number and the date of your departure ?-0.331
+34537-我 应该 什么 时候 报到 办 手续-when am i supposed to check in ?-0.331
+34642-公共 汽车 什么 时候 能 到 终点站-when can the bus get to the terminal ?-0.331
+36889-你 的 表 是 几 分钟 呢-what time is it by your watch ?-0.331
+37660-你 吃 什么  米饭 还 是 馒头-what will you have , rice or steamed bread ?-0.331
+38195-你 有 什么 需要 申报 的 吗-do you have anything to declare ?-0.331
+38306-你 有 什么 东西 要 申报 吗-do you have anything to declare ?-0.331
+40059-您 什么 时间 需要 这个 桌子 呢-what time would you like your table ?-0.331
+40798-你 有 什么 可 推荐 的 甜点-what do you recommend for dessert ?-0.331
+41504-你 点 什么  我们 就 吃 什么-you name it , we eat it .-0.331
+41912-那么 我们 什么 时候 能 到 野餐区-when will we arrive at the picnic area ?-0.331
+42994-乒乓球 什么 时候 被 列入 奥运会 项目-when did table tennis become an olympic sport ?-0.331
+43200-你 为何 不 拦 这 球 呢-why didn &apos;t you block it ?-0.331
+45016-你 要 选择 哪 一 个 呢-which would you choose ?-0.331
+45224-你 对 什么 室外 活动 感 兴趣-have you got any outdoor interests ?-0.331
+50555-你 为什么 要 选择 本 公司 呢-why do you want to work with us ?-0.331
+556-那么 黄山 有 什么 迷人 的 地方 呢-what are the attractions of mount huangshan ?-0.329
+1708-请 问  机场 什么 时候 开始 检票 登机-excuse me . what is the checking-in time here at the airport ?-0.329
+2628-你 知道 到 哪 一 站 下车 呢-do you know where i should get off ?-0.329
+2875-你 知道 到 哪 一 站 下车 呢-do you know where i should get off ?-0.329
+3202-您 计划 什么 时候 开始 您 的 旅行-and when do you plan to travel ?-0.329
+6070-你 会 在 右边 看到 那 家 餐厅-you &apos;ll see the restaurant on your right .-0.329
+6358-你 能 不 能 介绍 一 家 餐馆-what restaurant can you recommend ?-0.329
+6741-15 次 特快 什么 时候 从 北京 开车-when does the express leave beijing ?-0.329
+13812-那 运动员 用 什么 来 打 乒乓球 呢-then by which does the players play it ?-0.329
+13823-那 运动员 用 什么 来 打 乒乓球 呢-then by which does the each match .-0.329
+16377-你 参加 哪 一 项 体育 动动 呢-what kind of sports do you participate in ?-0.329
+16481-你 参加 哪 一 项 体育 运动 呢-what kind of sports do you participate in ?-0.329
+17265-你 是 怎样 检验 这个 进程 的 呢-how do you monitor its progress ?-0.329
+17847-最近 出 什么 货品 给 我们 分公司 呢-what are you sending to our branches nowadays ?-0.329
+18906-你 还 有 什么 需要 商量 的 吗-anything else would you like to discuss ?-0.329
+20201-杰克  你 通常 几 点 钟离 家 上班-what time do you usually leave home for work jack ?-0.329
+21004-你 参加 过 什么 英语 水平 考试 没有-have you taken any english proficiency test ?-0.329
+21774-你 最 喜欢 哪 一 类 音乐 呢-what type of music do you like best ?-0.329
+22549-你 最 喜欢 哪 一 类 音乐 呢-what type of music do you like best ?-0.329
+22606-你 最 喜欢 哪 一 类 音乐 呢-what type of music do you like best ?-0.329
+23360-你 为什么 这么 肯定 它们 质量 好 呢-why are you so sure that they are of high quality ?-0.329
+28991-我 什么 时候 可以 得到 你们 的 确认-when can i receive your confirmation ?-0.329
+29042-斯特华 先生  您 什么 时间 将 到达 呢-what time will you be arriving , mr.steward ?-0.329
+31180-你 还 有 什么 事 要 问 吗-is there anything you want to know ?-0.329
+31652-你 的 圣诞 假期 有 多 长 呢-how long is your christmas vacation ?-0.329
+38154-你 有 什么 东西 要 申报 吗  先生-have you got anything to declare , sir ?-0.329
+41719-你 点 什么  我们 就 做 什么 吃-you name it , we cook it .-0.329
+48957-你 想 在 这 家 公司 工作 吗-would you like to join that company ?-0.329
+49139-你 怎么 得 出 这样 的 结论 呢-how can you draw such a conclusion ?-0.329
+400-您 是 在 什么 时候  什么 地方 丢失 的-when and where did you lose it ?-0.327
+4838-告诉 我 您 什么 时候 要 搭车  好 吗-would you please tell me when you need the taxi ?-0.327
+6097-沿途 你 会 看到 对街 有 一 家 戏院-along the way , you &apos;ll see the theater on the other side of the street .-0.327
+8230-好吧  您 喝 点 什么  甜点 吃 什么 呢-good . and anything to drink , and how about the dessert ?-0.327
+8417-济慈 先生  您 需要 什么 时候 准备 好 餐台-mr. keats . when do you like your table available ?-0.327
+9022-你 认为 我们 是否 得 换 个 地方 呢-do you think we &apos;d better try another place ?-0.327
+10962-你 知道 附近 有 什么 好 的 餐厅 吗-do you know any good restaurants around here ?-0.327
+13711-下 星期 的 什么 时候 教教 我 好 吗-can you teach me sometime next week ?-0.327
+13740-下 星期 的 什么 时候 教 我 好 吗-can you teach me sometime next week ?-0.327
+15397-伦敦队 是 什么 时候 攻进 第二 个 球 的-when did the london team score the second goal ?-0.327
+15823-伦敦队 是 什么 时候 攻进 第二 个 球 的-when did the london team score the second goal ?-0.327
+16018-那 哪些 是 你 爱 吃 的 食物 呢-what are your favorite foods ?-0.327
+20117-你 为什么 对 在 这 教书 感 兴趣 呢-why are you interested in teaching here ?-0.327
+20306-现在 你 还 有 什么 问题 要 了解 吗-now , is there anything else you &apos;d like to know ?-0.327
+20328-你 下 个 月 是否 可以 来 上班 呢-i wonder if you &apos;d mind starting next month .-0.327
+20962-李 先生  你 有 什么 问题 要 问 吗-do you have any questions to ask , mr. li ?-0.327
+22319-那 我们 什么 时候 去 看 《 挑战者 》-when shall we see the movie challenger ?-0.327
+26266-哦  你 买 的 时候 应该 拿 了 收据-oh , you should have obtained a receipt when you bought it .-0.327
+32572-你 的 VISA 卡 号码 与 有效 日期 呢-what &apos;s your card number and expiration date ?-0.327
+32992-我们 下 个 星期 什么 时候 去 好 吗-shall we do it something next week ?-0.327
+33429-你 出去 的 时候  把 它 放 在 哪里-where did you leave it while you were out ?-0.327
+38079-你 有 什么 应 申报 纳税 的 东西 吗-what do you have in the bag ?-0.327
+38597-你 可以 告诉 我 如何 到 你 家 吗-can you tell me how to get to your home ?-0.327
+39964-我们 点 的 菜 什么 时候 能 上 来-how long will our order take ?-0.327
+40406-你 差不多 还 没 吃 过 一点 东西 呢-you &apos;ve hardly eaten a thing .-0.327
+41228-你 喜欢 吃 什么 菜  中式 还是 美式 的-what kind of food do you like , chinese or american ?-0.327
+42576-中国 象棋 起源于 什么 时候  至今 仍 是 个迷-it is still a question when chinese chess was created .-0.327
+45956-你 在 美国 的 时候 经常 锻炼 身体 吗-do you exercise when you are in america ?-0.327
+47559-上 周 你 买 的 新 钢笔 呢  迈克-bill , where &apos;s the new pen you bought last week ?-0.327
+49125-听说 你 最近 跟 人 谈恋爱  是 谁 呢-we hear that you &apos;re passionately in love , with whom ?-0.327
+49973-可 你 得 穿上 外套  天 还 冷 呢-but you &apos;d better put on your coat . it &apos;s still cold .-0.327
+1057-可是 你 为什么 不 乘 直达 伦敦 的 飞机 呢-but why don &apos;t you fly straight to london ?-0.326
+1062-你 为什么 没 乘 北京 飞往 伦敦 的 飞机 呢-why didn &apos;t you go by beijing-london plane ?-0.326
+10677-那么 你 推荐 我们 点 哪 几 道 菜 呢-what do you recommend we order , then ?-0.326
+12026-您 认为 这里 有 什么 具有 特色 的 主菜 呢-what would you recommend for the main course ?-0.326
+15501-国际 足球 什么 时候 决定 2002 年 世界杯 的 主办国-when will fifa decide the 2002 host ?-0.326
+18387-你 现在 是否 可以 重新 洽谈 那 笔 交易 呢-will it be possible for you to resume negotiating the deal now ?-0.326
+21847-对 入场 有 没 有 什么 特别 的 要求 呢-is there any special requirement of admission ?-0.326
+24204-你 想 你 能否 为 我 搞到 一 件 呢-do you think you could get one for me ?-0.326
+26470-这个 表上 一 次 是 什么 时候 清洗 过 的-when was it last cleaned ?-0.326
+27499-七点 至 九点半 之间 什么 时候 都 能 吃 早点-breakfast is served any time between 7 and 9 : 30 .-0.326
+28871-喂  请 问 最 晚 什么 时候 要 结账 退房-hello , when is check-out time , please .-0.326
+31287-你 为什么 不 咨询 一下 学校 住宿 服务 中心 呢-why don &apos;t you ask at the university accommodation service ?-0.326
+33214-很 好  你 想 理 什么样 的 发型 呢  先生-very well , and how would you like your haircut , sir ?-0.326
+34763-请 你 告诉 我 在 什么 地方 下车 好 吗-could you tell me where to get off ?-0.326
+36549-你 能 告诉 我 几 家 不错 的 餐厅 吗-could you tell me the name of some good restaurants ?-0.326
+37849-如果 你 有 什么 问题 的话  请 按 一下 呼叫钮-if you have anything in trouble , please push the call button .-0.326
+41209-先生  请 您 告诉 我 什么 时候 停  好 吗-would you like to say &quot; when &quot; , please sir ?-0.326
+42233-你 还 没有 尝 点 鱼 呢  来 一点 吧-you haven &apos;s tried any fish yet . do have some .-0.326
+42370-你 要 什么 就 告知 柜台 后面 的 男 服务员-tell the man behind the counter what you want .-0.326
+44300-你 怎么 认 得出 哪 队 对 哪 队 呢-how can you tell which is which ?-0.326
+44619-无论 什么 时候  只要 有 球赛 我 就 去 看-whenever there &apos;s a match , i &apos;ll go and watch it .-0.326
+50593-好 的  你 那个 时候 可以 来 我 的 办公室-. ok , you could come to my office then .-0.326
+51469-你 有 没 有 什么 困难  需要 我们 帮忙 的-do you have a problem we could help you with ?-0.326
+1083-你 是 学 什么 的-what &apos;s your subject ?-0.325
+1085-你 学 什么-and yours ?-0.325
+1234-你 要 喝 些 什么 吗-would you like something to drink ?-0.325
+1824-你 这 是 什么 意思-what do you mean ?-0.325
+2028-什么 时候 开始 办理 登机 手续-what time do you start check-in ?-0.325
+2081-早上 班机 什么 时候 到达-when is the plane due for the morning flight ?-0.325
+2199-请 查 一 查 255 航班 什么 时候 到达  是 当地 时间-would you check what &apos;s the arrival time of flight no.255 , local time ?-0.325
+3191-当地 时间 什么 时候 抵达-and what &apos;s the hour of arrival , local time ?-0.325
+3764-你 从事 什么 行业-what line of work are you in ?-0.325
+3799-你 销售 什么 东西-what do you sell ?-0.325
+3893-你 的 秘诀 是 什么-what &apos;s your secret ?-0.325
+4107-当然 可以  那么  这 部 车 你 要 租 几 天 呢-sure it is . now , how many days do you want the car for ?-0.325
+4403-你 说 什么-yes ?-0.325
+4610-你 说 什么-what was that ?-0.325
+4629-你 说 什么-excuse me ?-0.325
+4642-你 说 什么-what was that ?-0.325
+4790-罗伯特 先生 什么 时候 离开-when would mr. robert like to leave ?-0.325
+4867-我们 应该 什么 时候 去接 您-at that time should we pick you up ?-0.325
+4905-你 要 什么 型号-what type do you have in mind ?-0.325
+4906-你 是 什么 意思-what do you mean ?-0.325
+5069-你 有 什么 要 申报 吗-do you have anything to declare ?-0.325
+5082-你 要 申报 什么-what are you declaring ?-0.325
+5240-你 有 什么 东西 要 申报-do you have anything to declare ?-0.325
+5336-这 又 是 什么 呢-and what about this ?-0.325
+6759-到 伦敦 什么 时候-what time does it reach london ?-0.325
+6811-您 想 什么 时候 走-when do you want to leave ?-0.325
+6903-你 想 知道 什么-what would you like you know ?-0.325
+7083-谁 来 负担 你 在 那里 的 生活 和 学习 费用 呢-who &apos;s going to support you while you &apos;re there ?-0.325
+7105-你 去 美国 做 什么-what do you go to the states for ?-0.325
+7122-你 想 去 英国 干 什么-what do you want to go to britain for ?-0.325
+7239-如果 你 还 有 什么 其他 的 问题  就 问 李 小姐-if you have any other questions , just ask miss li .-0.325
+7307-真的  要 什么 酒 呢-yes ? what will it be ?-0.325
+7331-您 想要 什么 呢-what do you have in mind ?-0.325
+7505-你 想要 什么  女士-what would you like , ma &apos;am ?-0.325
+7513-你 呢  多 拉-how bout you , dora ?-0.325
+7526-你 呢  琳达-how about you , linda ?-0.325
+7527-你 想 喝 点 什么-what do you car for ?-0.325
+7584-你 呢  露西-how about you , lucy ?-0.325
+8251-请 问 什么 时候 送来-what time will it be delivered ?-0.325
+8753-想 点 些 什么 水果 呢-what kinds of fruit do you like to have ?-0.325
+8829-今晚 你们 什么 时候 开门-what time do you open tonight ?-0.325
+8914-你 呢  马克-how about you , mark ?-0.325
+9543-宴会 的 主菜 是 什么 呢-what are on the menu for the main course ?-0.325
+9740-我 端 给 你 的 时候 苍蝇 不 在 汤 里面 啊-it wasn &apos;t there when i served it to you .-0.325
+9991-你 来 点 什么  斯诺 先生-what about you , mr. snow ?-0.325
+10018-你 要 什么  斯诺 先生-what would you like , mr. snow ?-0.325
+10165-要 什么 蔬菜 呢 先生-what a vegetables , sir ?-0.325
+10181-你 推荐 什么-what &apos;s you recommendation .-0.325
+10328-那 主菜 要 些 什么 呢-and what would you like to have for the main course ?-0.325
+10417-您 点 什么 菜 呢-may i know what would you like to order first ?-0.325
+10451-您 今天 要 点 什么 呢-what would you like to have ?-0.325
+10483-谢谢 你  我 要 1 个 水果 色拉  你 呢  迈克-thank you . i &apos;ll have a green salad . what about you , mike ?-0.325
+10514-你 要 点 什么-can i take your order ?-0.325
+10516-你 要 什么 饮料-what kind of drink do you want with those ?-0.325
+10539-你 建议 点 些 什么 菜-what do you recommend ?-0.325
+10544-你 呢  珍-how about you , jane ?-0.325
+10796-牛排 的 副菜 是 什么 呢-what vegetables come with the steak ?-0.325
+10855-还 要 什么 呢-what else would you like ?-0.325
+10884-那么 您 想 点 什么 呢-what do you have in mind , then ?-0.325
+10960-我 饿 了  你 呢-i &apos;m getting hungry . how about you ?-0.325
+10981-你们 有 什么 葡萄酒 呢-what dink of wine do you have ?-0.325
+10988-你 要 什么 开胃 小菜-what would you like as a starter ?-0.325
+11005-你 要 吃 些 什么-what will you have ?-0.325
+11011-你 要 什么 点心  先生-anything for dessert , sir ?-0.325
+11252-你 呢  亲爱 的-do you , darling ?-0.325
+11340-你 早餐 要 吃点 什么-what would you lie for breakfast ?-0.325
+11420-你 能否 推荐 什么 菜 吗-what dishes would you recommend ?-0.325
+11645-你 推荐 些 什么-what do you recommend ?-0.325
+11666-亲爱 的  你 呢-and you , honey ?-0.325
+11887-那么 有 什么 鱼 呢-then what fish do you have ?-0.325
+12034-您 主菜 点 什么 呢-what would you like to go with your main course ?-0.325
+12354-牛排 的 配菜 是 什么 呢-which vegetables come with the steak ?-0.325
+12417-你 要 喝 什么-what would you like to drink ?-0.325
+12423-你 要 喝 点 什么 吗-what do you want to drink ?-0.325
+12425-你 喜欢 吃 点 什么 吗-do you fancy something to eat ?-0.325
+12611-您 想要 些 什么 水果 呢-what kinds of fruit would you like to have ?-0.325
+12797-你 想 喝 点 什么-what can i get you to drink ?-0.325
+12809-你 想 喝 点 什么 吗-would you like something to drink ?-0.325
+12811-你 喜欢 喝 什么-what would you like ?-0.325
+12849-你 想 不 想 再 吃 更 丰盛 一点 的 东西 呢-would you like something more substantial ?-0.325
+12925-可 你 自己 呢-but how about yourself ?-0.325
+12946-你 问 这 干 什么-why did you ask ?-0.325
+13055-你 打算 吃 什么-what are you going to have ?-0.325
+13214-主食 吃 什么 呢-how about the cereal ?-0.325
+13280-你 要 喝 什么-what will you have ?-0.325
+13746-你 这样 说 是 什么 意思-what do you mean by that ?-0.325
+14091-你 是 什么 项目-what &apos;s your event ?-0.325
+14273-沙滩 排球 是 什么 时候 成为 奥运会 正式 比赛 项目 的-when did beach volleyball become an official event of the olympics ?-0.325
+14566-你 能 给 我 解释 一下 什么 是 一 击 吗-can you explain a strike to me ?-0.325
+14647-你 最 喜欢 什么 运动-what &apos;s your favorite sport ?-0.325
+14679-你 想 让 自己 成为 一 个 什么样 的 球员 呢-what sort of player do you want yourself to be ?-0.325
+14695-你 最 喜欢 什么 运动-what &apos;s your favorite sport ?-0.325
+14711-你 说 什么-what do you mean ?-0.325
+14754-你 想 了解 些 什么-what do you want to know ?-0.325
+14899-我 记得 你 在 学校 的 时候  篮球 打 得 特好-but i remember you were very good at it in school !-0.325
+14959-我 十六 啦  你 呢-i &apos;m sixteen , and you ?-0.325
+15080-你 一般 什么 时间 打 网球-when do you play tennis ?-0.325
+15340-你 有 些 什么 问题-what are your questions ?-0.325
+15433-那么  你 怎样 看待 球 会 未来 一 年 的 前景 呢-so where do you see the club a year from now ?-0.325
+15549-你 打算 参加 什么 项目-are you going to take part in any of the events ?-0.325
+15573-你 最 喜欢 什么 体育 活动-what is your favorite sport ?-0.325
+15977-拿 过来 了  请 问 什么 时候 可以 知道 检查 结果-here it is . may i know when i will be informed of the result ?-0.325
+16236-你 要 什么 饮料-what kind of drinks do you prefer ?-0.325
+16342-我 还 从来 没有 听 你 提到 过 那 段 经历 呢-i &apos;ve never heard you mention that experience .-0.325
+16423-高潮 是 什么 时候-when is high tide ?-0.325
+16440-你 怕 什么 嘛-what are you so afraid of ?-0.325
+16473-你们 打算 什么 时候 走-when do you plan to leave ?-0.325
+16509-你 怕 什么 嘛-what are you so afraid of ?-0.325
+16522-你 游 什么 姿势-what style do you use ?-0.325
+16593-高潮 是 什么 时候-when is high tide ?-0.325
+16609-你 呢  比尔-what about you bill ?-0.325
+16794-你 是 从事 什么 项目 的-what event are you in ?-0.325
+17022-几 年 后  你 说不定 还 会 夺得 奥运会 金牌 呢-in a few years you may be the gold medal winner of the olympics .-0.325
+17054-尿样 是 什么 时候 收集 的-when was the urine sample collected ?-0.325
+17364-我 原来 想 在 你 有空 的 时候 去 拜访 你-i was going to call and see when you &apos;re free .-0.325
+17952-你 下午 想 干 什么-what do you have in mind for this afternoon ?-0.325
+19089-那么  你 何 不 看 一下 我们 的 家庭式 放映机 呢-then , why don &apos;t you take a look at our family model ?-0.325
+19466-史密斯  你 看 呢-how about it , smith ?-0.325
+19599-唉  我 说 什么 好 呢-well , what should i say ?-0.325
+19644-我 得来 一 杯 咖啡  你 要 什么  咖啡 还 是 茶水-i could do with a cup of coffee . what would you like , coffee or tea ?-0.325
+19733-您 想 用 什么 货物 来 换 我们 的 牛羊肉 呢-but what commodity do you have to exchange for our beef and mutton ?-0.325
+20002-你 现在 在 什么 地方 啊-where in the hell are you ?-0.325
+20028-我 倒 无所谓  你 呢-i wouldn &apos;t mind taking in some beijing opera .-0.325
+20337-你 打算 做 什么 工-what job are you thinking of ?-0.325
+20359-你 想 干 什么-what were you thinking of ?-0.325
+20365-你 特别 喜欢 干 什么-anything in particular that appeals to you ?-0.325
+20774-先 谈 什么 呢-what would you like to talk about first ?-0.325
+20989-你 的 主修 专业 是 什么-what was your major ?-0.325
+20993-你 在 大学 期间 获得 过 什么 荣誉 或 奖励 吗-did you get any honors and awards at college ?-0.325
+21161-你 还 喜欢 什么-what else did you like ?-0.325
+21331-你 在 笑 什么-what are you laughing at ?-0.325
+21845-你们 开到 什么 时候-how long do you stay open ?-0.325
+22588-你 知道 有 什么 节目 吗-do you know what the program is ?-0.325
+22685-您 的 问题 是 什么 呢-what seems to be the problem ?-0.325
+22776-你 要 抗生素 做 什么-what did you want the antibiotics for ?-0.325
+23015-你 似乎 染上 什么 传染病 了-you seem to have picked up some sort of infection .-0.325
+23030-什么 时候 开始 觉得 这样 的-when did it start feeling like this ?-0.325
+23183-你 有 什么 事 吗-may i help you ?-0.325
+23199-您 喜欢 什么 颜色 的 呢-what colour do you like ?-0.325
+23826-你 想要 什么 牌子 的-what make do you want ?-0.325
+23843-你 看 买 什么 好-what do you suggest for it ?-0.325
+23858-形状 就 象 兔子  你 知道 她 还是 兔年 生 得 呢-it shapes like a rabbit . you know she happens to belong to the year of rabbit .-0.325
+24034-你 穿 什么 尺寸-what is your size ?-0.325
+24077-你 想要 点 什么-can i help you ?-0.325
+24435-布菜恩  王  什么 时候 送到-brian wang , when can i expect delivery ?-0.325
+24509-你 要 买 什么-what can i do for you ?-0.325
+24697-您 要 些 什么 呢-could i be of any service to you ?-0.325
+24807-你 要 买 什么-anything i can do for you ?-0.325
+24891-你 想要 什么 款式 的-what style do you want ?-0.325
+24964-你 要 什么 颜色 的-what color ?-0.325
+25182-你 要 什么样 的 质料  棉  麻  轧别丁  羊毛 还是 尼龙布 呢-what kind may i show you , cotton , linen , gabardine , woolen , or nylon ?-0.325
+25528-你 要 买 什么-is there anything i can do for you ?-0.325
+25902-你 喜欢 什么 茶-what kind of tea do you like ?-0.325
+26006-您 打算 买 些 什么 呢-what are you thinking of buying ?-0.325
+26253-你 是 什么 意思-what do you mean ?-0.325
+26610-可 不 可以 让 我 看 你 的 存折 及 提款单 呢-can i see your passbook and the withdrawal slip , please ?-0.325
+26623-你 喜欢 什么 票面 的 钱-how would you like it ?-0.325
+26629-你 要 什么 票面 的 钱-how did you want it ?-0.325
+26848-您 以 什么 方式 结账 呢-how will you settle your account , sir ?-0.325
+27166-现在  你 想 如何 付款 呢-now , how would you like to pay ?-0.325
+27488-你 在 抄我 的 护照 的 时候  我 已经 核对 过 了-i did the checking when you were copying from my passport .-0.325
+27901-收费 有 什么 不同 呢-what &apos;s the difference in charge ?-0.325
+28103-你 要 什么-what will you have ?-0.325
+29075-好 的  您 想 要 什么 价格 范围 内 的 呢-ok , what price range do you have in mind ?-0.325
+29139-你 可以 告诉 我 那 家 饭店 的 电话 号码 吗-would you tell me what the phone number of the hotel is ?-0.325
+29250-你 叫 什么 名字-what &apos;s your name ?-0.325
+29474-蒂姆  祝 你 全 家 好-tim , all the best with you and your family !-0.325
+29569-你 周末 的 计划 是 什么-what are your plans for the weekend ?-0.325
+29678-你 的 名字 叫 什么-what &apos;s your first name ?-0.325
+29769-很 好  谢谢  你 呢-just fine . thank you . and how are you ?-0.325
+29862-你 有 什么 事-what do you want ?-0.325
+30118-你 要 留 什么 口信 吗-would you care to leave a message ?-0.325
+30637-你 要 挂 什么 城市-what city are you calling ?-0.325
+30966-你 挂 什么 号码-what number are you calling ?-0.325
+31572-为什么 你 会 这样 想 呢-why so ?-0.325
+31598-你 说 我们 吃 些 什么-what do you suggest we eat ?-0.325
+31990-您 想 在 什么 时间 呢-what time would you like it ?-0.325
+32231-今天 晚上 什么 时候 开始-what time does it start tonight ?-0.325
+32475-你 只 唱 了 第一 段 ； 还 有 好几 段 呢-you only sang the first verse ; there should be several more .-0.325
+32632-朱迪·杰西卡  信用卡 号码 是   可 你 还 没 告诉 我 票价 呢-judie jessica . my credit card number is . , but you haven &apos;t told me the fare ?-0.325
+32894-你 家 真 漂亮-beautiful home you have here .-0.325
+32995-我们 去 看 什么 话剧 呢-what play shall we go to ?-0.325
+33039-如果 你 哪 天 路过 我 家 时  请 一定 进来 坐坐-well , if you ever pass my home , do drop in .-0.325
+33680-你 还 有 什么 事 吗-did you want anything else ?-0.325
+34170-那 明天 什么 时候 起飞-when will it take off tomorrow ?-0.325
+34184-我们 必须 什么 时候 到达 机场-when should we get to the airport ?-0.325
+34350-要 我 做 什么 呢-what should i do ?-0.325
+35385-你 的 手提包 是 什么 颜色-what colour is your bag ?-0.325
+36498-你 从事 什么 行业-what line of work are you in ?-0.325
+36501-你 卖 些 什么-what do you sell ?-0.325
+36584-你 的 秘诀 是 什么-what &apos;s your secret ?-0.325
+36754-你 推荐 去 什么 地方-where do you recommend ?-0.325
+36894-你 说 什么-what was that ?-0.325
+36895-你 说 的 是 什么 意思-what did you mean ?-0.325
+37671-你 喜欢 什么 酒-what kind of wine would you like ?-0.325
+37947-我 得 什么 时候 到 那儿-what time do i have to get there ?-0.325
+38123-你 有 什么 需要 申报 的-have you got anything to declare ?-0.325
+38307-你 袋 里 装 什么-what do you have in this bag ?-0.325
+38312-你 叫 什么 名字-what is your first name ?-0.325
+38318-你 观光 的 目的 是 什么-what is the purpose of your visit ?-0.325
+38346-你 来访 的 目的 是 什么-what &apos;s the purpose of your visit ?-0.325
+38984-坐 出租车 到 那 家 美术馆 去 要 花 多少 钱 呢-how much is it to the art museum by taxi ?-0.325
+39035-你 有 什么 宗教 信仰 吗-have you got any religion ?-0.325
+39037-你 现在 从事 什么 职业-what type of business are you in now ?-0.325
+39038-你 的 职业 是 什么-what &apos;s your occupation ?-0.325
+39039-你 现在 做 什么 工作-what are you doing now ?-0.325
+39041-你 旅行 的 目的 是 什么-what &apos;s the purpose of your visit ?-0.325
+39242-你 要 什么 牌 的 啤酒-what brand of beer would you like ?-0.325
+39311-你 能 介绍 我 一 家 好 的 意大利 餐馆 吗-could you recommend a nice italian restaurant for me ?-0.325
+39341-你 点 了 什么-what did you order ?-0.325
+39847-您 想 什么 时候 到-what time would you like to arrive ?-0.325
+39960-你 给 推荐 点 什么-what would you recommend ?-0.325
+39961-你 想 喝 点 什么 吗-do you want something to drink ?-0.325
+39963-你 想 喝 什么-what would you like to drink ?-0.325
+40629-你 看 我们 点 什么 好-what do you recommend we order ?-0.325
+40806-来 点 什么 呢-what &apos;ll it be ?-0.325
+40818-你 想 喝 点 什么 酒-what kind wine do you prefer ?-0.325
+40823-你 要 吃 点 什么-what &apos;ll you have ?-0.325
+40825-你 想 吃 点 什么-what would you like to eat ?-0.325
+40826-你 想 喝 点 什么-what are you going to drink ?-0.325
+40859-你 想 喝 点 什么 吗-would you care for a drink or something ?-0.325
+40888-你 想 喝 点 什么-what do you wish to drink ?-0.325
+41136-请 问 什么 时候 送去-what time will it be delivered ?-0.325
+41229-你 要 吃 什么-what would you like to have for dinner ?-0.325
+41230-你 要 点 些 什么 菜-what would you like to order ?-0.325
+41231-你 喜欢 吃 什么 点心-what will you have for dessert ?-0.325
+41270-你 有 什么 可 推荐 的-what would you recommend ?-0.325
+41296-你 能否 给 我 讲讲 这些 菜 的 不同 特点 呢-could you tell me the different features of them ?-0.325
+41378-这里 有 什么 呢-what do you have ?-0.325
+41385-这 是 什么 东西 呢-what is this like ?-0.325
+41387-今天 的 特餐 是 什么 呢-what &apos;s today &apos;s special ?-0.325
+41388-本地 的 土产 是 什么 呢-what &apos;s the local specialty ?-0.325
+41453-您 喜欢 吃 什么 开胃品 呢-what would you like for your appetizer ?-0.325
+41498-你 喜欢 什么-what do you recommend ?-0.325
+41718-你 喜欢 吃 什么 东西-what kind of food would you like to eat ?-0.325
+41743-你 用 不 着 担心  我们 什么 也 不 会 错过 的-don &apos;t worry about us , we won &apos;t miss anything .-0.325
+41779-你 早饭 吃 的 什么-what did you have for breakfast ?-0.325
+41874-我 赞成  什么 时候 出发-okay by me.when shall we leave ?-0.325
+41936-你 想 喝 点儿 什么 吗-would you like something to drink now ?-0.325
+42133-你 喜欢 喝 点 什么-what would you like to drink ?-0.325
+42164-你 喜欢 喝 什么 酒-what wine would you like ?-0.325
+42165-你 要 喝 什么 酒-what liquor do you prefer ?-0.325
+42329-你 喜欢 什么-what would you like ?-0.325
+42363-你 想要 什么 就 选 什么-you can choose whichever you want .-0.325
+43100-你 的 有利 条件 是 什么-what &apos;s your handicap ?-0.325
+43827-你 学习 什么-what do you learn ?-0.325
+43946-你 弟弟 喜欢 看 什么-what about your brother ?-0.325
+43969-你 打算 做 什么-what position are you aiming for ?-0.325
+44588-开幕式 在 什么 时候 举行-when will the opening ceremony take place ?-0.325
+44699-你 爱好 什么 运动-what sports do you go in for ?-0.325
+44705-你 最 喜欢 什么 运动 项目-what sport do you like best ? what &apos;s your favorite sport ?-0.325
+45745-你 会 游 什么 姿势-what style can you swim ?-0.325
+45857-好 主意  什么 时候-great idea.what time ?-0.325
+47392-你 喜欢 什么 颜色-what color are you fond of ?-0.325
+47414-你 擅长 做 什么 菜-what dishes are you good at ?-0.325
+47731-你 决定 吧  我 没 什么 偏好  吃 什么 都 行-it &apos;s up to you . i &apos;ve no preference .-0.325
+47827-不 知道 什么 时候 能 放晴-i wonder when it &apos;ll clear up .-0.325
+47947-你 说 什么-what did you say ?-0.325
+48059-你 对 将来 有 什么 打算-do you have any plan for your future ?-0.325
+48271-你 那样 说 是 什么 意思-what do you mean by that ?-0.325
+48455-杰克  你 干什么 呢-what are you doing , jack ?-0.325
+48508-我们 在 等 你 呢-we &apos;re waiting for you .-0.325
+48767-对  我 想 你 没 把 什么 事 忘 了 吧-yeah . i bet you didn &apos;t forget anything .-0.325
+48816-报告 是 什么 时候 写完 的-when was the report finished .-0.325
+48916-谢谢 你 告诉 我 这么 多 有关 那 家 公司 的 事-thank you very much for telling me all these things about the company .-0.325
+49229-你 在 找 什么 工作-what kind of job are you looking for ?-0.325
+49230-你 想 干 什么-what kind of job do you want ?-0.325
+49232-你 最 喜欢 干 什么-which job do you like best ?-0.325
+49239-你 有 什么 特殊 技巧 吗-have you got any special skills ?-0.325
+49301-星期四 之前 什么 时候 都行-anytime before thursday .-0.325
+49304-明天 上午 什么 时候 都行-any time tomorrow morning .-0.325
+49415-我 怎么 帮 你 呢-how can i help you ?-0.325
+49829-你 的 全名 是 什么-what &apos;s your full name ?-0.325
+49924-你 打算 什么 时间 去-when are you planning to go ?-0.325
+50375-你 周末 干 什么-what &apos;re you doing at the weekend ?-0.325
+50528-你 干 过 些 什么 工作-what jobs have you held ?-0.325
+50540-你 是 喜欢 与 人 合作 呢 还是 喜欢 单独 干-do you prefer working with others or working by yourself ?-0.325
+50556-我们 为什么 会 聘用 你 呢-why should we hire you ?-0.325
+50557-你 有 什么 优点 和 不足-what are your strengths and weaknesses ?-0.325
+50842-你 在 干 什么-what &apos;re you doing ?-0.325
+50879-我 愿意  什么 时候-i &apos;d like to , but when is it ?-0.325
+51064-谢谢 你 告诉 我 那 家 公司 信誉 不 好 的 情况-thank you for informing me of the bad credit of the company .-0.325
+51326-你们 打算 什么 时候 开标-when do you intend to open the tender ?-0.325
+51487-我 应该 缴 什么 税 呢-what kind of taxes should i pay ?-0.325
+51888-你 喜欢 什么 颜色-what color would you like ?-0.325
+52140-你 有 什么 建议-what &apos;s your suggestion ?-0.325
+52141-你 有 什么 建议-what &apos;s your advice ?-0.325
+52142-你 推荐 去 什么 地方-what places do you recommend ?-0.325
+52155-很 好  你 呢-pretty well . how about you ?-0.325
+52307-你 有 什么 不 舒服-what &apos;s wrong with you ?-0.325
+1806-本 次 航班 什么 时候 开始 登机-when will the flight begin boarding ?-0.324
+2105-好 的  我 什么 时候 来 取票-right . when shall i come to pick up the ticket ?-0.324
+2616-你 能 告诉 我 什么 站 下车-can you do me a favour and tell me when to get off ?-0.324
+2925-你 能 告诉 我 什么 站下车 吗-can you do me a favour and tell me when to get off ?-0.324
+3517-你 说 钱 不够 是 什么 意思-what do you mean this is not enough ?-0.324
+5246-你 来 此 的 目的 是 什么-what &apos;s the purpose of your visit ?-0.324
+5384-你 此 行 的 目的 是 什么-what &apos;s your trip for ?-0.324
+6276-想必 你 想 叫 警察 的 时候  一 个 也 找 不 到-i suppose when you want to call the police , none of them can be found .-0.324
+7354-那么  先生 您 要 喝 什么 呢-now , what can i make for you , sir ?-0.324
+8223-您 今天 的 早餐 需要 什么 呢-what would you like for your breakfast ?-0.324
+8859-这 餐厅 真 不错  你 觉得 呢-this is pretty good , isn &apos;t it ?-0.324
+9441-我 猜想 这 是 你 在 小册子 中 找 出来 的 第一 家 餐馆-i bet you picked the first restaurant you found in the guidebook .-0.324
+9498-您 还 需要 别 的 什么 呢-do you need anything else ?-0.324
+9916-不 是  那 是 什么 关系 呢-no , and what &apos;s that got to do with it ?-0.324
+10427-那么 您 喜欢 喝 什么 饮料 呢-and what kind of fruit juice would you like to have , sir ?-0.324
+11043-为 我们 准备 了 什么 饮料 呢-what about the drinks ?-0.324
+11736-要  你们 有 些 什么 汤 呢-yes , i don &apos;t know what soup you have .-0.324
+11827-你 肯定 说 了 什么 话 使 他 很 伤心  是 不 是-you must have said something to hurt him badly , didn &apos;t you ?-0.324
+12024-主菜 您 要 上 些 什么 呢-and what would you like for your main course ?-0.324
+12993-有人 在 讨 你 的 欢心 呢-someone is worming his way into your heart .-0.324
+13706-你 知道 金色 中心 叫 什么 吗-do you know what is the gold center called ?-0.324
+13735-你 知道 金色 中心 叫 什么 吗-do you know what is the gold center called ?-0.324
+14193-你 在 排球 时  目标 是 什么-what is the object when you are playing volleyball ?-0.324
+14568-什么 时候 击 球员 可以 自由 上垒-when is the batter allowed to walk ?-0.324
+14662-你 在 美国 获得 什么 奖 没有-did you win any award in the states ?-0.324
+14925-那么 能 从 中学 些 什么 呢-what can we learn from it then ?-0.324
+16537-接力 游泳 有 什么 顺序 规定 呢-are there any rules that stipulate the order of relay ?-0.324
+16614-当然  你 游 的 是 什么 姿势-you &apos;re fight . what styles do you use ?-0.324
+16934-你 呢  我 知道 你 擅长 跑步-what about you ? i know you &apos;re good at running .-0.324
+17907-你 是 指 佣金 吧  我 正想 与 你 谈 这 事 呢-you mean commission ? that &apos;s what i am going to talk to you .-0.324
+18428-是 的  哈夫曼 先生  你 来 的 正 是 时候  我们 也 刚 到-yes , mr. haffman . you are here right on time . we have just arrived too .-0.324
+18429-好 的  王 先生  今天 你 有 什么 消息 要 告诉 我 吗-good . have you any news for me today , mr. wang ?-0.324
+18611-不过  你 怎么 能 证明 你们 的 女衫 就 比 菲律宾 女衫 好 呢-but , how can you prove your blouses are better than the filipino ones ?-0.324
+18890-你 这么 乐观 的 理由 是 什么-what makes you so optimistic ?-0.324
+19116-我 怎样 才 能 说服 你 呢-how can i convince you ?-0.324
+19547-这 两 种 有 什么 区别 呢-what &apos;s the difference between them ?-0.324
+19662-可 我 还 能 做 什么 呢-but what else can i do ?-0.324
+19939-对于 我们 的 娃娃 和 动物 系列  你 有 什么 建议 或 指教 吗-do you have any suggestions or comments to make about our doll and animal lines ?-0.324
+20110-你 能 不 能 在 下 周一  也 就 是 五月 三日  开始 呢-can you start next monday , that is , may 3rd ?-0.324
+21775-我 最 喜欢 古典 音乐  你 呢-i like classical music best . how about you ?-0.324
+22710-你 有 没 有 对 什么 过敏-are you allergic to anything ?-0.324
+23699-是 的  你 为什么 不 试试 呢-yes . why don &apos;t you have a try .-0.324
+24360-我 想 选购 一些 东西  你 呢-i &apos;m picking up some things , and you ?-0.324
+26851-先生  您 打算 什么 时候 离 店-when will you leave , sir ?-0.324
+27698-还 能 为 您 做 什么 呢-what else can i do for you ?-0.324
+29973-你介 不 介意 今晚 把 你 的 车 借给 我 用 一下 呢-would you mind lending me your car tonight ?-0.324
+30047-斯坦纳 先生  您 什么 时间 方便 呢-when would be a convenient time for you , mr. steiner ?-0.324
+31566-你 为什么 要 选择 一 个 附近 有 小 溪 的 地方 呢-why did you choose a site with a stream near by ?-0.324
+32764-我 不 知 该 去 哪儿  你 能否 给 我 一些 建议 呢-i don &apos;t know where to go . can you give me some suggestion ?-0.324
+32904-我 以为 你 又 和 往常 一样 在 你 的 房间 里 用功 呢-i thought you were working hard in your room as usual .-0.324
+33240-你 今天 要 不 要 修 一 修 手 指甲 或 脚指甲 呢-would you like a manicure or pedicure today ?-0.324
+33554-在 包裹 里 有 什么 东西 呢-what &apos;s in the parcel ?-0.324
+35666-请 告诉 我 火车 什么 时候 走  该 在 哪 个 站台 上 车-could you tell me when the train will leave and which platform i should go to ?-0.324
+36390-你 的 车子 出 什么 毛病 了-what &apos;s wrong with your car ?-0.324
+36526-希望 有 一 天 我 能 像 你 一样 开 一 家 公司-hopefully i can open a company like you one day .-0.324
+36527-只要 你 具备 经营 管理 才能  开 一 家 公司 并不 是 难事-to run a company is not a difficult thing so long as you posses management capabilities .-0.324
+38156-假如 你 没有 什么 要 报关 的  就 填上 “ 个人 用品 ”-if you &apos;ve got nothing to declare , just put down &quot; personal effects &quot; .-0.324
+38347-你 来 英国 的 目的 是 什么-for what purpose are you coming to britain ?-0.324
+39034-你 在 英国 有 什么 亲戚 吗-do you have any relatives in britain ?-0.324
+39040-你 申请 签证 的 动机 是 什么-what is your purpose in applying for a visa ?-0.324
+39042-你 到 美国 去 打算 做 什么-what &apos;s your purpose to go to america ?-0.324
+39047-你 毕业 以后 打算 做 些 什么-what are you going to do after your graduation ?-0.324
+39105-我 的 车子 什么 时候 会 好-when will my car be ready ?-0.324
+39146-你 知道 他 在 广播 什么 吗-did you hear what he said ?-0.324
+40376-你 差不多 还 没 吃 过 什么-you &apos;re hardly eaten anything .-0.324
+40816-你 的 色拉 要 放点 什么 调料-what kind of dressing would you like on your salad ?-0.324
+40966-你 想开 始先 来 点 什么 吗-do you want anything to start with ?-0.324
+41340-我 给 您 拿 什么 饮料 呢-what can i get you to drink ?-0.324
+41455-您 主菜 喜欢 配 些 什么 呢-what would you like to go with your main course ?-0.324
+42285-你 决定 点 什么 菜 了 吗-have you decided on something ?-0.324
+42308-你 想好 了 要 什么 了 吗-do you know what you are going to order yet ?-0.324
+44617-你 最 喜欢 的 运动 是 什么-what &apos;s your favorite sport ?-0.324
+45719-你 最 喜欢 用 什么 姿式 游泳-what style of swimming do you like best ?-0.324
+47252-没有  一切 都 是 老样子  你 呢-nothing . same old thing . what about you ?-0.324
+47624-快别 这么 说  你 没有 目睹 什么 屠杀  这 是 一 部 电影-come on . you won &apos;t witness any slaughter . it &apos;s a movie .-0.324
+47656-那 你 那样 说 是 什么 意思-what do you mean by that ?-0.324
+50003-画展 值得 一 看  你 说 呢-the painting exhibition is worth visiting . do you agree ?-0.324
+50500-什么 时候 开始 在 那儿 工作 的-when did you begin with them ?-0.324
+50550-你 喜欢 在 大 公司 工作 呢 还 是 在 小 公司 工作-would you prefer to work in a large company or a small organization ?-0.324
+50554-你 所 选 的 这个 行业 有 什么 不 令 人 满意 的 吗-what are the disadvantages of your chosen field ?-0.324
+50604-除了 今天 什么 时候 都 行  来 前 请 给 他 打 个 电话-anytime except today . please give him a call before you come .-0.324
+51384-我 从 没 求 过 你 什么  所以 这 次 请 你 帮帮 我-i &apos;ve never asked you anything before , so please .-0.324
+51692-不过  我们 到底 能 做 什么 呢-but what can we really do ?-0.324
+378-你 认为 在 到 北京 途中 还 有 什么 其他 地方 我 应该 去 看看 吗-any other places do you think i should visit on the way to beijing ?-0.323
+1976-你 在 箱子 里 装 了 些 什么-what have you got in it ?-0.323
+2639-您 能 告诉 我 什么 时候 下车 吗-could you tell me when to get off ?-0.323
+3911-你 知道  如果 在 美国 丢 了 重要 的 东西  我 还 真的 会 不知所措 呢-you know , i &apos;d have no clue what to do if i lost something important while here in the u.s.-0.323
+4418-你 可 不 可以 帮 我 把 这些 行李 拿到 车 后 行李箱 去 呢-could you help me load these luggage in the trunk ?-0.323
+5364-你 在 此 停留 的 目的 是 什么-what &apos;s the purpose of your visit ?-0.323
+5541-那 你 的 新 住址 是 什么 地方-and what is the address ?-0.323
+7230-我 已经 告诉 过 你  无论 什么 事情  都 不 由 我 答应 任何 人-as i &apos;ve told you already , i &apos;m not in the position to promise anyone anything .-0.323
+7585-我 给 你 要 一 份 什么 酒-what can i get you ?-0.323
+10817-凯茜  你 已 决定 点 什么 菜 吗-cathy , have you made up your mind ?-0.323
+10950-你 能 为 她 做 点 什么 吗-could you do anything for her ?-0.323
+11209-我 知道 了  那么 点 什么 好 呢-i see.well , what do you recommend then ?-0.323
+12025-我 还 没有 想好 点 什么 主菜 呢-i &apos;ve got no idea about that .-0.323
+12090-您 的 牛排 要 配 什么 蔬菜 呢-what would you like to go with your steak ?-0.323
+12628-你 的 新 洋装 是 什么 颜色 的-what color &apos;s your new dress ?-0.323
+12930-既然 你 不管 吃 什么 都 能 保持 身材 苗条  那 就 再 给 你 果酱-and here is jam for you , since you keep slim no matter what you eat .-0.323
+13173-你 说 的 供应 盒饭 是 什么 意思-what do you mean by serving meals by the carton ?-0.323
+13308-请 问 您 要 些 什么 食物 呢-what would you like for your food ?-0.323
+13503-该 项 比赛 是 什么 时候 开始 的-when was the tournament inaugurated ?-0.323
+13719-明天 8 点 在 你 家 会面 吧-we will meet at 8 : 00 at your home .-0.323
+14147-麦加  你 刚 说 杰夫 的 打法 叫 什么 “ 曲球 ”  能 介绍 一下 吗-maiga , you just said that jeff &apos;s way of play was curve . could you introduce it to me ?-0.323
+14215-你 在 玩 排球 时  目标 是 什么-what is the object when you are playing volleyball ?-0.323
+16082-该 项 比赛 是 什么 时候 开始 的-when was the tournament inaugurated ?-0.323
+16534-你 说 的 个人 混合泳 是 什么 意思-what do you mean by individual medley ?-0.323
+17529-你 公司 的 保险 业务 内容 齐全  你们 是 怎样 订 保险 费率 的 呢-your insurance coverage is quite comprehensive.how , do you fix the premium rates ?-0.323
+18406-你 能否 把 你 认为 是 可以 做 得 开 的 价格 告诉 我 呢-could you give me an indication as to a price which you consider workable ?-0.323
+18934-现在 假设 在 中国 你 有 一 个 代理 协议  关系 是否 就 不同 了 呢-now assume that you have an agency arrangement in china , is the relationship different ?-0.323
+19008-你 提到 的 第二 种 投资 是 什么-what &apos;s the second type of investment you mentioned ?-0.323
+19330-或许 我们 可以 为 你 安排 一下  你 有 什么 特别 的 主题 做 腹案 吗-perhaps we could arrange something for you . do you have any particular subjects in mind ?-0.323
+19652-假如 你 有 什么 问题  或者 想 在 措词 上 作些 修改  请 尽管 告诉 我-thank you , but if you have any questions , or want to make any change in the wording and phrasing , please feel free to let me know .-0.323
+20957-你 性格 内 向 呢 还 是 外向-do you call yourself introverted or extroverted ?-0.323
+20979-请 问 你 的 全 名 叫 什么-may i ask your full name ?-0.323
+22136-但 恕我 好奇 问 一 句  不 收 小费 你 怎么 活 得 下去 呢-but just for curiosity &apos;s sake , how can you survive without tips ?-0.323
+22450-你 最 喜欢 的 电视 节目 是 什么-what &apos;s your favorite tv program ?-0.323
+22927-哦  孙 先生  你 什么 地方 不 舒服-well mr. sun , what &apos;s wrong with you ?-0.323
+26651-我 该 给 你 什么样 的 钱 呢-how shall i get it for you ?-0.323
+28988-另外  您 准备 采用 什么 方式 付款 呢-by the way , how do you like to pay for it ?-0.323
+29529-如果 你 的 名字 不 是 贝基·布朗  我 会 以为 你 是 她 的 女儿 呢-if your name wasn &apos;t becky brown , i would think you were her daughter .-0.323
+29556-你 家 里 的 人 都 好 吗-and how is everyone in your family ?-0.323
+29948-我 是 你 的 邻居  我 家 没有 电话  孩子 生病 了  我 想 叫 医生-i &apos;m a neighbor of yours and i have no phone.my child is ill and i need to call a doctor .-0.323
+30332-我 可以 知道 他 什么 时候 回来 吗-may i know when he &apos;ll be back ?-0.323
+31562-今年 你 打算 在 什么 地方 度过 暑假-where do you intend to spend your summer vacation this year , jane ?-0.323
+31962-梅宝  今年 你 打算 在 什么 地方 度假-where do you intend to spend your vacation this year , mabel ?-0.323
+32287-喂  王 小姐  我 很 好  你 呢-hello , ms. wang . i &apos;m fine , and you ?-0.323
+32386-喂  王 小姐  我 很 好  你 呢-hello , ms. wang . i &apos;m fine , and you ?-0.323
+32664-那 在 尼加拉瓜 瀑布 有 什么 活动 呢-what types of things will we do at niagara falls ?-0.323
+33202-我 喜欢 这 种 式样  你 看 呢-i like this one.what do you think ?-0.323
+33802-这 是 你 的 回执  还 需要 什么-here is your receipt . anything else ?-0.323
+35604-我 要 买 些 什么 东西 来 作为 我 到 这个 城市 旅游 的 纪念 呢-what articles shall i get as a reminder of my trip to this city ?-0.323
+35988-便宜  你 几乎 不 用 花 什么 钱-it &apos;s cheap.you need to pay almost nothing .-0.323
+36493-你 在 一 家 中国 公司 上班 吗-do you work at a chinese company ?-0.323
+38202-你 的 手提包 里 有 些 什么 东西-what &apos;s in your handbag ?-0.323
+38850-在 这 条 街 直 走 直 到 你 到 了 一 家 公共 澡堂-go straight along this street till you come to a public bath .-0.323
+39032-你 是 何时 在 什么 地方 出生 的-when and where were you born ?-0.323
+39402-是 的  但是 你 为什么 要 看 呢-yes , but why do you want to see it ?-0.323
+41275-你 喜欢 吃 煎 得 老 一点 的 牛排 呢  还是 不 要 太 熟 的-do you like the steak well done or under done ?-0.323
+41288-广东 菜 和 北京菜 有 什么 不同 呢-is there any difference between cantonese food and beijing food ?-0.323
+44320-你 还 需要 买 一 双 芭蕾 舞鞋  姿态 训练 的 时候 会 用 得 着-you also need to buy a pair of toe shoes for posture training .-0.323
+45361-准备 工作 是 从 什么 时候 开始 的-when will be preparations begin early ?-0.323
+47269-应该 有 空调 才 对  你 说 呢-there should be air-conditioning , don &apos;t you think ?-0.323
+48408-你 是 不 是 在 暗示 我 什么-are you giving me a hint ?-0.323
+49073-是 的  我 开始 该 做 什么 呢-yeah , what should i start on ?-0.323
+49237-你 从事 会计 工作 的 资格 是 什么-what are your qualifications for being an accountant ?-0.323
+49629-请 问 你 找 他 有 什么 事-may i ask what you wish to see him about ?-0.323
+50092-你 是 怎么 拨打 一 次 就 记住 了 这么 长 的 电话 号码 的 呢-how can you remember such a long telephone number after dialing it only once ?-0.323
+1979-你 要 不 是 中国人  我 真 以为 你 在 箱子 里 装 了 枪枝 弹药 呢-i would think you had firearms in it if you weren &apos;t chinese .-0.322
+3269-你 去 拿 票 的 时候  只要 告诉 他们 你 的 姓名 和 登记 号码 就 可以 了-please give them your name and registration number when you arrive to collect your ticket .-0.322
+4217-你 可以 在 我们 设于 北美 的 任何 一 家 公司 还 车  但 会 酌加 一些 费用-you can leave the car at any of our places in north america , subject to additional costs .-0.322
+7532-不过 你 为啥 不 尝尝 自己 从 未 喝 过 的 酒  比如 “ 淑女 ” 呢-but why don &apos;t you try something new , say , a ladies ?-0.322
+9307-我 要 一 份 蔬菜 色拉  你 呢  汤姆-i &apos;ll have a green salad . what about , tom ?-0.322
+13477-抓举 的 两 种 技术 是 指 什么 呢-but what are the two techniques used in the snatch ?-0.322
+15100-那 可能 使 你 感到 困惑  但 大多数 的 时候 你 仍 用力 把 球 反击 了 回来-it might have confused you , but you still managed to return it with force most of the time .-0.322
+15269-你 知道 主要 的 国际 羽毛球 大赛 有 什么-do you know what are the main international badminton competitions ?-0.322
+17308-那 下 一 步 我们 该 做 什么 呢-now , what shall we do next ?-0.322
+17379-要 送给 你 呢 还 是 你 来 取-would you like to come and collect them ?-0.322
+17873-戴维斯 先生  您 刚才 参观 了 我们 的 展览室  什么 让 您 觉得 印象 最 深 呢-mr. davis , can you tell me what impresses most when you visited our showroom just now ?-0.322
+18121-那么  至少 也 让 我 帮 你 提 一下  到 出口 还 得 走 一 段 路 呢-well , at least let me carry one of them . it &apos;s quite a walk to the exit .-0.322
+18654-九月 二十日  如果 我们 八月 二十日 交货 的话  你 还 有 一 个 月 的 时间 呢-september 20 . you &apos;ll still have one month if we deliver the goods by august 20 .-0.322
+19128-如果 我 能 帮 你 点 什么  我 会 十分 高兴 的  不  我 不 知道 怎么 帮-i &apos;d be glad if i can be of any assistance , but i don &apos;t see how i can help .-0.322
+26656-我 能 帮 你 做 点 什么 吗  太太-what can i do for you , madam ?-0.322
+27071-你 好  我 能 帮 你 什么 忙 吗-hi ! can i help you ?-0.322
+29014-总统 套房 另外 还 有 些 什么 设施 呢-what extras come with a presidential suite ?-0.322
+30716-你 能 告诉 我 他 什么 时间 来 吗-can you tell me what time he &apos;ll be in ?-0.322
+31323-对 了  你 有 没 有 喂养 什么 宠物-by the way , do you have any pets ?-0.322
+31378-你 只要 告诉 我 要 什么  我 就 会 吩咐 管 仓员 在 你 来 这里 之前 准备 好-if you &apos;ll tell me what you want , i &apos;ll have the stock gather it together before you come in .-0.322
+34574-请 向 你 全 家 转达 我 的 问候-give my best regards to your family .-0.322
+35929-他 不 能 确定 什么 时候 回国  所以 买 了 到 西班牙 的 未 限 日期 机票-he bought an open-ticket to spain as he &apos;s not sure when he will return .-0.322
+37908-什么 时候 办理 这 次 航班 的 乘机 手续-what is the check-in time for the flight ?-0.322
+39050-你 和 你 的 经济 担保人 是 什么 关系-what &apos;s the relationship between you and your sponsor ?-0.322
+39256-女士们  先生们  我 给 你们 上 点 什么 呢-what can i offer you , ladies and gentlemen ?-0.322
+40368-一 点点 对 你 不 会 有 什么 坏处-a little of it won &apos;t do you any harm .-0.322
+41766-不 吃 了  谢谢 你  我 正在 减肥 呢-no , thank you . i &apos;m supposed to be slimming .-0.322
+41846-你 知道 这 附近 有 什么 好 餐馆 吗-do you know any good restaurants around here ?-0.322
+42752-第一 届 击剑 锦标赛 是 什么 时候 举行 的-when were the first world fencing championships held ?-0.322
+44285-好 的  可 我 穿 什么 衣服 好 呢-ok.but what should i wear ?-0.322
+47587-你 刚才 一定 是 压 过 了 什么 东西-you must have run over something just now .-0.322
+48842-大约 两 点 半  你 那时 正 开会 呢-about 2 : 30 , you were at a meeting then .-0.322
+49113-谢谢 你 如此 热心  但 我 更 愿 一 个 人 在 家 里 静静 地 过-thanks for your kindness , but i prefer to celebrate my birthday quietly at home .-0.322
+49951-请 问 你 对 这个 问题 持 什么 立场-would you mind telling me your position on the problem ?-0.322
+50248-你 对 性别 歧视 有 什么 特别 的 见解-do you have any particular views on sexual discrimination ?-0.322
+50936-上 周 他 还 和 我 提起 你 呢-and he just spoke to me about you last week .-0.322
+52530-因此  无论 什么 时候  他们 总有 足够 的 精力 和 经济 能力 来 选择 玩乐 的 方式-as a result , they often have enough efforts and financial support to choose to enjoy themselves at any time .-0.322
+296-你 能 给 我 拿 点 什么 读物 来 吗-can you get me something to read ?-0.321
+963-就 在 你 口袋 里 呢  别急  旅途 会 愉快 的-it &apos;s right there in your pocket . don &apos;t worry . it &apos;s going to be a very pleasant flight .-0.321
+2564-这样 的话  您 如何 决定 该 穿 什么 衣服 呢-then , how do you decide what clothes to wear for the day ?-0.321
+3936-什么 时候 需要 我们 的 服务  打个 电话 就 行-give us a call whenever you need our service .-0.321
+4072-你 的 朋友 在 联合 广场 的 什么 地方 等 你-where exactly is your friend waiting at that place ?-0.321
+4622-我 听 不 懂 你 说 的 是 什么 意思-i don &apos;t understand what you mean .-0.321
+6413-到 市 动物园 去 该 在 什么 地方 下车 呢-where do we have to get off for the city &apos;s zoo ?-0.321
+7192-我 能 不 能 问 你 为什么 不 去 呢-and i wouldn &apos;t like to speak with an american accent .-0.321
+9399-我 想 我们 还 没 决定 今天 吃 什么 呢-i don &apos;t think we &apos;ve decided what to have today .-0.321
+13836-你 对 运动员 使用 哪种 的 握法 有 什么 建议-what kind of grip do you recommend for your players ?-0.321
+14868-还 记得 裁判 判 你 带 球 走 的 时候 吗-do you remember when the referee said you &apos;d been traveling with the ball ?-0.321
+14895-所有 的 球迷们 都 在 叫喊  鼓掌  加油  嘈杂 得 很  除 此 之外  你 简直 什么 都 叫 不 到-all the fans shouted and clapped and cheered so much that you could hardly hear anything .-0.321
+15108-你 的 截击 就 像 那样  当 你 打 正手 拍 的 时候  我 根本 不 知道 会 跑到 哪儿 去-your volley-shots were like that . you played a forehand-stroke . i never knew where the ball would go .-0.321
+15576-实际 上  我 足球 踢 得 很 好  你 呢-in fact , i &apos;m a very good football player . what about you ?-0.321
+15664-你 对 中国 国家 足球队 的 水准 有 什么 看法-what do you think about the standard of play of chinese national football team ?-0.321
+16008-你 认为 运动员 饮食 中 最 主要 的 部分 是 什么-which do you think is the most important part of an athlete &apos;s diet ?-0.321
+16340-我 在 十几 岁 的 时候 从事 过 帆船 运动  还 曾经 代表 过 我 市 参加 过 一些 比赛 呢-i was engaged in sailing in my teens and i once represented my city in some competitions .-0.321
+16824-我 原来 以为 这些 运动员 你 全 都 知道 呢-i thought you knew all of them .-0.321
+17086-你 知道 在 我 小 的 时候  我 总 喜欢 与 我 弟弟 或 妹妹 进行 摔跤  但 最后 总是 我 输-you know when i was young , i always liked wrestling with my brother or sister , but in the end i was usually defeated .-0.321
+17180-你 所 说 的 “ 对手 受罚 ” 是 什么 意思-what do you mean by &quot; by default &quot; ?-0.321
+17252-那么 比赛 的 前 一 天 是 什么 样子 呢-and what about the day before a race ?-0.321
+17656-申请 理赔 付款 时  得 准备 些 什么 文件 呢-what are the documents needed to obtain payment ?-0.321
+18272-哦  我 明白 了  那 就 适用 什么 实体法 呢-oh , i see . then , what about the applicable substantive law ?-0.321
+19046-你 可以 建立 一 家 完全 属于 你们 的 公司  或 找 一 名 中国 伙伴 建 一 个 合资 企业-you may set up a company completely owned by yourselves or a joint venture with a chinese partner .-0.321
+19289-要 不 要 我 为 你 备妥 一些 说明书 呢-shall i get some literature together for you ?-0.321
+19886-贵 公司 能 提供 什么 货品  来 与 目前 我们 在 市场 上 看到 的 一些 新 机种 竞争 呢-what can you offer to compete with some of the new models we see on the market nowadays ?-0.321
+21265-我 在 塔 内 能够 参观 到 些 什么 呢-what can i see within the tower ?-0.321
+21322-上面 告诉 你 开学 那天 研究生 应该 到 什么 地方 去-it tells you where post-graduates should go on the first day of the term .-0.321
+21619-当 你 参观 的 时候  你 会 发现 它 决 不 仅仅 只 是 特色 风貎 和 自然 景观 的 集成-when you visit it , you &apos;ll find that yellowstone is more than a collection of scenic features and natural curiosities .-0.321
+22000-你 知道 《 美国 丽人 》 什么 时间 上映 吗-do you know when american beauty will be on ?-0.321
+22885-大夫  你 能 告诉 我 这 是 治 什么 的 吗-doctor , what &apos;s this for , can you tell me ?-0.321
+23003-这 以后 你 想 吃 什么 就 吃 什么  不过  短期 内 即使 想吃  也 不 要 吃 得 太 多-after that you may eat what you like , but don &apos;t overeat for a while even if you have an appetite .-0.321
+25901-这 决定 你 想 泡 什么 茶  中国 茶 分为 绿 茶  白 茶  乌龙茶  红 茶  黑 茶  花茶-that depends on what kind of tea you want to make , the chinese tea is classified into green tea , white tea , oolong tea , black tea , pu &apos;er tea and scented tea .-0.321
+26773-这 笔 款 您 想 以 什么 方式 兑换 呢-well , do you have any preference as to the kind of money to be paid .-0.321
+29580-我 现在 没有 什么 主意  你 有 什么 建议 吗-i have no idea at this moment . do you have any suggestions ?-0.321
+31602-嗯  那 美国人 吃 的 典型 晚餐 是 什么 呢-well . then what would be a typical dinner for americans ?-0.321
+32430-嗯  我 不 是 有意 想到 你 家 吃 晚饭 的-well , i didn &apos;t mean to invite myself over for dinner .-0.321
+34476-你 的 班次 及 本来 的 出发 日期 是 什么-what is your flight number and the original departure date ?-0.321
+38320-你 到 本 国 来 旅行 的 目的 是 什么-what is your purpose for visiting this country ?-0.321
+38766-沿 这 条 街 走 下去  在 第二 个 红 绿 灯 拐角处 你 会 看到 一 家 很 大 的 书店-go down this street . at the second signal you &apos;ll find a large bookstore on the corner .-0.321
+41243-我 不 想 吃 一 顿 扎实 的 午饭  你 呢-i don &apos;t feel like eating a full lunch . how about you ?-0.321
+41305-我 给 您 二 位 拿 些 什么 饮料 呢-what can i get you to drink ?-0.321
+42296-你 能 告诉 我 这里 有 什么 色拉 配料 吗-can you tell me what salad dressing they have here ?-0.321
+44711-你 认为 你们 国家 最 流行 的 运动 项目 是 什么-what would you say are the most popular games in your country ?-0.321
+51397-我 可以 问 你 这 次 来 有 什么 事 吗-may i ask what your business you &apos;re here to do ?-0.321
+3558-请 你 在 一 家 花 店 前 停 下来 好 吗-can you make a stop in front of a flower shop ?-0.32
+3602-但 你 知道 广东 风味 菜 的 主要 特点 是 什么 吗-but do you know what &apos;s the main characteristic of guangdong flavour dishes .-0.32
+4235-还 有 一 个 问题  如果 买 全 保 会 有 什么 分别 呢-one last question . what difference does it make if i get full insurance coverage ?-0.32
+5966-劳驾  请 你 告诉 我 B . H. 超级 市场 在 什么 地方 好 吗-pardon me . can you tell me where the b.h. supermarket is ?-0.32
+6275-你 不 需要 他们 的 时候  好像 到处 都 有 不少 警察  而 你 想 叫 警察 的 时候  你 猜猜 看 会 怎么样-there always seem to be quite a lot about when you don &apos;t need them , but when you want to call the police , guess what happens !-0.32
+9961-那天 我 的 一 位 中国 朋友 告诉 我  附近 有 一 家 很 不错 的 餐馆  我们 何 不 去 那里 吃饭 呢-one of my chinese friends told me other day that there &apos;s an excellent restaurant near here . why don &apos;t &apos; we have our dinner there ?-0.32
+10712-你 能 告诉 我 ” 多尔麦 得 其 啊 ” 是 什么 吗-could you tell us what &quot; dolmadakia &quot; is , please ?-0.32
+11880-让 我 想 一 想  今天 菜单 上 还 有 什么 菜 呢-let me see . what else have you got on your menu ?-0.32
+12694-不过 我 很 惊讶 你 竟然 能 顺利 地 找到 我们 家-but i &apos;m surprised to know you could find our house smoothly .-0.32
+12719-我们 找 不 着 你 的 家 了  走错 了 好 几 个 门-i couldn &apos;t find your house . i went to wrong address .-0.32
+12944-告诉 我  除了 贝基 以外  你 还 有别 的 什么 名字 吗-tell me , do you have any other name beside becky ?-0.32
+12989-我 认为 大西洋 彼岸 并不 是 很 近 的 地方  阳光仔  你 说 呢-i wouldn &apos;t call the other side of the atlantic a place very near , would you , sunny boy ?-0.32
+13479-接着 你 想 问 它们 之间 的 区别 是 什么  对 吗-and next you want to ask what the difference between them is , am i right ?-0.32
+14023-你 知道 三 局 两 胜 或 五 局 三 胜 是 什么 意思-do you know what &quot; best of three or best of five games &quot; mean ?-0.32
+14533-你 知道 C 队 对 D 队 的 棒球赛 什么 时间 开始 吗-do you know when the baseball match between team c and team d will begin ?-0.32
+14919-怀特 先生  您 在 业余 时间 通常 都 做 些 什么 呢-what do you usually do in your spare time , mr. white ?-0.32
+14945-你 好  我 先 自我 介绍  我 叫 陈林  你 叫 什么 名字-how do you do ? let me introduce myself. my name is chen ling . what is your name ?-0.32
+15037-我 其实 应该 请教 教练 的  你 能 不 能 告诉 我  要 锻炼 我 的 背部 该 用 哪 一 种 器械 比较 好 呢-i should have asked the trainer , but can you tell me which machine is good to exercise my back ?-0.32
+16272-你 说 你 从 不 错过 BNA 比赛  那 是 什么 意思-what do you mean by saying you &quot; never miss nba &quot; ?-0.32
+17615-那么  “ 水渍 险 ” 与 “ 平安 险 ” 有 什么 区别 呢-just what is the difference between w.p.a. and f.p.a. ?-0.32
+17626-郭 先生  我 并不 想 叫 你 气恼  不过 我 还 抓 不 住 要领  你 能否 用 更 简单 的 语言 谈 一 谈 呢-i don &apos;t mean to annoy you , mr. ku , but i don &apos;t quite grasp this . couldn &apos;t you say it in simpler terms ?-0.32
+17941-你 有 没 有 介绍 您 的 公司 产品 的 目录 或 别 的 什么-do you have a catalogue or something that tells abut your company ?-0.32
+18301-张 先生  我 什么 时候 可以 得到 你方 成本 加 运费 保险费 价 的 实 盘  也 就 是 最终 一 次 的 有效 报价-when can i have your firm c. i.f. prices , that is , the final and firm offer , mr. zhang ?-0.32
+18463-史密斯 先生  请 你 放心  我们 一定 大力 配合  您 经营 什么 商品-let me assure you of four best attention , mr. smith , what &apos;s your line of business ?-0.32
+18779-假如 在 补偿 进行 到 一半 时  我们 不 能 再 向 你 购买  或者 你们 不 能 再 卖给 我们  这 该 怎么 办 呢-what if we can &apos;t buy from you , or you can &apos;t sell to us , in the middle of the compensation ?-0.32
+18799-能 不 能 请 你 保证 在 我们 开 的 远期 信用证 到期 的 时候  你 向 我们 采购 的 累计 总值 应该 同 我们 的 信用证 总值 一样-would you please also guarantee that by the time our issuance l / c is due , the accumulative value of your purchase from us will be the same as that of our l / c.-0.32
+19966-关于 银行 保证  我们 可以 请 中国 银行 担保  你 有 什么 具体 建议 吗-as to the guarantee of a bank , we may ask for a guarantee from the bank of china . do you have any specific proposal in mind ?-0.32
+20775-我 想 先 谈 一下 包装 和 包装 设计 的 问题  得体 的 包装 与 产品 的 质量 一样 重要  你们 用 什么 来 包装 丝绸 呢-i &apos;d like to talk about packing and packaging . proper packaging is as important as the quality of the product itself . what do you use for packing silks ?-0.32
+20862-早上 好  豪斯 先生  昨晚 往 你 家 打 电话 了 吗-good morning , mr. house . you contacted home last night ?-0.32
+21333-你 要 知道  李 小姐  这 所 大学 的 学生 不 住校 内 宿舍 ； 他们 如果 家 不 在 伦敦  一般 就 住校 外 宿舍 或者 膳宿 所-you see , miss li , students in this university don &apos;t live in dormitories ; they stay in hostels or boarding-houses as a rule , if they don &apos;t have homes it london .-0.32
+22695-顺便 问 一 声  请 认为 治 晒斑 用 什么 药 好 呢-by the way , what do you suggest for sunburn ?-0.32
+22806-刚才 卡洛斯 刚 跟 他 谈过  他 还 说 要 驱车 前来 看 你 呢-carlos was just talking to him and he said he was getting ready to drive over to see you .-0.32
+23644-这里 有 很多 种 布鞋  有 布 底 布鞋 和 红 塑料 底 布鞋  白 塑料 底 布鞋  你 喜欢 哪 一 种 呢-there are different kinds of cloth shoes . we have cloth shoe-soles and plastic shoe-soles with vermilion or white colours , which one do you prefer ?-0.32
+27472-这 是 我 的 护照 ； 你 登记 的 时候 可以 按 护 照抄 下 我 的 姓名 和 你 想要 了解 的 所有 其他 事项-here is my passport ; when you do the registration , you can copy my name and all the other things you want to know from the passport .-0.32
+28311-孙林  我 是 不 是 提醒 你 一下  你 好像 忘记 了 什么-sun lin , may i remind you of something that you seem to have forgotten ?-0.32
+30348-她 跟 她 哥哥 去 打 保龄球 了  她 跟 我 说 她 9 点 会 回来  或许 你 那个 时候 再 打来 看看-she went bowling with her brothers . she told me would be back by 9 o &apos;clock . maybe you can try calling back then .-0.32
+31541-就 两 天 时间  我 在 这儿 能 游览 些 什么 地方 呢-what can i see in my two days here ?-0.32
+31825-公共 汽车 是 要 经过 些 小街  但 您 还 没有 反应 过来 的 时候  公共 汽车 又 把 您 载 回到 现代 世界 了-the bus does take you across some narrow streets . but before you know it , you may have come into the modern world .-0.32
+36061-“ 你 所谓 的 ‘ 暗示 保险 ’ 是 什么 意思  ”-&quot; what exactly do you mean by an &apos; implied warranty &apos; ? &quot;-0.32
+38267-不  只有 你 有 值钱 的 东西 要 申报 的 时候 才 需要 填  还 有 那些 在 中国 买 的 需要 上税 的 东西-no , you need to fill it out only when you have something valuable to declare and something dutiable you bought it china .-0.32
+44459-你 建议 羽毛球 运动员 还 要 采用 其他 什么 形式 的 练习-what other forms of exercise do you recommend for the badminton player ?-0.32
+46391-就 像 卡尔 指出 的 : “ 一旦 你 踏上 了 起 跳板  就 快 得 你 根本 什么 都 记 不 起来 了 ”-as carl noted , &quot; once you hit the board , it &apos;s so quick you can &apos;t remember it . &quot;-0.32
+47004-你 好 , 我 叫珍娜 , 我 要 指导 你 做 这 工作 , 所以 如果 你 有 什么 问题 , 可以 问 我-how do you do ? my name is janet . i &apos;ll be training you for this position , so if you have any questions . i &apos;m the person to ask .-0.32
+48113-告诉 你 吧  他 奇怪 的 脑袋 里 想 什么 就 说 什么-to tell you me truth , he says whatever comes into his funny head .-0.32
+50287-有 必要 先 让 我 了解 公司 的 组成 情况  你 说 呢-it &apos;s necessary for me to understand the organization of our company first , isn &apos;t it ?-0.32
+50537-你 认为 好 的 单位 中  决定 一 个 人 进步 的 因素 是 什么-what do you think determines a person &apos;s progress in a good organization ?-0.32
+1836-你 逮捕 我 之前  一定 要 对 我 说 清楚  我 到底 犯 了 什么 法-before you arrest me , you must tell me exactly how i happen to have broken the law !-0.319
+6354-是 不 是 因为 有 一 位 既 英俊 又 聪明  且 精通 世故 的 人 陪 着 你 旅行 呢-because you &apos;re traveling with such a good-looking , intelligent man-of-the-world on this trip ?-0.319
+20677-你 是 宁可 赚 20% 的 利润  而 每 月 只 将 货物 周转 一 次  还是 宁可 每 月 只 赚 16% 的 利润  但 每 月 将 你 的 货物 清销 几 次 呢-would you rather make 20 % and turn them over only once a month or would you rather make a l6 % profit and turn your goods over several times a month ?-0.319
+23634-这 就 是 6 号 半 的  我 为 你 换 顶 7 号 的  您 太太 最 喜欢 什么 颜色-that &apos;s the size six and a half . i &apos;ll change a size seven for you . and which color does she like best ?-0.319
+26809-好吧  我 还 有 几 个 问题 要 先 问 一下 你  然后 呢  你 还 需要 填写 这些 申请表-well , i &apos;ve got a few more questions to ask you first . and then you need to fill out these application forms .-0.319
+46299-两 岁 的 时候  卡尔 和 全 家 人 一起 搬到 了 新泽西州 的 威林布罗  在 那里  他 的 父母 在 相互 竞争 的 中学 里 分别 找到 了 教学 和 教练 的 工作-at the age of two , carl went along with his family to willingboro , new jersey , where his parents had found jobs teaching and coaching for rival high schools .-0.319
+46638-如今 连 旧 的 跳远 记录 也 被 刷新 了  卡尔·刘易斯 面前 还 剩下 什么 呢-what &apos;s ahead for carl lewis , now that the old long jump record has been broken ?-0.319
+51594-如果 您 在 阅读 此信 和 所 附 的 简历 后 觉得 我 正 是 你们 所 需要 的 人选  请 拨 简历 上 注明 的 家庭 电话 或 在 上班 时间 拨打 753286  通知 我 什么 时候 您 觉得 方便-if you agree , upon reading this letter and the enclosed resume , that i am the person you need , call me at the home number listed in the resume or at 7543286 during office hours . please let me know when it would be convenient to see you .-0.319
+51640-除了 申谢 以外  我 实在 不 知道 该 说 些 什么 才 好  当 我 今晚 受邀 来 此 的 时候  我 并不 知道 会 发生 这 件 事  因此 我 也 没有 准备 要 说 的 话-i really don &apos;t know what to say except &quot; thank you &quot; .when i was invited here tonight , i had no idea that this was going to happen , so i haven &apos;t prepared anything to say .-0.319
+1114-想必 你 不 愿意 一 夜 都 睡 不 着 觉  可是 在 我们 到达 目的地 之前 不 会 有 什么 夜晚 的-i suppose you don &apos;t want to be kept awake in the night , but there won &apos;t be any night before we reach our destination .-0.318
+20836-你 有 重新 商栓 的 权力  而且 如果 发现 货物 的 质量 和 数量 与 合同 和 提单 上 规定 的 不 一样 的话  可以 向 我们 提出 索赔  不 会 有 什么 风险 的-you have the right of re-inspection . and you may lodge claims with us if you find the quality or quantity does not conform to the contract and the bill of lading . there &apos;s no risk involved .-0.318
+23645-我 也 不 知 哪 种 更 好  我 只 知道 中国 的 布鞋 穿上 很 舒服 的  刚才 你 所 提及 的 布底 和 塑料 底 布鞋 有 什么 不同 吗-i have no idea . i only know that chinese cloth shoes are very comfortable to wear . but anyway , is there any difference between what you have mentioned , cloth shoe-soles and plastic shoe-soles .-0.318
+28439-一 张 手纸 都 没有  并且 抽水 马桶 不 正常 冲洗  淋浴 龙头 里 的 水 总 流 不 完  我 还 缺 一 个 枕头  对 此 你 怎么 解释 呢-there &apos;s not a scrap of lavatory paper and the toilet doesn &apos;t flush properly , the water doesn &apos;t run away in the shower and i would like an extra pillow . what have you to say to that ?-0.318
+46337-“ 行 ”  他 的 教练 说 : “ 如果 你 能 把 跑 100 码 的 速度 提高 到 9.5 秒  你 再 也 不 用 跨 什么 栏 了  ”-&quot; fine , &quot; said his coach . &quot; if you can get your 100 time down to 9.5 , you won &apos;t have to run any more hurdles . &quot;-0.318
+51716-如果 你 遇到 了 什么 问题  只要 告诉 任何 一 位 穿 着 红 外套 的 人员 即 可  这些 人 都 是 本地 的 市民  他们 组成 了 一 个 接待 委员会  以 给予 我们 所有 的 访客 特别 的 欢迎  并 协助 解决 任何 可能 发生 的 问题-should you experience problems of any sort , just talk to any of the people with the red coats.these people are a group of our local citizens who have formed a hospitality committee to extend a special welcome to all our visitor and to help with any problems which may arise .-0.318
+51732-我们 很 乐观  因为 这 次 会议 是 朝 正确 方向 迈出 的 重要 一 步  我们 希望 到 这个 星期 结束 的 时候  会 发觉 大家 都 渴望 返回 自己 的 家园  回到 家人 跟前 以及 工作 岗位 上  准备 继续 为 地球 的 生存 而 奋斗-we are optimistic that this conference is an important beginning step in the right direction.we hope by the week &apos;s end to find all of you eager to return to your homes , families , and jobs ready to continue the struggle for the earth &apos;s survival .-0.318
+52484-如果 你 在 一 家 鱼 和 炸 土豆片 商店 购买 午餐  则 鱼 和 炸 土豆片 往往 是 用纸 包住 的  这里 增添 了 这 种 菜肴 的 风味-if you buy your lunch from a fish and chips shop , it will often be wrapped up in paper . it all adds to the flavour !-0.318
+19961-在 我们 中国  现在 出现 了 许多 联合 企业  虽然 都 是 社会主义 所有制  但 联合 企业 内部 各 单位 也 要 实行 独立 核算  自 负 盈亏 的  就 你们 这个 跨国 公司 的 分号 来说  我们 是 了解 的  单独 制造 我们 要 买 的 这些 成套 设备 也 是 豪 无 问题 的  况服 必要 的 时候 你们 总部 还 会 给予 财务 帮助 呢  我 相信 你们 总部 的 董事 所 说 你们 在 与 中国 做 生意  在 批准 财务 帮助 方面 是 会 给予 有利 的 考虑 的-although all of them are socialist in ownership , each branch or unit within the associated enterprise is also independent in finance and responsible for its own financial gain or loss . we are well aware that there will be no financial problem at all if your branch manufactures the complete plant single-handedly . besides , if necessary , you could still get financial aid from the head office . i &apos;m sure that the board of the directors will give favourable consideration to authorizing financial help to your branch when they are told your branch is doing business with china .-0.317
+293-我 把 餐车 服务员 找来  您 可以 告诉 他 你 要 吃 什么-i &apos;ll ask the dining-car attendant to come and you can tell him what you want .-0.316
+652-喂  你 有 什么 建议-well , what &apos;s your suggestion ?-0.316
+1118-我 想 广播员 会 告诉 我们 什么 时候 调-the announcer will tell us when to do it , i think .-0.316
+1166-小姐  请 问 我们 什么 时候 着陆-excuse me , miss . when will we land ?-0.316
+1254-小姐  请 问 我们 什么 时候 降落-excuse me , miss . when will we land ?-0.316
+1339-请 问 你 到 日本 做 什么-what do you do in japan , if i may ask ?-0.316
+2079-请 问 飞机 都 什么 时候 起飞-may i inquire about the departure time ?-0.316
+2633-从 市区 开出 的 最后 一 班 车 是 什么 时候-when is the last bus going out from downtown ?-0.316
+2882-从 市区 开出 的 最后 一 班 车 是 什么 时候-when is the last bus going out from downtown ?-0.316
+3174-好 的  先生  您 想 什么 时候 走-very good , sir.when do you want to travel ?-0.316
+3176-我们 有 上午 11:05 和 下午 2:00 的 航班  您 要 什么 时候 的-we have a morning flight leaving at 11 : 05 a.m. and an afternoon flight leaving at 2 : 00 p.m. which do you prefer ?-0.316
+3255-哪 一 种 车  什么 时候-yes . on which train and on what day ?-0.316
+4424-真 多  你 带 了 些 什么-that &apos;s a lot . what did you bring with you ?-0.316
+4670-我 还是 听 不 懂 你 说 什么-i still don &apos;t understand you .-0.316
+4692-对 不 起  你 说 什么-pardon ?-0.316
+4876-先生  请 告诉 我 你 叫 什么 名字-would you please tell me your name , sir ?-0.316
+5559-好  我 大致 可以 肯定 你 在 什么 地方 了-now i &apos;m almost sure where you are .-0.316
+6356-午餐 你 要 吃 什么-what would you like for lunch ?-0.316
+6454-请 问  到 伦敦 的 火车 什么 时候 开-when does the london train leave , please ?-0.316
+6654-下 一 趟 去 无锡 的 火车 什么 时候 开-when is the next train to wuxi ?-0.316
+6683-下 一 班 什么 时候 开-when does the next train leave ?-0.316
+6756-请 问  到 伦敦 的 火车 什么 时候 开-when does the london train leave , please ?-0.316
+6767-我们 到 那 是 什么 时候-when do we get there ?-0.316
+8354-格雷戈里 夫人  您 什么 时候 光临-when would you like your table , ms. gregory ?-0.316
+8371-史密斯 先生  您 打算 什么 时候 来-at what time will you come , mr. smith ?-0.316
+8435-请 问 宴会 什么 时候 举行-when would you like your party ?-0.316
+8606-请 问 你 叫 什么 名字-may i have your name please , sir ?-0.316
+8705-请 问 先生 什么 时候 光临-when do we expect you to come , sir ?-0.316
+8723-琼 小姐  宴会 订 在 什么 时候-when would you like your banquet ?-0.316
+8847-我 想 知道 贵 餐厅 的 早 茶 什么 时候 开始-i &apos;d like to know when the morning tea begins in your restaurant ?-0.316
+9216-让 我 查 一 查  请 问 你 叫 什么 名字-let me check the reservation list . can i have your name , please .-0.316
+9833-服务员  看 你 做 了 些 什么-waiter , look what you &apos;ve done .-0.316
+10011-要 的  你 看 什么 汤好-yes , what sup do you recommend ?-0.316
+10525-我 可以 帮 到 你 什么 吗-what can i help you with ?-0.316
+10529-好 的  你 想 喝 点 什么-ok . what would you like to drink ?-0.316
+11198-请 问 你 要 什么 牌子 的-which brand would you prefer ?-0.316
+11628-我 想 点 杯 配餐 的 酒  你 有 什么 建议 吗-i &apos;d like to have some wine with my meal . what do you suggest ?-0.316
+11672-史蒂夫  你 想要 点儿 什么-what would you like to have , steve ?-0.316
+12279-你们 的 自助 餐厅 什么 时候 营业-what are the business hours for your buffet ?-0.316
+12446-贵 店 开到 什么 时候-until what time are you open ?-0.316
+12588-请 问 宴会 什么 时候 举行-when would you like your banquet ?-0.316
+13044-告诉 柜台 后面 的 人 你 要 什么-tell me man behind the counter what you want .-0.316
+13117-是 的  你 想要 什么-yes . what are you going to have ?-0.316
+14101-比尔  这 是   对 不 起  你 叫 什么-bill , this is . , sorry , what &apos;s your name ?-0.316
+15571-你们 下场 比赛 是 什么 时候-when is your next match ?-0.316
+16125-中心 在 哪  什么 时候 开门-where is it located ? when will it be open ?-0.316
+16267-咳  你 最 喜欢 什么 运动-say , what &apos;s your favorite sport ?-0.316
+18342-我 今天 晚上 给 国内 公司 打 长途 电话  向 他们 报告 这 件 事  我们 下 一 次 在 什么 时候 碰头-i &apos;ll call my home office tonight and let them know about it . when do we meet again ?-0.316
+18786-这 方面 你 有 什么 建议-what &apos;s your suggestion for that ?-0.316
+19303-规格 方面  你 有 什么 细目 吗-do you have any particulars about the specifications ?-0.316
+19490-投标 期限 定 在 什么 时候-what &apos;s the time set for the bidders to submit their bids ?-0.316
+19498-贵 公司 准备 什么 时候 开标-when do you expect to open the tender ?-0.316
+20630-但 你 要 我 做 什么-what would you like me to do ?-0.316
+20977-请 问 你 叫 什么 名字-may i have your name ?-0.316
+21045-吉姆  这个 周末 你 有 什么 安排-jim , are you doing anything special this weekend ?-0.316
+21173-能 帮 你 什么 吗-can i help you ?-0.316
+21587-那 该 是 什么 时候-when would that be ?-0.316
+21676-晚场 的 电影 什么 时候 开始-what time does the evening presentation start ?-0.316
+21782-那么 你 有 什么 建议-what do you suggest then ?-0.316
+21981-放映 时间 是 什么 时候-what are the showing times ?-0.316
+22667-顺便 问 一下  对于 晒斑  你 建议 用 什么 药-by the way , what do you suggest for sunburn ?-0.316
+22847-会 是 什么 病 呢  医生-what seems to be the matter , doctor ?-0.316
+24359-嘿  乔  你 在 这儿 干 什么-hey , joe , what are you doing here ?-0.316
+24620-好 的  请 问 什么 时候 送到-all right . when will it reach me ?-0.316
+25652-再 问 一下  什么 时候 安装-then i think i &apos;ll take one . by the way , when will it be installed ?-0.316
+26726-请 问 你 有 什么 事-what can i do for you ?-0.316
+26976-请 问 你 叫 什么-may i have your name , please ?-0.316
+27104-早上 好  我 能 帮 你 做 什么 吗-good morning . what can i do for you ?-0.316
+27160-噢  你 叫 什么 名字-ehm , what &apos;s your first name ?-0.316
+27431-先生  谢谢 您 的 等候  名单 上 没有 他 的 名字  他 应该 什么 时候 到-thank you for waiting , sir . i &apos;m afraid his name does not appear on the list . when is he due to arrive ?-0.316
+27853-传真 您 想 什么 时候 发-when do you expect to have it faxed ?-0.316
+28127-我 还 能 为 你 做 点 什么-anything else i can do for you ?-0.316
+28806-晚上 好  夫人  能 为 你 做 些 什么-good evening , madam . may i help you ?-0.316
+28945-我 能 帮 你 做 些 什么-can i help you ?-0.316
+28963-还 能 为 你 做 点 什么-is there anything i can do for you ?-0.316
+29215-请 问 我 得 在 6 月 11 日 的 什么 时候 退房-can you tell me what time i have to book out on june 11 ?-0.316
+30537-噢  这样  他 什么 时候 回来-i see . when will he return ?-0.316
+30663-谢谢 你  你 挂 什么 号码-thank you . what number are you calling ?-0.316
+31108-我 想 送 礼物 给 你  你 喜欢 什么-i want to give you a present . what would you like ?-0.316
+31507-下 周末 你 打算 安排 什么 活动-what are you planning for next weekend ?-0.316
+31584-所以  你 想 看 些 什么-so what do you want to see ?-0.316
+32611-能 帮 你 什么 吗-can i help you ?-0.316
+32749-我 能 帮 你 做 点 什么-can i help you ?-0.316
+32814-请 问 飞机 什么 时候 起飞-what time does it leave ?-0.316
+33340-先生  你 要 理 什么 发式-how do you want it , sir ?-0.316
+33467-我 能 帮 你 什么 忙-what can i do for you ?-0.316
+33871-有 什么 可以 帮 你 吗-what can i do for you ?-0.316
+34351-请 问 行李 什么 时候 到-when can i get it back ?-0.316
+34440-我们 到达 时  当地 时间 是 什么 时候-what &apos;s the local time when we arrive ?-0.316
+34679-我 想 浏览 一下 本市  你 有 什么 好 主意-i want to have a tour of the city .-0.316
+34882-去 罗马 的 列车 什么 时候 开出-when does the train to rome leave ?-0.316
+34883-从 纽约 来 的 列车 什么 时候 到达-what time does the train from new york get in ?-0.316
+34884-下 一 班 从 东京 来 的 列车 什么 时候 到达-when does the next train from tokyo arrive ?-0.316
+34885-请 问 下 一 班 去 香港 的 列车 什么 时候 开车-would you please tell me when does the next train to hong kong leave ?-0.316
+34886-开往 纽约 的 列车 什么 时候 到达-what time does the train to new york due to arrive ?-0.316
+35270-今天 到 U 去 的 最后 一 次 车 什么 时候 开-when does the last train leave for u today ?-0.316
+35271-下 一 趟 到 V 去 的 车 什么 时候 开-what time is the next train for v ?-0.316
+35993-这个 周末 你 有 什么 打算-do you have any plans for this weekend ?-0.316
+36295-我 能 帮 你 什么 吗-what can i do for you ?-0.316
+36883-我 没 听 清楚 你 说 什么-i didn &apos;t hear you clearly .-0.316
+36888-请 问 现在 是 什么 时候-what time is it please ?-0.316
+36911-我 还是 听 不 懂 你 听 说 什么-i still don &apos;t understand you .-0.316
+37682-我 的 菜 什么 时候 好-when will my order be ready ?-0.316
+37928-现在 北京 是 什么 时候-what time is it in beijing now ?-0.316
+37949-请 问 飞机 什么 时候 起飞-may i know the departure time ?-0.316
+37970-我们 该 在 什么 时候 降落-when are we due to land ?-0.316
+38248-在 美国 除了 观光 以外  你 还 打算 做 什么-do you plan to do anything in the usa besides sightseeing ?-0.316
+38636-当 你 到 交叉路口 的 时候-when you come to the crossroads .-0.316
+39031-请 问 你 叫 什么 名字-what &apos;s your name please ?-0.316
+39133-乘 地铁 较 合适 的 时间 是 什么 时候-what is a suitable time to take a subway ?-0.316
+39266-先生  请 您 告诉 我 什么 时候 停-please say &quot; when &quot; , sir .-0.316
+39569-那么 接着 吃 什么 呢  女士-and to follow , madam ?-0.316
+40807-先生  你 想 吃 点 什么-what would you like , sir ?-0.316
+41636-汤类 你 看 点 什么 好-what would you recommend for soup course ?-0.316
+41849-那 要 看 你 喜欢 吃 什么 了-it all depends on what you &apos;d like to have .-0.316
+41888-没 问题  他们 什么 时候 到-no problem.when will they arrive ?-0.316
+42263-今天 余下 的 时间 你 打算 做 什么-what have you got planned the rest of the day ?-0.316
+47433-业余 时间 你 喜欢 干 什么-what do you like to do in your spare time ?-0.316
+47673-对 不 起  打扰 了  你 刚才 说 什么-i &apos;m sorry to have interrupted you . what did you say just now ?-0.316
+47725-我 能 帮 你 什么 忙 吗-can i do something for you ?-0.316
+47749-我 能 帮 你 做 点 什么 吗-could i help you in any way ?-0.316
+47831-不 知道 寒冷 期 什么 时候 过去-i wonder when the cold spell will pass .-0.316
+48225-是 啊  尤其是 你 有 急事 的 时候-yeah . especially when you have something urgent to do .-0.316
+50254-对 他 的 评论 你 有 什么 见解-what &apos;s your reaction to his comment ?-0.316
+50368-明天 你 想 干 什么-what are you going to do tomorrow ?-0.316
+50381-那么 你 有 什么 打算-what &apos;s your intention then ?-0.316
+50883-我 希望 你 到 我 家-i &apos;d like you to come my place .-0.316
+51199-我 能 帮 你 做 些 什么-anything i can do fro you ?-0.316
+48585-没 什么 理由 不 让 你 回去-i don &apos;t see any reason why not .-0.315
+8419-如 有 什么 变化  另 打 电话 通知 你-if there is any change , i &apos;ll call you again .-0.314
+16421-只有 涨潮 的 时候  你 才 可以 跳-for you won &apos;t be able to dive off the rocks . just when the tide is in , you &apos;ll be able to dive .-0.314
+16591-只有 涨潮 的 时候  你 才 可以 跳-just when the tide is in , you &apos;ll be able to dive .-0.314
+20282-有 什么 你 特别 感兴趣 的 工作 吗-anything in particular that appeals to you ?-0.314
+21739-上演 什么 剧 啦  令 你 那么 感 兴趣-what &apos;s on that interests you ?-0.314
+33414-吹风 的 时候 你 要 剪 指甲 吗-are you planning to have a manicure while you &apos;re under the dryer ?-0.314
+37140-如果 有 什么 事  我 再 来 找 你-i &apos;ll come and tell you if i need your help .-0.314
+40535-您 在等 的 时候  要 什么 别 的 吗-would you like something else while you &apos;re waiting ?-0.314
+41099-有 什么 好 菜 你 可以 推荐 吗-are there any dished you would recommend ?-0.314
+43975-没 什么  我 可以 将 一切 情况 告诉 你-never mind , we can tell you all about it .-0.314
+49243-有 什么 你 特别 感兴趣 的 工作 吗-anything that specially appeals to you ?-0.314
+50946-这 是 我们 全 家 给 你 的 礼物-this gift if from my family .-0.314
+77-当 车长 过来 的 时候  你 何 不 问问 他-why don &apos;t you ask the conductor when he comes by ?-0.313
+11409-有 什么 典型 的 美国 菜 你 可以 推荐 吗-are there any typical american dishes you would recommend ?-0.313
+13339-如果 我们 想 吃 点 什么  等 下 会 叫 你-if we want to have anything more , we &apos;ll call you later .-0.313
+36206-也许 我们 说话 的 时候 你 错过 了 那 地方-you might have missed seeing it while we were talking .-0.313
+5856-如果 我们 的 商品 有 什么 问题  你 可以 回来 找 我-if there &apos;s anything wrong with our goods . you may come back to me .-0.312
+11295-我们 还 没 决定 要 什么  请 你 再 等 一下 好 吗-we haven &apos;t decided yet . could you give us a little longer ?-0.312
+11581-如果 我们 想 再 吃 点 什么  等 一下 会 叫 你-if we want to have anything more , we &apos;ll call you later .-0.312
+14713-我 要 投篮 的 时候  你 碰 着 我 的 手肘 了-you hit my elbow when i was shooting .-0.312
+17314-我 一 找到 两  三 家 愿 卖 的 厂家 你 就 来-as soon as i have two or three offers .-0.312
+19093-高 先生  什么 价格 水平 你 大概 认为 可以 做 得 开-mr. gao , would you give us an idea of the price you regard as workable ?-0.312
+31590-星期天 下午 我们 得 去 伯恩 家 参加 露天 烧烤会  你 还 记得 吧-we &apos;ll go to mr bowen &apos; home for a barbecue party on sunday afternoon . do you still remember ?-0.312
+40655-有 人 还 回来 的 时候  我 会 带给 你 一 份-we will bring you one when one is available .-0.312
+46929-如果 威廉 先生 需要 什么 电脑 资料  你 可 优先 使用 这 台 终端机-if mr. williams needs any information from the computer , you will have priority on this terminal .-0.312
+48025-去 看 电影 和 在 家 里 看 电视  你 挑 哪 一 个-going to the cinema or staying at home watching tv , what &apos;s it to be ?-0.312
+48830-哦  趁 我 没忘 的 时候 告诉 你  总经理 下午 做 报告-oh , while i remember , our general manager is going to a report this afternoon .-0.312
+14513-在 我们 观看 比赛 的 时候  你 可以 给 我 解释 一下 关于 棒球赛 的 知识 吗-will you please explain to me something about the game while we are watching it ?-0.311
+14546-在 我们 观看 比赛 的 时候  你 可以 给 我 解释 一下 关于 棒球 的 知识 吗-will you please explain to me something about game while we are watching it ?-0.311
+19458-如果 华生 先生 有 什么 不同 意见 的话  可以 对 计划 稍加 修改  你 看  这样 行吗-if mr. watson wants to make any changes , minor alterations can be made then . will that suit you ?-0.311
+29801-要是 有 什么 其他 的 事 要 我 为 你 做 的话  你 就 告诉 我-but let me know if there &apos;s anything else i can do for you .-0.311
+30100-顺便 提 一下  星期五 我 要 在 家 里 开 派对  你 能 不 能 来-by the way , i &apos;m having a party at my house on friday . can you come ?-0.311
+48860-哦  趁 我 还 没 忘记 的 时候 问 一下  你 把 信 给 吉姆 了 吗-oh , before i forget , did you give the letter to jim ?-0.311
+49418-我 的 助手 说  今天 早上 我 不 在 的 时候  你 来 过 电话-my assistant told me that you called me when i was out this morning .-0.311
+50856-明天 是 我 的 生日  我 要 在 家 里 开个 舞会  我 希望 你 能 去-tomorrow is my birthday and i &apos;m throwing a party at my place , i hope you can make it .-0.311
+18016-好吧  因为 我们 还 有 一 家 厂子 要 看  请 考虑 一下 李 先生 的 出价  胡 先生  如 你 有 兴趣  我们 再 回来-well , as we have one more factory to visit , please think about mr. li &apos;s bid , mr. ho . we &apos;ll come back if you are interested .-0.31
+19109-做 生意 的 时候  我们 应该 谨慎  但 你 也 会 同意 我 的 看法  即 我们 不 应该 过分 小心-we should be prudent when doing business , but you will also agree with me that we should not get overcautious .-0.31
+19114-唔  你们 目前 的 状况 确实 不错  但 一 家 公司 的 未来 有时 是 难于 预测 的  你 不 认为 是 这样-mmm , your present standing is impressive , but a business firm &apos;s future is somewhat unpredictable , don &apos;t you agree ?-0.31
+23001-胃 没有 什么 大 问题  你 不 必 担心  我 给 你 开 个 药方  饭前 半 小时 服 这 种 药水  一 天 三 次  药丸 饭后 半 小时 服-there &apos;s nothing seriously the matter with your stomach.so you don &apos;t need to worry about that . i &apos;ll give you a prescription . take the liquid medicine three times a day thirty minutes before meals and the capsules a half hour after meals .-0.31
+26277-请 不 要 再 说 我 本 应该 做 什么  你 得 想 点 办法  要么 退钱 给 我  要么 给 我 换 一 台-please stop telling me what i should have done , and do something , either give my money back or give me another radio .-0.31
+26345-是 的  昨天 我 在 这 家 店 里 买 了 这个 瓷器 花瓶  但是 我 回到 旅馆 打开 盒子 后  发现 了 瓶底 有 裂缝-yes , you can . i bought this china vase at this store yesterday , but when i opened the box back at my hotel , i found this crack in the bottom .-0.31
+49133-李 先生  我 希望 没 人 的 时候 你 叫 我 的 名字  但 公司 规定 有 他人 在场 时 要 称 “ 先生 ”  “ 女士 ” 或 “ 小姐 ”-mr. lee , i hope you &apos;ll continue to use my first name when we &apos;re alone , but company rules are that we use mr. or mrs. or ms. or miss when other people me around .-0.31
+19954-谁 都 知道 你们 公司 是 世界 上 有名 的 几 家 大 跨国 公司 之一  在 十多 个 国家 有 三十几 处 分号  我们 要 买 的 这个 成套 设备 对 你们 说来 根本 算 不 了 什么-everybody knows that yours is one of the largest and most famous transnational corporations in the world , and has more than 30 branches in over ten countries . it is nothing to you at all to finance the manufacture of the complete plant we plan to buy .-0.309
+12872-我 七点半 在 家 等 你-i &apos;ll stay at home waiting for you at half past seven .-0.308
+20860-任何 时候 都 欢迎 你 到 青岛 来-you are welcome to qingdao any time .-0.308
+32347-什么 地方 你 最 喜欢 去-is there any special place you &apos;d like to go ?-0.308
+36628-我们 的 司机 什么 时间 去接 你-when should our driver pick you up ?-0.308
+36629-出租车 在 什么 地方 等 你-where should the taxi wait for you ?-0.308
+42108-我 怕 今晚 实在 没有 什么 东西 款待 你-i &apos;m afraid we had little to entertain you this evening .-0.308
+47416-来 我 家 吧  我 做 的 味道 你 绝对 没有 品尝 过-come to my home . i &apos;ll make you the best salad you &apos;ve ever tasted .-0.308
