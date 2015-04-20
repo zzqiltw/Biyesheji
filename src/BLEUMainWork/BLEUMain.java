@@ -95,7 +95,7 @@ public class BLEUMain {
 	}
 	
 	public String filt(String s) {
-		return s.toLowerCase().replaceAll("[，。！？、]", "").trim();
+		return s.toLowerCase().replaceAll("[锛屻�傦紒锛熴�乚", "").trim();
 	}
 	
 	private double getPValue(String s, List<String> strs, int n) {
@@ -173,16 +173,5 @@ public class BLEUMain {
 		for (int i = 1; i <= 4; ++i) {
 			System.out.println(main.getScore(i));
 		}
-		
-		main.setS("书 在 课 桌 上 哈");
-		List<String> strs2 = new ArrayList<>();
-		strs2.add("在 课 桌 上 有 本 书 哈");
-		strs2.add("书 在 桌 上 哈");
-		main.setStrs(strs2);
-		
-		for (int i = 1; i <= 4; ++i) {
-			System.out.println(main.getScore(i));
-		}
-		
 	}
 }

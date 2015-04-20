@@ -4,11 +4,6 @@ import java.text.DecimalFormat;
 
 public class LcsWorker implements ScoreWorker {
 
-	public static void main(String[] args) {
-		double score = new LcsWorker().getScore("Äã µÄ Ð¬´ø ËÉ ÁË", "µÄ Ð¬´ø Äã ÁË ËÉ");
-		System.out.println("LCS_sim: " + score);
-	}
-	
 	@Override
 	public double getScore(String firstString, String secondString) {
 		DecimalFormat df = new DecimalFormat("#.000");
@@ -20,18 +15,18 @@ public class LcsWorker implements ScoreWorker {
         int substringLength1 = str1.length;
         int substringLength2 = str2.length;
  
-        // ¹¹Ôì¶þÎ¬Êý×é¼ÇÂ¼×ÓÎÊÌâA[i]ºÍB[j]µÄLCSµÄ³¤¶È
+        // ï¿½ï¿½ï¿½ï¿½ï¿½Î¬ï¿½ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½A[i]ï¿½ï¿½B[j]ï¿½ï¿½LCSï¿½Ä³ï¿½ï¿½ï¿½
         int[][] opt = new int[substringLength1 + 1][substringLength2 + 1];
  
-        // ´ÓºóÏòÇ°£¬¶¯Ì¬¹æ»®¼ÆËãËùÓÐ×ÓÎÊÌâ¡£Ò²¿É´ÓÇ°µ½ºó¡£
+        // ï¿½Óºï¿½ï¿½ï¿½Ç°ï¿½ï¿½ï¿½ï¿½Ì¬ï¿½æ»®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½â¡£Ò²ï¿½É´ï¿½Ç°ï¿½ï¿½ï¿½ï¿½
         for (int i = substringLength1 - 1; i >= 0; i--)
         {
             for (int j = substringLength2 - 1; j >= 0; j--)
             {
                 if (str1[i].equalsIgnoreCase(str2[j]))
-                    opt[i][j] = opt[i + 1][j + 1] + 1;// ×´Ì¬×ªÒÆ·½³Ì
+                    opt[i][j] = opt[i + 1][j + 1] + 1;// ×´Ì¬×ªï¿½Æ·ï¿½ï¿½ï¿½
                 else
-                    opt[i][j] = Math.max(opt[i + 1][j], opt[i][j + 1]);// ×´Ì¬×ªÒÆ·½³Ì
+                    opt[i][j] = Math.max(opt[i + 1][j], opt[i][j + 1]);// ×´Ì¬×ªï¿½Æ·ï¿½ï¿½ï¿½
             }
         }
  

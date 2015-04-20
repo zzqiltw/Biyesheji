@@ -13,7 +13,7 @@ public class FileTools {
 		String aLine = null;
 		List<String> fileContent = new ArrayList<String>();
 		while ((aLine = br.readLine()) != null) {
-			aLine = aLine.replaceAll("[£¨°££°£ø°¢]", "");
+			aLine = aLine.replaceAll("[Ôºå„ÄÇÔºÅÔºü„ÄÅ]", "");
 			aLine = aLine.trim();
 			fileContent.add(aLine);
 		}

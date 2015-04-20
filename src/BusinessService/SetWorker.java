@@ -3,11 +3,6 @@ package BusinessService;
 import java.text.DecimalFormat;
 
 public class SetWorker implements ScoreWorker {
-
-	public static void main(String[] args) {
-		double score = new SetWorker().getScore("你 的 鞋带 松 了", "我 的 书包 是刚买 的");
-		System.out.println("set_sim: " + score);
-	}
 	
 	@Override
 	public double getScore(String firstString, String secondString) {

@@ -18,11 +18,11 @@ public class TestModel {
 	public static final String OutputFinalFileNamePre = "FinalOutput/";
 	
 	private String testedSentence;
+	private String traSentence;
 	private String filenamePre;
 	
 	private List<MappingModel> finalScores;
 	private List<String> finalScore2FileStringList;
-	
 	
 	private List<MappingModel> setScores;
 	private List<String> setScore2FileStringList;
@@ -37,6 +37,11 @@ public class TestModel {
 		this.addFinalWeightToScore();
 		this.filtFinal(x);
 		this.finalString2file();
+	}
+	
+	public TrainSentenceModel finalWorkChoseOne() {
+		this.addFinalWeightToScore();
+		return this.choseFinalTopOne();
 	}
 	
 	private void addFinalWeightToScore() {
@@ -70,6 +75,11 @@ public class TestModel {
 			}
 		}
 		this.finalScores = tmpList1;
+	}
+	
+	private TrainSentenceModel choseFinalTopOne() {
+		Collections.sort(finalScores);
+		return finalScores.get(0).getModel();
 	}
 	
 	private void finalString2file() {
@@ -253,6 +263,16 @@ public class TestModel {
 	public static String getOutputfinalfilenamepre() {
 		return OutputFinalFileNamePre;
 	}
+	
+	
+	public String getTraSentence() {
+		return traSentence;
+	}
+
+	public void setTraSentence(String traSentence) {
+		this.traSentence = traSentence;
+	}
+
 	@Override
 	public String toString() {
 		return "TestModel [testedSentence=" + testedSentence + "\n  setScores="

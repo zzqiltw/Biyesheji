@@ -11,15 +11,25 @@ import BusinessService.SetWorker;
 import Model.TestModel;
 import Model.TrainSentenceModel;
 import Tools.FileTools;
+import Tools.XMLTools;
 
 public class MainWork {
 	private static final String trainSentenceSrcFileName = "Data/train.HIT.lowcased.zh";
 	private static final String trainSentenceTraFileName = "Data/train.HIT.lowcased.en";
 	private static final String testedFileName = "Data/test.lowcased.zh";
-
+	private static final String testedTraFileName = "Data/test.lowcased.en";
+	
+	private static final String testSrcOutputFileName = "FinalOutput/FinalXmlOutput/src.xml";
+	private static final String testTraOutputFileName = "FinalOutput/FinalXmlOutput/tra.xml";
+	private static final String testFakeRefOutputFileName = "FinalOutput/FinalXmlOutput/fake_ref.xml";
+	
+	
 	private List<TrainSentenceModel> trainSentenceModels;
+	
 	private List<TestModel> testModels;
 
+	private List<TrainSentenceModel> topOneTrainSentenceModels;
+	
 	public void generateSentenceModels() throws Exception {
 		List<String> srcContent = FileTools
 				.getFileContent(trainSentenceSrcFileName);
@@ -130,6 +140,63 @@ public class MainWork {
 		System.out.println(System.currentTimeMillis() - startTime);
 	}
 	
+	public void generateTestModel2XML() throws Exception {
+		long startTime = System.currentTimeMillis();
+		if (this.testModels == null) {
+			this.testModels = new ArrayList<>();
+		}
+		
+		if (this.topOneTrainSentenceModels == null) {
+			this.topOneTrainSentenceModels = new ArrayList<>();
+		}
+
+		if (this.trainSentenceModels == null) {
+			this.generateSentenceModels();
+		}
+
+		List<String> testSrcContent = FileTools.getFileContent(testedFileName);
+		List<String> testTraContent = FileTools.getFileContent(testedTraFileName);
+		
+		int topCount = testSrcContent.size();
+		
+		int count = this.trainSentenceModels.size();
+
+		List<String> testTraXmlContent = new ArrayList<>();
+		List<String> srcXmlContent = new ArrayList<>();
+		
+		
+		for (int topIndex = 0; topIndex < 10; ++topIndex) {
+			String aLine = testSrcContent.get(topIndex);
+			String traLine = testTraContent.get(topIndex);
+			
+			TestModel testModel = new TestModel();
+			testModel.setTestedSentence(aLine);
+			testModel.setTraSentence(traLine);
+			
+			for (int i = 0; i < count; ++i) {
+				TrainSentenceModel traModel = this.trainSentenceModels.get(i);
+
+				testModel.countScores(new LcsWorker(), traModel);
+				testModel.countScores(new SetWorker(), traModel);
+				testModel.countScores(new EditDistanceWorker(), traModel);
+			}
+
+			TrainSentenceModel topOne = testModel.finalWorkChoseOne();
+			
+			this.testModels.add(testModel);
+			this.topOneTrainSentenceModels.add(topOne);
+			
+			testTraXmlContent.add(testModel.getTraSentence());
+			srcXmlContent.add(topOne.getTraText());
+		}
+		
+		XMLTools.write2XML(testSrcContent, testSrcOutputFileName);
+		XMLTools.write2XML(srcXmlContent, testFakeRefOutputFileName);
+		XMLTools.write2XML(testTraXmlContent, testTraOutputFileName);
+		
+		System.out.println(System.currentTimeMillis() - startTime);
+	}
+	
 //	public void generateTestModel() throws Exception {
 //		long startTime = System.currentTimeMillis();
 //		if (this.testModels == null) {
@@ -178,7 +245,7 @@ public class MainWork {
 
 	public static void main(String[] args) {
 		try {
-			new MainWork().generateTestModel();
+			new MainWork().generateTestModel2XML();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

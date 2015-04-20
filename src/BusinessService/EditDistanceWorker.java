@@ -3,10 +3,6 @@ package BusinessService;
 import java.text.DecimalFormat;
 
 public class EditDistanceWorker implements ScoreWorker {
-	public static void main(String[] args) {
-		double score = new EditDistanceWorker().getScore("Äã µÄ Ð¬ ´ø ËÉ ÁË", "µÄ Ð¬ ´ø Äã ÁË ËÉ");
-		System.out.println("edit_distance_sim: " + score);
-	}
 	
 	@Override
 	public double getScore(String firstString, String secondString) {
@@ -15,19 +11,19 @@ public class EditDistanceWorker implements ScoreWorker {
 	}
 
 	 public double editDistance(String[] str1,String[] str2) {  
-	        //¼ÆËãÁ½¸ö×Ö·û´®µÄ³¤¶È¡£  
+	        //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½Ä³ï¿½ï¿½È¡ï¿½  
 	        int len1 = str1.length;  
 	        int len2 = str2.length;  
-	        //½¨Á¢ÉÏÃæËµµÄÊý×é£¬±È×Ö·û³¤¶È´óÒ»¸ö¿Õ¼ä  
+	        //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ëµï¿½ï¿½ï¿½ï¿½ï¿½é£¬ï¿½ï¿½ï¿½Ö·ï¿½È´ï¿½Ò»ï¿½ï¿½ï¿½Õ¼ï¿½  
 	        int[][] dif = new int[len1 + 1][len2 + 1];  
-	        //¸³³õÖµ£¬²½ÖèB¡£  
+	        //ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½  
 	        for (int a = 0; a <= len1; a++) {  
 	            dif[a][0] = a;  
 	        }  
 	        for (int a = 0; a <= len2; a++) {  
 	            dif[0][a] = a;  
 	        }  
-	        //¼ÆËãÁ½¸ö×Ö·ûÊÇ·ñÒ»Ñù£¬¼ÆËã×óÉÏµÄÖµ  
+	        //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½Ç·ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ïµï¿½Öµ  
 	        int temp;  
 	        for (int i = 1; i <= len1; i++) {  
 	            for (int j = 1; j <= len2; j++) {  
@@ -36,17 +32,16 @@ public class EditDistanceWorker implements ScoreWorker {
 	                } else {  
 	                    temp = 1;  
 	                }  
-	                //È¡Èý¸öÖµÖÐ×îÐ¡µÄ  
+	                //È¡ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½  
 	                dif[i][j] = min(dif[i - 1][j - 1] + temp, dif[i][j - 1] + 1,  
 	                        dif[i - 1][j] + 1);  
 	            }  
 	        }  
-	        //¼ÆËãÏàËÆ¶È  
+	        //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¶ï¿½  
 	        double similarity =1 - (double) dif[len1][len2] / Math.max(str1.length, str2.length);  
 	        return similarity;
 	    }  
 	  
-	    //µÃµ½×îÐ¡Öµ  
 	    private int min(int... is) {  
 	        int min = Integer.MAX_VALUE;  
 	        for (int i : is) {  
