@@ -11,10 +11,16 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
+import javax.xml.stream.events.StartDocument;
+
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import BLEUMainWork.BLEUMain;
+import Main.MainWork;
 import Model.MachineTra4Result;
+import Model.StandardTraAnd4MTResult;
+import Model.TrainSentenceModel;
 
 public class JSONTools {
 	public static List<MachineTra4Result> readJsonFile(String filename) throws Exception {
@@ -45,17 +51,14 @@ public class JSONTools {
 	 public static Object convertMap(Class type, Map map) 
 	            throws IntrospectionException, IllegalAccessException, 
 	            InstantiationException, InvocationTargetException { 
-	        BeanInfo beanInfo = Introspector.getBeanInfo(type); // 获取类属性 
-	        Object obj = type.newInstance(); // 创建 JavaBean 对象 
-
-	        // 给 JavaBean 对象的属性赋值 
+	        BeanInfo beanInfo = Introspector.getBeanInfo(type);  
+	        Object obj = type.newInstance(); 
 	        PropertyDescriptor[] propertyDescriptors =  beanInfo.getPropertyDescriptors(); 
 	        for (int i = 0; i< propertyDescriptors.length; i++) { 
 	            PropertyDescriptor descriptor = propertyDescriptors[i]; 
 	            String propertyName = descriptor.getName(); 
 
 	            if (map.containsKey(propertyName)) { 
-	                // 下面一句可以 try 起来，这样当一个属性赋值失败的时候就不会影响其他属性赋值。 
 	                Object value = map.get(propertyName); 
 
 	                Object[] args = new Object[1]; 
@@ -68,8 +71,41 @@ public class JSONTools {
 	    } 
 	
 	public static void main(String[] args) throws Exception {
-//		List<MachineTra4Result> results = readJsonFile("Data/test_set_first100_json");
-		List<MachineTra4Result> results = readJsonFile("/Users/zzqiltw/Desktop/testSrcAnd4TraOutputFile");
-		System.out.println(results);
+		List<MachineTra4Result> data = new ArrayList<>();
+		for (int i = 0; i < 5; ++i) {
+			List<MachineTra4Result> per100 = readJsonFile("Data/testSrcAnd4TraOutputFile" + i);
+			data.addAll(per100);
+		}
+	
+		int count = data.size();
+		
+		MachineTra4Result one = null;
+		TrainSentenceModel topSim = null;
+		String standardTra = null;
+		
+		MainWork mainWork = new MainWork();
+		
+		BLEUMain bleuMain = new BLEUMain();
+
+		List<StandardTraAnd4MTResult> results = new ArrayList<>();
+		List<String> resultString2File = new ArrayList<>();
+		for (int i = 0; i < 20; ++i) {
+			System.out.println(i);
+			one = data.get(i);
+			topSim = mainWork.findTopSimSentence(one.getID());
+
+			standardTra = mainWork.getStandardTra(i);
+			
+			StandardTraAnd4MTResult stamtr = new StandardTraAnd4MTResult();
+			stamtr.setTra4Result(one);
+			stamtr.setTrainSentenceModel(topSim);
+			stamtr.setStandTra(standardTra);
+			
+			stamtr.countAllBLEUScores(bleuMain, 1);
+			
+			results.add(stamtr);
+			resultString2File.add(stamtr.toString());
+		}
+		FileTools.write2File(resultString2File, "FinalOutput/Top20DevResults");
 	}
 }

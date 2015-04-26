@@ -8,9 +8,7 @@ public class MappingModel implements Comparable<MappingModel> {
 	public int compareTo(MappingModel o) {
 		return o.getScore().compareTo(this.score);
 	}
-
-
-
+	
 	public MappingModel() {
 		super();
 		// TODO Auto-generated constructor stub

@@ -17,7 +17,9 @@ public class BLEUMain {
 	}
 
 	public void setS(String s) {
-		this.s = s;
+//		this.s = filt(s);
+		
+		this.s = s.toLowerCase();
 		
 		this.pValues = null;
 	}
@@ -27,19 +29,11 @@ public class BLEUMain {
 	}
 
 	public void setStrs(List<String> strs) {
-		this.strs = strs;
-		
+		this.strs = new ArrayList<>();
+		for (String str : strs) {
+			this.strs.add(str.toLowerCase());
+		}		
 		this.pValues = null;
-	}
-
-	public BLEUMain() {
-		
-	}
-	
-	public BLEUMain(List<Double> pValues, String s, List<String> strs) {
-		this.pValues = pValues;
-		this.s = s;
-		this.strs = strs;
 	}
 
 	private int getCountInMap(String part, Map<String, Integer> map) {
@@ -156,18 +150,29 @@ public class BLEUMain {
 			score += Math.log(pValues.get(i));
 		}
 		score = bp * Math.exp(weight * score);
-		return format(score);
+//		return format(score);
+		return score;
 	}
 	
 	public static void main(String[] args) {
-		BLEUMain main = new BLEUMain();
-		String s1 = main.filt("It is a guide to action which ensures that the military always obeys the commands of the party");
-		String s2 = main.filt("It is to insure the troops forever hearing the activity guidebook that party direct");
-		List<String> strs = new ArrayList<>();
-		strs.add(main.filt("It is a guide to action that ensures that the military will forever heed party commands"));
-		strs.add(main.filt("It is the guiding principle which guarantees the military forces always being under the command of the party"));
-		strs.add(main.filt("It is the practical guide for the army always to heed the directions of the party"));
+//		BLEUMain main = new BLEUMain();
+//		String s1 = main.filt("It is a guide to action which ensures that the military always obeys the commands of the party");
+//		String s2 = main.filt("It is to insure the troops forever hearing the activity guidebook that party direct");
+//		List<String> strs = new ArrayList<>();
+//		strs.add(main.filt("It is a guide to action that ensures that the military will forever heed party commands"));
+//		strs.add(main.filt("It is the guiding principle which guarantees the military forces always being under the command of the party"));
+//		strs.add(main.filt("It is the practical guide for the army always to heed the directions of the party"));
+//		
+//		main.setS(s1);
+//		main.setStrs(strs);
+//		for (int i = 1; i <= 4; ++i) {
+//			System.out.println(main.getScore(i));
+//		}
 		
+		BLEUMain main = new BLEUMain();
+		String s1 = "a former United Nations envoy to the Middle East , the situation in this region not days so dangerous as it is today , comparing the region called  a powder   music . ";
+		List<String> strs = new ArrayList<>();
+		strs.add("the former United Nations Middle East envoy , considered the situation in the region as having never been as dangerous as it is today and compared the region to a powder keg with a lit fuse . ");
 		main.setS(s1);
 		main.setStrs(strs);
 		for (int i = 1; i <= 4; ++i) {
