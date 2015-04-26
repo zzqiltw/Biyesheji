@@ -21,6 +21,32 @@ public class FileTools {
 		return fileContent;
 	}
 	
+	public static String getFileString(String filename) throws Exception {
+		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(filename), "UTF-8"));
+		String aLine = null;
+		StringBuffer result = new StringBuffer();
+		while ((aLine = br.readLine()) != null) {
+			aLine = aLine.replaceAll("[，。！？、]", "");
+			aLine = aLine.trim();
+			result.append(aLine);
+		}
+		br.close();
+		return new String(result);
+	}
+	
+	public static List<String> getFileContentWithoutSpace(String filename) throws Exception {
+		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(filename), "UTF-8"));
+		String aLine = null;
+		List<String> fileContent = new ArrayList<String>();
+		while ((aLine = br.readLine()) != null) {
+			aLine = aLine.replaceAll("\\s", "");
+			aLine = aLine.trim();
+			fileContent.add(aLine);
+		}
+		br.close();
+		return fileContent;
+	}
+	
 	public static void write2File(List<String> content , String filename) throws Exception {
 		PrintWriter pw = new PrintWriter(new FileOutputStream(new File(filename), true));
 		for (String string : content) {

@@ -15,6 +15,8 @@ import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 import org.dom4j.io.XMLWriter;
 
+import BLEUModel.BLEUModel;
+
 public class XMLTools {
 	public static List<String> readBLEUXml(String filename) throws Exception {
 		SAXReader sax = new SAXReader();
@@ -49,15 +51,37 @@ public class XMLTools {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
+	
+	public static void write2plist(List<String> strs, String fileName) {
+		Document document = DocumentHelper.createDocument();
+		Element plist = document.addElement("plist");
+		Element array = plist.addElement("array");
+		int count = strs.size();
+		for (int i = 0; i < count; ++i) {
+			Element string = array.addElement("string");
+			string.addText(strs.get(i));
+		}
+
+		try {
+			XMLWriter writer = new XMLWriter(new FileWriter(new File(fileName)));
+			writer.write(document);
+			writer.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
 
 	public static void main(String[] args) throws Exception {
-		String filename = "/Users/zzqiltw/Desktop/mteval-v13a-20091001/mteval-v13a-20091001/example/ref.xml";
-		List<String> results = readBLEUXml(filename);
-		results.add(0, "hahah");
+//		String filename = "/Users/zzqiltw/Desktop/mteval-v13a-20091001/mteval-v13a-20091001/example/ref.xml";
+//		List<String> results = readBLEUXml(filename);
+//		results.add(0, "hahah");
+//		
+//		String outputFilename = "/Users/zzqiltw/Desktop/outputXml.xml";
+//		write2XML(results, outputFilename);
 		
-		String outputFilename = "/Users/zzqiltw/Desktop/outputXml.xml";
-		write2XML(results, outputFilename);
+		List<String> testSrcContent = FileTools.getFileContentWithoutSpace("Data/dev.HIT.lowcased.zh");
+		write2plist(testSrcContent, "/Users/zzqiltw/Desktop/devSrc.plist");
 	}
 }
