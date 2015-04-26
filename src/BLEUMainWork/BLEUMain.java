@@ -18,8 +18,11 @@ public class BLEUMain {
 
 	public void setS(String s) {
 //		this.s = filt(s);
-		
-		this.s = s.toLowerCase();
+		if (s == null) {
+			this.s = "";
+		} else {
+			this.s = s.toLowerCase();
+		}
 		
 		this.pValues = null;
 	}
@@ -31,6 +34,9 @@ public class BLEUMain {
 	public void setStrs(List<String> strs) {
 		this.strs = new ArrayList<>();
 		for (String str : strs) {
+			if (str == null) {
+				this.strs.add("");
+			}
 			this.strs.add(str.toLowerCase());
 		}		
 		this.pValues = null;

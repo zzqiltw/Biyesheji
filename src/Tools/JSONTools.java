@@ -89,7 +89,8 @@ public class JSONTools {
 
 		List<StandardTraAnd4MTResult> results = new ArrayList<>();
 		List<String> resultString2File = new ArrayList<>();
-		for (int i = 0; i < 20; ++i) {
+		
+		for (int i = 0; i < 50; ++i) {
 			System.out.println(i);
 			one = data.get(i);
 			topSim = mainWork.findTopSimSentence(one.getID());
@@ -106,6 +107,6 @@ public class JSONTools {
 			results.add(stamtr);
 			resultString2File.add(stamtr.toString());
 		}
-		FileTools.write2File(resultString2File, "FinalOutput/Top20DevResults");
+		FileTools.write2File(resultString2File, "FinalOutput/Top50DevResults");
 	}
 }
