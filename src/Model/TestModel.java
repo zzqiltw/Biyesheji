@@ -44,6 +44,20 @@ public class TestModel {
 		return this.choseFinalTopOne();
 	}
 	
+	public List<TrainSentenceModel> finalWorkChoseTopN(int n) {
+		this.addFinalWeightToScore();
+		return this.choseFinalTopN(n);
+	}
+	
+	private List<TrainSentenceModel> choseFinalTopN(int n) {
+		Collections.sort(finalScores);
+		List<TrainSentenceModel> result = new ArrayList<>();
+		for (int i = 0; i < n; ++i) {
+			result.add(finalScores.get(i).getModel());
+		}
+		return result;
+	}
+	
 	private void addFinalWeightToScore() {
 		int count = this.editDistanceScores.size();
 		

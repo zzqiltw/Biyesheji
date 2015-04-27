@@ -217,6 +217,51 @@ public class MainWork {
 			return topOne;
 	}
 	
+	public List<TrainSentenceModel> findTopNSimSentence(int ID, int topN) throws Exception {
+		if (this.testModels == null) {
+			this.testModels = new ArrayList<>();
+		}
+		
+		if (this.topOneTrainSentenceModels == null) {
+			this.topOneTrainSentenceModels = new ArrayList<>();
+		}
+
+		if (this.trainSentenceModels == null) {
+			this.generateSentenceModels();
+		}
+		
+		if (this.testSrcContent == null) { 
+			testSrcContent = FileTools.getFileContent(testedFileName);
+		} 
+		
+		if (this.testTraContent == null) {
+			testTraContent = FileTools.getFileContent(testedTraFileName);
+		}
+		
+		int count = this.trainSentenceModels.size();
+			String aLine = testSrcContent.get(ID);
+			String traLine = testTraContent.get(ID);
+			
+			TestModel testModel = new TestModel();
+			testModel.setTestedSentence(aLine);
+			testModel.setTraSentence(traLine);
+			
+			for (int i = 0; i < count; ++i) {
+				TrainSentenceModel traModel = this.trainSentenceModels.get(i);
+
+				testModel.countScores(new LcsWorker(), traModel);
+				testModel.countScores(new SetWorker(), traModel);
+				testModel.countScores(new EditDistanceWorker(), traModel);
+			}
+
+		
+			List<TrainSentenceModel> result = testModel.finalWorkChoseTopN(topN);
+			this.testModels.add(testModel);
+		
+			return result;
+	}
+	
+	
 	public String getStandardTra(int ID) throws Exception {
 		if (this.testTraContent == null) {
 			testTraContent = FileTools.getFileContent(testedTraFileName);

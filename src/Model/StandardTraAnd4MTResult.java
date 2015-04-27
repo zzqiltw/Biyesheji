@@ -9,6 +9,8 @@ public class StandardTraAnd4MTResult {
 	private String standTra; 
 	
 	private MachineTra4Result tra4Result;
+	
+	private List<TrainSentenceModel> topNSim;
 	private TrainSentenceModel topSimTrainSentenceModel;
 	
 	private double baiduBLEUScore;
@@ -25,7 +27,13 @@ public class StandardTraAnd4MTResult {
 	public void countAllBLEUScores(BLEUMain bleuMain, int n) {
 		// fake ref
 		List<String> fakeRefs = new ArrayList<>();
-		fakeRefs.add(topSimTrainSentenceModel.getTraText());
+		if (this.topNSim == null) {
+			fakeRefs.add(topSimTrainSentenceModel.getTraText());
+		} else {
+			for (int i = 0; i < this.topNSim.size(); ++i) {
+				fakeRefs.add(this.topNSim.get(i).getTraText());
+			}
+		}
 		bleuMain.setStrs(fakeRefs);
 		
 		bleuMain.setS(tra4Result.getBaiduTra());
@@ -156,14 +164,27 @@ public class StandardTraAnd4MTResult {
 		this.bingRefBLEUScore = bingRefBLEUScore;
 	}
 
-	@Override
-	public String toString() {
-		return "StandardTraAnd4MTResult [standTra=" + standTra
-				+ ", tra4Result=" + tra4Result + ", topSimTrainSentenceModel="
-				+ topSimTrainSentenceModel + ", baiduBLEUScore="
-				+ baiduBLEUScore + ", baiduRefBLEUScore=" + baiduRefBLEUScore
-				+ "]";
+	public List<TrainSentenceModel> getTopNSim() {
+		return topNSim;
 	}
 
+	public void setTopNSim(List<TrainSentenceModel> topNSim) {
+		this.topNSim = topNSim;
+	}
+
+	@Override
+	public String toString() {
+		return "[ bdf=" + baiduBLEUScore
+				+ ", ggf=" + googleBLEUScore + ", ydf="
+				+ youdaoBLEUScore + ", byf=" + bingBLEUScore
+				+ ", bdr=" + baiduRefBLEUScore
+				+ ", ggr=" + googleRefBLEUScore
+				+ ", ydr=" + youdaoRefBLEUScore
+				+ ", byr=" + bingRefBLEUScore + "]";
+	}
+
+	
+	
+	
 	
 }

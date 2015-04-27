@@ -5,6 +5,7 @@ import java.beans.IntrospectionException;
 import java.beans.Introspector;
 import java.beans.PropertyDescriptor;
 import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -14,6 +15,7 @@ import java.util.Map;
 import javax.xml.stream.events.StartDocument;
 
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import BLEUMainWork.BLEUMain;
@@ -23,16 +25,36 @@ import Model.StandardTraAnd4MTResult;
 import Model.TrainSentenceModel;
 
 public class JSONTools {
-	public static List<MachineTra4Result> readJsonFile(String filename) throws Exception {
+	private static List<String> generateJson(
+			List<StandardTraAnd4MTResult> models) throws Exception {
+		List<String> results = new ArrayList<>();
+		for (StandardTraAnd4MTResult model : models) {
+			Map map = convertBean(model);
+
+			map.remove("standTra");
+			map.remove("tra4Result");
+			map.remove("topNSim");
+			map.remove("topSimTrainSentenceModel");
+			map.remove("trainSentenceModel");
+
+			JSONObject jsonObject = new JSONObject(map);
+			jsonObject.put("Id", model.getTra4Result().getID());
+			results.add(jsonObject.toString());
+		}
+		return results;
+	}
+
+	public static List<MachineTra4Result> readJsonFile(String filename)
+			throws Exception {
 		String jsonString = FileTools.getFileString(filename);
 		JSONArray jsonArray = new JSONArray(jsonString);
-	
+
 		int count = jsonArray.length();
 		List<MachineTra4Result> resultArrayList = new ArrayList<MachineTra4Result>();
-		
+
 		for (int i = 0; i < count; ++i) {
 			JSONObject jsonObject = jsonArray.getJSONObject(i);
-			Iterator<String> iterator =	jsonObject.keys();
+			Iterator<String> iterator = jsonObject.keys();
 			Map<String, Object> map = new HashMap<String, Object>();
 			String key = null;
 			Object value = null;
@@ -41,39 +63,98 @@ public class JSONTools {
 				value = jsonObject.get(key);
 				map.put(key, value);
 			}
-			MachineTra4Result result = (MachineTra4Result) convertMap(MachineTra4Result.class, map);
+			MachineTra4Result result = (MachineTra4Result) convertMap(
+					MachineTra4Result.class, map);
 			resultArrayList.add(result);
 		}
-		
+
 		return resultArrayList;
 	}
-	
-	 public static Object convertMap(Class type, Map map) 
-	            throws IntrospectionException, IllegalAccessException, 
-	            InstantiationException, InvocationTargetException { 
-	        BeanInfo beanInfo = Introspector.getBeanInfo(type);  
-	        Object obj = type.newInstance(); 
-	        PropertyDescriptor[] propertyDescriptors =  beanInfo.getPropertyDescriptors(); 
-	        for (int i = 0; i< propertyDescriptors.length; i++) { 
-	            PropertyDescriptor descriptor = propertyDescriptors[i]; 
-	            String propertyName = descriptor.getName(); 
 
-	            if (map.containsKey(propertyName)) { 
-	                Object value = map.get(propertyName); 
+	public static List<StandardTraAnd4MTResult> readJsonFile2STAMTR(
+			String filenamePre) throws Exception {
+		List<StandardTraAnd4MTResult> resultArrayList = new ArrayList<StandardTraAnd4MTResult>();
 
-	                Object[] args = new Object[1]; 
-	                args[0] = value; 
+		for (int j = 0; j < 1; ++j) {
+			String filename = filenamePre + j;
+//			String jsonString = FileTools.getFileString(filename);
+			List<String> jsonStrings = FileTools.getFileContent(filename);
 
-	                descriptor.getWriteMethod().invoke(obj, args); 
-	            } 
-	        } 
-	        return obj; 
-	    } 
-	
-	public static void main(String[] args) throws Exception {
+			int count = jsonStrings.size();
+
+			for (int i = 0; i < count; ++i) {
+				JSONObject jsonObject = new JSONObject(jsonStrings.get(i));
+				Iterator<String> iterator = jsonObject.keys();
+				Map<String, Object> map = new HashMap<String, Object>();
+				String key = null;
+				Object value = null;
+				while (iterator.hasNext()) {
+					key = iterator.next();
+					value = jsonObject.get(key);
+					map.put(key, value);
+				}
+
+				StandardTraAnd4MTResult result = (StandardTraAnd4MTResult) convertMap(
+						StandardTraAnd4MTResult.class, map);
+				resultArrayList.add(result);
+
+			}
+		}
+		return resultArrayList;
+	}
+
+	public static Map convertBean(Object bean) throws IntrospectionException,
+			IllegalAccessException, InvocationTargetException {
+		Class type = bean.getClass();
+		Map returnMap = new HashMap();
+		BeanInfo beanInfo = Introspector.getBeanInfo(type);
+
+		PropertyDescriptor[] propertyDescriptors = beanInfo
+				.getPropertyDescriptors();
+		for (int i = 0; i < propertyDescriptors.length; i++) {
+			PropertyDescriptor descriptor = propertyDescriptors[i];
+			String propertyName = descriptor.getName();
+			if (!propertyName.equals("class")) {
+				Method readMethod = descriptor.getReadMethod();
+				Object result = readMethod.invoke(bean, new Object[0]);
+				if (result != null) {
+					returnMap.put(propertyName, result);
+				} else {
+					returnMap.put(propertyName, "");
+				}
+			}
+		}
+		return returnMap;
+	}
+
+	public static Object convertMap(Class type, Map map)
+			throws IntrospectionException, IllegalAccessException,
+			InstantiationException, InvocationTargetException {
+		BeanInfo beanInfo = Introspector.getBeanInfo(type);
+		Object obj = type.newInstance();
+		PropertyDescriptor[] propertyDescriptors = beanInfo
+				.getPropertyDescriptors();
+		for (int i = 0; i < propertyDescriptors.length; i++) {
+			PropertyDescriptor descriptor = propertyDescriptors[i];
+			String propertyName = descriptor.getName();
+
+			if (map.containsKey(propertyName)) {
+				Object value = map.get(propertyName);
+
+				Object[] args = new Object[1];
+				args[0] = value;
+
+				descriptor.getWriteMethod().invoke(obj, args);
+			}
+		}
+		return obj;
+	}
+
+	public static void premethod() throws Exception {
 		List<MachineTra4Result> data = new ArrayList<>();
 		for (int i = 0; i < 5; ++i) {
-			List<MachineTra4Result> per100 = readJsonFile("Data/testSrcAnd4TraOutputFile" + i);
+			List<MachineTra4Result> per100 = readJsonFile("Data/testSrcAnd4TraOutputFile"
+					+ i);
 			data.addAll(per100);
 		}
 		int count = data.size();
@@ -86,7 +167,8 @@ public class JSONTools {
 		List<String> resultString2File = new ArrayList<>();
 		List<Double> fakeRefScores = new ArrayList<>();
 		List<Double> realRefScores = new ArrayList<>();
-		for (int i = 0; i < 10; ++i) {
+		int j = 9;
+		for (int i = j * 50; i < (j + 1) * 50; ++i) {
 			System.out.println(i);
 			one = data.get(i);
 			topSim = mainWork.findTopSimSentence(one.getID());
@@ -98,20 +180,98 @@ public class JSONTools {
 			stamtr.countAllBLEUScores(bleuMain, 1);
 			results.add(stamtr);
 			resultString2File.add(stamtr.toString());
-			
+
 			fakeRefScores.add(stamtr.getBaiduBLEUScore());
-//			fakeRefScores.add(stamtr.getBingBLEUScore());
-//			fakeRefScores.add(stamtr.getGoogleBLEUScore());
-//			fakeRefScores.add(stamtr.getYoudaoBLEUScore());
+			// fakeRefScores.add(stamtr.getBingBLEUScore());
+			// fakeRefScores.add(stamtr.getGoogleBLEUScore());
+			// fakeRefScores.add(stamtr.getYoudaoBLEUScore());
 
 			realRefScores.add(stamtr.getBaiduRefBLEUScore());
-//			realRefScores.add(stamtr.getBingRefBLEUScore());
-//			realRefScores.add(stamtr.getGoogleRefBLEUScore());
-//			realRefScores.add(stamtr.getYoudaoRefBLEUScore());
+			// realRefScores.add(stamtr.getBingRefBLEUScore());
+			// realRefScores.add(stamtr.getGoogleRefBLEUScore());
+			// realRefScores.add(stamtr.getYoudaoRefBLEUScore());
 		}
-		
-		double similarity = Similarity.getSim(realRefScores, fakeRefScores);;
+
+		double similarity = Similarity.getSim(realRefScores, fakeRefScores);
+		;
 		System.out.println(similarity);
-		FileTools.write2File(resultString2File, "FinalOutput/Top50DevBleuScores");
+
+		FileTools.write2File(generateJson(results),
+				"FinalOutput/DevBleuScoresSimTopOneJsonFile" + j);
 	}
+
+	public static void aftermethod() throws Exception {
+
+		List<MachineTra4Result> data = new ArrayList<>();
+		for (int i = 0; i < 5; ++i) {
+			List<MachineTra4Result> per100 = readJsonFile("Data/testSrcAnd4TraOutputFile"
+					+ i);
+			data.addAll(per100);
+		}
+		int count = data.size();
+		MachineTra4Result one = null;
+		List<TrainSentenceModel> topSimN = null;
+		String standardTra = null;
+		MainWork mainWork = new MainWork();
+		BLEUMain bleuMain = new BLEUMain();
+		List<StandardTraAnd4MTResult> results = new ArrayList<>();
+		List<String> resultString2File = new ArrayList<>();
+		List<Double> fakeRefScores = new ArrayList<>();
+		List<Double> realRefScores = new ArrayList<>();
+
+		for (int i = 0; i < count; ++i) {
+			System.out.println(i);
+			one = data.get(i);
+			topSimN = mainWork.findTopNSimSentence(one.getID(), 5);
+			standardTra = mainWork.getStandardTra(i);
+			StandardTraAnd4MTResult stamtr = new StandardTraAnd4MTResult();
+			stamtr.setTra4Result(one);
+			stamtr.setTopNSim(topSimN);
+			stamtr.setStandTra(standardTra);
+			stamtr.countAllBLEUScores(bleuMain, 1);
+			results.add(stamtr);
+			resultString2File.add(stamtr.toString());
+
+			fakeRefScores.add(stamtr.getBaiduBLEUScore());
+			// fakeRefScores.add(stamtr.getBingBLEUScore());
+			// fakeRefScores.add(stamtr.getGoogleBLEUScore());
+			// fakeRefScores.add(stamtr.getYoudaoBLEUScore());
+
+			realRefScores.add(stamtr.getBaiduRefBLEUScore());
+			// realRefScores.add(stamtr.getBingRefBLEUScore());
+			// realRefScores.add(stamtr.getGoogleRefBLEUScore());
+			// realRefScores.add(stamtr.getYoudaoRefBLEUScore());
+		}
+
+		double similarity = Similarity.getSim(realRefScores, fakeRefScores);
+		;
+		System.out.println(similarity);
+		FileTools.write2File(resultString2File,
+				"FinalOutput/DevBleuScoresSimTop5");
+	}
+
+
+	public static void main(String[] args) throws Exception {
+//		new JSONTools().premethod();
+//		 new JSONTools().aftermethod();
+		List<StandardTraAnd4MTResult> results = readJsonFile2STAMTR("FinalOutput/DevBleuScoresSimTopOneJsonFile");
+		List<Double> xList = new ArrayList<>();
+		List<Double> yList = new ArrayList<>();
+		for (StandardTraAnd4MTResult result : results) {
+			xList.add(result.getBingBLEUScore());
+			yList.add(result.getBingRefBLEUScore());
+			
+//			xList.add(result.getBaiduBLEUScore());
+//			yList.add(result.getBaiduRefBLEUScore());
+//			
+//			xList.add(result.getGoogleBLEUScore());
+//			yList.add(result.getGoogleRefBLEUScore());
+//			
+//			xList.add(result.getYoudaoBLEUScore());
+//			yList.add(result.getYoudaoRefBLEUScore());
+		}
+		double sim = Similarity.getSim(xList, yList);
+		System.out.println(sim);
+	}
+
 }
