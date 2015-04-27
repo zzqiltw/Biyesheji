@@ -16,16 +16,17 @@ public class StandardTraAnd4MTResult {
 	private double youdaoBLEUScore;
 	private double bingBLEUScore;
 	
-	private double refBLEUScore;
+	private double baiduRefBLEUScore;
+	private double googleRefBLEUScore;
+	private double youdaoRefBLEUScore;
+	private double bingRefBLEUScore;
+
 
 	public void countAllBLEUScores(BLEUMain bleuMain, int n) {
-//		List<String> fakeRefs = new ArrayList<>();
-//		fakeRefs.add(topSimTrainSentenceModel.getTraText());
-//		bleuMain.setStrs(fakeRefs);
-		
-		List<String> standardRefs = new ArrayList<>();
-		standardRefs.add(standTra);
-		bleuMain.setStrs(standardRefs);
+		// fake ref
+		List<String> fakeRefs = new ArrayList<>();
+		fakeRefs.add(topSimTrainSentenceModel.getTraText());
+		bleuMain.setStrs(fakeRefs);
 		
 		bleuMain.setS(tra4Result.getBaiduTra());
 		this.setBaiduBLEUScore(bleuMain.getScore(n));
@@ -39,6 +40,22 @@ public class StandardTraAnd4MTResult {
 		bleuMain.setS(tra4Result.getBingTra());
 		this.setBingBLEUScore(bleuMain.getScore(n));
 		
+		// true ref
+		List<String> standardRefs = new ArrayList<>();
+		standardRefs.add(standTra);
+		bleuMain.setStrs(standardRefs);
+		
+		bleuMain.setS(tra4Result.getBaiduTra());
+		this.setBaiduRefBLEUScore(bleuMain.getScore(n));
+		
+		bleuMain.setS(tra4Result.getGoogleTra());
+		this.setGoogleRefBLEUScore(bleuMain.getScore(n));
+		
+		bleuMain.setS(tra4Result.getBingTra());
+		this.setBingRefBLEUScore(bleuMain.getScore(n));
+		
+		bleuMain.setS(tra4Result.getYoudaoTra());
+		this.setYoudaoRefBLEUScore(bleuMain.getScore(n));
 	}
 	
 	public MachineTra4Result getTra4Result() {
@@ -88,15 +105,7 @@ public class StandardTraAnd4MTResult {
 	public void setBingBLEUScore(double bingBLEUScore) {
 		this.bingBLEUScore = bingBLEUScore;
 	}
-
-	public double getRefBLEUScore() {
-		return refBLEUScore;
-	}
-
-	public void setRefBLEUScore(double refBLEUScore) {
-		this.refBLEUScore = refBLEUScore;
-	}
-
+	
 	public String getStandTra() {
 		return standTra;
 	}
@@ -105,14 +114,56 @@ public class StandardTraAnd4MTResult {
 		this.standTra = standTra;
 	}
 
+	
+	public TrainSentenceModel getTopSimTrainSentenceModel() {
+		return topSimTrainSentenceModel;
+	}
+
+	public void setTopSimTrainSentenceModel(
+			TrainSentenceModel topSimTrainSentenceModel) {
+		this.topSimTrainSentenceModel = topSimTrainSentenceModel;
+	}
+
+	public double getBaiduRefBLEUScore() {
+		return baiduRefBLEUScore;
+	}
+
+	public void setBaiduRefBLEUScore(double baiduRefBLEUScore) {
+		this.baiduRefBLEUScore = baiduRefBLEUScore;
+	}
+
+	public double getGoogleRefBLEUScore() {
+		return googleRefBLEUScore;
+	}
+
+	public void setGoogleRefBLEUScore(double googleRefBLEUScore) {
+		this.googleRefBLEUScore = googleRefBLEUScore;
+	}
+
+	public double getYoudaoRefBLEUScore() {
+		return youdaoRefBLEUScore;
+	}
+
+	public void setYoudaoRefBLEUScore(double youdaoRefBLEUScore) {
+		this.youdaoRefBLEUScore = youdaoRefBLEUScore;
+	}
+
+	public double getBingRefBLEUScore() {
+		return bingRefBLEUScore;
+	}
+
+	public void setBingRefBLEUScore(double bingRefBLEUScore) {
+		this.bingRefBLEUScore = bingRefBLEUScore;
+	}
+
 	@Override
 	public String toString() {
 		return "StandardTraAnd4MTResult [standTra=" + standTra
 				+ ", tra4Result=" + tra4Result + ", topSimTrainSentenceModel="
 				+ topSimTrainSentenceModel + ", baiduBLEUScore="
-				+ baiduBLEUScore + ", googleBLEUScore=" + googleBLEUScore
-				+ ", youdaoBLEUScore=" + youdaoBLEUScore + ", bingBLEUScore="
-				+ bingBLEUScore + "]\n";
-		
+				+ baiduBLEUScore + ", baiduRefBLEUScore=" + baiduRefBLEUScore
+				+ "]";
 	}
+
+	
 }

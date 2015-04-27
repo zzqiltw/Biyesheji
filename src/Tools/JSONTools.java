@@ -76,37 +76,42 @@ public class JSONTools {
 			List<MachineTra4Result> per100 = readJsonFile("Data/testSrcAnd4TraOutputFile" + i);
 			data.addAll(per100);
 		}
-	
 		int count = data.size();
-		
 		MachineTra4Result one = null;
 		TrainSentenceModel topSim = null;
 		String standardTra = null;
-		
 		MainWork mainWork = new MainWork();
-		
 		BLEUMain bleuMain = new BLEUMain();
-
 		List<StandardTraAnd4MTResult> results = new ArrayList<>();
 		List<String> resultString2File = new ArrayList<>();
-		
-		for (int i = 0; i < 50; ++i) {
+		List<Double> fakeRefScores = new ArrayList<>();
+		List<Double> realRefScores = new ArrayList<>();
+		for (int i = 0; i < 10; ++i) {
 			System.out.println(i);
 			one = data.get(i);
 			topSim = mainWork.findTopSimSentence(one.getID());
-
 			standardTra = mainWork.getStandardTra(i);
-			
 			StandardTraAnd4MTResult stamtr = new StandardTraAnd4MTResult();
 			stamtr.setTra4Result(one);
 			stamtr.setTrainSentenceModel(topSim);
 			stamtr.setStandTra(standardTra);
-			
 			stamtr.countAllBLEUScores(bleuMain, 1);
-			
 			results.add(stamtr);
 			resultString2File.add(stamtr.toString());
+			
+			fakeRefScores.add(stamtr.getBaiduBLEUScore());
+//			fakeRefScores.add(stamtr.getBingBLEUScore());
+//			fakeRefScores.add(stamtr.getGoogleBLEUScore());
+//			fakeRefScores.add(stamtr.getYoudaoBLEUScore());
+
+			realRefScores.add(stamtr.getBaiduRefBLEUScore());
+//			realRefScores.add(stamtr.getBingRefBLEUScore());
+//			realRefScores.add(stamtr.getGoogleRefBLEUScore());
+//			realRefScores.add(stamtr.getYoudaoRefBLEUScore());
 		}
-		FileTools.write2File(resultString2File, "FinalOutput/Top50DevResults");
+		
+		double similarity = Similarity.getSim(realRefScores, fakeRefScores);;
+		System.out.println(similarity);
+		FileTools.write2File(resultString2File, "FinalOutput/Top50DevBleuScores");
 	}
 }

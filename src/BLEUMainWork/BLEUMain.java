@@ -21,7 +21,7 @@ public class BLEUMain {
 		if (s == null) {
 			this.s = "";
 		} else {
-			this.s = s.toLowerCase();
+			this.s = filt(s.toLowerCase());
 		}
 		
 		this.pValues = null;
@@ -37,7 +37,7 @@ public class BLEUMain {
 			if (str == null) {
 				this.strs.add("");
 			}
-			this.strs.add(str.toLowerCase());
+			this.strs.add(filt(str.toLowerCase()));
 		}		
 		this.pValues = null;
 	}
@@ -95,7 +95,16 @@ public class BLEUMain {
 	}
 	
 	public String filt(String s) {
-		return s.toLowerCase().replaceAll("[，。！？、]", "").trim();
+//		return s.toLowerCase().replaceAll("[，。！？、\\,\\?\\-\\!\\.]", "").trim();
+//		return s.toLowerCase().replaceAll("[，。！？、]", "").trim();
+		s = s.toLowerCase();
+		s = s.replaceAll(",", " ,");
+		s = s.replaceAll("\\.", " .");
+		s = s.replaceAll("\\?", " ?");
+		s = s.replaceAll("\\-", " -");
+		s = s.replaceAll("\\!", " !");
+
+		return s;
 	}
 	
 	private double getPValue(String s, List<String> strs, int n) {
@@ -161,28 +170,17 @@ public class BLEUMain {
 	}
 	
 	public static void main(String[] args) {
-//		BLEUMain main = new BLEUMain();
-//		String s1 = main.filt("It is a guide to action which ensures that the military always obeys the commands of the party");
-//		String s2 = main.filt("It is to insure the troops forever hearing the activity guidebook that party direct");
-//		List<String> strs = new ArrayList<>();
-//		strs.add(main.filt("It is a guide to action that ensures that the military will forever heed party commands"));
-//		strs.add(main.filt("It is the guiding principle which guarantees the military forces always being under the command of the party"));
-//		strs.add(main.filt("It is the practical guide for the army always to heed the directions of the party"));
-//		
-//		main.setS(s1);
-//		main.setStrs(strs);
-//		for (int i = 1; i <= 4; ++i) {
-//			System.out.println(main.getScore(i));
-//		}
 		
 		BLEUMain main = new BLEUMain();
-		String s1 = "a former United Nations envoy to the Middle East , the situation in this region not days so dangerous as it is today , comparing the region called  a powder   music . ";
+		String s1 = "I've never tasted anything like this.";
 		List<String> strs = new ArrayList<>();
-		strs.add("the former United Nations Middle East envoy , considered the situation in the region as having never been as dangerous as it is today and compared the region to a powder keg with a lit fuse . ");
+		strs.add("i &apos;ve never had food as delicious as this .");
+//		strs.add("i &apos;ve never tasted anything like this before .");
 		main.setS(s1);
 		main.setStrs(strs);
 		for (int i = 1; i <= 4; ++i) {
 			System.out.println(main.getScore(i));
 		}
+
 	}
 }
