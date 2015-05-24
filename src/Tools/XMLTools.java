@@ -3,8 +3,10 @@ package Tools;
 import java.io.File;
 import java.io.FileWriter;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 
 import org.dom4j.Attribute;
 import org.dom4j.Document;
@@ -14,10 +16,14 @@ import org.dom4j.Element;
 import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 import org.dom4j.io.XMLWriter;
+import org.json.JSONArray;
 
 import BLEUModel.BLEUModel;
 
 public class XMLTools {
+	public static final String trainSentenceSrcFileName = "Data/train.HIT.lowcased.zh";
+	public static final String trainSentenceTraFileName = "Data/train.HIT.lowcased.en";
+
 	public static List<String> readBLEUXml(String filename) throws Exception {
 		SAXReader sax = new SAXReader();
 		Document xmlDoc = sax.read(new File(filename));
@@ -40,7 +46,7 @@ public class XMLTools {
 		for (int i = 0; i < count; ++i) {
 			Element p = doc.addElement("p");
 			Element seg = p.addElement("seg");
-			seg.addAttribute("id", i+"");
+			seg.addAttribute("id", i + "");
 			seg.addText(strs.get(i));
 		}
 
@@ -52,7 +58,7 @@ public class XMLTools {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static void write2plist(List<String> strs, String fileName) {
 		Document document = DocumentHelper.createDocument();
 		Element plist = document.addElement("plist");
@@ -71,17 +77,63 @@ public class XMLTools {
 			e.printStackTrace();
 		}
 	}
-	
+
+	public static void write2plistForTrainSet() throws Exception {
+		List<String> srcStrings = FileTools
+				.getFileContentAddSpaceEachWordWithOutAnySymbol(trainSentenceSrcFileName);
+
+		List<String> traStrings = FileTools
+				.getFileContentWithOutAnySymbol(trainSentenceTraFileName);
+
+		int count = srcStrings.size();
+		// int count = 3;
+		List<Map<String, String>> list = new ArrayList<>();
+		for (int i = 0; i < count; ++i) {
+			Map<String, String> map = new HashMap<String, String>();
+
+			String srcString = srcStrings.get(i);
+			String traString = traStrings.get(i);
+
+			map.put("s", srcString);
+			map.put("t", traString);
+
+			list.add(map);
+		}
+
+		int jMax = 49;
+		int perCount = count / jMax;
+		for (int j = 0; j < jMax + 1; ++j) {
+			Document document = DocumentHelper.createDocument();
+			Element plist = document.addElement("plist");
+			Element array = plist.addElement("array");
+			int perMax = (j + 1) * perCount > count ?  count : (j + 1) * perCount;
+			for (int i = j * perCount; i < perMax; ++i) {
+				Map<String, String> map = list.get(i);
+				Element dict = array.addElement("dict");
+
+				Element keyString = dict.addElement("key");
+				keyString.addText("s");
+				Element key = dict.addElement("string");
+				key.addText(map.get("s"));
+
+				Element valueString = dict.addElement("key");
+				valueString.addText("t");
+				Element value = dict.addElement("string");
+				value.addText(map.get("t"));
+			}
+
+			try {
+				XMLWriter writer = new XMLWriter(new FileWriter(new File(
+						"/Users/zzqiltw/Desktop/bleuplists/s_t"+j+".plist")));
+				writer.write(document);
+				writer.close();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		}
+	}
 
 	public static void main(String[] args) throws Exception {
-//		String filename = "/Users/zzqiltw/Desktop/mteval-v13a-20091001/mteval-v13a-20091001/example/ref.xml";
-//		List<String> results = readBLEUXml(filename);
-//		results.add(0, "hahah");
-//		
-//		String outputFilename = "/Users/zzqiltw/Desktop/outputXml.xml";
-//		write2XML(results, outputFilename);
-		
-		List<String> testSrcContent = FileTools.getFileContentWithoutSpace("Data/dev.HIT.lowcased.zh");
-		write2plist(testSrcContent, "/Users/zzqiltw/Desktop/devSrc.plist");
+		write2plistForTrainSet();
 	}
 }

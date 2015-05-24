@@ -61,6 +61,9 @@ public class JSONTools {
 			while (iterator.hasNext()) {
 				key = iterator.next();
 				value = jsonObject.get(key);
+				if (value == null || value.equals("")) {
+					System.out.println("==============find a null value");
+				}
 				map.put(key, value);
 			}
 			MachineTra4Result result = (MachineTra4Result) convertMap(
@@ -75,7 +78,7 @@ public class JSONTools {
 			String filenamePre) throws Exception {
 		List<StandardTraAnd4MTResult> resultArrayList = new ArrayList<StandardTraAnd4MTResult>();
 
-		for (int j = 0; j < 1; ++j) {
+		for (int j = 0; j < 10; ++j) {
 			String filename = filenamePre + j;
 //			String jsonString = FileTools.getFileString(filename);
 			List<String> jsonStrings = FileTools.getFileContent(filename);
@@ -97,7 +100,6 @@ public class JSONTools {
 				StandardTraAnd4MTResult result = (StandardTraAnd4MTResult) convertMap(
 						StandardTraAnd4MTResult.class, map);
 				resultArrayList.add(result);
-
 			}
 		}
 		return resultArrayList;
@@ -164,7 +166,6 @@ public class JSONTools {
 		MainWork mainWork = new MainWork();
 		BLEUMain bleuMain = new BLEUMain();
 		List<StandardTraAnd4MTResult> results = new ArrayList<>();
-		List<String> resultString2File = new ArrayList<>();
 		List<Double> fakeRefScores = new ArrayList<>();
 		List<Double> realRefScores = new ArrayList<>();
 		int j = 9;
@@ -179,7 +180,6 @@ public class JSONTools {
 			stamtr.setStandTra(standardTra);
 			stamtr.countAllBLEUScores(bleuMain, 1);
 			results.add(stamtr);
-			resultString2File.add(stamtr.toString());
 
 			fakeRefScores.add(stamtr.getBaiduBLEUScore());
 			// fakeRefScores.add(stamtr.getBingBLEUScore());
@@ -197,7 +197,7 @@ public class JSONTools {
 		System.out.println(similarity);
 
 		FileTools.write2File(generateJson(results),
-				"FinalOutput/DevBleuScoresSimTopOneJsonFile" + j);
+				"FinalOutput/DevBleuScoresSimTopOneJsonFileOtherMethod" + j);
 	}
 
 	public static void aftermethod() throws Exception {
@@ -254,24 +254,93 @@ public class JSONTools {
 	public static void main(String[] args) throws Exception {
 //		new JSONTools().premethod();
 //		 new JSONTools().aftermethod();
-		List<StandardTraAnd4MTResult> results = readJsonFile2STAMTR("FinalOutput/DevBleuScoresSimTopOneJsonFile");
-		List<Double> xList = new ArrayList<>();
-		List<Double> yList = new ArrayList<>();
-		for (StandardTraAnd4MTResult result : results) {
-			xList.add(result.getBingBLEUScore());
-			yList.add(result.getBingRefBLEUScore());
-			
-//			xList.add(result.getBaiduBLEUScore());
-//			yList.add(result.getBaiduRefBLEUScore());
-//			
-//			xList.add(result.getGoogleBLEUScore());
-//			yList.add(result.getGoogleRefBLEUScore());
-//			
-//			xList.add(result.getYoudaoBLEUScore());
-//			yList.add(result.getYoudaoRefBLEUScore());
+//		new JSONTools().test();
+		List<MachineTra4Result> data = new ArrayList<>();
+		for (int i = 0; i < 5; ++i) {
+			List<MachineTra4Result> per100 = readJsonFile("Data/testSrcAnd4TraOutputFile"
+					+ i);
+			data.addAll(per100);
 		}
-		double sim = Similarity.getSim(xList, yList);
-		System.out.println(sim);
+
+	}
+	
+	private void test() throws Exception {
+		List<StandardTraAnd4MTResult> results = readJsonFile2STAMTR("FinalOutput/DevBleuScoresSimTopOneJsonFileOtherMethod");
+		
+		List<Double> baiduXList = new ArrayList<>();
+		List<Double> baiduYList = new ArrayList<>();
+		List<Double> baiduZList = new ArrayList<>();
+		
+		List<Double> googleXList = new ArrayList<>();
+		List<Double> googleYList = new ArrayList<>();
+		List<Double> googleZList = new ArrayList<>();
+		
+		List<Double> bingXList = new ArrayList<>();
+		List<Double> bingYList = new ArrayList<>();
+		List<Double> bingZList = new ArrayList<>();
+		
+		List<Double> youdaoXList = new ArrayList<>();
+		List<Double> youdaoYList = new ArrayList<>();
+		List<Double> youdaoZList = new ArrayList<>();
+		
+		List<Double> totalXList = new ArrayList<>();
+		List<Double> totalYList = new ArrayList<>();
+		List<Double> totalZList = new ArrayList<>();
+		
+		for (StandardTraAnd4MTResult result : results) {
+			baiduXList.add(result.getBaiduBLEUScore());
+			baiduYList.add(result.getBaiduRefBLEUScore());
+			baiduZList.add(result.getBaiduEachOtherBLEUScore());
+			
+			googleXList.add(result.getGoogleBLEUScore());
+			googleYList.add(result.getGoogleRefBLEUScore());
+			googleZList.add(result.getGoogleEachOtherBLEUScore());
+			
+			youdaoXList.add(result.getYoudaoBLEUScore());
+			youdaoYList.add(result.getYoudaoRefBLEUScore());
+			youdaoZList.add(result.getYoudaoEachOtherBLEUScore());
+			
+			bingXList.add(result.getBingBLEUScore());
+			bingYList.add(result.getBingRefBLEUScore());
+			bingZList.add(result.getBingEachOtherBLEUScore());
+		}
+		totalXList.addAll(baiduXList);
+		totalXList.addAll(googleXList);
+		totalXList.addAll(youdaoXList);
+		totalXList.addAll(bingXList);
+
+		totalYList.addAll(baiduYList);
+		totalYList.addAll(googleYList);
+		totalYList.addAll(youdaoYList);
+		totalYList.addAll(bingYList);
+		
+		totalZList.addAll(baiduZList);
+		totalZList.addAll(googleZList);
+		totalZList.addAll(youdaoZList);
+		totalZList.addAll(bingZList);
+		
+		double sim = 0;
+		sim = Similarity.getSim(baiduXList, baiduYList);
+		System.out.println("baidu:X-Y=" + sim);
+		sim = Similarity.getSim(youdaoXList, youdaoYList);
+		System.out.println("youdao:X-Y=" + sim);
+		sim = Similarity.getSim(googleXList, googleYList);
+		System.out.println("google:X-Y=" + sim);
+		sim = Similarity.getSim(bingXList, bingYList);
+		System.out.println("bing:X-Y=" + sim);
+		sim = Similarity.getSim(totalXList, totalYList);
+		System.out.println("total:X-Y=" + sim + "\n");
+		
+		sim = Similarity.getSim(baiduZList, baiduYList);
+		System.out.println("baidu:Z-Y=" + sim);
+		sim = Similarity.getSim(youdaoZList, youdaoYList);
+		System.out.println("youdao:Z-Y=" + sim);
+		sim = Similarity.getSim(googleZList, googleYList);
+		System.out.println("google:Z-Y=" + sim);
+		sim = Similarity.getSim(bingZList, bingYList);
+		System.out.println("bing:Z-Y=" + sim);
+		sim = Similarity.getSim(totalZList, totalYList);
+		System.out.println("total:Z-Y=" + sim + "\n");
 	}
 
 }

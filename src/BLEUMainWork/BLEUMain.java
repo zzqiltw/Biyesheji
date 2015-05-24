@@ -36,8 +36,9 @@ public class BLEUMain {
 		for (String str : strs) {
 			if (str == null) {
 				this.strs.add("");
+			} else {
+				this.strs.add(filt(str.toLowerCase()));
 			}
-			this.strs.add(filt(str.toLowerCase()));
 		}		
 		this.pValues = null;
 	}
@@ -108,12 +109,15 @@ public class BLEUMain {
 	}
 	
 	private double getPValue(String s, List<String> strs, int n) {
+		System.out.println(s);
 		Map<String, Integer> map = clipStringNgram(s, n);
+		System.out.println(map);
 		double result = 0.0;
 		List<Map<String, Integer>> strMaps = new ArrayList<>();
 		for (String str : strs) {
 			strMaps.add(clipStringNgram(str, n));
 		}
+		System.out.println(strMaps);
 		for (String key : map.keySet()) {
 			int count = map.get(key);
 			int tmpResult = 0;
@@ -124,6 +128,7 @@ public class BLEUMain {
 			tmpResult = Math.min(max, count);
 			result += tmpResult;
 		}
+		System.out.println(result + "/" + (double)getCountOfNgram(s, n));
 		result = result / (double)getCountOfNgram(s, n);
 		return result;
 	}
@@ -160,7 +165,7 @@ public class BLEUMain {
 			pValues.add(p3);
 			pValues.add(p4);
 		}
-		
+		System.out.println(pValues);
 		for (int i = 0; i < n; ++i) {
 			score += Math.log(pValues.get(i));
 		}
@@ -170,17 +175,21 @@ public class BLEUMain {
 	}
 	
 	public static void main(String[] args) {
-		
+//		{"baiduRefBLEUScore":0.7954127260572175,"baiduBLEUScore":0.5573021304462805,"bingRefBLEUScore":0.2920502936517768,"youdaoBLEUScore":0.12262648039048077,"googleRefBLEUScore":0.256708559516296,"Id":0,"bingBLEUScore":0.15163266492815836,"googleBLEUScore":0.12262648039048077,"youdaoRefBLEUScore":0.256708559516296}
+
+		String baidu = "Today is a day for a trip.";
+		String youdao = "Today is a suitable for the day of travel.";
+		String bing = "Today is a day for travelling.";
+		String google ="Today is a day for travel.";
 		BLEUMain main = new BLEUMain();
-		String s1 = "I've never tasted anything like this.";
+		main.setS(baidu);
 		List<String> strs = new ArrayList<>();
-		strs.add("i &apos;ve never had food as delicious as this .");
-//		strs.add("i &apos;ve never tasted anything like this before .");
-		main.setS(s1);
+		strs.add(youdao);
+		strs.add(bing);
+		strs.add(google);
 		main.setStrs(strs);
-		for (int i = 1; i <= 4; ++i) {
-			System.out.println(main.getScore(i));
-		}
+//
+		System.out.println("score = " + main.getScore(2));
 
 	}
 }

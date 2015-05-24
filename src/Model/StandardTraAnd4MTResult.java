@@ -22,7 +22,11 @@ public class StandardTraAnd4MTResult {
 	private double googleRefBLEUScore;
 	private double youdaoRefBLEUScore;
 	private double bingRefBLEUScore;
-
+	
+	private double baiduEachOtherBLEUScore;
+	private double youdaoEachOtherBLEUScore;
+	private double googleEachOtherBLEUScore;
+	private double bingEachOtherBLEUScore;
 
 	public void countAllBLEUScores(BLEUMain bleuMain, int n) {
 		// fake ref
@@ -64,6 +68,33 @@ public class StandardTraAnd4MTResult {
 		
 		bleuMain.setS(tra4Result.getYoudaoTra());
 		this.setYoudaoRefBLEUScore(bleuMain.getScore(n));
+		
+		// each other
+		bleuMain.setS(tra4Result.getBaiduTra());
+		List<String> strs = new ArrayList<>();
+		strs.add(tra4Result.getBingTra());
+		strs.add(tra4Result.getGoogleTra());
+		strs.add(tra4Result.getYoudaoTra());
+		bleuMain.setStrs(strs);
+		this.setBaiduEachOtherBLEUScore(bleuMain.getScore(n));
+		
+		bleuMain.setS(tra4Result.getYoudaoTra());
+		strs.remove(tra4Result.getYoudaoTra());
+		strs.add(tra4Result.getBaiduTra());
+		bleuMain.setStrs(strs);
+		this.setYoudaoEachOtherBLEUScore(bleuMain.getScore(n));
+		
+		bleuMain.setS(tra4Result.getGoogleTra());
+		strs.remove(tra4Result.getGoogleTra());
+		strs.add(tra4Result.getYoudaoTra());
+		bleuMain.setStrs(strs);
+		this.setGoogleEachOtherBLEUScore(bleuMain.getScore(n));
+		
+		bleuMain.setS(tra4Result.getBingTra());
+		strs.remove(tra4Result.getBingTra());
+		strs.add(tra4Result.getGoogleTra());
+		bleuMain.setStrs(strs);
+		this.setBingEachOtherBLEUScore(bleuMain.getScore(n));
 	}
 	
 	public MachineTra4Result getTra4Result() {
@@ -171,17 +202,57 @@ public class StandardTraAnd4MTResult {
 	public void setTopNSim(List<TrainSentenceModel> topNSim) {
 		this.topNSim = topNSim;
 	}
+	
+	
+
+	public double getBaiduEachOtherBLEUScore() {
+		return baiduEachOtherBLEUScore;
+	}
+
+	public void setBaiduEachOtherBLEUScore(double baiduEachOtherBLEUScore) {
+		this.baiduEachOtherBLEUScore = baiduEachOtherBLEUScore;
+	}
+
+	public double getYoudaoEachOtherBLEUScore() {
+		return youdaoEachOtherBLEUScore;
+	}
+
+	public void setYoudaoEachOtherBLEUScore(double youdaoEachOtherBLEUScore) {
+		this.youdaoEachOtherBLEUScore = youdaoEachOtherBLEUScore;
+	}
+
+	public double getGoogleEachOtherBLEUScore() {
+		return googleEachOtherBLEUScore;
+	}
+
+	public void setGoogleEachOtherBLEUScore(double googleEachOtherBLEUScore) {
+		this.googleEachOtherBLEUScore = googleEachOtherBLEUScore;
+	}
+
+	public double getBingEachOtherBLEUScore() {
+		return bingEachOtherBLEUScore;
+	}
+
+	public void setBingEachOtherBLEUScore(double bingEachOtherBLEUScore) {
+		this.bingEachOtherBLEUScore = bingEachOtherBLEUScore;
+	}
 
 	@Override
 	public String toString() {
-		return "[ bdf=" + baiduBLEUScore
-				+ ", ggf=" + googleBLEUScore + ", ydf="
-				+ youdaoBLEUScore + ", byf=" + bingBLEUScore
-				+ ", bdr=" + baiduRefBLEUScore
-				+ ", ggr=" + googleRefBLEUScore
-				+ ", ydr=" + youdaoRefBLEUScore
-				+ ", byr=" + bingRefBLEUScore + "]";
+		return "[baiduBLEUScore=" + baiduBLEUScore
+				+ ", googleBLEUScore=" + googleBLEUScore + ", youdaoBLEUScore="
+				+ youdaoBLEUScore + ", bingBLEUScore=" + bingBLEUScore
+				+ ", baiduRefBLEUScore=" + baiduRefBLEUScore
+				+ ", googleRefBLEUScore=" + googleRefBLEUScore
+				+ ", youdaoRefBLEUScore=" + youdaoRefBLEUScore
+				+ ", bingRefBLEUScore=" + bingRefBLEUScore
+				+ ", baiduEachOtherBLEUScore=" + baiduEachOtherBLEUScore
+				+ ", youdaoEachOtherBLEUScore=" + youdaoEachOtherBLEUScore
+				+ ", googleEachOtherBLEUScore=" + googleEachOtherBLEUScore
+				+ ", bingEachOtherBLEUScore=" + bingEachOtherBLEUScore + "]";
 	}
+
+	
 
 	
 	

@@ -3,7 +3,13 @@ package Main;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+
+import org.json.JSONArray;
+import org.json.JSONObject;
+import org.junit.Test;
 
 import BusinessService.EditDistanceWorker;
 import BusinessService.LcsWorker;
@@ -11,11 +17,12 @@ import BusinessService.SetWorker;
 import Model.TestModel;
 import Model.TrainSentenceModel;
 import Tools.FileTools;
+import Tools.JSONTools;
 import Tools.XMLTools;
 
 public class MainWork {
-	private static final String trainSentenceSrcFileName = "Data/train.HIT.lowcased.zh";
-	private static final String trainSentenceTraFileName = "Data/train.HIT.lowcased.en";
+	public static final String trainSentenceSrcFileName = "Data/train.HIT.lowcased.zh";
+	public static final String trainSentenceTraFileName = "Data/train.HIT.lowcased.en";
 	
 //	private static final String testedFileName = "Data/test.lowcased.zh";
 //	private static final String testedTraFileName = "Data/test.lowcased.en";
@@ -39,6 +46,7 @@ public class MainWork {
 	private List<TestModel> testModels;
 
 	private List<TrainSentenceModel> topOneTrainSentenceModels;
+	
 	
 	public void generateSentenceModels() throws Exception {
 		if (this.trainSrcContent == null) { 
