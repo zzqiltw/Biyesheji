@@ -40,21 +40,74 @@ class ArrayData {
 
 
 public class LDPath {
-
 	private List<String> s1;
 	private List<String> s2;
+	
 	private List<String> r1;
 	private List<String> r2;
 	
+	public void setS1(List<String> s1) {
+		this.s1 = s1;
+	}
+
+	public void setS2(List<String> s2) {
+		this.s2 = s2;
+	}
+
+	public List<String> getS1() {
+		return s1;
+	}
+
+	public List<String> getS2() {
+		return s2;
+	}
+
+	public List<String> getR1() {
+		return r1;
+	}
+
+	public List<String> getR2() {
+		return r2;
+	}
+
 	public static void main(String[] args) {
-		String[] src1 = {"E", "E", "B", "A"};
-		String[] src2 = {"A", "B", "C", "A"};
+		
+		String[] src1 = {"Please", "enter", "the", "content", "to", "translate"};
+		String[] src2 = {"Please", "enter", "what", "you", "want","to"};
+		String[] src3 = {"Please", "enter" ,"translated", "content"};
+		String[] src4 = {"Please", "input", "to", "the", "content", "of", "the", "translation"};
 		List<String> s1 = Arrays.asList(src1);
 		List<String> s2 = Arrays.asList(src2);
-		new LDPath(s1, s2).ldCalcPath();
+		List<String> s3 = Arrays.asList(src3);
+		List<String> s4 = Arrays.asList(src4);
+		
+		List<List<String>> result = new ArrayList<>();
+		LDPath path = new LDPath(s2, s3);
+		path.ldCalcPath();
+		System.out.println(path.getR1());
+		System.out.println(path.getR2());
+		
+		path.setS1(path.getR1());
+		path.setS2(s3);
+		path.ldCalcPath();
+		System.out.println(path.getR1());
+		System.out.println(path.getR2());
+		
+		path.setS1(path.getR1());
+		path.setS2(s4);
+		path.ldCalcPath();
+		System.out.println(path.getR1());
+		System.out.println(path.getR2());
 	}
 	
 	public LDPath() {
+		if (r1 == null) {
+			r1 = new ArrayList<>();
+		}
+		
+		if (r2 == null) {
+			r2 = new ArrayList<>();
+		}
 	}
 	
 	public LDPath(List<String> s1, List<String> s2) {
@@ -72,6 +125,9 @@ public class LDPath {
 	
 	
 	public int ldCalcPath() {
+		this.r1 = new ArrayList<>();
+		this.r2 = new ArrayList<>();
+		
 		int len1 = s1.size();
 	    int len2 = s2.size();
 
@@ -107,10 +163,6 @@ public class LDPath {
 	    
 	    min_dist = array[len1][len2].getDist();
 	    System.out.println(min_dist);
-	    
-	    System.out.println(r1);
-	    System.out.println(r2);
-	    
 	    return min_dist;
 	   
 	}
