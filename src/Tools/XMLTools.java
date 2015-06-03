@@ -19,11 +19,15 @@ import org.dom4j.io.XMLWriter;
 import org.json.JSONArray;
 
 import BLEUModel.BLEUModel;
+import Main.MainWork;
+import Model.TrainSentenceModel;
 
 public class XMLTools {
 	public static final String trainSentenceSrcFileName = "Data/train.HIT.lowcased.zh";
 	public static final String trainSentenceTraFileName = "Data/train.HIT.lowcased.en";
-
+	public static final String devSentenceSrcFileName = "Data/dev.HIT.lowcased.zh";
+	public static final String devSentenceTraFileName = "Data/dev.HIT.lowcased.en";
+	
 	public static List<String> readBLEUXml(String filename) throws Exception {
 		SAXReader sax = new SAXReader();
 		Document xmlDoc = sax.read(new File(filename));
@@ -132,8 +136,71 @@ public class XMLTools {
 			}
 		}
 	}
+	
+	public static void write2plistForDevTop400Set(List<String> srcStrings, List<String> traStrings, int offset, int step) throws Exception {
+		int count = step;
+		List<Map<String, String>> list = new ArrayList<>();
+		MainWork mainWork = new MainWork();
+		for (int i = offset; i < offset + step; ++i) {
+			System.out.println(i);
+			TrainSentenceModel top1 = mainWork.findTopSimSentence(i);
+			
+			Map<String, String> map = new HashMap<String, String>();
+
+			String srcString = srcStrings.get(i);
+			String traString = traStrings.get(i);
+			String simTraString = top1.getTraText();
+
+			map.put("s", srcString);
+			map.put("t", traString);
+			map.put("simT", simTraString);
+
+			list.add(map);
+		}
+		
+		Document document = DocumentHelper.createDocument();
+		Element plist = document.addElement("plist");
+		Element array = plist.addElement("array");
+		for (int i = 0; i < count; ++i) {
+			Map<String, String> map = list.get(i);
+			Element dict = array.addElement("dict");
+
+			Element keyString = dict.addElement("key");
+			keyString.addText("s");
+			Element key = dict.addElement("string");
+			key.addText(map.get("s"));
+
+			Element valueString = dict.addElement("key");
+			valueString.addText("t");
+			Element value = dict.addElement("string");
+			value.addText(map.get("t"));
+			
+			Element simTraString = dict.addElement("key");
+			simTraString.addText("simT");
+			Element simTra = dict.addElement("string");
+			simTra.addText(map.get("simT"));
+		}
+
+		try {
+			XMLWriter writer = new XMLWriter(new FileWriter(new File(
+					"/Users/zzqiltw/Desktop/SystemCombinePlist/devSrcTraSimTop400OfPage"+(offset/step)+".plist")));
+			writer.write(document);
+			writer.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}	
+	}
 
 	public static void main(String[] args) throws Exception {
-		write2plistForTrainSet();
+		List<String> srcStrings = FileTools
+				.getFileContentWithOutAnySymbol(devSentenceSrcFileName);
+		List<String> traStrings = FileTools
+				.getFileContentWithOutAnySymbol(devSentenceTraFileName);
+		
+		int page = 0;
+		int step = 50;
+		int offset = page * step;
+		write2plistForDevTop400Set(srcStrings, traStrings, offset, step);
+		
 	}
 }
