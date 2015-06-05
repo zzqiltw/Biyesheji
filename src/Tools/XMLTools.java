@@ -197,7 +197,7 @@ public class XMLTools {
 		List<String> traStrings = FileTools
 				.getFileContentWithOutAnySymbol(devSentenceTraFileName);
 		
-		int page = 0;
+		int page = 7;
 		int step = 50;
 		int offset = page * step;
 		write2plistForDevTop400Set(srcStrings, traStrings, offset, step);

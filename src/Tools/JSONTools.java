@@ -23,6 +23,8 @@ import Main.MainWork;
 import Model.MachineTra4Result;
 import Model.StandardTraAnd4MTResult;
 import Model.TrainSentenceModel;
+import SystemCombine.FinalEXModel;
+import SystemCombine.SCModel;
 
 public class JSONTools {
 	private static List<String> generateJson(
@@ -73,6 +75,38 @@ public class JSONTools {
 
 		return resultArrayList;
 	}
+	
+	public static List<SCModel> readJsonFileForSCEX(String filename)
+			throws Exception {
+		String jsonString = FileTools.getFileString(filename);
+		JSONArray jsonArray = new JSONArray(jsonString);
+
+		int count = jsonArray.length();
+		List<SCModel> resultArrayList = new ArrayList<SCModel>();
+
+		for (int i = 0; i < count; ++i) {
+			if (i >= 300) break;
+			JSONObject jsonObject = jsonArray.getJSONObject(i);
+			Iterator<String> iterator = jsonObject.keys();
+			Map<String, Object> map = new HashMap<String, Object>();
+			String key = null;
+			Object value = null;
+			while (iterator.hasNext()) {
+				key = iterator.next();
+				value = jsonObject.get(key);
+				if (value == null || value.equals("")) {
+					System.out.println("==============find a null value");
+				}
+				map.put(key, value);
+			}
+			SCModel result = (SCModel)convertMap(
+					SCModel.class, map);
+			resultArrayList.add(result);
+		}
+
+		return resultArrayList;
+	}
+
 
 	public static List<StandardTraAnd4MTResult> readJsonFile2STAMTR(
 			String filenamePre) throws Exception {
@@ -255,15 +289,37 @@ public class JSONTools {
 //		new JSONTools().premethod();
 //		 new JSONTools().aftermethod();
 //		new JSONTools().test();
+		
+		
+		new JSONTools().systemCombineEx();
+	}
+	
+	/**
+	 * 系统融合实验(取前300条, 汉->英)
+	 * @throws Exception 
+	 */
+	public void systemCombineEx() throws Exception {
 		List<MachineTra4Result> data = new ArrayList<>();
-		for (int i = 0; i < 5; ++i) {
+		for (int i = 0; i < 3; ++i) {
 			List<MachineTra4Result> per100 = readJsonFile("Data/testSrcAnd4TraOutputFile"
 					+ i);
 			data.addAll(per100);
 		}
+
+		String scexFileName = "Data/SystemCombineJsonData";
+		List<SCModel> scModels = readJsonFileForSCEX(scexFileName);
 		
+		int count = scModels.size();
+		for (int i = 0; i < count; ++i) {
+			FinalEXModel model = new FinalEXModel(scModels.get(i), data.get(i));
+			System.out.println(model);
+		}
 	}
 	
+	/**
+	 * 中期实验（BLEU得分计算相关系数实验,取500个句子）
+	 * @throws Exception
+	 */
 	private void test() throws Exception {
 		List<StandardTraAnd4MTResult> results = readJsonFile2STAMTR("FinalOutput/DevBleuScoresSimTopOneJsonFileOtherMethod");
 		

@@ -109,15 +109,15 @@ public class BLEUMain {
 	}
 	
 	private double getPValue(String s, List<String> strs, int n) {
-		System.out.println(s);
+		//System.out.println(s);
 		Map<String, Integer> map = clipStringNgram(s, n);
-		System.out.println(map);
+		//System.out.println(map);
 		double result = 0.0;
 		List<Map<String, Integer>> strMaps = new ArrayList<>();
 		for (String str : strs) {
 			strMaps.add(clipStringNgram(str, n));
 		}
-		System.out.println(strMaps);
+		//System.out.println(strMaps);
 		for (String key : map.keySet()) {
 			int count = map.get(key);
 			int tmpResult = 0;
@@ -128,7 +128,7 @@ public class BLEUMain {
 			tmpResult = Math.min(max, count);
 			result += tmpResult;
 		}
-		System.out.println(result + "/" + (double)getCountOfNgram(s, n));
+		//System.out.println(result + "/" + (double)getCountOfNgram(s, n));
 		result = result / (double)getCountOfNgram(s, n);
 		return result;
 	}
@@ -165,7 +165,7 @@ public class BLEUMain {
 			pValues.add(p3);
 			pValues.add(p4);
 		}
-		System.out.println(pValues);
+		//System.out.println(pValues);
 		for (int i = 0; i < n; ++i) {
 			score += Math.log(pValues.get(i));
 		}
@@ -189,7 +189,7 @@ public class BLEUMain {
 		strs.add(google);
 		main.setStrs(strs);
 //
-		System.out.println("score = " + main.getScore(2));
+		//System.out.println("score = " + main.getScore(2));
 
 	}
 }
