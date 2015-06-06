@@ -112,7 +112,7 @@ public class JSONTools {
 			String filenamePre) throws Exception {
 		List<StandardTraAnd4MTResult> resultArrayList = new ArrayList<StandardTraAnd4MTResult>();
 
-		for (int j = 0; j < 10; ++j) {
+		for (int j = 0; j < 6; ++j) {
 			String filename = filenamePre + j;
 //			String jsonString = FileTools.getFileString(filename);
 			List<String> jsonStrings = FileTools.getFileContent(filename);
@@ -288,10 +288,10 @@ public class JSONTools {
 	public static void main(String[] args) throws Exception {
 //		new JSONTools().premethod();
 //		 new JSONTools().aftermethod();
-//		new JSONTools().test();
+		new JSONTools().test();
 		
 		
-		new JSONTools().systemCombineEx();
+//		new JSONTools().systemCombineEx();
 	}
 	
 	/**
@@ -344,7 +344,7 @@ public class JSONTools {
 	}
 	
 	/**
-	 * 中期实验（BLEU得分计算相关系数实验,取500个句子）
+	 * 中期实验（BLEU得分计算相关系数实验,取300个句子）
 	 * @throws Exception
 	 */
 	private void test() throws Exception {
