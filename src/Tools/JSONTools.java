@@ -310,10 +310,37 @@ public class JSONTools {
 		List<SCModel> scModels = readJsonFileForSCEX(scexFileName);
 		
 		int count = scModels.size();
+		
+		String scexOutputFileNamePre = "FinalOutput/FinalSCEXOutput/";
+		
+		String origonSrcStringFile = scexOutputFileNamePre + "origonSrcStringFile";
+		String origonTraStringFile = scexOutputFileNamePre + "origonTraStringFile";
+		String simTraStringFile = scexOutputFileNamePre + "simTraStringFile";
+		String bestOfFourStringFile = scexOutputFileNamePre + "bestOfFourStringFile";
+		String systemCombineStringFile = scexOutputFileNamePre + "systemCombineStringFile";
+		
+		List<String> origonSrcList = new ArrayList<>();
+		List<String> origonTraList = new ArrayList<>();
+		List<String> simTraList = new ArrayList<>();
+		List<String> bestOfFourList = new ArrayList<>();
+		List<String> systemCombineList = new ArrayList<>();
+
 		for (int i = 0; i < count; ++i) {
+			System.out.println(i);
 			FinalEXModel model = new FinalEXModel(scModels.get(i), data.get(i));
-			System.out.println(model);
+			origonSrcList.add(model.getOrigonSrcString());
+			origonTraList.add(model.getOrigonTraString());
+			simTraList.add(model.getSimTraString());
+			bestOfFourList.add(model.getBestOfFourString());
+			systemCombineList.add(model.getSystemCombineString());
 		}
+		
+		FileTools.write2File(origonSrcList, origonSrcStringFile);
+		FileTools.write2File(origonTraList, origonTraStringFile);
+		FileTools.write2File(simTraList, simTraStringFile);
+		FileTools.write2File(bestOfFourList, bestOfFourStringFile);
+		FileTools.write2File(systemCombineList, systemCombineStringFile);
+
 	}
 	
 	/**

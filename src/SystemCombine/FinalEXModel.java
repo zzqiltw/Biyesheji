@@ -15,9 +15,13 @@ public class FinalEXModel {
 	private String origonTraString;
 	private String simTraString;
 	private String bestOfFourString;
-	
 	private String systemCombineString;
 	
+	
+	public String getOrigonSrcString() {
+		return origonSrcString;
+	}
+
 	public String getOrigonTraString() {
 		return origonTraString;
 	}
@@ -45,6 +49,9 @@ public class FinalEXModel {
 	
 	private String getSystemCombine(MachineTra4Result tra4Result) {
 		String backbone = tra4Result.getGoogleTra();
+		if (backbone == null || backbone.length() == 0) {
+			backbone = tra4Result.getBaiduTra();
+		}
 		LDPath path = new LDPath();
 		path.setS1(Arrays.asList(backbone.split(" ")));
 		path.setS2(Arrays.asList(this.bestOfFourString.split(" ")));

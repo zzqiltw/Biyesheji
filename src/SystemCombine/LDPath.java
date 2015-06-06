@@ -214,7 +214,6 @@ public class LDPath {
 	    }
 	    this.storeResult12(array, len1, len2);
 	    min_dist = array[len1][len2].getDist();
-	    System.out.println(min_dist);
 	    return min_dist;
 	}
 	
